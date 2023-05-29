@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wds\n"
+"POT-Creation-Date: 2014-09-26 18:01+0400\n"
+"PO-Revision-Date: 2014-09-26 18:02+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hy_AM\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress3.5\\wp-content\\plugins"
+"\\slider-plugin\n"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:30
+#, fuzzy
+msgid "There is no slider selected or the slider was deleted."
+msgstr "Ընտրված  պատկերասրահ  չկա  կամ այն ջնջված է :"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:42
+#, fuzzy
+msgid "There are no slides in this slider."
+msgstr "Այս պատկերասրահում պատկերներ չկան: "
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:660
+msgid "Share on Facebook"
+msgstr "Կիսվել  Facebook-ում"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:666
+msgid "Share on Twitter"
+msgstr "Կիսվել  Twitter-ում "
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:672
+msgid "Share on Google+"
+msgstr "Կիսվել  Google+-ում"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:678
+msgid "Share on Pinterest"
+msgstr "Կիսվել  Pinterest-ում "
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:684
+msgid "Share on Tumblr"
+msgstr "Կիսվել  Tumblr-ում "
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1875
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1894
+msgid "Pause"
+msgstr "Դադար"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1884
+msgid "Play"
+msgstr "Սկսել"
+
+#~ msgid "field is required."
+#~ msgstr "դաշտը պարտադիր է: "
+
+#~ msgid "This is not a valid email address."
+#~ msgstr "Սա անվավեր էլեկտրոնային փոստի հասցե է:   "
+
+#~ msgid "There are no images matching your search."
+#~ msgstr "Ձեր որոնմանը համապատասխան տվյալներ չկան:"
+
+#~ msgid " item(s)"
+#~ msgstr "պատկեր(ներ)"
+
+#~ msgid "First"
+#~ msgstr "Առաջին"
+
+#~ msgid "Previous"
+#~ msgstr "Նախորդ"
+
+#~ msgid "Next"
+#~ msgstr "Հաջորդ"
+
+#~ msgid "Last"
+#~ msgstr "Վերջին"
+
+#~ msgid "Go to the first page"
+#~ msgstr "Գնալ առաջին էջ"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "Գնալ նախորդ էջ"
+
+#~ msgid "of"
+#~ msgstr "-ը"
+
+#~ msgid "Go to the next page"
+#~ msgstr "Գնալ հաջորդ էջ"
+
+#~ msgid "Go to the last page"
+#~ msgstr "Գնալ վերջին էջ"
+
+#~ msgid "Reset"
+#~ msgstr "Դատարկել"
+
+#~ msgid "Search"
+#~ msgstr "Որոնում"
+
+#~ msgid "There is no theme selected or the theme was deleted."
+#~ msgstr "Ընտրված թեմա  չկա կամ թեման ջնջված է :"
+
+#~ msgid "There is no album selected or the album was deleted."
+#~ msgstr "Ընտրված  ալբոմ չկա  կամ  ալբոմը  ջնջված է :"
+
+#~ msgid "Back"
+#~ msgstr "Հետ"
+
+#~ msgid "Album is empty."
+#~ msgstr "Ալբոմը դատարկ է:"
+
+#~ msgid "Gallery is empty."
+#~ msgstr "Պատկերասրահը դատարկ է:"
+
+#~ msgid "More"
+#~ msgstr "Ավելին"
+
+#~ msgid "Hide"
+#~ msgstr "Թաքցնել"
+
+#~ msgid "Show comments"
+#~ msgstr "Ցույց տալ մեկնաբանությունները"
+
+#~ msgid "The image has been deleted."
+#~ msgstr "Պատկերը ջնջված է:"
+
+#~ msgid "Maximize"
+#~ msgstr "Մեծացնել"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Ամբողջ էկրան"
+
+#~ msgid "Show info"
+#~ msgstr "Ցույց տալ տեղեկությունը"
+
+#~ msgid "Show rating"
+#~ msgstr "Ցույց տալ վարկանիշը"
+
+#~ msgid "Open image in original size."
+#~ msgstr "Տեսնել պատկերը օրիգինալ չափով"
+
+#~ msgid "Download original image"
+#~ msgstr "Բեռնել պատկերը"
+
+#~ msgid "Hits: "
+#~ msgstr "Դիտումների քանակը."
+
+#~ msgid "Rated."
+#~ msgstr "Գնահատված է"
+
+#~ msgid "Not rated yet."
+#~ msgstr "Գնահատված չէ"
+
+#~ msgid "Votes: "
+#~ msgstr "Ձայներ."
+
+#~ msgid "Cancel your rating."
+#~ msgstr "Չեղյալ համարել Ձեր գնահատականը"
+
+#~ msgid "You have already rated."
+#~ msgstr "Դուք արդեն գնահատել եք"
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "Ստուգման կոդը  սխալ է"
+
+#~ msgid "Hide Comments"
+#~ msgstr "Թաքցնել մեկնաբանությունները"
+
+#~ msgid "Name"
+#~ msgstr "Անուն"
+
+#~ msgid "Email"
+#~ msgstr "էլեկտրոնային փոստ"
+
+#~ msgid "Comment"
+#~ msgstr "Մեկնաբանություն"
+
+#~ msgid "Verification Code"
+#~ msgstr "Ստուգման կոդ"
+
+#~ msgid "Submit"
+#~ msgstr "Ուղարկել"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "Ձեր մեկնաբանությունը սպասում է հաստատման"
+
+#~ msgid "Delete Comment"
+#~ msgstr "Ջնջել մեկնաբանությունը"
+
+#~ msgid "Show Comments"
+#~ msgstr "Ցույց տալ մեկնաբանությունները"
+
+#, fuzzy
+#~ msgid "Hide info"
+#~ msgstr "Թաքցնել"
+
+#~ msgid "Hide rating"
+#~ msgstr "Թաքցնել գնահատականը."
+
+#~ msgid "Restore"
+#~ msgstr "Վերականգնել"
+
+#~ msgid "Exit Fullscreen"
+#~ msgstr "Դուրս գալ ամբողջ էկրանից"

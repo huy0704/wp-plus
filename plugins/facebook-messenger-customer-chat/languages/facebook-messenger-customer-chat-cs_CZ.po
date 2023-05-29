@@ -1,0 +1,229 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Facebook Chat Plugin - Live Chat Plugin for WordPress\n"
+"POT-Creation-Date: 2020-11-13 16:39-0800\n"
+"PO-Revision-Date: 2022-07-05 15:02-0700\n"
+"Last-Translator: \n"
+"Language-Team: Facebook\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: facebook-messenger-customer-chat.php:106
+#: facebook-messenger-customer-chat.php:136
+msgid "Settings"
+msgstr "Nastavení"
+
+#: facebook-messenger-customer-chat.php:142
+msgid "https://wordpress.org/plugins/facebook-messenger-customer-chat/#faq"
+msgstr ""
+
+#: facebook-messenger-customer-chat.php:143
+msgid "FAQ"
+msgstr "Časté dotazy"
+
+#: facebook-messenger-customer-chat.php:148
+msgid "Support"
+msgstr "Podpora"
+
+#: facebook-messenger-customer-chat.php:268
+msgid "Cancel"
+msgstr "Zrušit"
+
+#: facebook-messenger-customer-chat.php:283
+msgid "We value your feedback."
+msgstr "Váš názor je pro nás důležitý."
+
+#: facebook-messenger-customer-chat.php:287
+msgid "Please let us know why you’re deactivating Facebook Chat Plugin."
+msgstr "Dejte nám vědět, proč si deaktivujete plugin Facebook chatu."
+
+#: facebook-messenger-customer-chat.php:295
+msgid "I’m unable to get the plugin to work"
+msgstr "Nedaří se mi plugin zprovoznit"
+
+#: facebook-messenger-customer-chat.php:302
+msgid "I no longer need a live chat feature"
+msgstr "Funkci živého chatu už nepotřebuji"
+
+#: facebook-messenger-customer-chat.php:309
+msgid "I’m using a different live chat plugin"
+msgstr "Používám plugin jiného živého chatu"
+
+#: facebook-messenger-customer-chat.php:316
+msgid "This is a temporary deactivation. I’ll be back!"
+msgstr "Deaktivace je jen dočasná, zase si ho aktivuji!"
+
+#: facebook-messenger-customer-chat.php:323
+msgid "Other"
+msgstr "Něco jiného"
+
+#: facebook-messenger-customer-chat.php:330
+msgid "Comments:"
+msgstr "Komentáře:"
+
+#: facebook-messenger-customer-chat.php:338
+msgid "Submit"
+msgstr "Odeslat"
+
+#: facebook-messenger-customer-chat.php:346
+msgid "Thank you."
+msgstr "Děkujeme."
+
+#: facebook-messenger-customer-chat.php:347
+msgid "We appreciate your feedback."
+msgstr "Ceníme si vaší zpětné vazby."
+
+#: facebook-messenger-customer-chat.php:372
+#, php-format
+msgid "Facebook Chat Plugin is almost ready to use. Connect your Facebook page %1$shere%2$s to start receiving messages today."
+msgstr "Plugin Facebook chatu už je téměř připraven k použití. %1$sTady%2$s si připojte svou Facebook stránku, ať můžete začít dostávat zprávy."
+
+#: facebook-messenger-customer-chat.php:424
+msgid "How is the Facebook Chat plugin working out for you and your visitors?"
+msgstr "Jak vám a vašim návštěvníkům slouží plugin Facebook chatu?"
+
+#: facebook-messenger-customer-chat.php:426
+msgid "We'd love to hear your feedback!"
+msgstr "Rádi se dozvíme, co si myslíte."
+
+#: facebook-messenger-customer-chat.php:428
+msgid "Please leave us a review."
+msgstr "Napište nám recenzi."
+
+#: options.php:51
+msgid "Plugin settings"
+msgstr "Nastavení pluginu"
+
+#: options.php:52
+msgid "Facebook Chat"
+msgstr "Facebook Chat"
+
+#: options.php:196
+msgid "Facebook Chat Plugin Settings"
+msgstr "Nastavení pluginu Facebook chatu"
+
+#: options.php:203
+msgid "Getting Started?"
+msgstr "Teprve začínáte?"
+
+#: options.php:209
+msgid ""
+"Let people start a conversation on\n"
+"\t\t\t\t\t\t\tyour website and continue in Messenger. It's easy to set up. Chats\n"
+"\t\t\t\t\t\t\tstarted on your website can be continued in the customers'\n"
+"\t\t\t\t\t\t\tMessenger app, so you never lose connections with your customers.\n"
+"\t\t\t\t\t\t\tEven those without a Facebook Messenger account can chat with you\n"
+"\t\t\t\t\t\t\tin guest mode, so you can reach more customers than ever."
+msgstr "Umožněte lidem zahájit konverzaci na vašem webu a pak v ní pokračovat v Messengeru. Nastavení je snadné. Zákazníci můžou v chatech, které zahájí na vašem webu, pokračovat v aplikaci Messenger. Budete tak spolu neustále v kontaktu. Chatovat s vámi mohou i ti, kdo účet Facebook Messengeru nemají, a to v režimu hosta."
+
+#: options.php:225
+msgid "Setup Chat Plugin"
+msgstr "Nastavit plugin chatu"
+
+#: options.php:227
+msgid "Edit Chat Plugin Configuration"
+msgstr "Upravit konfiguraci pluginu chatu"
+
+#: options.php:243
+msgid "Edit Availability and Automated Responses"
+msgstr ""
+
+#: options.php:254
+msgid "Setup status"
+msgstr "Stav nastavení"
+
+#: options.php:260
+msgid ""
+"The plugin code has already been added.\n"
+"\t\t\t\t\t\tinto your website. You can always go back through the setup process\n"
+"\t\t\t\t\t\tto customize the plugin."
+msgstr "Kód pluginu už máte na webu přidaný. V nastavení se můžete kdykoli vrátit zpět a plugin si přizpůsobit."
+
+#: options.php:269
+msgid "Advanced Configuration"
+msgstr "Pokročilá konfigurace"
+
+#: options.php:277
+msgid "Deploy Chat plugin on:"
+msgstr "Kde chcete plugin chatu nasadit:"
+
+#: options.php:285
+msgid "All WordPress pages"
+msgstr "Všechny stránky WordPressu"
+
+#: options.php:291
+msgid "Custom WordPress pages"
+msgstr "Vlastní stránky WordPressu"
+
+#: options.php:310
+msgid "Homepage"
+msgstr "Hlavní stránka"
+
+#: options.php:316 options.php:328
+msgid "Posts"
+msgstr "Příspěvky"
+
+#: options.php:326 options.php:389
+msgid "Click for granular options"
+msgstr "Kliknutím si zobrazte podrobné možnosti"
+
+#: options.php:341
+msgid "Single post view"
+msgstr "Zobrazení jednoho příspěvku"
+
+#: options.php:353
+msgid "Category view"
+msgstr "Zobrazení kategorie"
+
+#: options.php:365
+msgid "Tags view"
+msgstr "Zobrazení tagů"
+
+#: options.php:373 options.php:393
+msgid "Pages"
+msgstr "Stránky"
+
+#: options.php:438
+msgid "WooCommerce Product pages"
+msgstr "Produktové stránky na WooCommerce"
+
+#: options.php:447
+msgid "Error saving settings."
+msgstr "Při ukládání nastavení došlo k chybě."
+
+#: options.php:451
+msgid "Settings saved."
+msgstr "Nastavení uloženo."
+
+#: options.php:455
+msgid "Saving settings..."
+msgstr "Ukládání nastavení…"
+
+#: options.php:469
+msgid "https://developers.facebook.com/terms/"
+msgstr ""
+
+#: options.php:470
+msgid "Use of this plugin is subject to Facebook's Platform Terms"
+msgstr "Na používání tohoto pluginu se vztahují smluvní podmínky platformy Facebooku"
+
+#: options.php:475
+msgid "Having a problem setting up or using the Chat Plugin?"
+msgstr "Máte potíže s nastavením nebo používáním pluginu chatu?"
+
+#: options.php:481
+msgid "Please consult our Troubleshooting Guide."
+msgstr "Přečtěte si našeho průvodce řešením potíží."
+
+#: options.php:487
+msgid "If the troubleshooting steps in the guide do not solve your problem, please post in the plugin support forum."
+msgstr "Pokud se vám podle postupu řešení potíží v průvodci nepodaří problém vyřešit, napište příspěvek ve fóru podpory k pluginům,"

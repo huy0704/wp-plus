@@ -1,0 +1,44 @@
+(~'div#@{sliderid}') {
+  .n2-ss-button-container,
+  .n2-ss-button-container a {
+    display: block;
+  }
+
+  .n2-ss-button-container--non-full-width,
+  .n2-ss-button-container--non-full-width a {
+    display: inline-block;
+  }
+
+  .n2-ss-button-container.n2-ss-nowrap {
+    white-space: nowrap;
+  }
+
+  .n2-ss-button-container a div {
+    display: inline;
+    font-size: inherit;
+    text-decoration: inherit;
+    color: inherit;
+    line-height: inherit;
+    font-family: inherit;
+    font-weight: inherit;
+  }
+
+  .n2-ss-button-container a > div {
+    display: inline-flex;
+    align-items: center;
+    vertical-align: top;
+  }
+
+  .n2-ss-button-container span {
+    font-size: 100%;
+    vertical-align: baseline;
+  }
+
+  .n2-ss-button-container a[data-iconplacement="left"] span {
+    margin-right: 0.3em;
+  }
+
+  .n2-ss-button-container a[data-iconplacement="right"] span {
+    margin-left: 0.3em;
+  }
+}

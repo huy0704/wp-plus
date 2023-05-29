@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_49882" data-name="Rectangle 49882" width="18" height="18" fill="#fff"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Mobile_Icon" opacity="0.8" clip-path="url(#clip-path)">
+    <path id="design_system_icons-34" data-name="design system icons-34" d="M27.881,12.311V25.689a.813.813,0,0,1-.811.811H19.611a.813.813,0,0,1-.811-.811V12.311a.813.813,0,0,1,.811-.811h7.5A.806.806,0,0,1,27.881,12.311Z" transform="translate(-14.3 -10)" fill="url(#linear-gradient)"/>
+    <path id="design_system_icons-34-2" data-name="design system icons-34" d="M27.881,12.311V25.689a.813.813,0,0,1-.811.811H19.611a.813.813,0,0,1-.811-.811V12.311a.813.813,0,0,1,.811-.811h7.5A.806.806,0,0,1,27.881,12.311ZM26.705,24.473V13.527h-6.73V24.432h6.73Z" transform="translate(-14.3 -10)" fill="#343b46"/>
+  </g>
+</svg>

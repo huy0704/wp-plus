@@ -1,0 +1,28 @@
+(~'div@{sliderid}') {
+  .n2-ss-background-animation {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 3
+  }
+
+  .n2-ss-background-animation .n2-ss-slide-background {
+    z-index: auto;
+  }
+
+  .n2-bganim-side {
+    position: absolute;
+    left: 0;
+    top: 0;
+    overflow: hidden;
+    background: @color;
+  }
+
+  .n2-bganim-tile-overlay-colored {
+    z-index: 100000;
+    background: @color;
+  }
+
+}

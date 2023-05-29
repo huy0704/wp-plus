@@ -1,0 +1,12 @@
+.elementor-control .twb_elementor_control_title.twb_not_optimized,
+.elementor-control .twb-score-title,
+body .twb_elementor_control_title,
+.elementor-panel .twb-dismiss-info p,
+.elementor-panel .twb-dismiss-info a {
+  color: #FFFFFF;
+}
+
+.elementor-control .twb-score-container,
+.elementor-control .twb-score-disabled-container {
+  border: none;
+}

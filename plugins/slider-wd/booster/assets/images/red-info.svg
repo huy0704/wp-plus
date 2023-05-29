@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_47798" data-name="Rectangle 47798" width="20" height="20" fill="#323a45"/>
+    </clipPath>
+  </defs>
+  <g id="Group_103076" data-name="Group 103076" transform="translate(-1064 -32)">
+    <path id="design_system_icons-40" data-name="design system icons-40" d="M31.5,21.5a10,10,0,1,1-10-10A10.012,10.012,0,0,1,31.5,21.5Z" transform="translate(1052.5 20.5)" fill="#fd3c31" opacity="0.3"/>
+    <g id="Information_Icon" transform="translate(1064 32)">
+      <g id="Information_Icon-2" data-name="Information_Icon" clip-path="url(#clip-path)">
+        <g id="Info" transform="translate(3.333 3.334)">
+          <path id="Path_169137" data-name="Path 169137" d="M18.167,24.833a6.682,6.682,0,0,1-6.667-6.7,6.569,6.569,0,0,1,1.946-4.685A6.487,6.487,0,0,1,18.094,11.5a6.808,6.808,0,0,1,6.739,6.666,6.613,6.613,0,0,1-6.594,6.667Z" transform="translate(-11.5 -11.5)" fill="#fd3c31"/>
+        </g>
+        <g id="Info-2" data-name="Info" transform="translate(9.135 6.361)">
+          <path id="Path_169137-2" data-name="Path 169137" d="M19.907,15.435a.865.865,0,1,0,.865.865h0A.9.9,0,0,0,19.907,15.435Zm0,2.667h0a.877.877,0,0,0-.865.865v2.847a.877.877,0,0,0,.865.865h0a.877.877,0,0,0,.865-.865V18.966A.877.877,0,0,0,19.907,18.1Z" transform="translate(-19.042 -15.435)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

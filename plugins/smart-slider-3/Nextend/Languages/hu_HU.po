@@ -1,0 +1,6884 @@
+# NEXTEND, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-13 07:44+0200\n"
+"PO-Revision-Date: 2022-05-17 12:58+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: ;n2_;n2_e;n2_n:1,2;n2_en:1,2;n2_x:1,2c;n2_ex:1,2c\n"
+"X-Poedit-Flags-xgettext: --no-location\n"
+
+msgid "Debug error"
+msgstr "Hibakeresési hiba"
+
+msgid "CURL disabled in your php.ini configuration. Please enable it!"
+msgstr ""
+"A CURL ki van kapcsolva a szerver php.ini konfigurációs fájljában. Be kell "
+"kapcsolni."
+
+msgid "Unable to contact with the licensing server, please try again later!"
+msgstr ""
+"Nem lehet kapcsolódni a licenszkezelő szerverhez. Próbáljuk meg később!"
+
+msgid "You are not allowed to upload!"
+msgstr "Nincs jogosultság a feltöltéséhez."
+
+msgid "Folder is missing!"
+msgstr "A mappa hiányzik."
+
+msgid "Menu item"
+msgstr "Menüpont"
+
+msgid "You are not authorised to view this resource."
+msgstr ""
+
+#, php-format
+msgid "Missing parameter: %s"
+msgstr "Hiányzó paraméter: %s"
+
+msgid "Database error"
+msgstr "Adatbázis hiba történt."
+
+msgid "Security token mismatch"
+msgstr "A biztonsági vezérjel eltérő."
+
+msgid "Unexpected error"
+msgstr "Váratlan hiba történtt."
+
+msgid "Set is not editable"
+msgstr "A gyűtjemény nem szerkeszthető."
+
+msgid "Visual do not exists"
+msgstr "A vizuális elem nem létezik."
+
+msgid "Not editable"
+msgstr "Nem szerkeszthető"
+
+msgid "Security token mismatch. Please refresh the page!"
+msgstr "A biztonsági vezérjel eltérő. Frissítsük az oldalt."
+
+#, php-format
+msgid ""
+"If you see this message after the repair database process, please "
+"%1$scontact us%2$s with the log:"
+msgstr ""
+
+msgid "Contact your server host and ask them to fix this for you!"
+msgstr ""
+
+msgid "Unexpected database error."
+msgstr ""
+
+msgid "Try to repair database"
+msgstr ""
+
+msgid "Font manager"
+msgstr "Betűkezelő"
+
+msgid "Text"
+msgstr "Szöveg"
+
+#, fuzzy
+msgid "Hover"
+msgstr "Egér alatt"
+
+msgid "Heading"
+msgstr "Címsor"
+
+msgid "Link"
+msgstr "Link"
+
+msgid "Button"
+msgstr "Gomb"
+
+msgid "Paragraph"
+msgstr "Bekezdés"
+
+msgid "Dot"
+msgstr "Pont"
+
+msgid "Active"
+msgstr "Aktív"
+
+msgid "List"
+msgstr "Lista"
+
+msgid "Highlight"
+msgstr "Kiemelés"
+
+msgctxt "Default font"
+msgid "Roboto,Arial"
+msgstr "Roboto,Arial"
+
+msgid "Font settings"
+msgstr "Betű beállítások"
+
+msgid "Clear tab"
+msgstr "Fül ürítése"
+
+#, fuzzy
+msgid "Family"
+msgstr "Betűcsalád"
+
+msgid "Color"
+msgstr "Szín"
+
+msgid "Size"
+msgstr "Méret"
+
+#, fuzzy
+msgid "Font weight"
+msgstr "Betűhangsúly"
+
+msgid "Decoration"
+msgstr "Dekoráció"
+
+msgid "Line height"
+msgstr "Sormagasság"
+
+#, fuzzy
+msgid "Text align"
+msgstr "Szöveg elrendezés"
+
+msgid "Letter spacing"
+msgstr "Betűköz"
+
+msgid "Word spacing"
+msgstr "Szóköz"
+
+msgid "Transform"
+msgstr "Átalakítás"
+
+msgid "None"
+msgstr "Nincs"
+
+msgid "Capitalize"
+msgstr "Nagy kezdőbetűs"
+
+msgid "Uppercase"
+msgstr "Nagybetűs"
+
+msgid "Lowercase"
+msgstr "Kisbetűs"
+
+msgid "Text shadow"
+msgstr "Szövegárnyék"
+
+msgid "Preview"
+msgstr "Előnézet"
+
+msgid "Frontend"
+msgstr "Webes felület"
+
+msgid "You can load Google Fonts on the frontend."
+msgstr ""
+
+msgid "Save fonts locally"
+msgstr ""
+
+msgid ""
+"You can store the used Google Fonts on your server. This way all Google "
+"Fonts will load from your own domain."
+msgstr ""
+
+msgid "Backend"
+msgstr "Adminisztrációs felület"
+
+msgid "You can load Google Fonts in the backend."
+msgstr ""
+
+msgid "Style"
+msgstr "Stílus"
+
+msgctxt "Font style"
+msgid "Italic"
+msgstr "Dőlt"
+
+msgid "Normal"
+msgstr "Normál"
+
+#, fuzzy
+msgid "Choose"
+msgstr "Választás"
+
+msgid "Orientation"
+msgstr "Tájolás"
+
+msgid "Portrait"
+msgstr "Álló"
+
+msgid "Landscape"
+msgstr "Fekvő"
+
+msgid "Mobile"
+msgstr "Mobil"
+
+msgid "Large mobile"
+msgstr ""
+
+#, fuzzy
+msgid "Tablet"
+msgstr "Táblagép"
+
+msgid "Large tablet"
+msgstr ""
+
+#, fuzzy
+msgid "Desktop"
+msgstr "Asztali"
+
+msgid "Large desktop"
+msgstr ""
+
+msgid "More"
+msgstr "További"
+
+msgid "Less"
+msgstr ""
+
+msgid "View records"
+msgstr "Találatok megtekintése"
+
+msgid "Font"
+msgstr "Betű"
+
+msgid "Warning"
+msgstr ""
+
+msgid "Dotted"
+msgstr "Pontozott"
+
+msgid "Dashed"
+msgstr "Szaggadott"
+
+msgid "Solid"
+msgstr "Folytonos"
+
+msgid "Double"
+msgstr "Dupla"
+
+msgid "Groove"
+msgstr "Barázda"
+
+msgid "Ridge"
+msgstr "Gerinc"
+
+msgid "Inset"
+msgstr "Belső"
+
+msgid "Outset"
+msgstr "Külső"
+
+msgid "Field"
+msgstr "Mező"
+
+msgid "Order"
+msgstr "Rendezés"
+
+msgid "Ascending"
+msgstr "Növekvő"
+
+msgid "Descending"
+msgstr "Csökkenő"
+
+msgid "Off"
+msgstr "Ki"
+
+msgid "On"
+msgstr "Be"
+
+msgid ""
+"Hold down the ctrl (Windows) or command (MAC) button to select multiple "
+"options."
+msgstr ""
+"A Ctrl (Windows) vagy a Command (MAC) gombot nyomva tartva több opció "
+"kijelölhető."
+
+msgid "Fill"
+msgstr "Kitöltés"
+
+msgid "Blur fit"
+msgstr ""
+
+msgid "Fit"
+msgstr "Illesztés"
+
+msgid "Stretch"
+msgstr "Nyújtás"
+
+msgid "Center"
+msgstr "Közép"
+
+msgid "Slider's default"
+msgstr "Slider alapértelmezett"
+
+#, fuzzy
+msgid "All"
+msgstr "Összes"
+
+#, php-format
+msgid "Not %s"
+msgstr "Nem %s"
+
+msgid "Bold"
+msgstr "Félkövér"
+
+msgid "Extra light"
+msgstr "Extra vékony"
+
+#, fuzzy
+msgid "Light"
+msgstr "Vékony"
+
+msgid "Semi bold"
+msgstr "Félig félkövér"
+
+msgid "Extra bold"
+msgstr "Extra félkövér"
+
+msgid "Self"
+msgstr "Önmaga"
+
+msgid "New"
+msgstr "Új"
+
+msgid "Parent"
+msgstr "Szülő"
+
+msgid "Top"
+msgstr "Fent"
+
+msgid "Select images for devices"
+msgstr ""
+
+msgid "Select a page or a blog post from your WordPress site."
+msgstr "Válasszunk ki egy oldalt vagy egy bejegyzést az WordPress webhelyről."
+
+msgid "Select article or menu item from your site."
+msgstr "Válasszunk ki egy cikket vagy egy menüpontot a webhelyről."
+
+msgid "Reset to normal state"
+msgstr "Visszaállítás alaphelyzetbe"
+
+msgid "Default"
+msgstr "Alapértelmezett"
+
+msgid "The image is empty"
+msgstr "A kép üres."
+
+msgid "Empty"
+msgstr "Üres"
+
+msgid "Image manager"
+msgstr "Képkezelő"
+
+#, fuzzy
+#| msgid "Desktop Retina"
+msgid "Desktop retina"
+msgstr "Asztali retinaéles"
+
+msgid "Image"
+msgstr "Kép"
+
+#, php-format
+msgid ""
+"The %1$s is not turned on in your server, which is necessary to read rss "
+"feeds. You should contact your server host, and ask them to enable it!"
+msgstr ""
+
+#, php-format
+msgid "%s is not readable"
+msgstr "%s nem szerkeszthető."
+
+msgid "Style manager"
+msgstr "Stíluskezelő"
+
+msgid "Style settings"
+msgstr "Stílus beállítások"
+
+msgid "Background color"
+msgstr "Háttérszín"
+
+msgid "Opacity"
+msgstr "Átlátszóság"
+
+msgid "Padding"
+msgstr "Belső margó"
+
+#, fuzzy
+msgid "Border"
+msgstr "Keret"
+
+#, fuzzy
+msgid "Border radius"
+msgstr "Keretsugár"
+
+msgid "Box shadow"
+msgstr "Dobozárnyék"
+
+msgid "Single"
+msgstr "Önálló"
+
+msgid "Simple"
+msgstr "Egyszerű"
+
+msgid "Box"
+msgstr "Doboz"
+
+msgid "Heading active"
+msgstr "Aktív címsor"
+
+msgid "Dashboard"
+msgstr "Vezérlőpult"
+
+#, fuzzy
+#| msgid "Desktop image is empty!"
+msgid "Drop files here"
+msgstr "Az asztali kép üres."
+
+msgid "Parent directory"
+msgstr ""
+
+msgid "Current path"
+msgstr ""
+
+msgid "Preset"
+msgstr "Előbeállítás"
+
+msgid ""
+"You can use presets to save style settings for later use. Clicking on any "
+"preset will load its styling to your current layer, and the previous style "
+"settings will be lost."
+msgstr ""
+
+msgid ""
+"Layer design options affect every device. If you need to make responsive "
+"adjustments, look for the options with the device icon."
+msgstr ""
+
+msgid "Reset style to default"
+msgstr ""
+
+msgid "Save style as new preset"
+msgstr ""
+
+msgid "Load style"
+msgstr ""
+
+msgid "You have not created any presets for this layer yet."
+msgstr ""
+
+msgid "Save as"
+msgstr "Mentés másként"
+
+msgid "Name"
+msgstr "Név"
+
+msgid "Please fill the name field!"
+msgstr "Ki kell tölteni a név mezőt."
+
+msgid "Preset saved."
+msgstr ""
+
+msgid "Overwrite preset"
+msgstr ""
+
+msgid "Preset deleted."
+msgstr ""
+
+msgid "Choose folder"
+msgstr ""
+
+#, fuzzy
+msgid "Select"
+msgstr "Kiválasztás"
+
+msgid "Disabled"
+msgstr "Kikapcsolva"
+
+msgid "Image field can not be empty!"
+msgstr "A képmező nem lehet üres."
+
+msgid "Done"
+msgstr "Kész"
+
+msgid "No file selected."
+msgstr ""
+
+msgid "Open docs"
+msgstr ""
+
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "A változtatások elvesznek az oldal elhagyásakor."
+
+msgid "Icons"
+msgstr "Ikonok"
+
+msgid "Search"
+msgstr "Keresés"
+
+msgid "Are you sure?"
+msgstr ""
+
+#, javascript-format
+msgid "You're about to %s. "
+msgstr ""
+
+#, javascript-format
+msgid "The deletion is irreversible, and it's not possible to recover %s."
+msgstr ""
+
+msgid "Cancel"
+msgstr "Mégsem"
+
+msgid "Delete"
+msgstr "Törlés"
+
+msgid "Close"
+msgstr ""
+
+#, fuzzy
+#| msgid "Create"
+msgid "Create group"
+msgstr "Létrehozás"
+
+#, fuzzy
+#| msgid "Product name"
+msgid "Group name"
+msgstr "Termék neve"
+
+msgid "Group created"
+msgstr ""
+
+msgid "Records"
+msgstr ""
+
+msgid "Keyboard shortcuts"
+msgstr ""
+
+msgid "Got it"
+msgstr ""
+
+msgid "General"
+msgstr "Általános"
+
+#, fuzzy
+#| msgid "Content"
+msgid "Content tab"
+msgstr "Tartalom"
+
+#, fuzzy
+#| msgid "Style"
+msgid "Style tab"
+msgstr "Stílus"
+
+#, fuzzy
+#| msgid "Animation"
+msgid "Animation tab"
+msgstr "Animáció"
+
+msgid "Add Layer"
+msgstr ""
+
+msgid "Layer List"
+msgstr "Layer lista"
+
+msgid "Timeline"
+msgstr ""
+
+msgid "View"
+msgstr "Megtekintés"
+
+msgid "Adjust"
+msgstr ""
+
+msgid "Move (Absolute)"
+msgstr ""
+
+msgid "Arrows"
+msgstr "Nyilak"
+
+msgid "Align (Absolute)"
+msgstr ""
+
+msgid "Numeric keys"
+msgstr ""
+
+msgid "Action"
+msgstr "Esemény"
+
+msgid "Duplicate"
+msgstr "Duplikálás"
+
+msgid "Copy"
+msgstr "Másolás"
+
+msgid "Paste"
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+msgid "Redo"
+msgstr ""
+
+msgid "Save"
+msgstr "Mentés"
+
+#, fuzzy
+#| msgid "Layer animations"
+msgid "Play animations"
+msgstr "Réteg animációk"
+
+msgid "Clear device specific settings"
+msgstr ""
+
+msgid "Current layer, current device"
+msgstr ""
+
+msgid "Current layer, all devices"
+msgstr ""
+
+msgid "All layers, current device"
+msgstr ""
+
+msgid "All layers, all devices"
+msgstr ""
+
+msgid "Unexpected response"
+msgstr ""
+
+msgid "Scroll to"
+msgstr "Görgetés:"
+
+msgid "Scroll to alias"
+msgstr "Görgetés álnévhez:"
+
+msgid "Go to slide"
+msgstr "Diára ugrás"
+
+msgid "Go to slide ID"
+msgstr "Ugrás diára azonosító alapján"
+
+msgid "Previous slide"
+msgstr "Előző dia"
+
+msgid "Next slide"
+msgstr "Következő dia"
+
+msgid "Slide event"
+msgstr "Diaesemény"
+
+msgid "Examples"
+msgstr "Példák"
+
+msgid "Scrolls to the top of the page."
+msgstr ""
+
+msgid "Scrolls to the bottom of the page."
+msgstr ""
+
+msgid ""
+"You can use any jQuery selector to scroll to a specific element on the page. "
+"Example: \"#pricing\" scrolls to the element with the id of \"pricing\"."
+msgstr ""
+"Bármilyen jQuery szelektort használható az oldalon belüli navigáláshoz. "
+"Például: az \"#arazas\" ahhoz az elemhez fog navigálni, aminek az "
+"azonosítója \"arazas\"."
+
+msgid "Slider alias"
+msgstr "Dia álnév"
+
+msgid "Slider alias set at Slider settings > General"
+msgstr ""
+
+msgid "Slide index"
+msgstr "Dia index"
+
+msgid "Direction"
+msgstr "Irány"
+
+#, fuzzy
+msgid "Auto"
+msgstr "Automatikus"
+
+msgid "Backward"
+msgstr "Hátra"
+
+msgid "Forward"
+msgstr "Előre"
+
+#, javascript-format
+msgid "slide index: 2 %s direction: backward"
+msgstr ""
+
+msgid "Switches to the second slide as if the previous arrow was pressed"
+msgstr ""
+
+#, javascript-format
+msgid "slide index: 5 %s direction: forward"
+msgstr ""
+
+msgid "Switches to the fifth slide as if the next arrow was pressed"
+msgstr ""
+
+msgid "Slide ID"
+msgstr "Dia AZ"
+
+msgid ""
+"Switches to the slide with the #2 ID as if the previous arrow was pressed"
+msgstr ""
+
+msgid "Switches to the slide with the #5 ID as if the next arrow was pressed"
+msgstr ""
+
+msgid "Event name"
+msgstr "Esemény neve"
+
+msgid "An event you use to trigger layer animation(s) with"
+msgstr ""
+
+msgid "Content List - One Per Line"
+msgstr ""
+
+msgid "Choose images"
+msgstr "Képek választása"
+
+msgid "Titles - One Per Line"
+msgstr ""
+
+msgid "Autoplay duration"
+msgstr "Automatikus lejátszás időtartama"
+
+msgid "URL"
+msgstr ""
+
+msgid "Search keyword"
+msgstr ""
+
+msgid "Posts"
+msgstr "Posztok"
+
+msgid "Lightbox"
+msgstr "Lightbox"
+
+msgid "Insert"
+msgstr "Beszúrás"
+
+msgid "Oops, Something Went Wrong"
+msgstr ""
+
+msgid "Success"
+msgstr ""
+
+msgid "Notice"
+msgstr ""
+
+msgid "Select image"
+msgstr ""
+
+msgid "Use Joomla selector"
+msgstr ""
+
+msgid "Use default selector"
+msgstr ""
+
+msgid "Deleted."
+msgstr ""
+
+msgid "Static"
+msgstr "Statikus"
+
+msgid "Save as New"
+msgstr ""
+
+msgid "Saved."
+msgstr ""
+
+msgid "Enabled"
+msgstr "Engedélyezve"
+
+msgid "Column"
+msgstr "Oszlop"
+
+msgid "There is no layer available to be parent of the current layer!"
+msgstr ""
+
+msgid "Pick the parent layer!"
+msgstr "Szülőréteg kiválasztása"
+
+msgid "Pick the align point of the parent layer!"
+msgstr "Szülő réteg igazítási pont kiválasztása"
+
+msgid "Pick the align point of the child layer!"
+msgstr "Leszármaztatott réteg igazítási pont kiválasztása"
+
+msgid "Advanced"
+msgstr ""
+
+#, fuzzy, javascript-format
+#| msgid "Outer"
+msgid "Outer %s"
+msgstr "Külső"
+
+msgid "Left"
+msgstr "Bal"
+
+msgid "Right"
+msgstr "Jobb"
+
+msgid "Middle"
+msgstr ""
+
+msgid "Bottom"
+msgstr "Lent"
+
+msgid "Layer(s)"
+msgstr ""
+
+msgid "Hide on"
+msgstr ""
+
+msgid "Rename"
+msgstr "Átnevezés"
+
+msgid "Show/Hide in editor"
+msgstr ""
+
+msgid "Animation"
+msgstr "Animáció"
+
+msgid "Add animation"
+msgstr "Animáció hozzáadása"
+
+msgid "Remove animations"
+msgstr "Animációk eltávolítása"
+
+msgid "Layer Animation - Basic"
+msgstr "Réteg animációk - Alapvető"
+
+#, fuzzy
+#| msgid "Add Keyframe"
+msgid "Add keyframe"
+msgstr "Kulcskeret hozzáadása"
+
+msgid "Loop"
+msgstr "Ismétlődő"
+
+msgid "Special Zero"
+msgstr ""
+
+msgid "Keyframe"
+msgstr "Kulcspont"
+
+msgid "Layer Animation - Reveal"
+msgstr ""
+
+msgid "Open/Close"
+msgstr ""
+
+msgid "Content"
+msgstr "Tartalom"
+
+msgid "Child layers"
+msgstr ""
+
+msgid "Animated heading"
+msgstr ""
+
+msgid "Highlighted heading"
+msgstr ""
+
+#, fuzzy
+#| msgid "No animation"
+msgid "Text animation in"
+msgstr "Nincs animáció"
+
+#, fuzzy
+#| msgid "No animation"
+msgid "Text animation out"
+msgstr "Nincs animáció"
+
+msgid "Layer"
+msgstr "Réteg"
+
+msgid "Row"
+msgstr "Sor"
+
+msgid "Slide"
+msgstr "Slide"
+
+msgid "Theme"
+msgstr ""
+
+#, javascript-format
+msgid "%s or newer required for this feature."
+msgstr ""
+
+msgid "This section requires activated Pro version."
+msgstr ""
+
+#, javascript-format
+msgid "This block is not available in the free version. %s"
+msgstr ""
+
+msgid "Go Pro"
+msgstr ""
+
+msgid "Editor settings"
+msgstr ""
+
+msgid "Upgrade to Pro"
+msgstr ""
+
+msgid "Guide settings"
+msgstr ""
+
+msgid "Smart snap"
+msgstr ""
+
+msgid "Round to 5px"
+msgstr "Kerekítés 5 pixelre"
+
+msgid "Ruler"
+msgstr "Vonalzó"
+
+#, fuzzy
+#| msgid "Clear Guides"
+msgid "Clear guides"
+msgstr "Segédvonalak törlése"
+
+msgid "Activate Smart Slider 3 Pro"
+msgstr ""
+
+msgid "Activation is required to unlock all features!"
+msgstr ""
+
+msgid ""
+"Register Smart Slider 3 Pro on this domain to enable auto update, slider "
+"templates and slide library."
+msgstr ""
+
+msgid "Skip"
+msgstr "Kihagyás"
+
+msgid "Activate"
+msgstr "Bekapcsolás"
+
+msgid "Smart Slider 3 activated!"
+msgstr "A Smart Slider 3 bekapcsolásra került."
+
+msgid "Laptop"
+msgstr ""
+
+msgid "Width"
+msgstr "Szélesség"
+
+msgid "Height"
+msgstr "Magasság"
+
+#, javascript-format
+msgid "Below %s pixels."
+msgstr ""
+
+#, javascript-format
+msgid "Above %s pixels."
+msgstr ""
+
+#, javascript-format
+msgid "Between %s and %s pixels."
+msgstr ""
+
+#, javascript-format, php-format
+msgid "This slide is hidden on the following devices: %s"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "Filter"
+msgstr "Szűrő"
+
+msgid "No"
+msgstr "Nem"
+
+msgid "Clean HTML"
+msgstr "HTML tisztogatása"
+
+msgid "Remove HTML"
+msgstr "HTML eltávolítása"
+
+msgid "Split by Chars"
+msgstr ""
+
+msgid "Strict"
+msgstr "Szigorú"
+
+msgid "Respect words"
+msgstr "Szavak egybentartása"
+
+msgid "Find image"
+msgstr "Kép keresés"
+
+msgid "Find link"
+msgstr "Link keresése"
+
+msgid "Remove links"
+msgstr "Linkek eltávolítása"
+
+msgid "Remove line breaks"
+msgstr "Sortörések eltávolítása"
+
+msgid "Result"
+msgstr "Eredmény"
+
+msgid "Change slider type"
+msgstr ""
+
+msgid ""
+"Changing your slider type is irreversible. After changing your slider type, "
+"<b>you will lose all slider type related settings</b>."
+msgstr ""
+
+msgid "Slider type"
+msgstr ""
+
+msgid "Convert"
+msgstr ""
+
+msgid "What do you want to create today?"
+msgstr ""
+
+msgid ""
+"Use our powerful visual editor, or simply import one of our existing "
+"template."
+msgstr ""
+
+msgid "Create a New Project"
+msgstr ""
+
+msgid ""
+"Start a new project from scratch and build exactly what you’ve imagined. You "
+"can easily customize every pixels and create anything with layers."
+msgstr ""
+
+msgid "Start with a Template"
+msgstr ""
+
+msgid ""
+"Start with a template and make it your own with the innovative drag and drop "
+"interface. You can choose from hundreds of premade templates."
+msgstr ""
+
+msgid "or import your own files"
+msgstr ""
+
+msgid "Create new project"
+msgstr ""
+
+#, fuzzy
+#| msgid "Post types"
+msgid "Project type"
+msgstr "Bejegyzéstípusok"
+
+msgid "Slider"
+msgstr "Diabemutató"
+
+msgid "Block"
+msgstr "Blokk"
+
+msgid "Full page"
+msgstr "Teljes oldal"
+
+msgid "Carousel"
+msgstr "Körhinta"
+
+msgid "Showcase"
+msgstr "Esettanulmány"
+
+msgid "Pro"
+msgstr ""
+
+msgid "Settings"
+msgstr "Beállítások"
+
+msgid "My project"
+msgstr ""
+
+msgid "Boxed"
+msgstr ""
+
+msgid "Full width"
+msgstr "Teljes szélesség"
+
+msgid "Layout"
+msgstr ""
+
+msgid "Slide width"
+msgstr ""
+
+msgid "Slide height"
+msgstr ""
+
+msgid "Create"
+msgstr "Létrehozás"
+
+msgid "Join The Smart Slider 3 Community"
+msgstr ""
+
+msgid ""
+"Join more than 120,000 subscribers and get access to the latest slider "
+"templates, tips, tutorials and other exclusive contents directly to your "
+"inbox."
+msgstr ""
+
+msgid "Subscribe"
+msgstr ""
+
+#, fuzzy
+#| msgid "Insert group"
+msgid "Change group"
+msgstr "Csoport beszúrása"
+
+msgid "Groups"
+msgstr "Csoportok"
+
+msgid "Set"
+msgstr "Beállítás"
+
+msgid "Edit"
+msgstr "Szerkesztés"
+
+msgid "Group"
+msgstr "Csoport"
+
+#, fuzzy
+#| msgid "Slider"
+msgid "Edit Slider"
+msgstr "Diabemutató"
+
+msgid "Up"
+msgstr ""
+
+msgid "Insert group"
+msgstr "Csoport beszúrása"
+
+msgid "Move to trash"
+msgstr ""
+
+msgid "empty the trash"
+msgstr ""
+
+msgid "Delete permanently"
+msgstr ""
+
+#, fuzzy
+#| msgid "Delete slider"
+msgid "delete this slider"
+msgstr "Diabemutató törlése"
+
+msgid "Publish"
+msgstr "Közzététel"
+
+msgid "Unpublish"
+msgstr "Közzétételt visszavont"
+
+msgid "Edit generator"
+msgstr "Generátor szerkesztése"
+
+msgid "Set as first"
+msgstr "Beállítás elsőnek"
+
+#, fuzzy
+#| msgid "Go to slide"
+msgid "Convert to slide"
+msgstr "Diára ugrás"
+
+msgid "Copy slide to"
+msgstr ""
+
+msgid "Add post"
+msgstr ""
+
+msgid "Please select a Post first!"
+msgstr ""
+
+#, fuzzy
+#| msgid "Delete slider"
+msgid "delete these slides"
+msgstr "Diabemutató törlése"
+
+#, fuzzy
+#| msgid "Delete slider"
+msgid "delete this slide"
+msgstr "Diabemutató törlése"
+
+msgid "Max width"
+msgstr "Max szélesség"
+
+msgid "Margin"
+msgstr "Margin"
+
+#, fuzzy
+#| msgid "Top"
+msgid "top"
+msgstr "Fent"
+
+#, fuzzy
+msgid "right"
+msgstr "Vékony"
+
+#, fuzzy
+#| msgid "Bottom"
+msgid "bottom"
+msgstr "Lent"
+
+#, fuzzy
+#| msgid "To left"
+msgid "left"
+msgstr "Balra"
+
+msgid "Animations"
+msgstr "Animációk"
+
+msgid "Effects"
+msgstr ""
+
+msgid "Shape divider"
+msgstr "Alakzat elválasztó"
+
+msgid "Particle effect"
+msgstr "Elemeffektus"
+
+msgid "Layer animations"
+msgstr "Réteg animációk"
+
+msgid "Play on load"
+msgstr ""
+
+msgid ""
+"Plays the layer animations on the first slide when it appears for the first "
+"time."
+msgstr ""
+
+msgid "Play once"
+msgstr "Egyszeri lejátszás"
+
+msgid "Plays the layer animations only during the first loop."
+msgstr ""
+
+msgid "Play on"
+msgstr ""
+
+msgid "Main animation start"
+msgstr ""
+
+msgid "Main animation end"
+msgstr ""
+
+msgid "Mode"
+msgstr "Mód"
+
+msgid "Skippable"
+msgstr ""
+
+msgid "Forced"
+msgstr ""
+
+msgid ""
+"You can make the outgoing layer animations, which don't have events, to play "
+"on slide switching."
+msgstr ""
+
+msgid "Layer parallax"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "Animate"
+msgstr "Animálás"
+
+msgid "Horizontal"
+msgstr "Vízszintes"
+
+msgid "Mouse"
+msgstr "Egér"
+
+msgid "Invert"
+msgstr ""
+
+msgid "Vertical"
+msgstr "Függőleges"
+
+msgid "Scroll"
+msgstr "Görgethető"
+
+msgid "Mouse origin"
+msgstr "Egér mozgás"
+
+msgid "Slider center"
+msgstr ""
+
+msgid "Mouse enter position"
+msgstr ""
+
+msgid "Scroll move"
+msgstr "Görgetés iránya"
+
+msgid "Both"
+msgstr ""
+
+msgid "To bottom"
+msgstr "Lefelé"
+
+msgid "To top"
+msgstr "Felfelé"
+
+msgid "Autoplay"
+msgstr "Automatikus lejátszás"
+
+msgid "Slide duration"
+msgstr "Slide időtartama"
+
+msgid "Autostart"
+msgstr "Automatikus indítás"
+
+msgid "Allow restart"
+msgstr ""
+
+msgid ""
+"Keeps the autoplay control visible after the autoplay has finished to allow "
+"starting it again."
+msgstr ""
+
+msgid "Infinite loop"
+msgstr ""
+
+msgid "Finish autoplay"
+msgstr ""
+
+msgid "Stop on click"
+msgstr ""
+
+msgid "Stop on mouse"
+msgstr ""
+
+msgid "Enter"
+msgstr "Belépés"
+
+msgid "Leave"
+msgstr "Kilépés"
+
+msgid "Stop on media"
+msgstr ""
+
+msgid "Resume on click"
+msgstr ""
+
+msgid "Resume on mouse"
+msgstr ""
+
+msgid "Resume on media"
+msgstr ""
+
+msgid "Controls"
+msgstr "Kezelés"
+
+msgid "Drag"
+msgstr ""
+
+msgid "Defines the drag (and touch) direction for your slider."
+msgstr ""
+
+msgid "Mouse wheel"
+msgstr ""
+
+msgid "Allows switching slides with the mouse wheel."
+msgstr ""
+
+msgid "Keyboard"
+msgstr "Billentyűzet"
+
+msgid "Allows switching slides with the keyboard."
+msgstr ""
+
+msgid "Developer"
+msgstr "Fejlesztőknek"
+
+msgid "Block right click"
+msgstr "Jobb kattintás tiltása"
+
+msgid "Block carousel"
+msgstr ""
+
+msgid ""
+"Stops the carousel at the last slide when the source of interaction is "
+"vertical touch, vertical pointer, mouse wheel or vertical keyboard."
+msgstr ""
+
+msgid "Clear before"
+msgstr ""
+
+msgid "Closes the unclosed float CSS codes before the slider."
+msgstr ""
+
+msgid "Clear after"
+msgstr ""
+
+msgid "Allows you to put your slider next to your text."
+msgstr ""
+
+msgid "Hide scrollbar"
+msgstr ""
+
+msgid ""
+"Your website won't be scrollable anymore! All out of screen elements will be "
+"hidden."
+msgstr ""
+
+msgid "Scroll to slider"
+msgstr ""
+
+msgid "The page scrolls back to the slider when the user interacts with it."
+msgstr ""
+
+msgid "Edge"
+msgstr ""
+
+msgid "Top - when needed"
+msgstr ""
+
+msgid "Top - always"
+msgstr ""
+
+msgid "Bottom - when needed"
+msgstr ""
+
+msgid "Bottom - always"
+msgstr ""
+
+msgid "Delayed (for lightbox/tabs)"
+msgstr "Késleltetett (tabokhoz és lightboxokhoz)"
+
+msgid ""
+"Delays the loading of the slider until its container gets visible. Useful "
+"when you display the slider in a lightbox or tab."
+msgstr ""
+
+msgid "Legacy font scale"
+msgstr ""
+
+msgid ""
+"This feature brings back the non-adaptive font size for absolute layers "
+"which were made before version 3.5. Turning on can affect website "
+"performance, so we suggest to keep it disabled.\n"
+msgstr ""
+
+msgid "Slider CSS classes"
+msgstr ""
+
+msgid "You can put custom CSS classes to the slider's container."
+msgstr "Egyedi CSS osztályokat helyezhetünk a diabemutató tárolóelemébe."
+
+msgid "JavaScript callbacks"
+msgstr "JavaScript callback-ek"
+
+#, fuzzy
+#| msgid "Loading animation"
+msgid "Loading animation waiting time"
+msgstr "Betöltési animáció"
+
+msgid "Post IDs"
+msgstr ""
+
+msgid "one per line"
+msgstr ""
+
+msgid "The cache of the posts with the given ID will be cleared upon save."
+msgstr ""
+
+#, fuzzy
+#| msgid "Callback url"
+msgid "Fallback slider"
+msgstr "Callback url"
+
+msgid "ID or Alias"
+msgstr ""
+
+msgid ""
+"Select another slider by its ID or Alias that displays if your current "
+"slider has no published slides."
+msgstr ""
+
+msgid "Thumbnail"
+msgstr "Bélyegkép"
+
+msgid "Slider thumbnail which appears in the slider list."
+msgstr ""
+
+msgid "ARIA label"
+msgstr ""
+
+msgid "It allows you to label your slider for screen readers."
+msgstr ""
+
+msgid "Alias"
+msgstr ""
+
+#, fuzzy
+#| msgid "You can put custom CSS classes to the slider's container."
+msgid "You can use this alias in the slider's shortcode."
+msgstr "Egyedi CSS osztályokat helyezhetünk a diabemutató tárolóelemébe."
+
+msgid "Use as anchor"
+msgstr ""
+
+#, fuzzy
+#| msgid ""
+#| "You can have an empty div element before our slider, which would use this "
+#| "alias as its id. This can be useful, if you would want to use #your-alias "
+#| "as the url in your menu to jump to that element."
+msgid ""
+"Creates an empty div before the slider, using the alias as the ID of this "
+"div. As a result, you can use #your-alias in the URL to make the page jump "
+"to the slider."
+msgstr ""
+"Lehet egy üres DIV elem a diabemutató előtt, azt azonosító álnévként "
+"használható. Ez hasznos lehet az #alnev webcímként történő használatakor a  "
+"menüben az elemre ugrás céljából."
+
+msgid "Smooth scroll"
+msgstr ""
+
+#, fuzzy
+#| msgid ""
+#| "The #your-alias urls in links would be forced to smooth scroll to our "
+#| "element."
+msgid ""
+"The #your-alias urls in links would be forced to smooth scroll to the slider."
+msgstr "Az #alnev webcímek lágy gördítéshez használhatók az elemekhez."
+
+msgid "Switch slide"
+msgstr ""
+
+msgid ""
+"Use #your-alias-2 as an anchor to jump to the slider and switch to the 2nd "
+"slide immediately. Use #your-alias-3 for the 3rd slide and so on."
+msgstr ""
+
+msgid "Scroll to slide"
+msgstr ""
+
+msgid ""
+"The \"Switch slide\" option won't scroll you to the slider. Only the slides "
+"will switch."
+msgstr ""
+
+msgid "Slider design"
+msgstr ""
+
+#, fuzzy
+#| msgid "Slide background image fill"
+msgid "Slider background image"
+msgstr "Slide háttérkép kitöltése"
+
+msgid "Fixed"
+msgstr "Fix"
+
+msgid "Background video"
+msgstr ""
+
+msgid "Muted"
+msgstr "Néma"
+
+msgctxt "Video/Audio play"
+msgid "Loop"
+msgstr ""
+
+msgid "Fill mode"
+msgstr "Kitöltés módja"
+
+msgid "Align"
+msgstr "Igazítás"
+
+msgid "Puts a fix margin around your slider."
+msgstr ""
+
+msgid "Perspective"
+msgstr "Távlat"
+
+msgid "Optimize"
+msgstr "Optimalizálás"
+
+msgid "Loading"
+msgstr "Betöltés"
+
+#, fuzzy
+#| msgid "Loading"
+msgid "Loading type"
+msgstr "Betöltés"
+
+msgid "Instant"
+msgstr ""
+
+msgid "After page loaded"
+msgstr ""
+
+msgid "After delay"
+msgstr ""
+
+msgid ""
+"If your slider is above the fold, you can load it immediately. Otherwise, "
+"you can load it only after the page has loaded."
+msgstr ""
+
+msgid "Load delay"
+msgstr ""
+
+msgid "Play when visible"
+msgstr "Layer animációk indítása ha a slider látható"
+
+msgid ""
+"Makes sure that the autoplay and layer animations only start when your "
+"slider is visible."
+msgstr ""
+
+msgid "At"
+msgstr ""
+
+#, fuzzy
+#| msgid "Slide background image fill"
+msgid "Slide background images"
+msgstr "Slide háttérkép kitöltése"
+
+msgid "Loading mode"
+msgstr ""
+
+msgid "Delayed loading"
+msgstr "Késleltetett betöltés"
+
+msgid "Lazy loading"
+msgstr ""
+
+msgid ""
+"You can speed up your site's loading by delaying the slide background images."
+msgstr ""
+
+msgid "Load neighbor"
+msgstr "Szomszéd betöltése"
+
+msgctxt "Unit"
+msgid "slides"
+msgstr ""
+
+#, php-format
+msgid ""
+"Convert to WebP and image resizing require a lot of memory. Lift the memory "
+"limit%s if you get a blank page."
+msgstr ""
+
+#, fuzzy
+#| msgid "Go to slide"
+msgid "Convert to WebP"
+msgstr "Diára ugrás"
+
+msgid "Resize"
+msgstr ""
+
+msgid "Quality"
+msgstr "Minőség"
+
+#, fuzzy
+#| msgid "Default"
+msgid "Default width"
+msgstr "Alapértelmezett"
+
+#, fuzzy
+#| msgid "Medium Light"
+msgid "Medium width"
+msgstr "Közepes világos"
+
+#, fuzzy
+#| msgid "Medium Light"
+msgid "Medium height"
+msgstr "Közepes világos"
+
+#, fuzzy
+#| msgid "Full width"
+msgid "Small width"
+msgstr "Teljes szélesség"
+
+#, fuzzy
+#| msgid "Small Light"
+msgid "Small height"
+msgstr "Kicsi világos"
+
+msgid "Retina"
+msgstr ""
+
+msgid "Instruction"
+msgstr ""
+
+msgid ""
+"If your images look blurry on small screens, use the available height option "
+"to match the aspect ratio of the slider and image on that device."
+msgstr ""
+
+#, fuzzy
+#| msgid "Thumbnail"
+msgid "Resize Thumbnail"
+msgstr "Bélyegkép"
+
+#, fuzzy
+#| msgid "Thumbnail"
+msgid "Thumbnail Quality"
+msgstr "Bélyegkép"
+
+msgid "Thumbnail width"
+msgstr ""
+
+msgid "Thumbnail height"
+msgstr ""
+
+#, fuzzy
+#| msgid "Layer List"
+msgid "Layer images"
+msgstr "Layer lista"
+
+msgid "Base64 embed"
+msgstr ""
+
+msgid "Embeds the layer images to the page source, reducing the requests."
+msgstr ""
+
+msgid "Max file size"
+msgstr ""
+
+msgid "Other"
+msgstr "Egyéb"
+
+msgid "JetPack Photon image optimizer"
+msgstr ""
+
+msgid "Background video on mobile"
+msgstr ""
+
+msgid "Slider size"
+msgstr "Slider mérete"
+
+msgid "Limit slide width"
+msgstr ""
+
+msgid ""
+"Limits the width of the slide and prevents the slider from getting too tall."
+msgstr ""
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Breakpoints"
+msgstr ""
+
+msgid ""
+"Breakpoints define the browser width in pixel when the slider switches to a "
+"different device."
+msgstr ""
+
+msgid "Global breakpoints"
+msgstr ""
+
+#, php-format
+msgid ""
+"You can use the global breakpoints, or adjust them locally here. You can "
+"configure the Global breakpoints at <a href=\"%1$s\" target=\"_blank"
+"\">Global settings</a> > General > Breakpoints"
+msgstr ""
+
+msgid "Custom size"
+msgstr ""
+
+#, php-format
+msgid ""
+"Use this option to customize the aspect ratio for each device. %1$s Read "
+"more in the documentation%2$s. <b>Beware:</b> This option is rarely needed "
+"and might be hard to set properly!"
+msgstr ""
+
+msgid "Slides"
+msgstr "Slide-ok"
+
+msgid "Slides design"
+msgstr ""
+
+msgid "Slide background image fill"
+msgstr "Slide háttérkép kitöltése"
+
+msgid ""
+"If the size of your image is not the same as your slider's, you can improve "
+"the result with the filling modes."
+msgstr ""
+
+#, fuzzy
+#| msgid "Background color"
+msgid "Background Blur"
+msgstr "Háttérszín"
+
+msgid "Randomize"
+msgstr "Véletlen sorrend"
+
+#, fuzzy
+#| msgid "Randomize"
+msgid "Randomize slides"
+msgstr "Véletlen sorrend"
+
+msgid "Randomize first"
+msgstr ""
+
+msgid "Cache support"
+msgstr "Cache támogatás"
+
+msgid "Cache variations"
+msgstr ""
+
+msgid "Reverse"
+msgstr ""
+
+msgid "You can make your slides appear in the slider in a reversed order."
+msgstr ""
+
+msgid "Max count"
+msgstr ""
+
+msgid ""
+"You can limit how many slides you want to show from your slider. It's best "
+"used with the Randomize feature, to improve the experience."
+msgstr ""
+
+msgid "Maintain session"
+msgstr ""
+
+msgid ""
+"The slider continues from the last viewed slide when the visitor comes back "
+"to the page."
+msgstr ""
+
+msgid "Backgrounds in lightbox"
+msgstr ""
+
+msgid ""
+"Creates a lightbox from your slide background images. This feature only "
+"works if all slides have background images."
+msgstr ""
+
+msgid "Show label"
+msgstr "Felirat mutatása"
+
+msgid "Only slide name"
+msgstr "Csak a slide neve"
+
+msgid "Slide name and description"
+msgstr "Slide név és leírás"
+
+msgid "Background parallax"
+msgstr ""
+
+msgid "Strength"
+msgstr "Erősség"
+
+msgid "Super soft"
+msgstr "Szuper lágy"
+
+msgid "Soft"
+msgstr "Lágy"
+
+msgid "Strong"
+msgstr "Erős"
+
+msgid "Super strong"
+msgstr "Szuper erős"
+
+msgid "Generator created."
+msgstr "A generátor létrehozásra került."
+
+msgid "Generator updated and cache cleared."
+msgstr "A generátor frissítésre, a gyorsítótár kiürítésre került."
+
+msgid "Generator group not found"
+msgstr ""
+
+msgid "Generator source not found"
+msgstr ""
+
+msgid "No records found for the filter"
+msgstr "Nincs elem a szűrőnek megfelelően."
+
+msgid "Authentication successful."
+msgstr "A hitelesítés sikeres."
+
+msgid "Not installed"
+msgstr "Nincs telepítve."
+
+msgid "Visit"
+msgstr ""
+
+msgid "Add dynamic slides"
+msgstr "Dinamikus dia hozzáadása"
+
+msgid "Configure"
+msgstr "Konfigurálás"
+
+msgid "Add"
+msgstr "Hozzáadás"
+
+msgid "Generator"
+msgstr "Generátor"
+
+msgid "How to upgrade to Smart Slider 3 Pro?"
+msgstr ""
+
+#, php-format
+msgid ""
+"After making your purchase, %1$slog in to your account%3$s and download the "
+"Pro installer. To get started with Smart Slider 3 Pro, simply %2$sinstall it "
+"on your website%3$s."
+msgstr ""
+
+msgid "Download Pro"
+msgstr ""
+
+msgid ""
+"Feel free to remove the Free version, as you no longer need it. Your sliders "
+"will stay!"
+msgstr ""
+
+msgid "Ready to go Pro?"
+msgstr ""
+
+msgid "Supercharge Smart Slider 3 with powerful functionality!"
+msgstr ""
+
+msgid "Already purchased?"
+msgstr ""
+
+msgid "Get started with the Pro version now!"
+msgstr ""
+
+#, php-format
+msgid "Unable to connect to the API (%s)."
+msgstr "Nem lehet kapcsolódni az API szolgáltatáshoz (%s)."
+
+msgid "See <b>Debug Information</b> for more details!"
+msgstr "További részletek: <b>Hibakereső információ</b>."
+
+msgid "Successful connection with the API."
+msgstr "Az API kapcsolat sikeres."
+
+msgid "Welcome to Help Center"
+msgstr ""
+
+msgid ""
+"To help you get started, we've put together a super tutorial video that "
+"shows you the basic settings."
+msgstr ""
+
+#, fuzzy
+#| msgid "Possible Conflicts"
+msgid "Possible conflicts"
+msgstr "Lehetséges ütközések"
+
+#, fuzzy
+#| msgid "Post option"
+msgid "Test connection"
+msgstr "Bejegyzés opció"
+
+msgid "No conflicts detected."
+msgstr ""
+
+msgid "Hello! How can we help you today?"
+msgstr ""
+
+msgid "Search in the knowledge base"
+msgstr "Keresés a tudásbázisban"
+
+msgid "Documentation"
+msgstr "Dokumentáció"
+
+msgid ""
+"To get started with Smart Slider 3, please refer to this guide for "
+"downloading, installing, and using."
+msgstr ""
+"A Smart Slider 3 felfedézéhez töltsük le ezt az útmutatót, telepítsük és "
+"használjuk."
+
+msgid "Email support"
+msgstr "Email támogatás"
+
+msgid ""
+"Need one-to-one assistance? Get in touch with our Support team! We'd love "
+"the opportunity to help you."
+msgstr ""
+"Közvetlen segítségre van szükség? Fel kell venni a kapcsolatot a támogató "
+"csapattal. Szívesen segítenek."
+
+#, fuzzy
+#| msgid "Tutorial Videos"
+msgid "Tutorial videos"
+msgstr "Videó bemutatók"
+
+msgid ""
+"Check our video tutorials which cover everything you need to know about "
+"Smart Slider 3."
+msgstr ""
+
+msgid "Selected articles"
+msgstr ""
+
+#, fuzzy
+#| msgid "Debug Information"
+msgid "Debug information"
+msgstr "Hibakereső informácó"
+
+#, php-format
+msgid "%s or later"
+msgstr ""
+
+msgid "You are using an unsupported browser!"
+msgstr ""
+
+#, php-format
+msgid ""
+"Smart Slider 3 does not support your current browser for editing. Supported "
+"browsers are the following: %s."
+msgstr ""
+
+#, fuzzy
+#| msgid "Mouse enter"
+msgid "Help center"
+msgstr "Egér belépés"
+
+#, fuzzy
+msgid "Help"
+msgstr "Súgó"
+
+msgid "Read more"
+msgstr ""
+
+msgid "Need more?"
+msgstr ""
+
+msgid "Unlock all the pro features by upgrading to Smart Slider 3 Pro."
+msgstr ""
+
+msgid "Changelog"
+msgstr "Változásnapló"
+
+msgid "Check for update"
+msgstr ""
+
+msgid "Check"
+msgstr ""
+
+msgid "Your license is active"
+msgstr ""
+
+msgid "Deactivate license"
+msgstr "Licensz kikapcsolása"
+
+msgid "Activate your license"
+msgstr ""
+
+msgid "Don’t miss any update"
+msgstr ""
+
+msgid "Let us know how we're doing"
+msgstr ""
+
+msgid ""
+"If you are happy with Smart Slider 3 and can take a minute please leave a "
+"review. This will help to spread its popularity and to make this plugin a "
+"better one."
+msgstr ""
+
+msgid "Rate your experience"
+msgstr ""
+
+msgid "Hated it"
+msgstr ""
+
+msgid "Disliked it"
+msgstr ""
+
+msgid "It was ok"
+msgstr ""
+
+msgid "Liked it"
+msgstr ""
+
+msgid "Loved it"
+msgstr ""
+
+msgid "Why upgrade to Smart Slider 3 Pro?"
+msgstr ""
+
+#, php-format
+msgid "%d+ slider templates"
+msgstr ""
+
+msgid "Full slide library access"
+msgstr ""
+
+#, fuzzy, php-format
+#| msgid "Heading layer"
+msgid "%d new layers"
+msgstr "Cím réteg"
+
+msgid "Extra advanced options"
+msgstr ""
+
+msgid "New animations & effects"
+msgstr ""
+
+msgid "Lifetime update & support"
+msgstr ""
+
+msgid "Apply"
+msgstr "Alkalmazás"
+
+msgid "Back"
+msgstr ""
+
+msgid "Import"
+msgstr "Importálás"
+
+msgid "Layers"
+msgstr ""
+
+msgid "Library"
+msgstr ""
+
+msgid "Absolute"
+msgstr ""
+
+msgctxt "Layer group"
+msgid "Basic"
+msgstr ""
+
+msgid "Inner align"
+msgstr "Belső elrendezés"
+
+msgid "Positions the layers inside horizontally."
+msgstr ""
+
+msgid "Vertical align"
+msgstr "Függőleges igazítás"
+
+msgid "Positions the layers inside vertically."
+msgstr ""
+
+msgid "Target window"
+msgstr "Célablak"
+
+msgid "Background image"
+msgstr "Háttérkép"
+
+msgid "Focus"
+msgstr "Fókusz"
+
+msgid ""
+"You can set the starting position of a background image. This makes sure "
+"that the selected part will always remain visible, so you should pick the "
+"most important part."
+msgstr ""
+
+msgid "Background"
+msgstr "Háttér"
+
+msgid "Gradient"
+msgstr "Színátmenet"
+
+msgid "Color end"
+msgstr "Végszín"
+
+msgid "Position"
+msgstr "Pozíció"
+
+msgid "The editing mode the layer is positioned in."
+msgstr ""
+
+msgid "Positions the layer horizontally within its parent."
+msgstr ""
+
+msgid "You can set a fix height for your layer."
+msgstr ""
+
+msgid "With margins you can create distance between your layers."
+msgstr ""
+
+msgid "Responsive"
+msgstr "Reszponzivitás"
+
+msgid "Linked to"
+msgstr ""
+
+msgid ""
+"You can link your layer to another layer on the same level. This way your "
+"layer won't be positioned to the slide, but the other layer."
+msgstr ""
+
+msgid "Hide when variable empty"
+msgstr ""
+
+msgid "Text scale"
+msgstr ""
+
+msgid "Device specific settings"
+msgstr ""
+
+msgid "Clear"
+msgstr ""
+
+msgid "Erases all device specific changes you made on the current device."
+msgstr ""
+
+msgid "Effect"
+msgstr ""
+
+msgid "Parallax"
+msgstr "Parallax"
+
+msgid "More parallax options in slider settings -> Layer animations tab."
+msgstr ""
+"További parallax beállítások a Slider beállítások -> Layer animáció tabon."
+
+msgid "Crop"
+msgstr "Vágás"
+
+msgid "Mask"
+msgstr "Maszk"
+
+msgid "If your content is larger than the layer, you can crop it to fit."
+msgstr ""
+
+msgid "Rotation"
+msgstr "Forgatás"
+
+msgid "CSS Class"
+msgstr "CSS class"
+
+msgid "You can add a custom CSS class on the layer container."
+msgstr ""
+
+#, fuzzy
+#| msgid "Tab background"
+msgid "Content background"
+msgstr "Fül háttérszn"
+
+msgid "Spacing"
+msgstr "Távolság"
+
+msgid "Typography"
+msgstr ""
+
+msgid ""
+"You can select a font family from the preset, or type your custom family."
+msgstr ""
+
+msgid ""
+"Need to change the font size device specifically? Use the Text scale option."
+msgstr ""
+
+msgid "Columns"
+msgstr "Oszlopoko"
+
+msgid "Gutter"
+msgstr "Távolság"
+
+msgid "Creates space between the columns"
+msgstr ""
+
+msgid "Wrap after"
+msgstr "Törés ezután"
+
+msgid "Breaks the columns to the given amount of rows."
+msgstr ""
+
+msgid "Makes the row fill the available vertical space"
+msgstr ""
+
+msgid "Slide title"
+msgstr "Diacím"
+
+msgid "Description"
+msgstr "Leírás"
+
+#, fuzzy
+#| msgid "Thumbnail"
+msgid "Thumbnail alt"
+msgstr "Bélyegkép"
+
+msgid "Custom lightbox image"
+msgstr "Egyedi lightbox kép"
+
+msgid "Published"
+msgstr "Közzétéve"
+
+msgid "Publish on"
+msgstr ""
+
+msgid "Unpublish on"
+msgstr ""
+
+msgid "Thumbnail type"
+msgstr ""
+
+msgid "Video"
+msgstr "Videó"
+
+msgid ""
+"If you have a video on your slide, you can put a play icon on the thumbnail "
+"image to indicate that."
+msgstr ""
+
+#, php-format
+msgid ""
+"Video autoplaying has a lot of limitations made by browsers. %1$sLearn about "
+"them.%2$s"
+msgstr ""
+
+#, fuzzy
+#| msgid "Slide background image fill"
+msgid "Slide background video"
+msgstr "Slide háttérkép kitöltése"
+
+msgid "Restart on slide change"
+msgstr ""
+
+msgid "Starts the video from the beginning when the slide is viewed again."
+msgstr ""
+
+#, fuzzy
+#| msgid "Slide background image fill"
+msgid "Slide background"
+msgstr "Slide háttérkép kitöltése"
+
+msgid ""
+"Select a background image for the slide. By clicking the small screen icon, "
+"you can pick different images for different devices."
+msgstr ""
+
+#, php-format
+msgid ""
+"Please read %1$sour detailed guide%2$s about setting your own slide "
+"background correctly."
+msgstr ""
+
+#, fuzzy
+#| msgid "Background color"
+msgid "Background blur"
+msgstr "Háttérszín"
+
+msgid "Blur"
+msgstr "Homályosítás"
+
+msgid "Overlay"
+msgstr "Elfedés"
+
+msgid "Puts the color in front of the image."
+msgstr ""
+
+msgid "SEO"
+msgstr ""
+
+#, fuzzy
+#| msgid "Image"
+msgid "Image alt"
+msgstr "Kép"
+
+#, fuzzy
+#| msgid "Image mode"
+msgid "Image title"
+msgstr "Kép mód"
+
+msgctxt "Layer animation"
+msgid "In"
+msgstr ""
+
+msgctxt "Layer animation"
+msgid "Out"
+msgstr ""
+
+msgctxt "Layer animation"
+msgid "Events"
+msgstr ""
+
+msgid "Plays in when"
+msgstr ""
+
+msgid "Plays out when"
+msgstr ""
+
+msgid "Plays loop when"
+msgstr ""
+
+msgid "Pauses loop when"
+msgstr ""
+
+msgid "Stops loop when"
+msgstr ""
+
+msgid "Repeatable"
+msgstr ""
+
+msgid "Allows the layer animations to play more than once."
+msgstr ""
+
+msgid "Start delay"
+msgstr ""
+
+msgid "End delay"
+msgstr ""
+
+msgid "Repeat loop only"
+msgstr ""
+
+msgid "Allows the stopped loop to start again."
+msgstr ""
+
+msgid "Trigger custom event on"
+msgstr "Saját esemény"
+
+msgid "Click"
+msgstr "Kattintás"
+
+msgid "Mouse enter"
+msgstr "Egér belépés"
+
+msgid "Mouse leave"
+msgstr "Egér távozás"
+
+msgid "Media started"
+msgstr "Média indítás"
+
+msgid "Media paused"
+msgstr "Média megállítva"
+
+msgid "Media stopped"
+msgstr "Média leállítva"
+
+msgid "Duration"
+msgstr "Időtartam"
+
+msgid "Delay"
+msgstr "Csúszás"
+
+msgid "Easing"
+msgstr "Animáció"
+
+msgid "Offset"
+msgstr "Eltolás"
+
+msgid "Rotate"
+msgstr "Forgatás"
+
+msgid "Scale"
+msgstr "Méret"
+
+msgid "Skew"
+msgstr "Ferdítés"
+
+msgid "Transform origin"
+msgstr "Átalakítás kezdőpontja"
+
+msgid ""
+"Makes the last keyframe to be the origin of the layer animation, instead of "
+"its canvas position."
+msgstr ""
+
+#, fuzzy
+#| msgid "Rate count"
+msgid "Repeat count"
+msgstr "Értékelések száma"
+
+msgid "loops"
+msgstr "ismétlés"
+
+msgid ""
+"You can restrict the loop to play only a certain amount of loops, instead of "
+"infinite."
+msgstr ""
+
+msgctxt "Animation"
+msgid "Slide"
+msgstr ""
+
+msgid "Curtains"
+msgstr ""
+
+msgid "Diagonal"
+msgstr ""
+
+msgid "Circle"
+msgstr "Kör"
+
+msgid "From"
+msgstr "Honnan"
+
+msgid "To"
+msgstr "Hova"
+
+msgid "Fade"
+msgstr "Áttűnés"
+
+msgid "Scale up"
+msgstr "Nagyítás"
+
+msgid "Scale down"
+msgstr "Zsugorítás"
+
+msgid "Static overlay"
+msgstr ""
+
+msgid "First slide"
+msgstr ""
+
+msgid "Unpublished"
+msgstr ""
+
+msgid "Bulk actions"
+msgstr ""
+
+msgid "Select all"
+msgstr "Mindent kijelöl"
+
+msgid "Select none"
+msgstr "Kijelölés megszűntetése"
+
+msgid "Select published"
+msgstr "Közzétettek kijelölése"
+
+msgid "Select unpublished"
+msgstr "Közzé nem tettek kijelölése"
+
+msgid "Blank"
+msgstr ""
+
+msgid "Post"
+msgstr ""
+
+msgid "Dynamic slides"
+msgstr ""
+
+msgid "Add slide"
+msgstr ""
+
+msgid "Block must contain only one slide. Need more?"
+msgstr ""
+
+msgid "Convert to slider"
+msgstr ""
+
+#, fuzzy
+#| msgid "Slide index"
+msgid "Slide one"
+msgstr "Dia index"
+
+#, fuzzy
+#| msgid "Slide to top"
+msgid "Slide two"
+msgstr "Felfelé csúszás"
+
+#, fuzzy
+#| msgid "Desktop image is empty!"
+msgid "Drop images here"
+msgstr "Az asztali kép üres."
+
+#, fuzzy
+#| msgid "Search"
+msgid "Search Project"
+msgstr "Keresés"
+
+#, fuzzy
+#| msgid "View records"
+msgid "View trash"
+msgstr "Találatok megtekintése"
+
+msgid "Order by"
+msgstr "Rendezés"
+
+msgid "Manual order"
+msgstr "Kézi rendezés"
+
+msgid "A-Z"
+msgstr ""
+
+msgid "Z-A"
+msgstr ""
+
+#, fuzzy
+#| msgid "Newest First"
+msgid "Newest first"
+msgstr "Legújabb előre"
+
+#, fuzzy
+#| msgid "Oldest First"
+msgid "Oldest first"
+msgstr "Legrégebbi előre"
+
+msgid "Export"
+msgstr "Exportálás"
+
+#, fuzzy
+#| msgid "Showcase"
+msgid "Show"
+msgstr "Esettanulmány"
+
+#, php-format
+msgid "Showing %s to %s of %s projects"
+msgstr ""
+
+msgid "No projects to show"
+msgstr ""
+
+msgid "New project"
+msgstr ""
+
+msgid "Sorry we couldn’t find any matches"
+msgstr ""
+
+msgid "Please try searching with another term."
+msgstr ""
+
+#, php-format
+msgid "Showing %s results for %s."
+msgstr ""
+
+msgid "Module"
+msgstr "Modul"
+
+msgid "Displays the slider in a template module position."
+msgstr ""
+
+msgid "Create module"
+msgstr ""
+
+msgid "Related modules"
+msgstr ""
+
+msgid "Articles"
+msgstr "Cikkek"
+
+msgid "Paste the code into article:"
+msgstr "Illeszd be a kódot egy cikkbe:"
+
+msgid "PHP code"
+msgstr "PHP kód"
+
+msgid "Paste the PHP code into source code:"
+msgstr "Illeszd be a PHP kódot bámilyen forrásfájlba:"
+
+msgid "Shortcode"
+msgstr "Shortcode"
+
+msgid "Copy and paste this shortcode into your posts or pages:"
+msgstr "Másold ki és illeszt be ezt a kódot a bejegyzéseidbe vagy oldalaidba:"
+
+msgid "Pages and Posts"
+msgstr ""
+
+#, php-format
+msgid "Smart Slider 3 has integration with %s."
+msgstr ""
+
+msgid "Paste the PHP code into your theme's file:"
+msgstr ""
+
+#, fuzzy
+#| msgid "The image is empty"
+msgid "Trash is empty."
+msgstr "A kép üres."
+
+msgid "Restore"
+msgstr ""
+
+msgid "Toggle orientation"
+msgstr ""
+
+msgid "Reload preview"
+msgstr ""
+
+msgid "Open preview in full"
+msgstr ""
+
+msgid "State"
+msgstr ""
+
+msgid "Reason"
+msgstr ""
+
+msgid "Framework"
+msgstr ""
+
+msgid "Fonts"
+msgstr ""
+
+msgid "Layer defaults"
+msgstr ""
+
+msgid "Generators"
+msgstr ""
+
+msgid "Saved and slider cache invalidated."
+msgstr ""
+
+msgid "Cache cleared."
+msgstr "A gyorsítótár kiürítésre került."
+
+msgid "Clear cache"
+msgstr "Gyorsítótár kiürítése"
+
+#, fuzzy
+#| msgid "Clear cache"
+msgid "Clear cache options"
+msgstr "Gyorsítótár kiürítése"
+
+msgid "Delete resized image cache"
+msgstr ""
+
+#, php-format
+msgid "If enabled the following folder will be <b>permanently deleted</b>: %s"
+msgstr ""
+
+msgid "Configuration"
+msgstr "Konfiguráció"
+
+#, php-format
+msgid ""
+"Here you can configure the default font your layers have, and the dropdown "
+"list of the fonts. Google Fonts are recognized automatically, but you can "
+"use your own custom fonts, too. %1$sLearn how to do that.%2$s"
+msgstr ""
+
+msgid "Default family"
+msgstr "Alapértelmezett betűcsalád"
+
+msgid "This font family is used for the newly added layers."
+msgstr ""
+
+msgid "Preset font families"
+msgstr "Előbeállított betűcsaládok"
+
+msgid "These font families appear in the dropdown list."
+msgstr ""
+
+msgid "Use protocol-relative URL"
+msgstr "Protokol-relatív webcím használata"
+
+msgid "Loads the URLs without a http or https protocol."
+msgstr ""
+
+msgid "Header preload"
+msgstr ""
+
+msgid ""
+"If the slider is an important part of your site, tell the browser to preload "
+"its files."
+msgstr ""
+
+msgid "English UI"
+msgstr ""
+
+msgid ""
+"You can keep using Smart Slider 3 in English, even if your backend isn't in "
+"English."
+msgstr ""
+
+msgid "Improved frontend accessibility"
+msgstr ""
+
+msgid ""
+"Keeps the clicked element (like a button) in focus unless the focus is "
+"changed by clicking away."
+msgstr ""
+
+msgid "Script attributes"
+msgstr "Szkript attribútumok"
+
+msgid "Slider's inline JavaScript"
+msgstr "Diabemutató belső JavaScript"
+
+msgid "Head"
+msgstr "Fejrész"
+
+msgid "Into the slider"
+msgstr "a diabemutatóba"
+
+msgid "Async non-primary CSS"
+msgstr ""
+
+msgid ""
+"Google Fonts, icon and lightbox CSS are loaded in a non-blocking way. "
+"Disable if you see missing icons, fonts or styles."
+msgstr ""
+
+msgid "Load Font Awesome 4"
+msgstr ""
+
+msgid "API requests"
+msgstr "API kérések"
+
+#, php-format
+msgctxt "Curl"
+msgid "Use %s"
+msgstr ""
+
+#, fuzzy, php-format
+#| msgid "Clean HTML"
+msgctxt "curl proxy"
+msgid "Clean %s"
+msgstr "HTML tisztogatása"
+
+msgid "General settings"
+msgstr "Általános beállítások"
+
+msgid "Automatic update check"
+msgstr "Automatikus frissítés ellenőrzése"
+
+msgid "Alternative save slide"
+msgstr ""
+
+msgid ""
+"If you experience problems during the save this option might solve them."
+msgstr ""
+
+msgid "Preview in new window"
+msgstr ""
+
+msgid "Lightbox videos in new tab on Mobile"
+msgstr ""
+
+msgid ""
+"Opens the lightbox videos in the YouTube app to avoid the mobile disabling "
+"the video."
+msgstr ""
+
+msgid "YouTube and Vimeo privacy enhanced mode"
+msgstr ""
+
+msgid "Smooth scroll speed"
+msgstr ""
+
+msgid "Editor - additional CSS files"
+msgstr "Szerkesztő - saját CSS fájlok"
+
+msgid ""
+"You can call your own CSS files to our backend, for example, to be able to "
+"use custom fonts. Write each URL to a new line."
+msgstr ""
+
+#, fuzzy
+#| msgid "Font settings"
+msgid "WordPress settings"
+msgstr "Betű beállítások"
+
+msgid "Show editor icon"
+msgstr "Szerkesztési ikon mutatása"
+
+msgid "Show in admin bar"
+msgstr ""
+
+msgid "YOAST SEO sitemap - add images"
+msgstr ""
+
+msgid "Create widget area"
+msgstr ""
+
+msgid "widget area(s)"
+msgstr ""
+
+msgid ""
+"Creates new widget areas which you can place to your theme for easy "
+"publishing."
+msgstr ""
+
+msgid "Use iframe in AJAX calls"
+msgstr ""
+
+msgid ""
+"Loads the slider using an iframe when the page is loaded via AJAX to avoid "
+"problems."
+msgstr ""
+
+msgid "Joomla settings"
+msgstr ""
+
+msgid "Force RTL backend"
+msgstr ""
+
+msgid "Run content plugins on sliders"
+msgstr ""
+
+msgid "Exclude plugins"
+msgstr ""
+
+msgid ""
+"At each slider you can override the global breakpoints with local values."
+msgstr ""
+
+msgid "Focus offset"
+msgstr ""
+
+msgid ""
+"This option is used at the full page layout to decrease the slider height. "
+"The \"Scroll to slider\" option also uses this option to determine where to "
+"scroll the slider."
+msgstr ""
+
+msgid "Translate url"
+msgstr "URL módosítás"
+
+msgid ""
+"You can change the frontend URL our assets are loading from. It can be "
+"useful after moving to a new domain."
+msgstr ""
+
+msgid "The old URL you want to replace. E.g. https://oldsite.com/"
+msgstr ""
+
+msgid "The new URL you want to use. E.g. https://newsite.com"
+msgstr ""
+
+#, fuzzy
+#| msgid "Slider created."
+msgid "Slider restored."
+msgstr "A dia létrehozásra került."
+
+#, fuzzy
+#| msgid "Slider deleted."
+msgid "Slider permanently deleted."
+msgstr "A diabemutató törlésre került."
+
+msgid "Slider created."
+msgstr "A dia létrehozásra került."
+
+msgid "Slider renamed."
+msgstr ""
+
+msgid "Slider saved."
+msgstr "A dia mentésre került."
+
+#, php-format
+msgid "Import url is not valid: %s"
+msgstr "Az importálási webcím nem érvényes: %s"
+
+msgid "License key required for premium features!"
+msgstr "A prémium funkciókhoz a licensz kód megadása szükséges."
+
+msgid "Slider imported."
+msgstr "A diabemutató importálásra került."
+
+msgid "Import error!"
+msgstr "Hiba történt az importáláskor."
+
+msgid "Slide duplicated."
+msgstr "A dia duplikálásra került."
+
+#, php-format
+msgid "%s slider type is not available."
+msgstr ""
+
+msgid "Groups are only available in the Pro version."
+msgstr ""
+
+msgid "Slider moved to the trash."
+msgstr ""
+
+msgid "Slider removed from the group."
+msgstr ""
+
+msgid "Slider duplicated."
+msgstr "A diabemutató duplikálásra került."
+
+msgid "Slider settings"
+msgstr ""
+
+msgid "Delete slider"
+msgstr ""
+
+msgid "Edit slide"
+msgstr ""
+
+msgid "Delete slide"
+msgstr ""
+
+msgid "Ordering"
+msgstr "Rendelés"
+
+msgid "Video url"
+msgstr ""
+
+msgid "Actions"
+msgstr "Műveletek"
+
+#, php-format
+msgid "Export %1$s as HTML"
+msgstr ""
+
+msgid "Duplicate slider"
+msgstr "Diabemutató duplikálása"
+
+msgid "Simple edit"
+msgstr ""
+
+msgid "Slider order saved."
+msgstr "A diabemutató sorrend mentésre került."
+
+msgid "Slider(s) moved to the trash."
+msgstr ""
+
+msgid "Slider(s) removed from the group."
+msgstr ""
+
+msgid "Slider(s) deleted permanently from the trash."
+msgstr ""
+
+#, php-format
+msgid ""
+"Your server has an upload file limit at %s, so if you have bigger export "
+"file, please use the local import file method."
+msgstr ""
+"A szerveren %s feltöltési korlát van. Ha az export fájl ennél nagyobb, "
+"használjuk a helyi importálás fájl metódust."
+
+msgid "You have to unzip your "
+msgstr "Ki kell bontani: "
+
+msgid "Only *.ss3 files can be uploaded!"
+msgstr ""
+
+msgid "The imported file is not readable!"
+msgstr "Az importált fájl nem olvasható."
+
+msgid "Go to dashboard"
+msgstr ""
+
+msgid "Welcome to Smart Slider 3"
+msgstr ""
+
+msgid "Don't show again"
+msgstr ""
+
+msgid "Import project"
+msgstr ""
+
+msgid "You can upload *.ss3 files which were exported by Smart Slider 3."
+msgstr ""
+
+msgid "Local import"
+msgstr ""
+
+msgid "Upload file"
+msgstr ""
+
+#, php-format
+msgid ""
+"Your server's upload filesize limitation is %s, so if your file is bigger, "
+"use the local import."
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+#, php-format
+msgid "Files with <i>.ss3</i> extension are listed from: %s"
+msgstr ""
+
+msgid "Delete file"
+msgstr ""
+
+msgid "Removes the selected .ss3 file from your sever after the import."
+msgstr ""
+
+msgid "Restore slider"
+msgstr "Slider visszaállítása"
+
+msgid ""
+"The imported slider will have the same ID as the original export has. If you "
+"have a slider with the same ID, it will be overwritten."
+msgstr ""
+
+msgid "Image mode"
+msgstr "Kép mód"
+
+msgid "Clone"
+msgstr "Másolás"
+
+msgid "Old site url"
+msgstr "Régi URL"
+
+msgid "Original"
+msgstr "Eredeti"
+
+msgid "You can choose how the slide images are loaded."
+msgstr ""
+
+msgid "Trash"
+msgstr ""
+
+#, fuzzy
+#| msgid "Empty"
+msgid "Empty trash"
+msgstr "Üres"
+
+msgid "Slide saved."
+msgstr "A dia mentésre került."
+
+#, php-format
+msgid "%d static slides generated."
+msgstr "%d statikus dia került generálásra."
+
+msgid "Slide renamed."
+msgstr ""
+
+msgid "First slide changed."
+msgstr "Az első dia megváltozott."
+
+msgid "Static overlay converted to slide."
+msgstr ""
+
+msgid "Slide published."
+msgstr "A dia publikálásra került."
+
+msgid "Slide unpublished."
+msgstr "A dia visszavonásra került."
+
+msgid "Slide order saved."
+msgstr "A dia sorrend mentésre került."
+
+msgid "Slide(s) copied."
+msgstr "A diák másolásra kerültek."
+
+msgid "Slide deleted."
+msgstr "Slide törölve."
+
+msgid "Slides created."
+msgstr ""
+
+#, fuzzy
+msgid "Slide created."
+msgstr "Slide létrehozva."
+
+msgid "Failed to create slides."
+msgstr ""
+
+msgid "Static save"
+msgstr "Statikus mentés"
+
+msgid "Generator settings"
+msgstr "Generátor beállítások"
+
+msgid "Cache expiration"
+msgstr "Cache lejárat"
+
+msgid "Hours"
+msgstr "Órák"
+
+msgid "Start index"
+msgstr "Kezdő sorszám"
+
+msgid "Group result"
+msgstr "Csoportos eredmény"
+
+msgid "Smart Slider 3 deactivated on this site!"
+msgstr ""
+
+msgid "New slider"
+msgstr "Új slider"
+
+msgid "Alias removed"
+msgstr ""
+
+msgid "Alias must contain one or more letters"
+msgstr ""
+
+#, php-format
+msgid "Alias updated to: %s"
+msgstr ""
+
+#, fuzzy
+#| msgid "Background image"
+msgid "Background animation"
+msgstr "Háttérkép"
+
+msgid "Animation type"
+msgstr ""
+
+msgid "The importing failed at the unzipping part."
+msgstr "Az importálás megszakadt az importált fájl kicsomagolásánál."
+
+msgid "You can't import sliders from Smart Slider 2."
+msgstr "Nem tudsz slidert importálni Smart Slider 2-ből."
+
+msgid "Export file corrupted! Slider data is missing."
+msgstr ""
+
+msgid "Learn more"
+msgstr ""
+
+#, php-format
+msgid "Increase %1$s in php.ini to 1000 or more. Current value: %2$s"
+msgstr ""
+
+#, php-format
+msgid ""
+"Decrease %1$s below 15 in php.ini to prevent fatal errors on plugin updates. "
+"Current value: %2$s"
+msgstr ""
+
+msgid "Unable to connect to the API"
+msgstr ""
+
+msgid "MySQL table missing"
+msgstr ""
+
+msgid "Your theme uses an outdated MooTools library which is not compatible."
+msgstr ""
+
+msgid ""
+"JCH Optimize could have a conflict with Smart Slider's Global settings -> "
+"Framework settings -> Async Non-Primary CSS. If your Google fonts are not "
+"loading, turn this option off."
+msgstr ""
+
+msgid ""
+"This plugin breaks JavaScript in the admin area, deactivate it and use "
+"alternative plugin."
+msgstr ""
+
+msgid ""
+"This plugin breaks Smart Slider 3 ajax calls if custom admin url enabled."
+msgstr ""
+
+msgid "This plugin adds a background image to every SVG and breaks SSL."
+msgstr ""
+
+msgid "This plugin has a JavaScript error which might break Smart Slider."
+msgstr ""
+
+#, php-format
+msgid ""
+"This plugin breaks the filtering options of the dynamic slide generators "
+"when %1$s is set to %2$s. Also it has not received any updates since "
+"WordPress 3.9."
+msgstr ""
+
+msgid "Add column"
+msgstr ""
+
+msgid "Year"
+msgstr "Év"
+
+msgid "Month"
+msgstr "Hónap"
+
+msgid "Day"
+msgstr "Nap"
+
+msgid "Hour"
+msgstr "Óra"
+
+msgid "Minute"
+msgstr "Perc"
+
+msgid "Stack"
+msgstr "Sorrend"
+
+msgid "No description."
+msgstr ""
+
+#, fuzzy
+#| msgid "Icon not found"
+msgid "Generator not found"
+msgstr "Az ikon nem található."
+
+msgid "Test generator."
+msgstr ""
+
+msgid "Generator type not found"
+msgstr ""
+
+#, php-format
+msgid "%1$s generator missing the following source: %2$s"
+msgstr ""
+
+msgid "Joomla articles"
+msgstr ""
+
+msgid "Creates slides from your Joomla articles or categories."
+msgstr ""
+
+msgid "Article"
+msgstr ""
+
+msgid "Category"
+msgstr "Kategória"
+
+msgid "Creates slides from your Joomla articles in the selected categories."
+msgstr ""
+
+msgid "Tags"
+msgstr "Címkék"
+
+msgid "Featured"
+msgstr "Kiemelt"
+
+msgid "User ID"
+msgstr ""
+
+msgid "Language"
+msgstr "Nyelv"
+
+msgid "Extra variables"
+msgstr ""
+
+msgid "Turn on these options to generate more variables for the slides."
+msgstr ""
+
+msgid "Date format"
+msgstr "Dátum formátum"
+
+msgid "Time format"
+msgstr "Idő formátum"
+
+msgid "Translate date and time"
+msgstr "Dátum és idő lefordítása"
+
+msgid "Title"
+msgstr "Cím"
+
+msgid "User name"
+msgstr "Felhasználónév"
+
+msgid "Hits"
+msgstr "Megtekintések"
+
+msgid "Creation time"
+msgstr "Létrehozás dátuma"
+
+msgid "Modification time"
+msgstr "Módosítás időpontja"
+
+msgid "Publish time"
+msgstr ""
+
+msgid "Featured article ordering"
+msgstr ""
+
+msgid "View article"
+msgstr ""
+
+msgid ""
+"Creates slides from your Joomla categories. (Not the articles inside them.)"
+msgstr ""
+
+msgid "Parent category"
+msgstr "Szülő kategória"
+
+msgid "View category"
+msgstr ""
+
+msgid "Nothing"
+msgstr "Semmi"
+
+#, php-format
+msgid "Creates slides from %1$s."
+msgstr ""
+
+msgid "Posts by filter"
+msgstr "Bejegyzések szűrő alapján"
+
+msgid "Posts by IDs"
+msgstr "Bejegyzések azonosító alapján"
+
+msgid "Custom"
+msgstr "Egyedi"
+
+msgid "All custom posts"
+msgstr "Összes egyedi bejegyzés"
+
+msgid "Creates slides from the posts of all your post types."
+msgstr ""
+
+msgid "Post types"
+msgstr "Bejegyzéstípusok"
+
+msgid "Taxonomies"
+msgstr "Taxonómiák"
+
+msgid "Post IDs to display"
+msgstr ""
+
+#, php-format
+msgid ""
+"You can make your generator display only the posts with the set ID. No other "
+"post will be fetched, even if they match the set filters. %1$s Write one ID "
+"per line."
+msgstr ""
+
+msgid "Sticky"
+msgstr "Rögzített"
+
+msgid "Post status"
+msgstr "Bejegyzés állapot"
+
+msgid "Post meta comparison"
+msgstr ""
+
+msgid "Field name"
+msgstr "Mezőnév"
+
+msgid ""
+"Only show posts, where the given meta key is equal to the given meta value."
+msgstr ""
+
+msgid "Compare method"
+msgstr "Összehasonlítási mód"
+
+msgid "Field value"
+msgstr "Mezőérték"
+
+msgid "Meta comparison"
+msgstr ""
+
+msgid ""
+"Same as the previous option, just you can write down more comparisons. Read "
+"the \"Field name\" and \"Compare method\" out from the previous option. "
+"Example:"
+msgstr ""
+
+msgid "Post date"
+msgstr "Bejegyzés dátum"
+
+msgid "Modification date"
+msgstr "Módosítás dátuma"
+
+msgid "Random"
+msgstr "Véletlen"
+
+msgid "Given IDs"
+msgstr "Adott azonosítók"
+
+msgid "Menu order"
+msgstr "Menü sorrend"
+
+#, php-format
+msgid "Creates slides from the following post type: %1$s."
+msgstr ""
+
+msgid "Relation"
+msgstr "Kapcsolódás"
+
+msgid "Exclude posts"
+msgstr "Bejegyzések kizárása"
+
+#, php-format
+msgid ""
+"The selected post IDs won't appear in the generator, even if they they match "
+"the set filters. %1$s Write one ID per line."
+msgstr ""
+
+#, php-format
+msgid ""
+"You can create other comparison based on the previous \"Field name\" and "
+"\"Compare method\" options. %1$s Use the following format: published||=||yes "
+"%1$s Write one comparison per line."
+msgstr ""
+
+msgid "Post option"
+msgstr "Bejegyzés opció"
+
+msgid ""
+"Posts can have options, like a post can be \"sticky\" or not. You can choose "
+"to only display posts, which are selected to be IN or NOT IN this option."
+msgstr ""
+
+msgid "Post relationship with selected option"
+msgstr ""
+
+msgid "Date configuration"
+msgstr ""
+
+msgid "Identify datetime"
+msgstr ""
+
+msgid "Our system tries to identify the date and time in your variables."
+msgstr ""
+
+msgid "Datetime format"
+msgstr ""
+
+#, php-format
+msgid "You can use any %1$sPHP date format%2$s."
+msgstr ""
+
+msgid "Translate dates"
+msgstr ""
+
+#, php-format
+msgid ""
+"Write one per line in the following format: from||to %1$s E.g.: Monday||"
+"Montag"
+msgstr ""
+
+msgid "Replace variables"
+msgstr ""
+
+msgid "Timestamp variables"
+msgstr ""
+
+msgid "Replace timestamp variables"
+msgstr ""
+
+#, php-format
+msgid ""
+"The \"Datetime format\" will be used to create dates from the given "
+"timestamp containing variables. %1$s Separate them with comma."
+msgstr ""
+
+msgid "File variables"
+msgstr ""
+
+msgid "Replace file variables"
+msgstr ""
+
+#, php-format
+msgid ""
+"If you have IDs of files, you can replace those variables with the urls of "
+"the files instead. %1$s Separate them with comma."
+msgstr ""
+
+msgid "Remove duplicate results"
+msgstr ""
+
+msgid ""
+"You can remove results based on one variable's uniqueness. For example if "
+"you want the images to be unique, you could write the \"image\" variable "
+"into this field (without quotemarks)."
+msgstr ""
+
+msgid "Custom field name"
+msgstr ""
+
+msgid "If it's set, this will be used instead of the 'Field' value."
+msgstr ""
+
+msgid "Numeric"
+msgstr ""
+
+msgid "Alphabetic"
+msgstr ""
+
+msgid "Creates slides from your posts in the selected categories."
+msgstr ""
+
+msgid "Categories"
+msgstr "Kategóriák"
+
+msgid "Remove shortcodes"
+msgstr ""
+
+msgid ""
+"You can remove shortcodes from variables to avoid 3rd party content "
+"rendering in your slider."
+msgstr ""
+
+msgid "Remove from variables"
+msgstr ""
+
+msgid ""
+"Write the name of the variables you want to remove the shortcodes from. "
+"Separate new variables with a comma and space. E.g. description, content"
+msgstr ""
+
+msgid "Custom date variables"
+msgstr ""
+
+#, php-format
+msgid ""
+"You can create custom date variables from your existing date variables. "
+"Write each variable to a new line and use the following format: variable||"
+"format. %3$s The \"variable\" should be an existing variable. Based on this "
+"existing variable, we create a new one with the \"_datetime\" suffix. (E.g. "
+"date_datetime.) %3$s The \"format\" can be any %1$sPHP date format%2$s."
+msgstr ""
+
+msgid "Translate custom dates"
+msgstr ""
+
+#, php-format
+msgid ""
+"You can translate the content of the newly created variables. %1$s Use the "
+"following format: from||to. Eg.: Monday||Montag"
+msgstr ""
+
+msgid "Date function"
+msgstr ""
+
+msgid ""
+"This function will be used to format these custom date variables. Usually "
+"the date_i18n works, but if your date will be off a little bit, then try out "
+"the other one."
+msgstr ""
+
+msgid "Comment count"
+msgstr "Hozzászólások száma"
+
+msgid "Creates slides from the posts with the set IDs."
+msgstr ""
+
+msgid "Post or Page IDs"
+msgstr ""
+
+#, php-format
+msgid ""
+"You can write the ID of the page you want to show in your generator. %1$s "
+"Write one ID per line."
+msgstr ""
+
+msgid "Whole group"
+msgstr ""
+
+#, fuzzy
+#| msgid "Select all"
+msgid "Select Slider"
+msgstr "Mindent kijelöl"
+
+msgid "OR"
+msgstr ""
+
+msgid "Insert a slider into your content"
+msgstr ""
+
+msgid "Select the slider you want to insert."
+msgstr ""
+
+msgctxt "Button layer default text"
+msgid "MORE"
+msgstr ""
+
+msgid "Label"
+msgstr "Címke"
+
+msgid "No wrap"
+msgstr "Nincs sortörés"
+
+msgid "Prevents the text from breaking into more lines"
+msgstr ""
+
+msgid "Rel"
+msgstr ""
+
+#, php-format
+msgid ""
+"Enter the %1$s rel attribute %2$s that represents the relationship between "
+"the current document and the linked document. Multiple rel attributes can be "
+"separated with space. E.g. nofollow noopener noreferrer"
+msgstr ""
+
+msgid "Icon"
+msgstr "Ikon"
+
+msgid "Placement"
+msgstr "Elhelyezkedés"
+
+#, php-format
+msgid "Class on the %s element."
+msgstr ""
+
+msgid "Heading layer"
+msgstr "Cím réteg"
+
+msgid "Text animation"
+msgstr ""
+
+msgid "Incoming"
+msgstr ""
+
+msgid "Outgoing"
+msgstr ""
+
+msgid "Backface visibility"
+msgstr ""
+
+#, php-format
+msgid "Fix width for the %1$s."
+msgstr ""
+
+#, php-format
+msgid "Fix height for the %1$s."
+msgstr ""
+
+msgid "Alt tag"
+msgstr "Alt tag"
+
+msgid "Optimize image"
+msgstr ""
+
+msgid ""
+"You can turn off the Layer image optimization for this image, to resize it "
+"for tablet and mobile."
+msgstr ""
+
+msgctxt "Layer group"
+msgid "Special"
+msgstr ""
+
+msgctxt "Layer group"
+msgid "Media"
+msgstr ""
+
+msgctxt "Layer group"
+msgid "Advanced"
+msgstr ""
+
+msgctxt "Layer"
+msgid "Missing"
+msgstr ""
+
+#, php-format
+msgid "Missing layer type: %s"
+msgstr ""
+
+msgid "Custom text for tablet"
+msgstr ""
+
+msgid "Tablet text"
+msgstr "Tablet szöveg"
+
+msgid "Custom text for mobile"
+msgstr ""
+
+msgid "Mobile text"
+msgstr "Mobil szöveg"
+
+msgid "Vimeo url or Video ID"
+msgstr ""
+
+msgid "Cover image"
+msgstr "Előnézeti kép"
+
+msgid "Aspect ratio"
+msgstr ""
+
+msgid "Fill layer height"
+msgstr ""
+
+msgid "Set on Style tab."
+msgstr ""
+
+msgid "Video settings"
+msgstr ""
+
+msgid "When ended"
+msgstr ""
+
+msgid "Do nothing"
+msgstr ""
+
+msgid "Go to next slide"
+msgstr ""
+
+msgid "Start time"
+msgstr "Kezdő időpont"
+
+msgid "Volume"
+msgstr "Hangerő"
+
+msgid "Mute"
+msgstr "Néma"
+
+msgid "Pause on scroll"
+msgstr ""
+
+msgid "Never"
+msgstr ""
+
+msgid "When partly visible"
+msgstr ""
+
+msgid "When not visible"
+msgstr ""
+
+msgid "You can pause the video when the visitor scrolls away from the slider"
+msgstr ""
+
+msgid "Display"
+msgstr "Megjelenít"
+
+msgid "Only works on videos of Vimeo Pro users."
+msgstr ""
+
+msgid "Remove controls"
+msgstr "Vezérlők eltávolítása"
+
+msgid ""
+"Removes the controls of the video, but it only works on videos of Vimeo Pro "
+"users."
+msgstr ""
+
+msgid "Hides the title of the video, but only if video owner allows it."
+msgstr ""
+
+msgid "Users byline"
+msgstr "Felhasználó byline"
+
+msgid ""
+"Hides the user's byline of the video, but only if video owner allows it."
+msgstr ""
+
+msgid ""
+"Hides the profile image of the author, but only if video owner allows it. "
+msgstr ""
+
+msgid "Play button"
+msgstr "Lejátszás gomb"
+
+msgid "Play"
+msgstr "Lejátszás"
+
+msgid "YouTube URL or Video ID"
+msgstr ""
+
+msgid "End time"
+msgstr "Befejező dátum"
+
+msgid "Hide YouTube logo"
+msgstr ""
+
+msgid "Centered"
+msgstr "Középre"
+
+msgid "Scales up and crops the video to cover the whole layer."
+msgstr ""
+
+msgid "Show related videos"
+msgstr ""
+
+msgid "Anywhere"
+msgstr ""
+
+msgid "Same channel"
+msgstr ""
+
+msgid ""
+"YouTube no longer allows hiding the related videos at the end of the video. "
+"This setting defines whether the videos should come from the same channel as "
+"the video that was just played or from any other channel."
+msgstr ""
+
+msgid "Slider error! Generator group not found: "
+msgstr ""
+
+msgid "Slider error! Generator source not found: "
+msgstr ""
+
+msgid "Downscale"
+msgstr "Távolítás"
+
+msgid "Allows the slider to scale down for smaller screens."
+msgstr ""
+
+msgid "Upscale"
+msgstr "Közelítés"
+
+msgid "Allows the slider to scale up for larger screens."
+msgstr ""
+
+msgid "Min height"
+msgstr ""
+
+msgid "Prevents the slider from getting smaller than the set value."
+msgstr ""
+
+msgid "Force full width"
+msgstr "Kényszerített teljes szélesség"
+
+msgid "The slider tries to fill the full width of the browser."
+msgstr "A slider megpróbálja kitölteni a böngésző teljes szélességét."
+
+msgid "Overflow-X"
+msgstr ""
+
+msgid ""
+"Prevents the vertical scrollbar from appear during certain slide background "
+"animations."
+msgstr ""
+
+msgid "Adjust slider width to"
+msgstr ""
+
+msgid ""
+"You can make the slider fill up a selected parent element instead of the "
+"full browser width."
+msgstr ""
+
+msgid "Not found"
+msgstr ""
+
+msgid "Slider size is too small!"
+msgstr ""
+
+msgid "Ken Burns effect"
+msgstr "Ken Burns effektus"
+
+msgid "Speed"
+msgstr "Sebesség"
+
+msgid "Super slow"
+msgstr "Nagyon lassú"
+
+msgid "Slow"
+msgstr "Lassú"
+
+msgid "Fast"
+msgstr "Gyors"
+
+msgid "Super fast"
+msgstr "Nagyon gyors"
+
+msgid "Border width"
+msgstr ""
+
+msgid "Border color"
+msgstr ""
+
+msgid "Super fast 4x"
+msgstr ""
+
+msgctxt "Slider type"
+msgid "Simple slider"
+msgstr ""
+
+#, fuzzy
+#| msgid "Loading animation"
+msgid "Main animation"
+msgstr "Betöltési animáció"
+
+msgid "No animation"
+msgstr "Nincs animáció"
+
+msgid "Crossfade"
+msgstr "Áttűnés"
+
+msgid "Horizontal - reversed"
+msgstr "Horizontális - fordított"
+
+msgid "Vertical - reversed"
+msgstr "Vertikális - fordított"
+
+msgctxt "Feature"
+msgid "Carousel"
+msgstr ""
+
+msgid ""
+"If you turn off this option, you can't switch to the first slide from the "
+"last one."
+msgstr ""
+"Ha bekapcsolod ezt az opciót, nem tudsz az első slide-ra menni az utolsóról."
+
+msgid ""
+"Background animations only work on the slide background images, which have "
+"Fill selected at their Fill mode. They don't affect any images if the "
+"background parallax is enabled."
+msgstr ""
+
+msgid "Shifted"
+msgstr "Eltolt"
+
+msgid "The background and the main animation plays simultaneously or shifted."
+msgstr ""
+
+msgid "Slider CSS Preset"
+msgstr ""
+
+msgid "Light shadow"
+msgstr "Világos árnyék"
+
+msgid "Dark shadow"
+msgstr "Sötét árnyék"
+
+msgid "Photo"
+msgstr "Kép"
+
+msgid "Photo rounded"
+msgstr "Lekerekített kép"
+
+#, php-format
+msgid "Demo slider is not available with the following ID: %s"
+msgstr "Az alábbi ID-vel rendelkező demó slider nem elérhező: %s"
+
+msgid "Blue"
+msgstr "Kék"
+
+msgid "White"
+msgstr "Fehér"
+
+msgid "Green"
+msgstr "Zöld"
+
+msgid "Purple"
+msgstr "Lila"
+
+msgid "Grey"
+msgstr "Szürke"
+
+msgid "Black"
+msgstr "Fekete"
+
+msgid "Rounded Blue"
+msgstr "Lekerekített kék"
+
+msgid "Rounded Green"
+msgstr "Lekerekített zöld"
+
+msgid "Rounded Purple"
+msgstr "Lekerekített lila"
+
+msgid "Rounded Grey"
+msgstr "Lekerekített szürke"
+
+msgid "Rounded White"
+msgstr "Lekerekített fehér"
+
+msgid "Rounded Black"
+msgstr "Lekerekített fekete"
+
+msgid "Border White"
+msgstr "Fehér keret"
+
+msgid "Border Dark"
+msgstr "Fekete keret"
+
+msgid "Rectangle Green"
+msgstr "Zöld téglalap"
+
+msgid "Rectangle Blue"
+msgstr "Kék téglalap"
+
+msgid "Rectangle Purple"
+msgstr "Lila téglalap"
+
+msgid "Rectangle Grey"
+msgstr "Szürke téglalap"
+
+msgid "Rounded Rectangle Green"
+msgstr "Lekerekített zöld téglalap"
+
+msgid "Rounded Rectangle Blue"
+msgstr "Lekerekített kék téglalap"
+
+msgid "Rounded Rectangle Purple"
+msgstr "Lekerekített lila téglalap"
+
+msgid "Border Light"
+msgstr "Világos szegély"
+
+msgid "My styles"
+msgstr "Saját stílusok"
+
+msgid "X-small Light"
+msgstr "Extra kicsi világos"
+
+msgid "X-small Dark"
+msgstr "Extra kicsi sötét"
+
+msgid "Small Light"
+msgstr "Kicsi világos"
+
+msgid "Small Dark"
+msgstr "Kicsi sötét"
+
+msgid "Medium Light"
+msgstr "Közepes világos"
+
+msgid "Medium Dark"
+msgstr "Közepes sötét"
+
+msgid "Large Light"
+msgstr "Nagy világos"
+
+msgid "Large Dark"
+msgstr "Nagy sötét"
+
+msgid "X-large Light"
+msgstr "Extra nagy világos"
+
+msgid "X-large Dark"
+msgstr "Extra nagy sötét"
+
+msgid "My fonts"
+msgstr "Saját betűgyűjtemény"
+
+msgid "Warp"
+msgstr "Kicsavarás"
+
+msgid "Twirl"
+msgstr "Pörgetés"
+
+msgid "Domino"
+msgstr "Dominó"
+
+msgid "Stand up"
+msgstr "Felpattan"
+
+msgid "Rotate down"
+msgstr "Forgatás lefelé"
+
+msgid "Elastic"
+msgstr "Rugalmas"
+
+#, fuzzy
+#| msgid "Random Elastic"
+msgid "Random elastic"
+msgstr "Véletlen rugalmas"
+
+msgid "My text animations"
+msgstr ""
+
+msgid "Morph - Wave"
+msgstr ""
+
+msgid "Morph - Brush"
+msgstr ""
+
+msgid "Morph - Flow"
+msgstr ""
+
+msgid "Morph - Noise"
+msgstr ""
+
+msgid "Distortion - Mosaic"
+msgstr ""
+
+msgid "Distortion - Triangle"
+msgstr ""
+
+msgid "Distortion - Flow"
+msgstr ""
+
+msgid "Distortion - Warp"
+msgstr ""
+
+msgid "Distortion - Storm"
+msgstr ""
+
+msgid "Distortion - Wave"
+msgstr ""
+
+msgid "Distortion - Shard"
+msgstr ""
+
+msgid "Distortion - Noise"
+msgstr ""
+
+msgid "Slices - Single"
+msgstr ""
+
+msgid "Slices - Simple rows and scale"
+msgstr ""
+
+msgid "Slices - Simple rows and rotate"
+msgstr ""
+
+msgid "Slices - Simple rows reversed"
+msgstr ""
+
+msgid "Slices - Simple rows and blur"
+msgstr ""
+
+msgid "Slices - Triangle"
+msgstr ""
+
+msgid "Slices - Reversed triangle"
+msgstr ""
+
+msgid "Scale to left"
+msgstr "Méretezés balra"
+
+msgid "Rotate to left"
+msgstr "Forgatás balra"
+
+msgid "Fixed to left"
+msgstr "Fix balra"
+
+msgid "Parallax to left"
+msgstr "Parallax balra"
+
+msgid "Flow"
+msgstr "Áramlás"
+
+msgid "Flowing rows"
+msgstr "Áramló sorok"
+
+msgid "Flowing cols"
+msgstr "Áramló oszlopok"
+
+msgid "Flowing tiles"
+msgstr "Áramló csempék"
+
+msgid "Slide to left"
+msgstr "Balra csúszás"
+
+msgid "Stage"
+msgstr "Színpad"
+
+msgid "Zoom"
+msgstr "Nagyítás"
+
+msgid "Zoom out"
+msgstr "Kicsinyítés"
+
+msgid "Curtain to left"
+msgstr "Függöny balra"
+
+msgid "Blocks to left"
+msgstr "Négyzetek balra"
+
+msgid "Slices to left"
+msgstr "Sávok balra"
+
+msgid "Reversed slices to left"
+msgstr "Fordított sávok balra"
+
+msgid "Puzzle"
+msgstr "Kirakó"
+
+msgid "Switching to left"
+msgstr "Balra váltás"
+
+msgid "Explode"
+msgstr "Robbanás"
+
+msgid "Rebuild"
+msgstr "Újjáépítés"
+
+msgid "Page turn to left"
+msgstr "Lapozás balra"
+
+msgid "3D bricks to left"
+msgstr "3D dobozok balra"
+
+msgid "Vertical spin to left"
+msgstr "Függőleges fordítás balra"
+
+msgid "3D rows to left"
+msgstr "3D sorok balra"
+
+msgid "3D columns to left"
+msgstr "3D oszlopok  balra"
+
+msgid "Spinning cuboid to left"
+msgstr "Kocka fordítás balra"
+
+msgid "Turning cuboid to left"
+msgstr "Kocka forgatás balra"
+
+msgid "Scale to top"
+msgstr "Méretezés felfelé"
+
+msgid "Scale to bottom"
+msgstr "Méretezés lefelé"
+
+msgid "Rotate to top"
+msgstr "Forgatás felfelé"
+
+msgid "Rotate to bottom"
+msgstr "Forgatás lefelé"
+
+msgid "Fixed to top"
+msgstr "Fix felfelé"
+
+msgid "Fixed to bottom"
+msgstr "Fix lefelé"
+
+msgid "Parallax to top"
+msgstr "Parallax felfelé"
+
+msgid "Parallax to bottom"
+msgstr "Parallax lefelé"
+
+msgid "Flowing tiles vertical"
+msgstr "Függőlegesen áramló csempék"
+
+msgid "Slide to bottom"
+msgstr "Lefelé csúszás"
+
+msgid "Slide to top"
+msgstr "Felfelé csúszás"
+
+msgid "Curtain to bottom"
+msgstr "Függöny lefelé"
+
+msgid "Curtain to top"
+msgstr "Függöny felfelé"
+
+msgid "Switching to bottom"
+msgstr "Lefelé váltás"
+
+msgid "Switching to top"
+msgstr "Felfelé váltás"
+
+msgid "Horizontal spin to bottom"
+msgstr "Vízszintes fordítás lefelé"
+
+msgid "Horizontal spin to top"
+msgstr "Vízszintes fordítás felfelé"
+
+msgid "3D bricks to bottom"
+msgstr "3D dobozok lefelé"
+
+msgid "3D bricks to top"
+msgstr "3D dobozok felfelé"
+
+msgid "3D rows to bottom"
+msgstr "3D sorok lefelé"
+
+msgid "3D rows to top"
+msgstr "3D sorok felfelé"
+
+msgid "3D columns to bottom"
+msgstr "3D oszlopok lefelé"
+
+msgid "3D columns to top"
+msgstr "3D oszlopok felfelé"
+
+msgid "Spinning cuboid to bottom"
+msgstr "Kocka fordítás lefelé"
+
+msgid "Spinning cuboid to top"
+msgstr "Kocka fordítás felfelé"
+
+msgid "Turning cuboid to bottom"
+msgstr "Kocka forgatás lefelé"
+
+msgid "Turning cuboid to top"
+msgstr "Kocka forgatás felfelé"
+
+msgid "Scale to right"
+msgstr "Méretezés jobbra"
+
+msgid "Rotate to right"
+msgstr "Forgatás jobbra"
+
+msgid "Fixed to right"
+msgstr "Fix jobbra"
+
+msgid "Parallax to right"
+msgstr "Parallax jobbra"
+
+msgid "Flow - reversed"
+msgstr "Fordított áramlás"
+
+msgid "Slide to right"
+msgstr "Jobbra csúszás"
+
+msgid "Curtain to right"
+msgstr "Függöny jobbra"
+
+msgid "Blocks to right"
+msgstr "Négyzetek jobbra"
+
+msgid "Slices to right"
+msgstr "Sávok jobbra"
+
+msgid "Reversed slices to right"
+msgstr "Fordított sávok jobbra"
+
+msgid "Switching to right"
+msgstr "Jobbra váltás"
+
+msgid "Page turn to right"
+msgstr "Lapozás jobbra"
+
+msgid "Vertical spin to right"
+msgstr "Függőleges fordíáts jobbra"
+
+msgid "3D bricks to right"
+msgstr "3D dobozok jobbra"
+
+msgid "3D rows to right"
+msgstr "3D sorok jobbra"
+
+msgid "3D columns to right"
+msgstr "3D oszlopok jobbra"
+
+msgid "Spinning cuboid to right"
+msgstr "Kocka fordítás jobbra"
+
+msgid "Turning cuboid to right"
+msgstr "Kocka forgatás jobbra"
+
+msgid "Downscale left"
+msgstr "Távolítás balra"
+
+msgid "Downscale right"
+msgstr "Távolítás jobbra"
+
+msgid "Downscale top"
+msgstr "Távolítás felfelé"
+
+msgid "Downscale bottom"
+msgstr "Távolítás lefelé"
+
+msgid "Upscale left"
+msgstr "Közelítés balra"
+
+msgid "Upscale right"
+msgstr "Közelítés jobbra"
+
+msgid "Upscale top"
+msgstr "Közelítés felfelé"
+
+msgid "Upscale bottom"
+msgstr "Közelítés lefelé"
+
+msgid "To left"
+msgstr "Balra"
+
+msgid "To right"
+msgstr "Jobbra"
+
+msgid "To top left"
+msgstr ""
+
+msgid "To top right"
+msgstr "Jobbra fel"
+
+msgid "To bottom left"
+msgstr "Balra le"
+
+msgid "To bottom right"
+msgstr "Jobbra le"
+
+msgid "My layouts"
+msgstr "Saját elrendezések"
+
+msgctxt "Arrow direction"
+msgid "Previous"
+msgstr ""
+
+msgid "Previous image"
+msgstr "Előző kép"
+
+msgid "Hover color"
+msgstr "Hover szín"
+
+msgid "Mirror"
+msgstr "Tükrözés"
+
+msgctxt "Arrow direction"
+msgid "Next"
+msgstr ""
+
+msgid "Next image"
+msgstr "Következő kép"
+
+msgid "Arrow"
+msgstr "Nyíl"
+
+msgid "Previous position"
+msgstr "Előző pozíció"
+
+msgid "Next position"
+msgstr "Következő pozíció"
+
+msgid "Previous alt tag"
+msgstr ""
+
+msgid "Next alt tag"
+msgstr ""
+
+msgid "Base64"
+msgstr ""
+
+msgid ""
+"Base64 encoded arrow images are loading faster and they are colorable. But "
+"optimization plugins often have errors in their codes related to them, so if "
+"your arrow won't load, turn this option off."
+msgstr ""
+
+msgid "Image width - Desktop"
+msgstr ""
+
+#, fuzzy
+#| msgid "Image mode"
+msgid "Image width - Tablet"
+msgstr "Kép mód"
+
+#, fuzzy
+#| msgid "Image mode"
+msgid "Image width - Mobile"
+msgstr "Kép mód"
+
+msgid "Pause"
+msgstr "Megállítás"
+
+#, fuzzy
+#| msgid "Pause autoplay"
+msgid "Play autoplay"
+msgstr "Automatikus lejátszás megállítása"
+
+msgid "Pause autoplay"
+msgstr "Automatikus lejátszás megállítása"
+
+msgid "Bar"
+msgstr "Sáv"
+
+msgid "Slide count"
+msgstr ""
+
+msgid ""
+"The \"Title\" will be the index of the slide and \"Description\" will be the "
+"total number of slides."
+msgstr ""
+
+msgid "Separator"
+msgstr "Elválasztás"
+
+#, php-format
+msgid ""
+"You can set what separates the Tex bar Title and Description. This separator "
+"is used at the Slide count option, too, to separate the current and total "
+"slide number. %1$s To put the Description to a new line, use the &lt;br&gt; "
+"HTML tag."
+msgstr ""
+
+msgid "Bar full size"
+msgstr "Teljes szélességű sáv"
+
+msgid "Shows on hover"
+msgstr ""
+
+msgid "Hide on slides"
+msgstr "Elrejtés ezeken a slide-okon"
+
+msgid ""
+"List the slides separated by commas on which you want the controls to be "
+"hidden."
+msgstr ""
+"A slide-ok vesszővel elválasztott listája, ahol a kontrol nem jelenik meg."
+
+#, fuzzy
+#| msgid "Text Bar"
+msgid "Text bar"
+msgstr "Szöveg bár"
+
+msgid "Bullets"
+msgstr "Bullet gombok"
+
+msgid "Side"
+msgstr "Szélről"
+
+msgid "Before"
+msgstr "Előtte"
+
+msgid "After"
+msgstr "Utána"
+
+msgid "Shadow"
+msgstr "Árnyék"
+
+msgid "Thumbnails"
+msgstr "Bélyegképek"
+
+#, fuzzy
+msgid "Desktop width"
+msgstr "Asztali"
+
+#, fuzzy
+#| msgid "Tablet text"
+msgid "Tablet width"
+msgstr "Tablet szöveg"
+
+#, fuzzy
+#| msgid "Mobile text"
+msgid "Mobile width"
+msgstr "Mobil szöveg"
+
+msgid "Align thumbnails"
+msgstr "Bélyegkép igazítása"
+
+msgid "Start"
+msgstr "Kezdés"
+
+msgid "End"
+msgstr "Vége"
+
+msgid "Space between"
+msgstr ""
+
+#, fuzzy
+#| msgid "Background"
+msgid "Space around"
+msgstr "Háttér"
+
+msgid "Caption"
+msgstr "Képfelirat"
+
+msgid ""
+"The height (horizontal orientation) or width (vertical orientation) of the "
+"caption container."
+msgstr ""
+
+msgid "Next arrow image"
+msgstr ""
+
+msgid "The previous arrow image will be mirrored."
+msgstr "Az előző nyíl tükrözésre kerül."
+
+msgid "Group by"
+msgstr ""
+
+msgctxt "Unit"
+msgid "thumbnails"
+msgstr ""
+
+msgid "You can break your thumbnails into rows or columns."
+msgstr ""
+
+msgid ""
+"The height (horizontal orientation) or width (vertical orientation) of the "
+"thumbnail container in px or %."
+msgstr ""
+
+#, javascript-format
+msgid "Switches %s slide(s)."
+msgstr ""
+
+#, javascript-format
+msgid "Loops %s and stops before starting slide."
+msgstr ""
+
+#, javascript-format
+msgid "Loops %s and returns to starting slide."
+msgstr ""
+
+#, javascript-format
+msgid "Switches to the %s. slide."
+msgstr ""
+
+msgid "Top and bottom"
+msgstr "Fent és lent"
+
+msgid "License key cannot be empty!"
+msgstr "A licensz kulcs nem lehet üres."
+
+msgid "License key is active!"
+msgstr "A licensz kulcs aktív."
+
+msgid "Missing sliders!"
+msgstr "Hiányoznak a diabemutatók."
+
+msgid "Line color"
+msgstr "Vonal színe"
+
+msgid "Number of particles"
+msgstr "Particle-ök száma"
+
+msgid "Grab"
+msgstr "Összekapcsolás"
+
+msgid "Bubble"
+msgstr "Buborék"
+
+msgid "Repulse"
+msgstr "Eltolás"
+
+msgid "Push"
+msgstr "Hozzáadás"
+
+msgid "Remove"
+msgstr "Eltávolítás"
+
+msgid "Hide on mobile"
+msgstr ""
+
+msgid "Type"
+msgstr "Típus"
+
+msgid "Secondary"
+msgstr "Másodlagos"
+
+msgid "Flip"
+msgstr "Megfordítás"
+
+msgid "Grow"
+msgstr "Növekszik"
+
+msgid "Shrink"
+msgstr "Zsugorítás"
+
+msgid "Interval"
+msgstr "Időköz"
+
+#, fuzzy
+#| msgid "Interval"
+msgid "Interval modifier"
+msgstr "Időköz"
+
+msgctxt "Autoplay modifier"
+msgid "loops"
+msgstr ""
+
+msgctxt "Autoplay modifier"
+msgid "slide count"
+msgstr ""
+
+msgctxt "Autoplay modifier"
+msgid "slide index"
+msgstr ""
+
+msgid "Stops on"
+msgstr ""
+
+msgctxt "Autoplay modifier"
+msgid "last slide"
+msgstr ""
+
+msgctxt "Autoplay modifier"
+msgid "next slide"
+msgstr ""
+
+msgid "Polygons"
+msgstr ""
+
+msgid "Bloom"
+msgstr ""
+
+msgid "Web"
+msgstr ""
+
+msgid "Black widow"
+msgstr ""
+
+msgid "Zodiac"
+msgstr ""
+
+msgid "Fading dots"
+msgstr ""
+
+msgid "Pirouette"
+msgstr ""
+
+msgid "Sparkling"
+msgstr ""
+
+#, php-format
+msgid "Curve %d"
+msgstr ""
+
+msgid "Curves"
+msgstr ""
+
+#, php-format
+msgid "Fan %d"
+msgstr ""
+
+msgid "Hills"
+msgstr ""
+
+#, fuzzy, php-format
+#| msgid "Inline"
+msgid "Incline %d"
+msgstr "Belső"
+
+msgid "Inverse arrow"
+msgstr ""
+
+msgid "Rectangle"
+msgstr ""
+
+msgid "Slopes"
+msgstr ""
+
+#, php-format
+msgid "Tilt %d"
+msgstr ""
+
+#, php-format
+msgid "Triangle %d"
+msgstr ""
+
+#, php-format
+msgid "Wave %d"
+msgstr ""
+
+msgid "Waves"
+msgstr ""
+
+#, fuzzy, php-format
+#| msgid "Columns"
+msgid "Columns %d"
+msgstr "Oszlopoko"
+
+#, php-format
+msgid "Paper %d"
+msgstr ""
+
+msgid "2 Colors"
+msgstr ""
+
+msgid "Fan"
+msgstr ""
+
+msgid "Masked waves"
+msgstr ""
+
+msgid "Ribbon"
+msgstr ""
+
+msgid "The secret is empty. Please insert that value too!"
+msgstr ""
+
+msgid "The App ID is empty. Please insert that value too!"
+msgstr ""
+
+#, php-format
+msgid ""
+"%1$s allows HTTPS Redirect URIs only! You must move your site to HTTPS in "
+"order to use this generator!"
+msgstr ""
+
+msgid "How to get SSL for my website?"
+msgstr ""
+
+#, php-format
+msgid ""
+"%2$s Check the documentation %3$s to learn how to configure your %1$s app."
+msgstr ""
+
+msgctxt "Facebook app permission"
+msgid "pages read engagement"
+msgstr ""
+
+msgid "Pages read engagement permission"
+msgstr ""
+
+msgid ""
+"You need \"pages_read_engagement\" permission if you want to access datas of "
+"Facebook pages, where you are an administrator. For other pages you still "
+"need to turn this option on, but request access to \"Page Public Content "
+"Access\" within your App."
+msgstr ""
+
+msgctxt "Facebook app permission"
+msgid "user photos"
+msgstr ""
+
+msgid "User photos permission"
+msgstr ""
+
+msgid ""
+"You need \"user_photos\" permission to access photos of users, except your "
+"own user."
+msgstr ""
+
+msgid "Token"
+msgstr "Token"
+
+msgid "Callback url"
+msgstr "Callback url"
+
+msgid "The token expired. Please request new token! "
+msgstr "A token lejárt. Kérj új tokent! "
+
+msgid "Request token"
+msgstr "Token kérés"
+
+msgid "Facebook photos or posts on your page"
+msgstr ""
+
+msgid "Photos by album"
+msgstr "Képek albumból"
+
+msgid "Posts by page"
+msgstr "Posztok oldal alapján"
+
+msgid "User or page"
+msgstr "Felhasználó vagy oldal"
+
+msgid "Album"
+msgstr "Album"
+
+msgctxt "Facebook generator type"
+msgid "Facebook posts"
+msgstr ""
+
+msgid "Page"
+msgstr "Oldal"
+
+msgid "Feed"
+msgstr "Feed"
+
+msgid "Remove special characters"
+msgstr "Különleges karakterek eltávolítása"
+
+#, fuzzy
+#| msgid "Exclude posts"
+msgid "Exclude Types"
+msgstr "Bejegyzések kizárása"
+
+#, fuzzy
+#| msgid "Separate them by comma."
+msgid "Separate the types by a comma. E.g.: share,album"
+msgstr "Válasszuk el ezeket vesszővel."
+
+msgid "The key and secret is not valid!"
+msgstr "A key és a secret nem valid!"
+
+msgid "There are no photos in this album!"
+msgstr "Nincsenek képek az albumban!"
+
+msgid "Please choose an album!"
+msgstr "Válassz albumot!"
+
+msgid "There are no photos in this gallery!"
+msgstr "Nincenek képek a galériában!"
+
+msgid "Please chooose a gallery!"
+msgstr "Válassz galériát!"
+
+msgid "Privacy"
+msgstr "Nyilvánosság"
+
+msgid "There are no photos with this privacy filter!"
+msgstr "Nincsenek képek ezzel a szűrővel!"
+
+msgctxt "Flickr generator type"
+msgid "Flickr search"
+msgstr ""
+
+msgid "User name or ID"
+msgstr "Felhasználónév vagy ID"
+
+msgid "Search in title, description or tags"
+msgstr "Keresés a címben, leírásban vagy címkékben"
+
+msgid "Folder"
+msgstr ""
+
+msgid "Images in folder"
+msgstr "Képek a mappában"
+
+msgid "Images in folder and subfolders"
+msgstr "Képek a mappában és az almappáiban"
+
+msgid "Videos in folder"
+msgstr ""
+
+msgid "Source folder"
+msgstr "Forrásmappa"
+
+#, fuzzy
+#| msgid "Slide name and description"
+msgid "Filename based exclusion"
+msgstr "Slide név és leírás"
+
+msgid "Remove resized images"
+msgstr ""
+
+msgid ""
+"This option removes files that match the \"-[number]x[number].[extension]\" "
+"pattern in the end of their file names. For example, \"myimage.jpg\" will "
+"stay in the generator result, but \"myimage-120x120.jpg\" will be removed, "
+"because it's the same image, just in a smaller size."
+msgstr ""
+
+msgid "Filename has to contain"
+msgstr ""
+
+msgid ""
+"Only those images will be asked down, which have the given texts within "
+"their filenames. You can write down multiple texts separated by comma."
+msgstr ""
+
+msgid "Filename cannot contain"
+msgstr ""
+
+msgid ""
+"Only those images will be asked down, which don't have the given texts "
+"within their filenames. You can write down multiple texts separated by comma."
+msgstr ""
+
+msgid "Filename"
+msgstr "Fájl név"
+
+msgid "Creation date"
+msgstr "Létrehozás dátuma"
+
+msgid ""
+"Wrong path. This is the default image folder path, so try to navigate from "
+"here:"
+msgstr ""
+"Hibás elérési út. Ez az alapértelmezett út a kép mappához, próbálj ahhoz "
+"viszonyítani:"
+
+msgid "Folder not found."
+msgstr ""
+
+msgid ""
+"Wrong path. This is the default upload/media folder path, so try to navigate "
+"from here:"
+msgstr ""
+
+msgid "The App ID and the Secret is empty!"
+msgstr ""
+
+msgid "The token will expire at:"
+msgstr ""
+
+msgid "Access token was not returned.Please check the credentials!"
+msgstr ""
+
+#, fuzzy
+#| msgid "The token expired. Please request new token! "
+msgid "The token expired. Please request new token!"
+msgstr "A token lejárt. Kérj új tokent! "
+
+#, fuzzy
+#| msgid "The token expired. Please request new token! "
+msgid "The token will expire in two days! Please refresh the token!"
+msgstr "A token lejárt. Kérj új tokent! "
+
+#, fuzzy
+#| msgid "Request token"
+msgid "Refresh Token"
+msgstr "Token kérés"
+
+msgid "Refresh"
+msgstr ""
+
+msgid "Album loading method"
+msgstr ""
+
+msgid "Load first images only"
+msgstr ""
+
+msgid "Load album images separately"
+msgstr ""
+
+msgid "Load Album images as record data"
+msgstr ""
+
+msgid "JSON from url"
+msgstr ""
+
+msgid "JSON from input"
+msgstr ""
+
+msgid "Level separation"
+msgstr ""
+
+msgid ""
+"JSON codes can be customized to have many different levels. From a code it "
+"is impossible to know from which level do you want to use the given datas on "
+"the different slides, so you have to select that level from this list."
+msgstr ""
+
+#, php-format
+msgid ""
+"The given text is not valid XML! %1$sValidate your code%2$s to make sure it "
+"is correct."
+msgstr ""
+
+#, php-format
+msgid ""
+"The given text is not valid JSON! %1$sValidate your code%2$s to make sure it "
+"is correct."
+msgstr ""
+
+msgid ""
+"Try to change the \"Level separation\" or \"Remove levels from result\" "
+"setting."
+msgstr ""
+
+msgid "Images"
+msgstr "Képek"
+
+#, fuzzy
+#| msgid "Offset"
+msgid "Offset hours"
+msgstr "Eltolás"
+
+msgid "Timezone offset in hours. For example: +2 or -7."
+msgstr ""
+
+msgid "The data in the given url is not valid XML."
+msgstr "A megadott URL-en található adat nem valid XML."
+
+msgid "CSV from url"
+msgstr ""
+
+msgid "CSV from input"
+msgstr ""
+
+msgid "View tweet"
+msgstr "Tweet megtekintése"
+
+msgid "Comments"
+msgstr "Kommentek"
+
+msgid "Date"
+msgstr "Dátum"
+
+msgid "Likes"
+msgstr ""
+
+msgid "Manual"
+msgstr ""
+
+#, fuzzy
+#| msgid "Modification time"
+msgid "Modified time"
+msgstr "Módosítás időpontja"
+
+msgid "Plays"
+msgstr ""
+
+msgid "Playlist"
+msgstr ""
+
+msgid "optional"
+msgstr ""
+
+#, php-format
+msgid "Creates slides from %1$s content."
+msgstr ""
+
+msgid "Include subcategories"
+msgstr "Alkategóriákban is keressen"
+
+msgid "Frontpage"
+msgstr "Főoldal"
+
+msgid "Exclude ID"
+msgstr ""
+
+msgid "Category title"
+msgstr "Kategória címe"
+
+msgid "Username"
+msgstr "Felhasználónév"
+
+msgid "View post"
+msgstr ""
+
+msgid "Resolved"
+msgstr "Megoldva"
+
+msgid "Only main discussions"
+msgstr "Csak fő megbeszélések"
+
+msgid "View discussion"
+msgstr ""
+
+msgid "Events"
+msgstr "Események"
+
+msgid "Albums"
+msgstr "Albumok"
+
+msgid "Videos"
+msgstr "Videók"
+
+msgid "Pages"
+msgstr ""
+
+msgid "Users"
+msgstr ""
+
+msgid "Allowed user IDs"
+msgstr "Engedélyezett felhasználó azonosítók"
+
+msgid "Separate them by comma."
+msgstr "Válasszuk el ezeket vesszővel."
+
+msgid "Banned user IDs"
+msgstr "Kitiltott felhasználó azonosítók"
+
+msgid "Started"
+msgstr "Elkezdve"
+
+msgid "Ended"
+msgstr "Befejezve"
+
+msgid "All day"
+msgstr "Egész nap"
+
+msgid "Recurring events"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Closed"
+msgstr ""
+
+msgid "Invite only"
+msgstr ""
+
+msgid "Location"
+msgstr "Elhelyezkedés"
+
+msgid "Pull posts only from these users. Separate them by comma."
+msgstr ""
+
+msgid "Do not pull posts from these users. Separate them by comma."
+msgstr ""
+
+msgid "Public"
+msgstr ""
+
+msgid "Private"
+msgstr "Magán"
+
+msgid "Notification"
+msgstr ""
+
+#, fuzzy
+#| msgid "Email support"
+msgid "Email only"
+msgstr "Email támogatás"
+
+#, fuzzy
+#| msgid "Interval"
+msgid "Internal only"
+msgstr "Időköz"
+
+msgid "Profiles"
+msgstr "Profilok"
+
+msgid "Badges"
+msgstr ""
+
+msgid "Register date"
+msgstr ""
+
+msgid "Last visit date"
+msgstr ""
+
+msgid "Points"
+msgstr ""
+
+msgid "Products"
+msgstr "Termékek"
+
+msgid "Manufacturer"
+msgstr ""
+
+msgid "On discount"
+msgstr "Kedvezményes"
+
+msgid "In stock"
+msgstr "Raktáron"
+
+msgid "Currency"
+msgstr ""
+
+msgid "Product language"
+msgstr ""
+
+msgid "Category language"
+msgstr ""
+
+msgid "Manufacturer language"
+msgstr ""
+
+msgid "Price"
+msgstr "Ár"
+
+msgid "Product name"
+msgstr "Termék neve"
+
+msgid "Product ID"
+msgstr "Termék ID"
+
+msgid "Locations"
+msgstr "Helyszínek"
+
+msgid "Recurring"
+msgstr ""
+
+msgid "All, but from recurring ones only parent events"
+msgstr ""
+
+msgid "Only recurring events"
+msgstr ""
+
+msgid "Only recurring event parents"
+msgstr ""
+
+msgid "Only not recurring events"
+msgstr ""
+
+msgid "Menu item (item ID)"
+msgstr ""
+
+msgid "Start date"
+msgstr "Kezdő dátum"
+
+msgid "End date"
+msgstr "Befejező dátum"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Discount"
+msgstr ""
+
+msgid "Registration start date"
+msgstr ""
+
+msgid "Cut off date"
+msgstr ""
+
+msgid "Cancel before date"
+msgstr ""
+
+msgid "Publish up date"
+msgstr ""
+
+msgid "Publish down date"
+msgstr ""
+
+msgid "Early bird discount date"
+msgstr ""
+
+msgid "Early bird discount amount"
+msgstr ""
+
+msgid "Late fee date"
+msgstr ""
+
+msgid "Recurring end date"
+msgstr ""
+
+msgid "Max end date"
+msgstr ""
+
+msgid "Only display items with these IDs"
+msgstr ""
+
+msgid ""
+"Timezone offset in hours. For example: +2 or -7. If you leave it empty, "
+"Joomla's System -> Global Configuration -> Server -> Server Time Zone "
+"setting will be used."
+msgstr ""
+
+msgid "Brand"
+msgstr ""
+
+msgid "Tag"
+msgstr "Tag"
+
+msgid "Warehouse"
+msgstr ""
+
+msgid "Include all images"
+msgstr ""
+
+msgid "Sales"
+msgstr "Eladások"
+
+msgid "Average score"
+msgstr "Átlagos pontszám"
+
+msgid "Total vote"
+msgstr "Összes szavazat"
+
+msgid "Product IDs"
+msgstr ""
+
+msgid ""
+"Write the product IDs you want to display here, in the order you want them "
+"to appear in the generator. One product ID per line."
+msgstr ""
+
+msgid "One time events"
+msgstr ""
+
+msgid "Repeating events"
+msgstr ""
+
+msgid "Date language"
+msgstr ""
+
+msgid "Date variable offset"
+msgstr ""
+
+msgid "Date filter offset"
+msgstr ""
+
+msgid "Status"
+msgstr "Státusz"
+
+msgid "Trashed"
+msgstr ""
+
+msgid "Ask down all product images"
+msgstr ""
+
+msgid "Items"
+msgstr "Elemek"
+
+msgid "View item"
+msgstr ""
+
+msgid "Viewed"
+msgstr "Megtekintve"
+
+msgid "View image"
+msgstr "Kép megtekintése"
+
+msgid "All day event"
+msgstr "Egésznapos esemény"
+
+msgid "Fallback language"
+msgstr ""
+
+msgid "Show parent products only"
+msgstr ""
+
+#, php-format
+msgid "Creates slides from %1$s galleries."
+msgstr ""
+
+msgid "Gallery"
+msgstr "Galéria"
+
+msgid "View gallery"
+msgstr ""
+
+msgid "Creates slides by your custom settings."
+msgstr ""
+
+#, php-format
+msgid ""
+"You don't have custom generators yet. %1$s Check the documentation %2$s to "
+"learn how to create your own generator."
+msgstr ""
+
+msgid "No options given"
+msgstr ""
+
+#, php-format
+msgid "Creates slides from %1$s events."
+msgstr ""
+
+msgid "Exclude event IDs (One ID per line)"
+msgstr ""
+
+msgid "Location town"
+msgstr "Település"
+
+msgid "Location state"
+msgstr "Helyszín státusza"
+
+msgid "Get all multisite events"
+msgstr ""
+
+msgid "Order result"
+msgstr ""
+
+msgid "Events per site"
+msgstr ""
+
+msgid "Format date variables"
+msgstr ""
+
+msgid ""
+"With the WordPress Settings -> General -> Timezone and Date format, new "
+"variables will be generated from the given variables. Separate them with "
+"comma."
+msgstr ""
+
+msgid "Start time text"
+msgstr "Kezdő időpont szövege"
+
+msgid "End date text"
+msgstr "Záró dátum szövege"
+
+msgid "End time text"
+msgstr "Záró időpont szövege"
+
+msgid "Rsvp date"
+msgstr ""
+
+msgid "Multisite Posts"
+msgstr ""
+
+msgid "Source gallery"
+msgstr "Forrás galéria"
+
+msgid "Organizers"
+msgstr "Szervezők"
+
+msgid "Venues"
+msgstr ""
+
+msgid "Hide From Event Listings"
+msgstr ""
+
+msgid "Event start date"
+msgstr "Esemény kezdő dátuma"
+
+msgid "Event end date"
+msgstr "Esemény befejező dátuma"
+
+msgid "Event cost"
+msgstr "Esemény ár"
+
+msgid "Event creation date"
+msgstr "Esemény létrehozásának dátuma"
+
+msgid "Event modification date"
+msgstr "Esemény módosításának dátuma"
+
+msgid "Metakey name"
+msgstr ""
+
+msgid "If its set, this will be used instead of the 'Field' value."
+msgstr ""
+
+msgid "Sorting method"
+msgstr ""
+
+msgid "Galleries"
+msgstr "Galériák"
+
+msgid "Upload date"
+msgstr "Feltöltés dátuma"
+
+msgid "Average rating"
+msgstr "Átlagos értékelés"
+
+msgid "Rate count"
+msgstr "Értékelések száma"
+
+msgid "Hit count"
+msgstr "Elérések száma"
+
+msgid "Root"
+msgstr "Kezdőpont"
+
+msgid "Products by filter"
+msgstr "Termékek szűrő alapján"
+
+msgid "Products by IDs and/or SKUs"
+msgstr ""
+
+msgid ""
+"Creates slides from your WooCommece categories. (Not from the products "
+"inside them.)"
+msgstr ""
+
+msgid "Submenu limit"
+msgstr "Almenü limit"
+
+msgid "No limit"
+msgstr ""
+
+#, fuzzy
+#| msgid "Include subcategories"
+msgid "Hide empty categories"
+msgstr "Alkategóriákban is keressen"
+
+msgid "Yes"
+msgstr "Igen"
+
+msgid "Downloadable"
+msgstr "Letölthető"
+
+msgid "Virtual"
+msgstr "Virtuális"
+
+msgid "Create text variables (one per line)"
+msgstr ""
+
+msgid ""
+"if 'variable' equals to 'equalvalue', then you will get the text 'true', but "
+"if it's not equal, the text will be 'false'. The new variable's name will be "
+"textvariable (the 'variable' replaced by your variable's name)."
+msgstr ""
+
+msgid "Round rating"
+msgstr "Értékelés kerekítése"
+
+msgid "Half"
+msgstr "Fél"
+
+msgid "Third"
+msgstr "Harmad"
+
+msgid "Quarter"
+msgstr "Negyed"
+
+msgid "Visibility"
+msgstr "Láthatóság"
+
+msgid "Shop and search results"
+msgstr ""
+
+msgid "Shop only"
+msgstr ""
+
+msgid "Search results only"
+msgstr ""
+
+msgid "Replace these timestamp variables"
+msgstr ""
+
+#, php-format
+msgid "Any PHP date format can be used: %s"
+msgstr ""
+
+msgid "Total sales"
+msgstr "Összes eladás"
+
+msgid "Regular price"
+msgstr "Nomál ár"
+
+msgid "Sale price"
+msgstr "Eladási ár"
+
+msgid "IDs (one per line)"
+msgstr "Azonosítók (soronként egy)"
+
+msgid "SKUs (one per line)"
+msgstr ""
+
+msgid "Move"
+msgstr "Áthelyezés"
+
+msgid "Reveal"
+msgstr ""
+
+msgid "Bounce"
+msgstr "Pattog"
+
+msgid "Special"
+msgstr "Speciális"
+
+msgid "Left fade"
+msgstr "Áttűnés balról"
+
+msgid "Right fade"
+msgstr "Áttűnés jobbról"
+
+msgid "Top fade"
+msgstr "Áttűnés fentről"
+
+msgid "Bottom fade"
+msgstr "Áttűnés lentről"
+
+msgid "Flash"
+msgstr "Villog"
+
+msgid "Left to Right"
+msgstr ""
+
+msgid "Top to Bottom"
+msgstr ""
+
+msgid "Skew Left to Right"
+msgstr ""
+
+msgid "Downscale back out"
+msgstr ""
+
+msgid "Upscale back out"
+msgstr ""
+
+msgid "Pulse"
+msgstr "Pulzál"
+
+msgid "Flip left"
+msgstr "Fordítás balról"
+
+msgid "Flip right"
+msgstr "Fordítás jobbról"
+
+msgid "Flip down"
+msgstr "Fordítás lefelé"
+
+msgid "Flip up"
+msgstr "Fordítás felfelé"
+
+msgid "Flip in X"
+msgstr "Fordítás X tengelyen"
+
+msgid "Flip in Y"
+msgstr "Fordítás Y tengelyen"
+
+msgid "Flap"
+msgstr "Lengés"
+
+msgid "Rotate top left"
+msgstr "Beúszás bal fentről"
+
+msgid "Rotate top right"
+msgstr "Beúszás jobb fentről"
+
+msgid "Roll in"
+msgstr "Beforgás"
+
+msgid "Rotate top left back out"
+msgstr ""
+
+msgid "Rotate all axis"
+msgstr ""
+
+msgid "Bounce in"
+msgstr "Bepattan"
+
+msgid "Bounce in left"
+msgstr "Bepattan balról"
+
+msgid "Bounce in right"
+msgstr "Bepattan jobbról"
+
+msgid "Bounce in down"
+msgstr "Bepattan fentről"
+
+msgid "Bounce in up"
+msgstr "Bepattan lentről"
+
+msgid "Rubber band"
+msgstr "Gumiszalag"
+
+msgid "Shake"
+msgstr "Rázás"
+
+msgid "Swing"
+msgstr "Hinta"
+
+msgid "Wooble"
+msgstr "Finom rázás"
+
+msgid "Roll"
+msgstr "Forgás"
+
+msgid "Grow rotate"
+msgstr "Nagyított elfordítás"
+
+msgid "Pendulum"
+msgstr "Inga"
+
+msgid "Pendulum 3D"
+msgstr "3D inga"
+
+msgid "Vertical pendulum 3D"
+msgstr "Függőleges 3D inga"
+
+msgid "We are Passionate About"
+msgstr ""
+
+msgid ""
+"Amazing Food\n"
+"Great Hospitality"
+msgstr ""
+
+msgid "Before text"
+msgstr ""
+
+msgid "Animated text"
+msgstr ""
+
+msgid "After text"
+msgstr ""
+
+msgid "Rotating"
+msgstr ""
+
+msgid "Drop-in"
+msgstr ""
+
+msgid "Slide down"
+msgstr ""
+
+msgid "Typewriter"
+msgstr ""
+
+msgid "Chars"
+msgstr "Karakterek"
+
+msgid "Chars 2"
+msgstr ""
+
+msgid "Auto width"
+msgstr ""
+
+#, fuzzy
+#| msgid "Hover color"
+msgid "Cursor color"
+msgstr "Hover szín"
+
+msgctxt "Effect"
+msgid "Loop"
+msgstr ""
+
+msgid "Show duration"
+msgstr ""
+
+msgid "Class on the selected tag element."
+msgstr ""
+
+msgid "Area"
+msgstr ""
+
+msgid "Write custom CSS codes here without selectors."
+msgstr ""
+
+msgid "Audio"
+msgstr ""
+
+msgid "MP3 audio"
+msgstr "MP3 fájl helye"
+
+msgid "Main color"
+msgstr "Fő szín"
+
+msgid "Secondary color"
+msgstr "Másodlagos szín"
+
+msgid "Audio settings"
+msgstr ""
+
+#, php-format
+msgid ""
+"Audio autoplaying has a lot of limitations made by browsers. You can read "
+"about them %1$shere%2$s."
+msgstr ""
+
+msgid "Starts the audio from the beginning when the slide is viewed again."
+msgstr ""
+
+msgid "Progress"
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+#, fuzzy
+#| msgid "Size"
+msgid "Icon Size"
+msgstr "Méret"
+
+#, fuzzy
+#| msgid "Before"
+msgid "Before After"
+msgstr "Előtte"
+
+#, fuzzy
+#| msgid "Left"
+msgid "Left top"
+msgstr "Bal"
+
+#, fuzzy
+#| msgid "Center"
+msgid "Center top"
+msgstr "Közép"
+
+#, fuzzy
+#| msgid "Right"
+msgid "Right top"
+msgstr "Jobb"
+
+#, fuzzy
+#| msgid "Mouse enter"
+msgid "Left center"
+msgstr "Egér belépés"
+
+#, fuzzy
+#| msgid "Center"
+msgid "Right Center"
+msgstr "Közép"
+
+#, fuzzy
+#| msgid "To bottom"
+msgid "Left bottom"
+msgstr "Lefelé"
+
+#, fuzzy
+#| msgid "Curtain to bottom"
+msgid "Center bottom"
+msgstr "Függöny lefelé"
+
+#, fuzzy
+#| msgid "To bottom"
+msgid "Right bottom"
+msgstr "Lefelé"
+
+#, fuzzy
+#| msgid "Before"
+msgid "Before Image"
+msgstr "Előtte"
+
+#, fuzzy
+#| msgid "Cover image"
+msgid "After Image"
+msgstr "Előnézeti kép"
+
+msgid "Labels"
+msgstr ""
+
+#, fuzzy
+#| msgid "Show label"
+msgid "Show Label"
+msgstr "Felirat mutatása"
+
+msgid "Always"
+msgstr ""
+
+#, fuzzy
+#| msgid "Before"
+msgid "Before label"
+msgstr "Előtte"
+
+#, fuzzy
+#| msgid "Previous label"
+msgid "After label"
+msgstr "Előző szöveg"
+
+msgid "Behavior"
+msgstr ""
+
+#, fuzzy
+#| msgid "Interval"
+msgid "Interaction"
+msgstr "Időköz"
+
+#, fuzzy
+#| msgid "Slider"
+msgid "Divider"
+msgstr "Diabemutató"
+
+msgid "Line"
+msgstr ""
+
+#, fuzzy
+#| msgid "Caption"
+msgid "Show Caption"
+msgstr "Képfelirat"
+
+#, fuzzy
+#| msgid "Caption"
+msgid "Caption text"
+msgstr "Képfelirat"
+
+msgid "Before image alt tag"
+msgstr ""
+
+#, fuzzy
+#| msgid "Average rating"
+msgid "After image alt tag"
+msgstr "Átlagos értékelés"
+
+#, fuzzy
+#| msgid "Optimize"
+msgid "Optimize images"
+msgstr "Optimalizálás"
+
+msgid "Full"
+msgstr "Teljes"
+
+msgid "Scales up the image on hover"
+msgstr ""
+
+msgid "Overlay background"
+msgstr ""
+
+msgid "Positions the text inside the overlay."
+msgstr ""
+
+msgid "Circle counter"
+msgstr "Kör alakú számláló"
+
+msgid "Counter"
+msgstr "Számláló"
+
+msgid "Value"
+msgstr "Érték"
+
+msgid "Start from"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Active color"
+msgstr ""
+
+msgid "Stroke width"
+msgstr ""
+
+msgid "Inner before"
+msgstr ""
+
+msgid "Inner after"
+msgstr ""
+
+msgid "Pre"
+msgstr ""
+
+msgid "Animation duration"
+msgstr ""
+
+#, fuzzy
+#| msgid "Counter"
+msgid "Countdown"
+msgstr "Számláló"
+
+msgid "Days"
+msgstr "Napok"
+
+msgid "Minutes"
+msgstr "Percek"
+
+msgid "Seconds"
+msgstr "Másodpercek"
+
+#, fuzzy
+#| msgid "First slide changed."
+msgid "Use slide schedule"
+msgstr "Az első dia megváltozott."
+
+#, fuzzy
+#| msgid "You can put custom CSS classes to the slider's container."
+msgid "You can use the \"Unpublished on\" date of the slide itself."
+msgstr "Egyedi CSS osztályokat helyezhetünk a diabemutató tárolóelemébe."
+
+msgid "Use Slide Schedule"
+msgstr ""
+
+msgid "Go to Slide → Content tab and set the Unpublish on date for the slide."
+msgstr ""
+
+msgid ""
+"Displays the days, hours, minutes and seconds texts under the counter "
+"numbers. To display the labels in your own language, translate the texts in "
+"the language files."
+msgstr ""
+
+msgid "Gap"
+msgstr ""
+
+msgid "Creates vertical and horizontal distance between the counter elements."
+msgstr ""
+
+#, fuzzy
+#| msgid "Tablet scale"
+msgid "Tablet style"
+msgstr "Tablet méret"
+
+msgid "Set custom Gap and Column for tablet."
+msgstr ""
+
+#, fuzzy
+#| msgid "Mobile scale"
+msgid "Mobile style"
+msgstr "Mobil méret"
+
+msgid "Set custom Gap and Column for mobile."
+msgstr ""
+
+#, fuzzy
+#| msgid "Actions"
+msgid "Action when ends"
+msgstr "Műveletek"
+
+#, fuzzy
+#| msgid "No animation"
+msgid "No action"
+msgstr "Nincs animáció"
+
+#, fuzzy
+#| msgid "Heading layer"
+msgid "Hide layer"
+msgstr "Cím réteg"
+
+msgid "Redirect to URL"
+msgstr ""
+
+msgid "Choose what happens after the counter reached zero."
+msgstr ""
+
+#, fuzzy
+#| msgid "The image is empty"
+msgid "This page is"
+msgstr "A kép üres."
+
+msgid "Amazing"
+msgstr ""
+
+#, fuzzy, php-format
+#| msgid "Circle"
+msgid "Circle %d"
+msgstr "Kör"
+
+#, php-format
+msgid "Curly %d"
+msgstr ""
+
+#, fuzzy, php-format
+#| msgid "Highlight"
+msgid "Highlight %d"
+msgstr "Kiemelés"
+
+#, fuzzy, php-format
+#| msgid "Line height"
+msgid "Line Through %d"
+msgstr "Sormagasság"
+
+#, fuzzy, php-format
+#| msgid "Rectangle Blue"
+msgid "Rectangle %d"
+msgstr "Kék téglalap"
+
+#, php-format
+msgid "Underline %d"
+msgstr ""
+
+#, php-format
+msgid "Underline double %d"
+msgstr ""
+
+#, php-format
+msgid "ZigZag %d"
+msgstr ""
+
+msgid "Highlighted text"
+msgstr ""
+
+msgid "Bring front"
+msgstr ""
+
+msgid "Puts the shape on top of the text."
+msgstr ""
+
+msgid "Loop delay"
+msgstr ""
+
+msgid "HTML"
+msgstr ""
+
+msgid "Empty element"
+msgstr ""
+
+msgid ""
+"Please note that <b>we do not support</b> the HTML layer and the 3rd party "
+"codes loaded by it. We only suggest using this layer if you are a developer. "
+"<br>Also, make sure your HTML code is valid! Invalid HTML codes can mess up "
+"the entire slide and the only way resolving this problem is deleting the "
+"slide."
+msgstr ""
+
+msgid "Item"
+msgstr "Elem"
+
+msgid ""
+"Item 1\n"
+"Item 2\n"
+"Item 3"
+msgstr ""
+"Elem 1\n"
+"Elem 2\n"
+"Elem 3"
+
+msgid "List type"
+msgstr "Lista típusa"
+
+msgctxt "List layer type"
+msgid "None"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Disc"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Square"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Circle"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Decimal"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Armenian"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Cjk-ideographic"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Decimal-leading-zero"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Georgian"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Hebrew"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Hiragana"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Hiragana-iroha"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Katakana"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Katakana-iroha"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Lower-alpha"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Lower-greek"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Lower-latin"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Lower-roman"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Upper-alpha"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Upper-latin"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Upper-roman"
+msgstr ""
+
+msgid "Icon not found"
+msgstr "Az ikon nem található."
+
+#, php-format
+msgid "Enter an %1$s aria-label attribute %2$s that describes the link."
+msgstr ""
+
+msgid "Iframe"
+msgstr ""
+
+msgid ""
+"Please note, that <b>we do not support</b> customized coding! The iframe "
+"layer often needs code customizations what you have to do yourself, so we "
+"only suggest using this layer if you are a developer!"
+msgstr ""
+
+#, fuzzy
+#| msgid "iframe url"
+msgid "Iframe url"
+msgstr "iframe URL"
+
+msgid "You can disable the scroll on the iframe content."
+msgstr ""
+
+#, fuzzy
+#| msgid "iframe url"
+msgid "Iframe title"
+msgstr "iframe URL"
+
+msgid "Image area"
+msgstr ""
+
+#, fuzzy
+#| msgid "Image mode"
+msgid "Image box"
+msgstr "Kép mód"
+
+msgid ""
+"Positions the text inside the layer. Only works with left and right layout."
+msgstr ""
+
+msgid "Input"
+msgstr "Mező"
+
+msgid "Container"
+msgstr ""
+
+msgid "What are you looking for?"
+msgstr ""
+
+msgid ""
+"We only suggest using this layer if you are a developer, since the Input "
+"layer requires deep understanding how HTML form works."
+msgstr ""
+
+msgid "Placeholder text"
+msgstr "Helykitöltő szövege"
+
+msgid "Form"
+msgstr ""
+
+msgid "Input name"
+msgstr ""
+
+msgid "Method"
+msgstr "Method"
+
+msgid "Form action"
+msgstr ""
+
+msgid "Parameters"
+msgstr "Paraméterek"
+
+msgid "Slide action to submit"
+msgstr "Slide művelet küldéskor"
+
+msgid "JavaScript"
+msgstr "JavaScript"
+
+msgid "Progress bar"
+msgstr "Folyamatjelző sáv"
+
+msgid "Over"
+msgstr ""
+
+msgid "Transition"
+msgstr ""
+
+msgid "Front image"
+msgstr ""
+
+msgid "Back image"
+msgstr ""
+
+msgid "Vertical flip"
+msgstr "Függőleges forgatás"
+
+msgid "Horizontal flip"
+msgstr "Vízszintes forgatás"
+
+msgid "Front image alt tag"
+msgstr ""
+
+msgid "Back image alt tag"
+msgstr ""
+
+msgid "MP4 video"
+msgstr "MP4 videó"
+
+msgid "Preload"
+msgstr "Előtöltés"
+
+msgid "Joomla module"
+msgstr ""
+
+msgid ""
+"Please note, that <b>we do not support</b> the Joomla module layer!<br>The "
+"loaded module often needs code customizations what you have to do yourself, "
+"so we only suggest using this layer if you are a developer!"
+msgstr ""
+
+msgid "Position name or module ID"
+msgstr ""
+
+msgid ""
+"The position name of your module (for Loadposition and Modulepos) or the "
+"module's ID (Module)."
+msgstr ""
+
+msgid "Constrain ratio"
+msgstr "Arány kényszerítése"
+
+msgid "The slide scales horizontally and vertically with the same amount."
+msgstr ""
+
+msgid "Height based on"
+msgstr ""
+
+msgid ""
+"The real height makes your slider have the height of the browser without the "
+"URL bar, while the CSS 100vh makes it exactly as big as the browser height."
+msgstr ""
+
+msgid "Decrease height"
+msgstr ""
+
+msgid ""
+"You can make your slider smaller than the full height of the browser by a "
+"given pixel, for example, to fit below your menu without causing scrollbar."
+msgstr ""
+
+msgid "Decrease height by selectors"
+msgstr ""
+
+msgid "Use global focus selectors"
+msgstr ""
+
+msgid "Use local selectors"
+msgstr ""
+
+msgid ""
+"You can make your slider smaller than the full height of the browser, for "
+"example, to fit below your menu without causing scrollbar."
+msgstr ""
+
+msgid "CSS selector (sum of heights)"
+msgstr ""
+
+msgctxt "Slider type"
+msgid "Carousel slider"
+msgstr ""
+
+#, fuzzy
+#| msgid "Slider size"
+msgid "Slide size"
+msgstr "Slider mérete"
+
+msgid "Max pane width"
+msgstr ""
+
+msgid ""
+"You can use this option to limit how many slides can show up next to each "
+"other."
+msgstr ""
+
+msgid "Minimum slide distance"
+msgstr "Minimális slide távolság"
+
+msgid "The minimum space between two slides."
+msgstr ""
+
+msgid "Side spacing"
+msgstr ""
+
+msgid "Desktop side spacing"
+msgstr ""
+
+msgid ""
+"You can create a fix distance between the slider and the slides where your "
+"controls are which appear on this device. This way your controls won't cover "
+"the slide content."
+msgstr ""
+
+msgid "Tablet side spacing"
+msgstr ""
+
+msgid "Mobile side spacing"
+msgstr ""
+
+#, fuzzy
+#| msgid "Background color"
+msgid "Slide background color"
+msgstr "Háttérszín"
+
+#, fuzzy
+#| msgid "Slide order saved."
+msgid "Slide border width"
+msgstr "A dia sorrend mentésre került."
+
+#, fuzzy
+#| msgid "Slide order saved."
+msgid "Slide border color"
+msgstr "A dia sorrend mentésre került."
+
+#, fuzzy
+#| msgid "Slide order saved."
+msgid "Slide border radius"
+msgstr "A dia sorrend mentésre került."
+
+#, fuzzy
+#| msgid "Slider order saved."
+msgid "Slider border width"
+msgstr "A diabemutató sorrend mentésre került."
+
+#, fuzzy
+#| msgid "Slider order saved."
+msgid "Slider border color"
+msgstr "A diabemutató sorrend mentésre került."
+
+#, fuzzy
+#| msgid "Slider order saved."
+msgid "Slider border radius"
+msgstr "A diabemutató sorrend mentésre került."
+
+msgid "The Single Switch setting can only move the slides horizontally!"
+msgstr ""
+
+msgid ""
+"This option will create a complete round from your slides if you have enough "
+"slides. If you don't have enough slides, you could consider duplicating all "
+"the slides or just add more slides until you will get a carousel round."
+msgstr ""
+
+msgid "Single switch"
+msgstr "Egy slide váltás"
+
+msgid "It switches one slide instead of moving all the visible slides."
+msgstr "Egy slide-ot mozgat az összes látható slide helyett."
+
+msgid "Justify slides"
+msgstr ""
+
+msgctxt "Slider type"
+msgid "Showcase slider"
+msgstr ""
+
+msgid "Slide distance"
+msgstr "Slide távolság"
+
+msgid "Fix space between the slides."
+msgstr ""
+
+msgid "Slide CSS Preset"
+msgstr ""
+
+#, fuzzy
+#| msgid "No animation"
+msgid "Showcase animation"
+msgstr "Nincs animáció"
+
+msgid "Horizontal showcase"
+msgstr "Vízszintes showcase"
+
+msgid "Vertical showcase"
+msgstr "Függőleges showcase"
+
+msgid "Horizontal cover flow"
+msgstr ""
+
+msgid "Vertical cover flow"
+msgstr ""
+
+msgid "Switch with next/previous slides"
+msgstr ""
+
+msgid ""
+"Clicking on any slide that's not in the middle will make the slider switch "
+"to that slide. With this option you can disable this behavior, for example, "
+"to allow clicking on buttons on the visible slides."
+msgstr ""
+
+msgid "Save as new animation"
+msgstr "Mentés új animációként"
+
+msgid "Sets"
+msgstr "Gyűjtemények"
+
+msgid "Text animation settings"
+msgstr ""
+
+msgid "Words"
+msgstr "Szavak"
+
+msgid "Sort"
+msgstr "Rendezés"
+
+msgid "Reversed"
+msgstr "Fordított"
+
+msgid "Side shifted"
+msgstr "Szélről eltolt"
+
+msgid "Center shifted"
+msgstr "Középről eltolt"
+
+msgid "Stagger"
+msgstr "Késleltetés"
+
+msgid "Turn"
+msgstr "Fordul"
+
+msgid "Prev"
+msgstr ""
+
+msgid "Next"
+msgstr "Következő"
+
+msgid "Previous label"
+msgstr "Előző szöveg"
+
+msgid "Next label"
+msgstr "Következő szöveg"
+
+msgid "To normal"
+msgstr ""
+
+msgid "To fullscreen"
+msgstr ""
+
+msgid "Fullscreen"
+msgstr ""
+
+msgid "Exit full screen"
+msgstr ""
+
+msgid "Enter Full screen"
+msgstr ""
+
+#, php-format
+msgid ""
+"%1$s does not support the full screen API. For this reason the full screen "
+"button will not appear on %1$s devices."
+msgstr ""
+
+msgid "Indicator"
+msgstr "Mutató"
+
+msgid "Line thickness"
+msgstr "Vonalvastagság"
+
+msgid "Track color"
+msgstr ""
+
+msgid "Bar color"
+msgstr ""
+
+#~ msgctxt "Default Google font family for admin"
+#~ msgid "Montserrat"
+#~ msgstr "Montserrat"
+
+#~ msgctxt "Default Google font charset for admin"
+#~ msgid "latin"
+#~ msgstr "latin"
+
+#~ msgid "Character set"
+#~ msgstr "Karakterkészlet"
+
+#~ msgctxt "Character set"
+#~ msgid "Latin"
+#~ msgstr "Latin"
+
+#~ msgctxt "Character set"
+#~ msgid "Latin Extended"
+#~ msgstr "Kiterjesztett latin"
+
+#~ msgctxt "Character set"
+#~ msgid "Greek"
+#~ msgstr "Görög"
+
+#~ msgctxt "Character set"
+#~ msgid "Greek Extended"
+#~ msgstr "Kiterjesztett görög"
+
+#~ msgctxt "Character set"
+#~ msgid "Cyrillic"
+#~ msgstr "Cirill"
+
+#~ msgctxt "Character set"
+#~ msgid "Devanagari"
+#~ msgstr "Devanagari"
+
+#~ msgctxt "Character set"
+#~ msgid "Arabic"
+#~ msgstr "Arab"
+
+#~ msgctxt "Character set"
+#~ msgid "Khmer"
+#~ msgstr "Khmer"
+
+#~ msgctxt "Character set"
+#~ msgid "Telugu"
+#~ msgstr "Telugu"
+
+#~ msgctxt "Character set"
+#~ msgid "Vietnamese"
+#~ msgstr "Vietnámi"
+
+#~ msgctxt "Default font sets"
+#~ msgid "latin"
+#~ msgstr "latin"
+
+#~ msgid "Loop single slide"
+#~ msgstr "Egyetlen slide ismétlése"
+
+#~ msgid "In case of one slide, it repeats the animation of the slide."
+#~ msgstr "Egy slide esetén megismétli a layer animációkat ezen a slide-on."
+
+#~ msgid "Expired"
+#~ msgstr "Lejárt"
+
+#~ msgid "On sale"
+#~ msgstr "Akciós"
+
+#~ msgid "Discount price"
+#~ msgstr "Kedvezményes ár"
+
+#~ msgid "Async"
+#~ msgstr "Aszinkron"
+
+#~ msgid "Combine"
+#~ msgstr "Kombinálás"
+
+#~ msgid "Approved"
+#~ msgstr "Elfogadva"
+
+#~ msgid "Show hidden"
+#~ msgstr "Elrejtettek mutatása"
+
+#~ msgid "Tile"
+#~ msgstr "Csempe"
+
+#~ msgid "Generate"
+#~ msgstr "Generálás"
+
+#~ msgid "Desktop image is empty!"
+#~ msgstr "Az asztali kép üres."
+
+#, fuzzy
+#~| msgid "Tablet Retina"
+#~ msgid "Tablet retina"
+#~ msgstr "Táblagép retinaéles"
+
+#, fuzzy
+#~| msgid "Mobile Retina"
+#~ msgid "Mobile retina"
+#~ msgstr "Mobil retinaéles"
+
+#, fuzzy
+#~| msgid "MP4 video"
+#~ msgid "Watch video"
+#~ msgstr "MP4 videó"
+
+#, fuzzy
+#~| msgid "Next position"
+#~ msgid "Absolute position"
+#~ msgstr "Következő pozíció"
+
+#~ msgid "Hide until complete load"
+#~ msgstr "Befejezés amíg teljesen be nem tölt"
+
+#~ msgid "Load jQuery on frontend"
+#~ msgstr "JQuery betöltése a webes felületen"
+
+#~ msgid "Load GSAP on frontend"
+#~ msgstr "GSAP betöltése a webes felületen"
+
+#~ msgid "CSS mode"
+#~ msgstr "CSS mód"
+
+#~ msgid "Inline at head"
+#~ msgstr "Belső a fejrészben"
+
+#~ msgid "Background image dynamic height"
+#~ msgstr "Dinamikus háttérkép magasság"
+
+#~ msgid ""
+#~ "The height of your slides changes according to the height of the "
+#~ "background image."
+#~ msgstr ""
+#~ "A slide-ok magassága a slide háttérképének magasságától függve változik."
+
+#, fuzzy
+#~| msgid "Tablet scale"
+#~ msgid "Tablet size"
+#~ msgstr "Tablet méret"
+
+#, fuzzy
+#~| msgid "Mobile scale"
+#~ msgid "Mobile size"
+#~ msgstr "Mobil méret"
+
+#~ msgid "Minimum thumbnail count"
+#~ msgstr "Minimális bélyegkép szám"
+
+#~ msgid "Invert group direction"
+#~ msgstr "Csoport irány megfordítása"
+
+#, fuzzy
+#~| msgid "Line color"
+#~ msgid "Text color"
+#~ msgstr "Vonal színe"
+
+#~ msgctxt "Slider type"
+#~ msgid "Accordion"
+#~ msgstr "Accordion"
+
+#~ msgid "Dark"
+#~ msgstr "Sötét"
+
+#~ msgid "Outer color"
+#~ msgstr "Külső szín"
+
+#~ msgid "Inner color"
+#~ msgstr "Belső szín"
+
+#~ msgid "Tab background"
+#~ msgstr "Fül háttérszn"
+
+#~ msgid "Outer"
+#~ msgstr "Külső"
+
+#~ msgid "Inner"
+#~ msgstr "Belső"
+
+#, fuzzy
+#~| msgid "Background color"
+#~ msgid "Slider background color"
+#~ msgstr "Háttérszín"
+
+#~ msgid "Show Joomla admin footer"
+#~ msgstr "Joomla adminisztrációs lábléc megjelenítése"
+
+#~ msgid ""
+#~ "The current slider will not start loading until the set slider is loaded "
+#~ "completely."
+#~ msgstr ""
+#~ "A jelenlegi slider nem kezd el töltődni, amíg a beállított slider "
+#~ "teljesen be nem töltődött."
+
+#, fuzzy
+#~| msgid "Image manager"
+#~ msgid "manage pages"
+#~ msgstr "Képkezelő"
+
+#~ msgid ""
+#~ "This alias can be used for your slider's shortcode, but you can also use "
+#~ "it to create an element for anchors with the next on/off options."
+#~ msgstr ""
+#~ "Ez az álnév a diabemutató gyorskódjánál használható, de használható "
+#~ "horgonyelem létrehozásáhos is a következő be/ki opcióknál."
+
+#~ msgid ""
+#~ "If you wouldn't use #your-alias as anchor, but rather #your-alias-1 or "
+#~ "#your-alias-2, then your slider will switch to the 1st, 2nd, etc. slide."
+#~ msgstr ""
+#~ "Ha nem tudjuk az #alnev elemet horgonyként használni, helyette "
+#~ "használható a #alnev1 vagy #alnev2, amikor is a diabemutató az első, "
+#~ "második, stb. diára ugrik."
+
+#~ msgid "Ticket price"
+#~ msgstr "Jegy ár"

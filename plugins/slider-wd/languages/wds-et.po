@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wds\n"
+"POT-Creation-Date: 2014-09-26 18:04+0400\n"
+"PO-Revision-Date: 2014-09-26 18:04+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress3.5\\wp-content\\plugins"
+"\\slider-plugin\n"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:30
+#, fuzzy
+msgid "There is no slider selected or the slider was deleted."
+msgstr "Ei ole valitud galeriisse või galerii kustutatud."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:42
+#, fuzzy
+msgid "There are no slides in this slider."
+msgstr "Puuduvad pildid selles galeriis."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:660
+msgid "Share on Facebook"
+msgstr "Jaga Facebookis."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:666
+msgid "Share on Twitter"
+msgstr "Jaga veebisaidil Twitter."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:672
+msgid "Share on Google+"
+msgstr "Jaga Google+"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:678
+msgid "Share on Pinterest"
+msgstr "Jaga Pinterest"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:684
+msgid "Share on Tumblr"
+msgstr "Jaga Tumblr"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1875
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1894
+msgid "Pause"
+msgstr "Paus"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1884
+msgid "Play"
+msgstr "Esita"
+
+#~ msgid "field is required."
+#~ msgstr "valdkonnas on vaja. "
+
+#~ msgid "This is not a valid email address."
+#~ msgstr "See ei ole kehtiv e-posti aadress."
+
+#~ msgid "There are no images matching your search."
+#~ msgstr "Puuduvad pildid Teie otsingukriteeriumitele."
+
+#~ msgid " item(s)"
+#~ msgstr "objekt"
+
+#~ msgid "First"
+#~ msgstr "Esimene"
+
+#~ msgid "Previous"
+#~ msgstr "Eelmine"
+
+#~ msgid "Next"
+#~ msgstr "Järgmine"
+
+#~ msgid "Last"
+#~ msgstr "Viimane"
+
+#~ msgid "Go to the first page"
+#~ msgstr "Mine esimesele lehele"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "Mine eelmisele lehele"
+
+#~ msgid "of"
+#~ msgstr "kohta"
+
+#~ msgid "Go to the next page"
+#~ msgstr "Mine järgmisele lehele"
+
+#~ msgid "Go to the last page"
+#~ msgstr "Mine viimasele lehele"
+
+#~ msgid "Reset"
+#~ msgstr "Reset"
+
+#~ msgid "Search"
+#~ msgstr "Otsi"
+
+#~ msgid "There is no theme selected or the theme was deleted."
+#~ msgstr "Ei ole teema valik või teema kustutati."
+
+#~ msgid "There is no album selected or the album was deleted."
+#~ msgstr "Ühtegi albumit valitud või album kustutati."
+
+#~ msgid "Back"
+#~ msgstr "Tagasi"
+
+#~ msgid "Album is empty."
+#~ msgstr "Album on tühi."
+
+#~ msgid "Gallery is empty."
+#~ msgstr "Galerii on tühi."
+
+#~ msgid "More"
+#~ msgstr "Rohkem"
+
+#~ msgid "Hide"
+#~ msgstr "Peida"
+
+#~ msgid "Show comments"
+#~ msgstr "Näita kommentaare."
+
+#~ msgid "The image has been deleted."
+#~ msgstr "Pilt on eemaldatud. "
+
+#~ msgid "Maximize"
+#~ msgstr "Maksimeerida"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Fullscreen"
+
+#~ msgid "Show info"
+#~ msgstr "Näita info. "
+
+#~ msgid "Show rating"
+#~ msgstr "Näita hinnang"
+
+#~ msgid "Open image in original size."
+#~ msgstr "Ava pilt originaalsuuruses."
+
+#~ msgid "Download original image"
+#~ msgstr "Lae alla originaalpilt"
+
+#~ msgid "Hits: "
+#~ msgstr "Hits: "
+
+#~ msgid "Rated."
+#~ msgstr "Hinnatud."
+
+#~ msgid "Not rated yet."
+#~ msgstr "Pole veel hinnatud. "
+
+#~ msgid "Votes: "
+#~ msgstr "Hääli: "
+
+#~ msgid "Cancel your rating."
+#~ msgstr "Loobu oma hinnang. "
+
+#~ msgid "You have already rated."
+#~ msgstr "Te olete juba hinnatud."
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "Viga. Vale kinnituskood. "
+
+#~ msgid "Hide Comments"
+#~ msgstr "Peida kommentaarid"
+
+#~ msgid "Name"
+#~ msgstr "Nimi"
+
+#~ msgid "Email"
+#~ msgstr "Post"
+
+#~ msgid "Comment"
+#~ msgstr "Kommentaar"
+
+#~ msgid "Verification Code"
+#~ msgstr "Kontrollkood"
+
+#~ msgid "Submit"
+#~ msgstr "Saada"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "Sinu kommentaar ootab mõõdukalt "
+
+#~ msgid "Delete Comment"
+#~ msgstr "Kustuta kommentaar"
+
+#~ msgid "Show Comments"
+#~ msgstr "Näita Kommentaarid"
+
+#, fuzzy
+#~ msgid "Hide info"
+#~ msgstr "Peida"
+
+#~ msgid "Hide rating"
+#~ msgstr "Peida hinnang"
+
+#~ msgid "Restore"
+#~ msgstr "Taasta"
+
+#~ msgid "Exit Fullscreen"
+#~ msgstr "Exit Fullscreen"

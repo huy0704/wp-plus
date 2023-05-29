@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wds\n"
+"POT-Creation-Date: 2014-09-26 18:04+0400\n"
+"PO-Revision-Date: 2014-09-26 18:04+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress3.5\\wp-content\\plugins"
+"\\slider-plugin\n"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:30
+#, fuzzy
+msgid "There is no slider selected or the slider was deleted."
+msgstr "Ei ole galleriaan tai galleriassa poistettiin"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:42
+#, fuzzy
+msgid "There are no slides in this slider."
+msgstr "Ei kuvia tässä galleriassa"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:660
+msgid "Share on Facebook"
+msgstr "Jaa Facebookissa"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:666
+msgid "Share on Twitter"
+msgstr "Jaa Twitterissä"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:672
+msgid "Share on Google+"
+msgstr "Jaa Google+-palvelussa"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:678
+msgid "Share on Pinterest"
+msgstr "Jaa Pinterest"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:684
+msgid "Share on Tumblr"
+msgstr "Jaa Tumblr"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1875
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1894
+msgid "Pause"
+msgstr "Tauko"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1884
+msgid "Play"
+msgstr "Pelata"
+
+#~ msgid "field is required."
+#~ msgstr "kenttä on pakollinen. "
+
+#~ msgid "This is not a valid email address."
+#~ msgstr "Tämä ei ole voimassa oleva sähköpostiosoite."
+
+#~ msgid "There are no images matching your search."
+#~ msgstr "Kuvia ei ole vastaa hakuasi."
+
+#~ msgid " item(s)"
+#~ msgstr "kohde(tta)"
+
+#~ msgid "First"
+#~ msgstr "Ensin"
+
+#~ msgid "Previous"
+#~ msgstr "Edellinen"
+
+#~ msgid "Next"
+#~ msgstr "Seuraava"
+
+#~ msgid "Last"
+#~ msgstr "Kestää"
+
+#~ msgid "Go to the first page"
+#~ msgstr "Mene ensimmäiselle sivulle"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "Siirry edelliselle sivulle"
+
+#~ msgid "of"
+#~ msgstr "annettu"
+
+#~ msgid "Go to the next page"
+#~ msgstr "Siirry seuraavalle sivulle"
+
+#~ msgid "Go to the last page"
+#~ msgstr "Siirry viimeiselle sivulle"
+
+#~ msgid "Reset"
+#~ msgstr "Nollaa"
+
+#~ msgid "Search"
+#~ msgstr "Etsi"
+
+#~ msgid "There is no theme selected or the theme was deleted."
+#~ msgstr "Ei ole mitään teemaa tai valitun teeman poistettiin"
+
+#~ msgid "There is no album selected or the album was deleted."
+#~ msgstr "Ei ole albumia valittuna tai albumin poistettiin"
+
+#~ msgid "Back"
+#~ msgstr "Takaisin"
+
+#~ msgid "Album is empty."
+#~ msgstr "Albumi on tyhjä."
+
+#~ msgid "Gallery is empty."
+#~ msgstr "Galleria on tyhjä."
+
+#~ msgid "More"
+#~ msgstr "Enemmän"
+
+#~ msgid "Hide"
+#~ msgstr "Piilota"
+
+#~ msgid "Show comments"
+#~ msgstr "Näytä kommentit"
+
+#~ msgid "The image has been deleted."
+#~ msgstr "Kuva on poistettu."
+
+#~ msgid "Maximize"
+#~ msgstr "Maksimoimiseksi"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Fullscreen"
+
+#~ msgid "Show info"
+#~ msgstr "Näytä info"
+
+#~ msgid "Show rating"
+#~ msgstr "Näytä arvosanan."
+
+#~ msgid "Open image in original size."
+#~ msgstr "Avoin kuva alkuperäisessä koossa. "
+
+#~ msgid "Download original image"
+#~ msgstr "Lataa alkuperäinen kuva"
+
+#~ msgid "Hits: "
+#~ msgstr "Osumia: "
+
+#~ msgid "Rated."
+#~ msgstr "Mitoitettu."
+
+#~ msgid "Not rated yet."
+#~ msgstr "Ei vielä."
+
+#~ msgid "Votes: "
+#~ msgstr "Äänestykset: "
+
+#~ msgid "Cancel your rating."
+#~ msgstr "Peruuta luokitus. "
+
+#~ msgid "You have already rated."
+#~ msgstr "Olet jo arvostellut. "
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "Virhe. Väärä Varmennuskoodi. "
+
+#~ msgid "Hide Comments"
+#~ msgstr "Piilota kommentit"
+
+#~ msgid "Name"
+#~ msgstr "Nimi"
+
+#~ msgid "Email"
+#~ msgstr "Sähköposti"
+
+#~ msgid "Comment"
+#~ msgstr "Kommentti"
+
+#~ msgid "Verification Code"
+#~ msgstr "Varmennuskoodi"
+
+#~ msgid "Submit"
+#~ msgstr "Lähetä"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "Kommenttisi odottaa maltillisesti "
+
+#~ msgid "Delete Comment"
+#~ msgstr "Poista kommentti"
+
+#~ msgid "Show Comments"
+#~ msgstr "Näytä kommentit"
+
+#~ msgid "Hide info"
+#~ msgstr "Piilota tiedot"
+
+#~ msgid "Hide rating"
+#~ msgstr "Piilota luokitus"
+
+#~ msgid "Restore"
+#~ msgstr "Palauta"
+
+#~ msgid "Exit Fullscreen"
+#~ msgstr "Poistu koko näytön"

@@ -1,0 +1,293 @@
+@media  screen and (max-width: 320px){
+
+  .handle {
+    margin: 0 !important;
+    width: 19px;
+  }
+  
+  .wds_tabs {
+    width: 93%;
+  }
+
+  .wds_tab_title {
+    width: 94%;
+    padding:0 !important
+  }
+
+
+  .wds_layer_remove {  
+    float: none;
+    vertical-align: middle
+  }
+
+  .wds_layer_dublicate {
+    margin: 5px;
+    float: none;
+    vertical-align: middle
+  }
+
+  .wds_layer_depth {
+    float: none;
+  }
+
+  .wds_tab_label {
+    text-align: center;
+  }
+
+  .wds_button-secondary{
+    padding: 0 9px 1px 34px !important;
+  }
+  .wds_nav_buttons{
+    width:100% !important;
+  }
+  .wds_alternate{
+    background-color:#F1F1F1;
+  }
+
+  .action_buttons{
+    font-size: 11px;
+  }
+
+  .wds_buttons .action_buttons{
+    padding: 0 18px 1px 46px;
+    font-size:12px
+  }
+
+
+  .buttons_conteiner{
+    margin:0px !important
+  }
+
+  tbody .action_buttons{
+    padding: 0 7px 1px 43px;
+  }
+  
+  .bgcolor td{
+    padding: 10px !important;
+  }
+
+  .bgcolor {
+    padding: 10px !important;
+  }
+	
+  .delete{
+    background-repeat:no-repeat;
+    background-color:#00A0D2;
+    border-bottom: 3px solid #1D88A5;
+  }
+
+  .select_icon{
+    width: 169px !important;
+  }
+
+  #slide_add_buttons{
+    padding:0
+  }
+  
+  #layer_add_buttons .action_buttons{
+    padding: 0 7px 1px 32px;
+  }
+ 
+  .wds_preview_wrapper{
+    width:100% !important;
+  }
+  
+  .slider_title_conteiner {
+    width: 99%;
+		margin-left: 0 !important;
+  }
+
+  .mobile_hide,
+  .tablenav-pages {
+    display: none !important;
+  }
+
+  
+  .wds_buttons_320 {
+    background-repeat: no-repeat;
+    background-color: #00A0D2;
+    border-bottom: 3px solid #258AA6;
+    padding: 0 18px 1px 39px !important;
+    width: 100%
+  }
+
+  .wds_link {
+    width: 145px !important;
+  }
+  
+  .select_icon_320 {
+    width: 90% !important;
+  }
+  
+  input[type=radio] {
+    margin-top:1px
+  }
+	
+  #TB_window{
+		width:100% !important;
+		left: 3% !important;
+		margin-left: 0 !important;
+		margin-top: 0 !important;
+    top: 3%;
+  }
+	  
+
+  .wds_sub_active {
+    padding: 0!important
+  }
+  
+  .wds_preview {
+    width:93% !important
+  }
+  
+  .wds_button_wrap, .slide_add_buttons_wrap, .layer_add_buttons_wrap {
+    width: 48.2%;
+    text-align: center;
+  }
+  
+  .slide_add_buttons_wrap .action_buttons {
+    width:100%;
+    background-repeat: no-repeat;
+    background-color: #00A0D2;
+    border-bottom: 3px solid #258AA6;
+    text-align:center
+  }
+
+  .add_by_url {
+    padding: 0 7px 1px 34px !important;
+  }
+  
+  .layer_add_buttons_wrap .action_buttons {
+    width: 100%;
+    text-align:center;
+    background-repeat:no-repeat;
+    font-size: 9px;
+    background-color: #00A0D2;
+    border-bottom: 3px solid #258AA6;
+  }
+  
+  .block_320 {
+    display: block !important;
+  }
+  
+  .wds_tab_remove {
+/*     width: 15px;
+    height: 15px; */
+    margin:0 2px;
+  /*   opacity: 0.5;
+    filter: Alpha(opacity=50); */
+  }
+  
+  .wds_slide_dublicate {
+/*     width: 15px;
+    height: 15px; */
+    margin:0 2px;
+  }
+  
+  #hover_buttons{
+    width:76px !important;
+  }
+  
+  .add_social_layer {
+   	background-image:url('../images/sliderwdpng/add_social.png')
+  }
+  
+  #TB_window,
+  #TB_iframeContent {
+    width: 300px !important;
+    height: 500px !important;
+  }
+  
+  .mobiel_width {
+    width: 35%
+  }
+  
+  .mobile_hide {
+    display: none !important;
+  }
+  
+  .non_selectable {
+    display:none
+  }
+  
+  .wds_subtab_wrap{
+		width: 48%;
+    height:130px;
+    float:left;
+    margin:2px
+		
+  }
+	
+	.new_tab_image{	
+		height: 120px;
+    top: 1px;		
+	}	
+  
+  .buttons_div input {
+    width: 32%;
+  }
+	
+	.wds_change_thumbnail{
+		margin:0 2px;
+/*     width:15px;
+    height:15px */
+	}
+  
+	.wds_nav_tabs {
+		height: auto;
+		width: auto; 
+		position: relative;
+	}
+  
+	.wds_nav_tabs ul {
+    display: none;
+    width: 150px;
+		position: absolute;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+		top: -5px;
+		margin:0;
+	}	
+	
+	.wds_menu_icon{
+    top: -26px;		
+	}
+	
+	.wds_nav_tabs .wds_active {
+    border-color: none;
+    border-width: 0;
+    border-style: none;
+    margin: 0 ;
+
+	}
+	
+	.wds_reset_button{
+		position:static;
+		text-align:center;
+	}
+	
+	.wds_box td {
+    padding: 10px 2px !important;
+	}
+	
+  .wds_preview_image{
+    width:100% !important
+  }
+	
+  .display_block {
+    display:block !important;
+  }
+  
+  .display_block .default_buttons {
+    margin:0 !important
+  }
+	
+  .play_buttons_cont {
+    margin: 0 !important
+  }
+  
+  .wds_reverse_cont {
+    margin-top:10px
+  }
+	
+}

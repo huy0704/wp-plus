@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wds\n"
+"POT-Creation-Date: 2014-09-26 17:56+0400\n"
+"PO-Revision-Date: 2014-09-26 17:56+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress3.5\\wp-content\\plugins"
+"\\slider-plugin\n"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:30
+#, fuzzy
+msgid "There is no slider selected or the slider was deleted."
+msgstr "Não há galeria selecionada ou a galeria foi excluída."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:42
+#, fuzzy
+msgid "There are no slides in this slider."
+msgstr "Não há imagens nesta galeria."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:660
+msgid "Share on Facebook"
+msgstr "Compartilhe no Facebook."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:666
+msgid "Share on Twitter"
+msgstr " Compartilhar no Twitter."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:672
+msgid "Share on Google+"
+msgstr "Compartilhe no Google+."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:678
+msgid "Share on Pinterest"
+msgstr "Share on Pinterest"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:684
+msgid "Share on Tumblr"
+msgstr "Share on Tumblr"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1875
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1894
+msgid "Pause"
+msgstr "Pausa"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1884
+msgid "Play"
+msgstr "Play"
+
+#~ msgid "field is required."
+#~ msgstr "campo é obrigatório. "
+
+#~ msgid "This is not a valid email address."
+#~ msgstr "Este não é um endereço de email válido. "
+
+#~ msgid "There are no images matching your search."
+#~ msgstr "Não há imagens que correspondem à sua pesquisa."
+
+#~ msgid " item(s)"
+#~ msgstr "item"
+
+#~ msgid "First"
+#~ msgstr "First"
+
+#~ msgid "Previous"
+#~ msgstr "Anterior"
+
+#~ msgid "Next"
+#~ msgstr "Avançar"
+
+#~ msgid "Last"
+#~ msgstr "Durar"
+
+#~ msgid "Go to the first page"
+#~ msgstr "Ir para a primeira página"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "Vá para a página anterior"
+
+#~ msgid "of"
+#~ msgstr "de"
+
+#~ msgid "Go to the next page"
+#~ msgstr "Ir para a próxima página."
+
+#~ msgid "Go to the last page"
+#~ msgstr "Ir para a última página."
+
+#~ msgid "Reset"
+#~ msgstr "Repor"
+
+#~ msgid "Search"
+#~ msgstr "Pesquisar"
+
+#~ msgid "There is no theme selected or the theme was deleted."
+#~ msgstr "Não há tema selecionado ou o tema foi excluído."
+
+#~ msgid "There is no album selected or the album was deleted."
+#~ msgstr "Não há álbum selecionado ou o álbum foi excluído."
+
+#~ msgid "Back"
+#~ msgstr "Voltar"
+
+#~ msgid "Album is empty."
+#~ msgstr "O álbum está vazio."
+
+#~ msgid "Gallery is empty."
+#~ msgstr "Galeria está vazio."
+
+#~ msgid "More"
+#~ msgstr "Mais"
+
+#~ msgid "Hide"
+#~ msgstr "Ocultar"
+
+#~ msgid "Show comments"
+#~ msgstr "Mostrar comentários."
+
+#~ msgid "The image has been deleted."
+#~ msgstr "A imagem foi apagada. "
+
+#~ msgid "Maximize"
+#~ msgstr "Maximize"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Tela Cheia"
+
+#~ msgid "Show info"
+#~ msgstr "Mostrar info"
+
+#~ msgid "Show rating"
+#~ msgstr "Mostrar classificação"
+
+#~ msgid "Open image in original size."
+#~ msgstr "Abrir imagem em tamanho original. "
+
+#~ msgid "Download original image"
+#~ msgstr "Carregue a imagem original"
+
+#~ msgid "Hits: "
+#~ msgstr "Acessos: "
+
+#~ msgid "Rated."
+#~ msgstr "Classificação."
+
+#~ msgid "Not rated yet."
+#~ msgstr "Não avaliado ainda. "
+
+#~ msgid "Votes: "
+#~ msgstr "Votos: "
+
+#~ msgid "Cancel your rating."
+#~ msgstr "Cancelar a sua classificação. "
+
+#~ msgid "You have already rated."
+#~ msgstr "Você já avaliou. "
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "Error. Código de Verificação incorreta. "
+
+#~ msgid "Hide Comments"
+#~ msgstr "Ocultar Comentários"
+
+#~ msgid "Name"
+#~ msgstr "Nome"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Comment"
+#~ msgstr "Comentário"
+
+#~ msgid "Verification Code"
+#~ msgstr "Código de Verificação"
+
+#~ msgid "Submit"
+#~ msgstr "Enviar"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "Seu comentário está aguardando moderação "
+
+#~ msgid "Delete Comment"
+#~ msgstr "Excluir Comentário"
+
+#~ msgid "Show Comments"
+#~ msgstr "Exibir Comentários"
+
+#~ msgid "Hide info"
+#~ msgstr "Ocultar informações"
+
+#~ msgid "Hide rating"
+#~ msgstr "Esconder classificação"
+
+#~ msgid "Restore"
+#~ msgstr "Restaurar"
+
+#~ msgid "Exit Fullscreen"
+#~ msgstr " Saia Tela Cheia"

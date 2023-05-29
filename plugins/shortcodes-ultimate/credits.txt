@@ -1,0 +1,7 @@
+- Dmitry Semenov - [Magnific Popup jQuery plugin](http://dimsemenov.com/plugins/magnific-popup/)
+- Craig Thompson - [qTip jQuery plugin](http://qtip2.com/)
+- Vladimir Kharlampidi - [Swiper jQuery plugin](http://www.idangero.us/sliders/swiper/)
+- David DeSandro - [Flickity – Touch, responsive, flickable carousels](https://flickity.metafizzy.co/)
+- [Fork Awesome & Dave Gandy](https://github.com/ForkAwesome/Fork-Awesome)
+- James Smith - [Simple Slider jQuery plugin](http://loopj.com/jquery-simple-slider/)
+- [External resources](https://getshortcodes.com/docs/external-resources/)

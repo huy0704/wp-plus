@@ -1,0 +1,10 @@
+<svg id="Close_Icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_169840" data-name="Path 169840" d="M0,0H16V16H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1282" data-name="Mask Group 1282" clip-path="url(#clip-path)">
+    <path id="Path_169841" data-name="Path 169841" d="M771.045,5105.572l-2.6-2.6-2.6,2.6a1.078,1.078,0,0,1-1.841-.76,1.079,1.079,0,0,1,.312-.76l0,0,2.6-2.6-2.6-2.6a1.086,1.086,0,0,1,0-1.526l.007-.006a1.078,1.078,0,0,1,1.517,0l0,0,2.6,2.6,2.608-2.609a1.083,1.083,0,0,1,1.517,0l.007.006a1.088,1.088,0,0,1,0,1.525l-2.605,2.6,2.607,2.607a1.076,1.076,0,0,1,.312.76,1.079,1.079,0,0,1-1.844.759Z" transform="translate(-760.445 -5093.445)" fill="rgba(50,58,69,0.2)"/>
+  </g>
+</svg>

@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wds\n"
+"POT-Creation-Date: 2014-09-26 18:04+0400\n"
+"PO-Revision-Date: 2014-09-26 18:04+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress3.5\\wp-content\\plugins"
+"\\slider-plugin\n"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:30
+#, fuzzy
+msgid "There is no slider selected or the slider was deleted."
+msgstr "هیچ گالری انتخاب شده وجود دارد و یا از گالری حذف شده است"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:42
+#, fuzzy
+msgid "There are no slides in this slider."
+msgstr "تصویر در این گالری وجود دارد"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:660
+msgid "Share on Facebook"
+msgstr "در فیس بوک به اشتراک بگذارید"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:666
+msgid "Share on Twitter"
+msgstr "در توییتر به اشتراک بگذارید"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:672
+msgid "Share on Google+"
+msgstr "در + Google به اشتراک بگذارید"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:678
+msgid "Share on Pinterest"
+msgstr "اشتراک در Pinterest"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:684
+msgid "Share on Tumblr"
+msgstr "به اشتراک گذاشتن در وبلاگ Tumblr"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1875
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1894
+msgid "Pause"
+msgstr "مکث"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1884
+msgid "Play"
+msgstr "بازی"
+
+#~ msgid "field is required."
+#~ msgstr "فیلد الزامی است."
+
+#~ msgid "This is not a valid email address."
+#~ msgstr "این یک آدرس ایمیل معتبر نیست. "
+
+#~ msgid "There are no images matching your search."
+#~ msgstr "تصویر مطابق با جستجو شما وجود دارد."
+
+#~ msgid " item(s)"
+#~ msgstr "آیتم استفاده کنید"
+
+#~ msgid "First"
+#~ msgstr "نخست"
+
+#~ msgid "Previous"
+#~ msgstr "قبلی"
+
+#~ msgid "Next"
+#~ msgstr "بعد"
+
+#~ msgid "Last"
+#~ msgstr "تاریخ و زمان آخرین"
+
+#~ msgid "Go to the first page"
+#~ msgstr "برو به صفحه اول"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "برو به صفحه قبلی"
+
+#~ msgid "of"
+#~ msgstr "از"
+
+#~ msgid "Go to the next page"
+#~ msgstr "برو به صفحه بعد"
+
+#~ msgid "Go to the last page"
+#~ msgstr "برو به صفحه آخر"
+
+#~ msgid "Reset"
+#~ msgstr "تنظیم مجدد"
+
+#~ msgid "Search"
+#~ msgstr "جستجو"
+
+#~ msgid "There is no theme selected or the theme was deleted."
+#~ msgstr "هیچ موضوع انتخاب شده وجود دارد و یا موضوع حذف شد"
+
+#~ msgid "There is no album selected or the album was deleted."
+#~ msgstr "هیچ آلبوم انتخاب شده وجود دارد و یا این آلبوم حذف شد"
+
+#~ msgid "Back"
+#~ msgstr "برگشت"
+
+#~ msgid "Album is empty."
+#~ msgstr "آلبوم خالی است"
+
+#~ msgid "Gallery is empty."
+#~ msgstr "گالری خالی است"
+
+#~ msgid "More"
+#~ msgstr "بیشتر"
+
+#~ msgid "Hide"
+#~ msgstr "مخفی شود"
+
+#~ msgid "Show comments"
+#~ msgstr "نمایش نظرات"
+
+#~ msgid "The image has been deleted."
+#~ msgstr "تصویر حذف شده است"
+
+#~ msgid "Maximize"
+#~ msgstr "به حداکثر رساندن"
+
+#~ msgid "Fullscreen"
+#~ msgstr "تمام صفحه"
+
+#~ msgid "Show info"
+#~ msgstr "نمایش اطلاعات"
+
+#~ msgid "Show rating"
+#~ msgstr "نمایش امتیاز"
+
+#~ msgid "Open image in original size."
+#~ msgstr "باز کردن تصویر در اندازه اصلی"
+
+#~ msgid "Download original image"
+#~ msgstr "دانلود تصویر اصلی"
+
+#~ msgid "Hits: "
+#~ msgstr "بازدید:"
+
+#~ msgid "Rated."
+#~ msgstr "دارای رتبه."
+
+#~ msgid "Not rated yet."
+#~ msgstr "هنوز رتبه بندی نشده"
+
+#~ msgid "Votes: "
+#~ msgstr "امتیاز: "
+
+#~ msgid "Cancel your rating."
+#~ msgstr "لغو امتیاز خود را"
+
+#~ msgid "You have already rated."
+#~ msgstr "شما در حال حاضر به امتیاز"
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "خطا. کد امنیتی اشتباه است. "
+
+#~ msgid "Hide Comments"
+#~ msgstr "مخفی کردن نظرات"
+
+#~ msgid "Name"
+#~ msgstr "نام و نام خانوادگی"
+
+#~ msgid "Email"
+#~ msgstr "پست الکترونیک "
+
+#~ msgid "Comment"
+#~ msgstr "نظر"
+
+#~ msgid "Verification Code"
+#~ msgstr "کد امنیتی"
+
+#~ msgid "Submit"
+#~ msgstr "ثبت کردن"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "نظر شما در انتظار تایید"
+
+#~ msgid "Delete Comment"
+#~ msgstr "حذف نظر"
+
+#~ msgid "Show Comments"
+#~ msgstr "نمایش نظرات"
+
+#~ msgid "Hide info"
+#~ msgstr "مخفی کردن اطلاعات"
+
+#~ msgid "Hide rating"
+#~ msgstr "مخفی کردن امتیاز"
+
+#~ msgid "Restore"
+#~ msgstr "بازگرداندن"
+
+#~ msgid "Exit Fullscreen"
+#~ msgstr "خروج از تمام صفحه"

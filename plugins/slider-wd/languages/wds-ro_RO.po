@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wds\n"
+"POT-Creation-Date: 2014-09-26 17:56+0400\n"
+"PO-Revision-Date: 2014-09-26 17:56+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress3.5\\wp-content\\plugins"
+"\\slider-plugin\n"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:30
+#, fuzzy
+msgid "There is no slider selected or the slider was deleted."
+msgstr "Nu există nici o galerie selectat sau galeria a fost șters."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:42
+#, fuzzy
+msgid "There are no slides in this slider."
+msgstr " Nu exista imagini in aceasta galerie."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:660
+msgid "Share on Facebook"
+msgstr "Partaja pe Facebook."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:666
+msgid "Share on Twitter"
+msgstr "Trimite pe Twitter."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:672
+msgid "Share on Google+"
+msgstr "Partaja pe Google+."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:678
+msgid "Share on Pinterest"
+msgstr "Share on Pinterest"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:684
+msgid "Share on Tumblr"
+msgstr "Share on Tumblr"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1875
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1894
+msgid "Pause"
+msgstr "Pauză"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1884
+msgid "Play"
+msgstr "Juca"
+
+#~ msgid "field is required."
+#~ msgstr "Este necesar un spațiu."
+
+#~ msgid "This is not a valid email address."
+#~ msgstr "Aceasta nu este o adresă de email validă."
+
+#~ msgid "There are no images matching your search."
+#~ msgstr "Nu exista imagini care se potrivesc dvs. de căutare."
+
+#~ msgid " item(s)"
+#~ msgstr "articol(e)"
+
+#~ msgid "First"
+#~ msgstr "În primul rând"
+
+#~ msgid "Previous"
+#~ msgstr "Anterior"
+
+#~ msgid "Next"
+#~ msgstr "Următor"
+
+#~ msgid "Last"
+#~ msgstr "Dura"
+
+#~ msgid "Go to the first page"
+#~ msgstr "Du-te la prima pagină"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "Du-te la pagina anterioară"
+
+#~ msgid "of"
+#~ msgstr "de"
+
+#~ msgid "Go to the next page"
+#~ msgstr "Du-te la pagina următoare"
+
+#~ msgid "Go to the last page"
+#~ msgstr "Du-te la ultima pagină"
+
+#~ msgid "Reset"
+#~ msgstr "Reset"
+
+#~ msgid "Search"
+#~ msgstr "Căutare"
+
+#~ msgid "There is no theme selected or the theme was deleted."
+#~ msgstr "Nu există nici o temă aleasă sau tema a fost șters."
+
+#~ msgid "There is no album selected or the album was deleted."
+#~ msgstr "Nu există nici un album selectat sau album a fost șters."
+
+#~ msgid "Back"
+#~ msgstr "Înapoi"
+
+#~ msgid "Album is empty."
+#~ msgstr "Album este gol."
+
+#~ msgid "Gallery is empty."
+#~ msgstr " Galeria este gol."
+
+#~ msgid "More"
+#~ msgstr "Mai mult"
+
+#~ msgid "Hide"
+#~ msgstr "Ascunde"
+
+#~ msgid "Show comments"
+#~ msgstr "Arata comentarii."
+
+#~ msgid "The image has been deleted."
+#~ msgstr "Imaginea a fost ștearsă. "
+
+#~ msgid "Maximize"
+#~ msgstr "Maximiza"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Fullscreen"
+
+#~ msgid "Show info"
+#~ msgstr "Arată-info"
+
+#~ msgid "Show rating"
+#~ msgstr "Arată-evaluare"
+
+#~ msgid "Open image in original size."
+#~ msgstr "Imagine deschisă în dimensiunea originală."
+
+#~ msgid "Download original image"
+#~ msgstr "Descarcă imaginea originală"
+
+#~ msgid "Hits: "
+#~ msgstr "Vizualizari: "
+
+#~ msgid "Rated."
+#~ msgstr "Nominală."
+
+#~ msgid "Not rated yet."
+#~ msgstr "Neevaluată încă. "
+
+#~ msgid "Votes: "
+#~ msgstr "Voturi: "
+
+#~ msgid "Cancel your rating."
+#~ msgstr "Anula de rating dumneavoastră. "
+
+#~ msgid "You have already rated."
+#~ msgstr "Ai votat deja. "
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "Eroare. Cod de verificare incorect. "
+
+#~ msgid "Hide Comments"
+#~ msgstr " Ascunde comentarii"
+
+#~ msgid "Name"
+#~ msgstr "Nume"
+
+#~ msgid "Email"
+#~ msgstr "E-mail "
+
+#~ msgid "Comment"
+#~ msgstr "Comment"
+
+#~ msgid "Verification Code"
+#~ msgstr "Cod de verificare"
+
+#~ msgid "Submit"
+#~ msgstr "Prezenta"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "Comentariul dvs. așteaptă moderație "
+
+#~ msgid "Delete Comment"
+#~ msgstr "Ștergere comentariu"
+
+#~ msgid "Show Comments"
+#~ msgstr "Afișează comentarii"
+
+#~ msgid "Hide info"
+#~ msgstr "Ascunde detaliile"
+
+#~ msgid "Hide rating"
+#~ msgstr "Ascunde evaluare"
+
+#~ msgid "Restore"
+#~ msgstr "Restaurare"
+
+#~ msgid "Exit Fullscreen"
+#~ msgstr "Ieșiți pe tot ecranul"

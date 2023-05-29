@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wds\n"
+"POT-Creation-Date: 2014-09-26 17:54+0400\n"
+"PO-Revision-Date: 2014-09-26 17:54+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress3.5\\wp-content\\plugins"
+"\\slider-plugin\n"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:30
+#, fuzzy
+msgid "There is no slider selected or the slider was deleted."
+msgstr "มีแกลลอรี่ไม่เลือกหรือแกลเลอรีที่ถูกลบ"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:42
+#, fuzzy
+msgid "There are no slides in this slider."
+msgstr "ไม่มีภาพอยู่ในแกลเลอรี่นี้"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:660
+msgid "Share on Facebook"
+msgstr " Share on Facebook"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:666
+msgid "Share on Twitter"
+msgstr "Share on Twitter"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:672
+msgid "Share on Google+"
+msgstr " เมื่อ Google"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:678
+msgid "Share on Pinterest"
+msgstr "แบ่งปันเพิ่มเติมเกี่ยวกับแบรนด์"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:684
+msgid "Share on Tumblr"
+msgstr "Share on Tumblr"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1875
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1894
+msgid "Pause"
+msgstr "หยุด"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1884
+msgid "Play"
+msgstr "Play"
+
+#~ msgid "field is required."
+#~ msgstr "สนามจะต้อง"
+
+#~ msgid "This is not a valid email address."
+#~ msgstr "นี้ไม่ได้ที่อยู่อีเมลที่ถูกต้อง"
+
+#~ msgid "There are no images matching your search."
+#~ msgstr "มีภาพที่ตรงกับการค้นหาของคุณไม่"
+
+#~ msgid " item(s)"
+#~ msgstr "ชิ้น"
+
+#~ msgid "First"
+#~ msgstr "เป็นครั้งแรก"
+
+#~ msgid "Previous"
+#~ msgstr "ก่อน"
+
+#~ msgid "Next"
+#~ msgstr "ต่อไป"
+
+#~ msgid "Last"
+#~ msgstr "สุดท้าย"
+
+#~ msgid "Go to the first page"
+#~ msgstr "ไปที่หน้าแรก"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "ไปที่หน้าก่อนหน้านี้"
+
+#~ msgid "of"
+#~ msgstr "ของ"
+
+#~ msgid "Go to the next page"
+#~ msgstr "ไปยังหน้าถัดไป"
+
+#~ msgid "Go to the last page"
+#~ msgstr "ไปที่หน้าสุดท้าย"
+
+#~ msgid "Reset"
+#~ msgstr "ตั้งใหม่"
+
+#~ msgid "Search"
+#~ msgstr "ค้นหา"
+
+#~ msgid "There is no theme selected or the theme was deleted."
+#~ msgstr "มีรูปแบบที่ไม่เลือกหรือรูปแบบที่ถูกลบ"
+
+#~ msgid "There is no album selected or the album was deleted."
+#~ msgstr "มีอัลบั้มไม่เลือกหรืออัลบั้มถูกลบ"
+
+#~ msgid "Back"
+#~ msgstr "กลับ"
+
+#~ msgid "Album is empty."
+#~ msgstr "อัลบั้มว่างเปล่า"
+
+#~ msgid "Gallery is empty."
+#~ msgstr "แกลลอรี่ว่างเปล่า"
+
+#~ msgid "More"
+#~ msgstr "ขึ้น"
+
+#~ msgid "Hide"
+#~ msgstr "ปิดบัง"
+
+#~ msgid "Show comments"
+#~ msgstr "แสดงความเห็น"
+
+#~ msgid "The image has been deleted."
+#~ msgstr "ภาพที่ถูกลบไปแล้ว"
+
+#~ msgid "Maximize"
+#~ msgstr "เพิ่ม"
+
+#~ msgid "Fullscreen"
+#~ msgstr "เต็มจอ"
+
+#~ msgid "Show info"
+#~ msgstr "แสดงข้อมูล "
+
+#~ msgid "Show rating"
+#~ msgstr "แสดงคะแนน "
+
+#~ msgid "Open image in original size."
+#~ msgstr "เปิดภาพในขนาดเดิม "
+
+#~ msgid "Download original image"
+#~ msgstr "ดาวน์โหลดภาพต้นฉบับ "
+
+#~ msgid "Hits: "
+#~ msgstr "Hits: "
+
+#~ msgid "Rated."
+#~ msgstr "จัดอันดับ"
+
+#~ msgid "Not rated yet."
+#~ msgstr "ยังไม่ได้รับการ "
+
+#~ msgid "Votes: "
+#~ msgstr "โหวต: "
+
+#~ msgid "Cancel your rating."
+#~ msgstr "ยกเลิกให้คะแนนของคุณ "
+
+#~ msgid "You have already rated."
+#~ msgstr "คุณได้รับการจัดอยู่แล้ว "
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "ความผิดพลาด รหัสยืนยันไม่ถูกต้อง "
+
+#~ msgid "Hide Comments"
+#~ msgstr "ซ่อนความคิดเห็น"
+
+#~ msgid "Name"
+#~ msgstr "ชื่อ"
+
+#~ msgid "Email"
+#~ msgstr "อีเมล์"
+
+#~ msgid "Comment"
+#~ msgstr "ความเห็น"
+
+#~ msgid "Verification Code"
+#~ msgstr "รหัสยืนยัน"
+
+#~ msgid "Submit"
+#~ msgstr "เสนอ"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "ความคิดเห็นของคุณกำลังรอการกลั่นกรอง "
+
+#~ msgid "Delete Comment"
+#~ msgstr "ลบความคิดเห็น"
+
+#~ msgid "Show Comments"
+#~ msgstr "แสดงความเห็น"
+
+#~ msgid "Hide info"
+#~ msgstr "ซ่อนข้อมูล"
+
+#~ msgid "Hide rating"
+#~ msgstr "คะแนนซ่อน"
+
+#~ msgid "Restore"
+#~ msgstr "ฟื้นฟู"
+
+#~ msgid "Exit Fullscreen"
+#~ msgstr "ออกเต็มจอ"

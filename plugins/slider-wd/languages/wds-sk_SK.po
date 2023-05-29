@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wds\n"
+"POT-Creation-Date: 2014-09-26 17:56+0400\n"
+"PO-Revision-Date: 2014-09-26 17:56+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sk_SK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress3.5\\wp-content\\plugins"
+"\\slider-plugin\n"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:30
+#, fuzzy
+msgid "There is no slider selected or the slider was deleted."
+msgstr "Nie je vybraný žiadny galérie alebo galérie bola zmazaná."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:42
+#, fuzzy
+msgid "There are no slides in this slider."
+msgstr "V tejto galérii žiadne snímky."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:660
+msgid "Share on Facebook"
+msgstr "Zdieľajte na Facebooku"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:666
+msgid "Share on Twitter"
+msgstr "Zdieľať na Twitteri"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:672
+msgid "Share on Google+"
+msgstr "Zdieľať na Google+"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:678
+msgid "Share on Pinterest"
+msgstr "Share on Pinterest"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:684
+msgid "Share on Tumblr"
+msgstr "Share on Tumblr"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1875
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1894
+msgid "Pause"
+msgstr "Pauza"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1884
+msgid "Play"
+msgstr "Play"
+
+#~ msgid "field is required."
+#~ msgstr "je povinné pole."
+
+#~ msgid "This is not a valid email address."
+#~ msgstr "Toto nie je platná e-mailová adresa."
+
+#~ msgid "There are no images matching your search."
+#~ msgstr "Nie sú žiadne zábery, ktoré zodpovedajú zadaným."
+
+#~ msgid " item(s)"
+#~ msgstr "položka"
+
+#~ msgid "First"
+#~ msgstr "Prvý"
+
+#~ msgid "Previous"
+#~ msgstr "Predchádzajúce"
+
+#~ msgid "Next"
+#~ msgstr "Ďalšie"
+
+#~ msgid "Last"
+#~ msgstr "Trvať"
+
+#~ msgid "Go to the first page"
+#~ msgstr "Prejsť na prvú stránku"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "Prejsť na predchádzajúcu stránku"
+
+#~ msgid "of"
+#~ msgstr "z"
+
+#~ msgid "Go to the next page"
+#~ msgstr "Prejdite na ďalšiu stránku"
+
+#~ msgid "Go to the last page"
+#~ msgstr "Prejsť na poslednú stránku"
+
+#~ msgid "Reset"
+#~ msgstr "Obnoviť"
+
+#~ msgid "Search"
+#~ msgstr "Hľadať"
+
+#~ msgid "There is no theme selected or the theme was deleted."
+#~ msgstr "Nie je vybraný žiadny motív alebo tému bolo zmazané"
+
+#~ msgid "There is no album selected or the album was deleted."
+#~ msgstr "Neexistuje žiadny vybrané album alebo albumu bol zmazaný."
+
+#~ msgid "Back"
+#~ msgstr "Späť"
+
+#~ msgid "Album is empty."
+#~ msgstr "Album je prázdny."
+
+#~ msgid "Gallery is empty."
+#~ msgstr "Galérie je prázdna."
+
+#~ msgid "More"
+#~ msgstr "Viac"
+
+#~ msgid "Hide"
+#~ msgstr "Skryť"
+
+#~ msgid "Show comments"
+#~ msgstr "Ukáž komentáre"
+
+#~ msgid "The image has been deleted."
+#~ msgstr "Obraz bol zmazaný"
+
+#~ msgid "Maximize"
+#~ msgstr "Maximalizovať"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Celá obrazovka"
+
+#~ msgid "Show info"
+#~ msgstr "Zobraziť informácie"
+
+#~ msgid "Show rating"
+#~ msgstr "Zobraziť hodnotenia"
+
+#~ msgid "Open image in original size."
+#~ msgstr "Otvoriť obrázok v pôvodnej veľkosti. "
+
+#~ msgid "Download original image"
+#~ msgstr "Stiahnuť pôvodný obrázok"
+
+#~ msgid "Hits: "
+#~ msgstr "Zobrazenie:"
+
+#~ msgid "Rated."
+#~ msgstr "Menovitý."
+
+#~ msgid "Not rated yet."
+#~ msgstr "Zatiaľ nebola hodnotená"
+
+#~ msgid "Votes: "
+#~ msgstr "Hlasov: "
+
+#~ msgid "Cancel your rating."
+#~ msgstr "Zrušiť svoje hodnotenie."
+
+#~ msgid "You have already rated."
+#~ msgstr "Už ste hodnotili. "
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "Chyba. Nesprávny overovací kód. "
+
+#~ msgid "Hide Comments"
+#~ msgstr "Skryť komentáre"
+
+#~ msgid "Name"
+#~ msgstr "Meno"
+
+#~ msgid "Email"
+#~ msgstr "E-mail "
+
+#~ msgid "Comment"
+#~ msgstr "Komentovať"
+
+#~ msgid "Verification Code"
+#~ msgstr "Overovací kód"
+
+#~ msgid "Submit"
+#~ msgstr "Odoslať"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "Váš komentár čaká na moderovanie "
+
+#~ msgid "Delete Comment"
+#~ msgstr "Odstrániť komentár"
+
+#~ msgid "Show Comments"
+#~ msgstr "Zobraziť komentáre"
+
+#~ msgid "Hide info"
+#~ msgstr "Skryť"
+
+#~ msgid "Hide rating"
+#~ msgstr "Skryť hodnotenie"
+
+#~ msgid "Restore"
+#~ msgstr "Obnoviť"
+
+#~ msgid "Exit Fullscreen"
+#~ msgstr "Ukončite celá obrazovka"

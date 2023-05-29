@@ -1,0 +1,328 @@
+<% extends 'layout.html' %>
+
+<% block content %>
+<div class="mailpoet-premium-page">
+  <div class="mailpoet-premium-page-intro mailpoet-premium-page-section mailpoet-grid-two-columns">
+    <div>
+      <div class="mailpoet-gap-large"></div>
+      <h1 class="mailpoet-h1">
+        <%= _x('Take your email marketing strategy<br> to the next level', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+      </h1>
+      <p>
+        <%= _x('Ready to level up your email marketing efforts?', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+        <%= _x('Upgrade your plan to unlock MailPoet’s <b>advanced features</b>, access to <b>detailed analytics</b>, and <b>priority support</b>.', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+      </p>
+      <div class="mailpoet-premium-page-intro-link-wrap">
+        <a
+          target="_blank"
+          <% if (has_valid_api_key) %>
+            href="<%= 'https://account.mailpoet.com/orders/upgrade/' ~ plugin_partial_key ~ '?utm_source=plugin&utm_medium=premium&utm_campaign=upgrade' %>"
+          <% else %>
+            href="<%= "https://account.mailpoet.com/?s=" ~ subscriber_count ~ "&g=business&billing=monthly&email=" ~ current_wp_user.user_email ~ '&utm_source=plugin&utm_medium=premium&utm_campaign=purchase' %>"
+          <% endif %>
+          class="mailpoet-button button-primary"
+        >
+
+          <%= _x('Upgrade', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+        </a>
+      </div>
+      <div class="mailpoet-gap-large"></div>
+    </div>
+    <img
+      src="<%= cdn_url('premium/1-we-take-care.svg') %>"
+      alt="<%= __('Image bird feeder') %>"
+    >
+  </div>
+
+  <hr>
+
+  <% if (subscriber_count < 1000 and not has_valid_api_key) %>
+  <div class="mailpoet-premium-page-section mailpoet-premium-page-section-narrow mailpoet-premium-page-text-center">
+    <h1 class="mailpoet-h0">
+      <%= _x('MailPoet Starter plan is actually yours for free', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+    </h1>
+    <p class="mailpoet-premium-page-section-large">
+      <%= _x('Website owners with less than 1,000 subscribers, like you, can get their emails delivered reliably for free with MailPoet Sending Service', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+    </p>
+    <a
+      target="_blank"
+      href="<%= "https://account.mailpoet.com/?s=" ~ subscriber_count ~ "&g=starter&billing=monthly&email=" ~ current_wp_user.user_email ~ '&utm_source=plugin&utm_medium=premium&utm_campaign=purchase' | escape('html_attr') %>"
+      class="mailpoet-button button-primary"
+    >
+      <%= _x('Sign up for free', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+    </a>
+  </div>
+
+  <hr>
+  <% endif %>
+
+  <div class="mailpoet-premium-page-upgrade-to-premium mailpoet-premium-page-section">
+    <div class=" mailpoet-premium-page-section-narrow mailpoet-premium-page-text-center">
+      <h1 class="mailpoet-h0">
+        <%= _x('Fuel growth with<br>a MailPoet Business plan', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+      </h1>
+      <p>
+        <%= _x('Everything you need to take your email marketing (and business!) to the next level.', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+      </p>
+    </div>
+    <div class="mailpoet-grid-three-columns mailpoet-premium-three-columns-two-orphans">
+      <div>
+        <h2 class="mailpoet-h2">
+          <%= _x('Optimize with detailed engagement statistics', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+        </h2>
+        <p>
+          <%= _x('Learn more about your subscribers and optimize your campaigns.', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+          <%= _x('<b>Understand how your subscribers engage with your emails</b> via open, click, and unsubscribe statistics.', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+          <%= _x('And if you manage a WooCommerce store, you’ll be able to see <b>how your email campaigns influence purchase behavior, including total revenue, number of orders, and the products purchased.</b>', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+        </p>
+        <p>
+          <%= _x('Use these valuable insights to make incremental improvements to your email campaigns, and better tailor your marketing to your target audience to <b>increase engagement and conversions!</b>', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+        </p>
+      </div>
+      <div>
+        <h2 class="mailpoet-h2">
+          <%= _x('Get personal with multi-segment criteria', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+        </h2>
+        <p>
+          <%= _x('The more you can tailor your email campaigns to your subscribers’ interests or behavior, the higher the engagement and conversion levels you can expect to see.', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+          <%= _x('When you upgrade to a paid plan, you’ll <b>unlock the ability to combine subscriber segments</b> in order to further personalize your email campaigns.', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+        </p>
+        <p>
+          <%= _x('For example, if you’d like to invite your most loyal, long-term subscribers to sign up to receive exclusive content, you could combine the “subscribe date” option with “number of email opens” to send an email to this subset of subscribers inviting them to sign up.', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+          <%= _x('Or if you run a WooCommerce store and you’d like to encourage one-time customers to return and make an additional purchase, you could combine the “number of orders” segment with “purchased in this category” to send an exclusive discount tailored to their purchase history.', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+        </p>
+      </div>
+      <div>
+        <h2 class="mailpoet-h2">
+          <%= _x('Track engagement with Google Analytics', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+        </h2>
+        <p>
+          <%= _x('<b>Discover the part your email marketing campaigns play in your overall marketing strategy</b> by connecting MailPoet with your Google Analytics account.', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+          <%= _x('Add a custom campaign name for each of your email campaigns, then <b>track how your subscribers are engaging with your website content</b> (through behavior metrics such as time on site, pages per visit, etc.), where they’re based (filter by city, country, or continent), and how they’re viewing your content (screen resolution, device, operating system, etc.).', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+        </p>
+        <p>
+          <%= _x('Unlike in MailPoet, you won’t be able to track the identity of each visitor. This is against Google’s policy, which we respect.', 'This text resides in the Uprade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+        </p>
+      </div>
+      <div>
+        <h2 class="mailpoet-h2">
+          <%= _x('Expert help on hand, whenever you need it', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+        </h2>
+        <p>
+          <%= _x('If you’re ever not sure on how to use any of our features, what the best way to achieve your email marketing goals would be, or you run into a technical issue, you’ll have <b>direct access to our expert customer support team</b>.', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+        </p>
+        <p>
+          <%= _x('Reach out to them via our priority support form, or by using the chat icon on your dashboard, and one of our friendly experts will respond within 48 hours.', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+        </p>
+
+      </div>
+      <div>
+        <h2 class="mailpoet-h2">
+          <%= _x('Email that scales with you', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+        </h2>
+        <p>
+          <%= _x('Whether you send 10 or 100,000 emails a day, if you use the MailPoet Sending Service, <b>your emails will always be delivered on time, every time</b>.', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+          <%= _x('Our advanced email infrastructure routinely handles small business newsletters through to huge mailing lists with tens of thousands of subscribers.', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+        </p>
+        <p>
+          <%= _x('Our plans scale as your list grows, with an automated upgrade option available for up to 200,000 subscribers.', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+          <%= _x('Going beyond 200,000? No problem. Contact our friendly support team to discuss plan options and pricing.', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="mailpoet-premium-page-get-started mailpoet-premium-page-section mailpoet-premium-page-text-center">
+    <h1 class="mailpoet-h0">
+      <%= _x('Upgrade and unlock MailPoet’s advanced features', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+    </h1>
+    <p>
+      <%= _x('Choose the MailPoet plan that’s right for you.', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+    </p>
+    <div class="mailpoet-premium-page-options mailpoet-grid-two-columns">
+      <div>
+        <div class="mailpoet-premium-page-options-label-wrap">
+          <div class="mailpoet-premium-page-options-label">
+            <%= _x('Recommended', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+          </div>
+        </div>
+        <h1 class="mailpoet-h0">
+          <%= _x('Business', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+        </h1>
+        <p class="mailpoet-premium-page-text-large">
+          <%= _x('From $10/month,<br>based on 500 subscribers', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+        </p>
+        <h3>
+          <%= _x('Send with: MailPoet Sending Service', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+        </h3>
+        <div class="mailpoet-premium-page-options-divider"></div>
+        <h3 class="mailpoet-premium-feature-list-heading">
+          <%= _x('This plan includes:', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+        </h3>
+        <ul>
+          <li><%= _x('Use MailPoet on 1 website', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %></li>
+          <li><%= _x('Send unlimited emails', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %></li>
+          <li><%= _x('Without MailPoet branding', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %></li>
+          <li><%= _x('Priority customer support', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %></li>
+        </ul>
+        <h3 class="mailpoet-premium-feature-list-heading">
+          <%= _x('All Starter features, plus:', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+        </h3>
+        <ul>
+          <li><%= _x('Detailed engagement statistics', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %></li>
+          <li><%= _x('Subscriber segmentation', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %></li>
+          <li><%= _x('Google Analytics integration', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %></li>
+        </ul>
+        <a
+          target="_blank"
+          <% if (has_valid_api_key) %>
+            href="<%= 'https://account.mailpoet.com/orders/upgrade/' ~ plugin_partial_key ~ '?utm_source=plugin&utm_medium=premium&utm_campaign=upgrade' %>"
+          <% else %>
+            href="<%= "https://account.mailpoet.com/?s=" ~ subscriber_count ~ "&g=business&billing=monthly&email=" ~ current_wp_user.user_email ~ '&utm_source=plugin&utm_medium=premium&utm_campaign=purchase' %>"
+          <% endif %>
+        class="mailpoet-button button-primary"
+        >
+          <%= _x('Get started', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+        </a>
+      </div>
+      <div>
+        <div class="mailpoet-premium-page-options-label-wrap"></div>
+        <h1 class="mailpoet-h0">
+          <%= _x('Creator', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+        </h1>
+        <p class="mailpoet-premium-page-text-large">
+          <%= _x('From $8/month,<br>based on 500 subscribers', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+        </p>
+        <h3>
+          <%= _x('Send with: Your own sending method', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+        </h3>
+        <h3 class="mailpoet-premium-feature-list-heading">
+          <%= _x('This plan includes:', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+        </h3>
+        <ul>
+          <li><%= _x('Use MailPoet on 1 website', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %></li>
+          <li><%= _x('Without MailPoet branding', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %></li>
+          <li><%= _x('Priority customer support', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %></li>
+        </ul>
+        <h3 class="mailpoet-premium-feature-list-heading">
+          <%= _x('All Starter features, plus:', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+        </h3>
+        <ul>
+          <li><%= _x('Detailed engagement statistics', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %></li>
+          <li><%= _x('Subscriber segmentation', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %></li>
+          <li><%= _x('Google Analytics integration', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %></li>
+        </ul>
+        <div class="mailpoet-premium-page-options-divider"></div>
+        <a
+          target="_blank"
+          <% if (has_valid_api_key) %>
+            href="<%= 'https://account.mailpoet.com/orders/upgrade/' ~ plugin_partial_key ~ '?utm_source=plugin&utm_medium=premium&utm_campaign=upgrade' %>"
+          <% else %>
+            href="<%= "https://account.mailpoet.com/?s=" ~ subscriber_count ~ "&g=creator&billing=monthly&email=" ~ current_wp_user.user_email ~ '&utm_source=plugin&utm_medium=premium&utm_campaign=purchase' %>"
+          <% endif %>
+          class="mailpoet-button button-primary"
+        >
+          <%= _x('Get started', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="mailpoet-premium-page-our-agency-license mailpoet-premium-page-section mailpoet-grid-two-columns">
+    <div>
+      <h1 class="mailpoet-h0">
+        <%= _x('Want to use MailPoet on multiple websites? Choose the Agency plan', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+      </h1>
+      <p>
+        <%= _x('Our Agency plan has been designed for those who maintain or build WordPress and WooCommerce solutions for multiple clients.', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+        <%= _x('Quickly deploy an easy to learn email solution on up to 50 websites, and rest assured that your clients’ emails make it to the inbox with the MailPoet Sending Service.', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+      </p>
+      <h3>
+        <%= _x('From $30/month, based on 500 subscribers per website', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+      </h3>
+      <h3>
+        <%= _x('Send with: MailPoet Sending Service', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+      </h3>
+      <h3>
+        <%= _x('This plan includes:', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+      </h3>
+      <ul class="mailpoet-premium-page-bullet-list">
+        <li><%= _x('Use MailPoet on 50 websites', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %></li>
+        <li><%= _x('Send unlimited emails', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %></li>
+        <li><%= _x('Without MailPoet branding', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %></li>
+        <li><%= _x('Priority customer support', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %></li>
+      </ul>
+      <h3>
+        <%= _x('All Starter features, plus:', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+      </h3>
+      <ul class="mailpoet-premium-page-bullet-list">
+        <li><%= _x('Detailed engagement statistics', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %></li>
+        <li><%= _x('Subscriber segmentation', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %></li>
+        <li><%= _x('Google Analytics integration', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %></li>
+      </ul>
+      <a
+        target="_blank"
+        <% if (has_valid_api_key) %>
+          href="<%= 'https://account.mailpoet.com/orders/upgrade/' ~ plugin_partial_key ~ '?utm_source=plugin&utm_medium=premium&utm_campaign=upgrade' %>"
+        <% else %>
+          href="<%= "https://account.mailpoet.com/?s=" ~ subscriber_count ~ "&g=agency&billing=monthly&email=" ~ current_wp_user.user_email ~ '&utm_source=plugin&utm_medium=premium&utm_campaign=purchase' %>"
+        <% endif %>
+        class="mailpoet-button button-primary"
+      >
+        <%= _x('Buy Now', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+      </a>
+    </div>
+    <img
+      src="<%= cdn_url('premium/3-our-agency-license.svg') %>"
+      alt="<%= __('Image woodpecker') %>"
+    >
+  </div>
+
+  <hr>
+
+  <div class="mailpoet-premium-page-section mailpoet-premium-page-section-narrow mailpoet-premium-page-text-center">
+    <h1 class="mailpoet-h0">
+      <%= _x('Get started today!', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+    </h1>
+    <p class="mailpoet-premium-page-text-large">
+      <%= _x('Over 500,000 people trust MailPoet to power their email marketing campaigns – why not join them?!', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+      <%= _x('Upgrade now to grow your business and achieve your business goals.', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+    </p>
+    <a
+      target="_blank"
+      <% if (has_valid_api_key) %>
+        href="<%= 'https://account.mailpoet.com/orders/upgrade/' ~ plugin_partial_key ~ '?utm_source=plugin&utm_medium=premium&utm_campaign=upgrade' %>"
+      <% else %>
+        href="<%= "https://account.mailpoet.com/?s=" ~ subscriber_count ~ "&g=business&billing=monthly&email=" ~ current_wp_user.user_email ~ '&utm_source=plugin&utm_medium=premium&utm_campaign=purchase' %>"
+      <% endif %>
+      class="mailpoet-button button-primary"
+    >
+      <%= _x('Upgrade now', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade') %>
+    </a>
+    <p>
+      <%=
+        _x('And if you’re not sure which plan is the right one for you, our [link]Customer Support team[/link] are on hand to help you decide.', 'This text resides in the Upgrade page: /wp-admin/admin.php?page=mailpoet-upgrade')
+        |replaceLinkTags('https://www.mailpoet.com/support/sales-pre-sales-questions/', {'target': '_blank'})
+        |raw
+      %>
+    </p>
+  </div>
+</div>
+
+<div class="mailpoet-premium-page-footer-image">
+  <img
+    src="<%= cdn_url('premium/5-footer.png') %>"
+    alt="<%= __('Image rooster crowing') %>"
+  >
+</div>
+<% endblock %>
+
+<% block after_javascript %>
+<script type="text/javascript">
+  MailPoet.trackEvent('Premium page viewed');
+</script>
+<% endblock %>

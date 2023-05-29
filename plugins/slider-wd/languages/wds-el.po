@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wds\n"
+"POT-Creation-Date: 2014-09-26 18:05+0400\n"
+"PO-Revision-Date: 2014-09-26 18:05+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress3.5\\wp-content\\plugins"
+"\\slider-plugin\n"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:30
+#, fuzzy
+msgid "There is no slider selected or the slider was deleted."
+msgstr "Δεν υπάρχει επιλεγμένη γκαλερί ή η γκαλερί έχει διαγραφεί"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:42
+#, fuzzy
+msgid "There are no slides in this slider."
+msgstr "Δεν υπάρχουν εικόνες σε αυτή την συλλογή"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:660
+msgid "Share on Facebook"
+msgstr "Μοιραστείτε στο Facebook"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:666
+msgid "Share on Twitter"
+msgstr "Μοιραστείτε στο Twitter"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:672
+msgid "Share on Google+"
+msgstr "Μοιραστείτε στο Google+"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:678
+msgid "Share on Pinterest"
+msgstr "Μοιραστείτε στο Pinterest"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:684
+msgid "Share on Tumblr"
+msgstr "Μοιραστείτε στο Tumblr"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1875
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1894
+msgid "Pause"
+msgstr "Παύση"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1884
+msgid "Play"
+msgstr "Παίξτε"
+
+#~ msgid "field is required."
+#~ msgstr "το πεδίο είναι υποχρεωτικό. "
+
+#~ msgid "This is not a valid email address."
+#~ msgstr "Αυτό δεν είναι μια έγκυρη διεύθυνση ηλεκτρονικού ταχυδρομείου. "
+
+#~ msgid "There are no images matching your search."
+#~ msgstr "Δεν υπάρχουν εικόνες που ταιριάζουν στην αναζήτησή σας."
+
+#~ msgid " item(s)"
+#~ msgstr "στοιχείο"
+
+#~ msgid "First"
+#~ msgstr "Πρώτον"
+
+#~ msgid "Previous"
+#~ msgstr "Προηγούμενη"
+
+#~ msgid "Next"
+#~ msgstr "Επόμενο"
+
+#~ msgid "Last"
+#~ msgstr "Φορτίο"
+
+#~ msgid "Go to the first page"
+#~ msgstr "Πήγαινε στην πρώτη σελίδα"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "Μετάβαση στην προηγούμενη σελίδα"
+
+#~ msgid "of"
+#~ msgstr "της"
+
+#~ msgid "Go to the next page"
+#~ msgstr "Μετάβαση στην επόμενη σελίδα"
+
+#~ msgid "Go to the last page"
+#~ msgstr "Μετάβαση στην τελευταία σελίδα"
+
+#~ msgid "Reset"
+#~ msgstr "Επαναφορά"
+
+#~ msgid "Search"
+#~ msgstr "Αναζήτηση"
+
+#~ msgid "There is no theme selected or the theme was deleted."
+#~ msgstr "Δεν υπάρχει θέμα επιλογής ή το θέμα διαγράφηκε"
+
+#~ msgid "There is no album selected or the album was deleted."
+#~ msgstr "Δεν υπάρχει επιλεγμένο άλμπουμ ή το άλμπουμ έχει διαγραφεί"
+
+#~ msgid "Back"
+#~ msgstr "Πίσω"
+
+#~ msgid "Album is empty."
+#~ msgstr "Album είναι άδειο"
+
+#~ msgid "Gallery is empty."
+#~ msgstr "Gallery σας είναι άδειο"
+
+#~ msgid "More"
+#~ msgstr "Περισσότερα"
+
+#~ msgid "Hide"
+#~ msgstr "Απόκρυψη"
+
+#~ msgid "Show comments"
+#~ msgstr "Δείτε σχόλια"
+
+#~ msgid "The image has been deleted."
+#~ msgstr "Η εικόνα έχει διαγραφεί."
+
+#~ msgid "Maximize"
+#~ msgstr "Μεγιστοποίηση"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Πλήρης οθόνη"
+
+#~ msgid "Show info"
+#~ msgstr "Δείτε πληροφορίες"
+
+#~ msgid "Show rating"
+#~ msgstr "Εμφάνιση αξιολόγησης"
+
+#~ msgid "Open image in original size."
+#~ msgstr "Ανοίξτε την εικόνα στο αρχικό της μέγεθος."
+
+#~ msgid "Download original image"
+#~ msgstr "Κατεβάστε αρχική εικόνα"
+
+#~ msgid "Hits: "
+#~ msgstr "Επισκέψεις: "
+
+#~ msgid "Rated."
+#~ msgstr "Ονομαστική."
+
+#~ msgid "Not rated yet."
+#~ msgstr "Δεν έχει βαθμολογηθεί ακόμα. "
+
+#~ msgid "Votes: "
+#~ msgstr "ψήφοι: "
+
+#~ msgid "Cancel your rating."
+#~ msgstr "Ακύρωση βαθμολογία σας. "
+
+#~ msgid "You have already rated."
+#~ msgstr "Έχετε ήδη αξιολογήσει. "
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "Σφάλμα. Λάθος Κωδικός Επαλήθευσης. "
+
+#~ msgid "Hide Comments"
+#~ msgstr "Απόκρυψη Σχόλια"
+
+#~ msgid "Name"
+#~ msgstr "Όνομα"
+
+#~ msgid "Email"
+#~ msgstr "email"
+
+#~ msgid "Comment"
+#~ msgstr "Σχόλιο"
+
+#~ msgid "Verification Code"
+#~ msgstr "Κωδικός Επαλήθευσης"
+
+#~ msgid "Submit"
+#~ msgstr "Υποβολή"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "Το σχόλιό σας αναμένει συγκράτηση "
+
+#~ msgid "Delete Comment"
+#~ msgstr "Διαγραφή σχολίου"
+
+#~ msgid "Show Comments"
+#~ msgstr "Εμφάνιση σχολίων"
+
+#, fuzzy
+#~ msgid "Hide info"
+#~ msgstr "Απόκρυψη"
+
+#~ msgid "Hide rating"
+#~ msgstr "Απόκρυψη βαθμολογία."
+
+#~ msgid "Restore"
+#~ msgstr "Επαναφορά"
+
+#~ msgid "Exit Fullscreen"
+#~ msgstr "Έξοδος από πλήρη οθόνη"

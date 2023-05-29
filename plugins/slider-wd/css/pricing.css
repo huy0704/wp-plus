@@ -1,0 +1,177 @@
+.wrap h1.wd-head-notice {
+  height: 0;
+  padding: 0;
+  visibility: hidden;
+}
+
+/* Top bar start */
+.wd-topbar-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin: 20px 0 20px 0;
+  font-family: Roboto;
+}
+.wd-topbar-container * {
+  box-sizing: border-box;
+}
+.wd-topbar {
+  background-color: #FFFFFF;
+  border: 1px solid #D0D0D080;
+  border-radius: 7px;
+  color: #000000;
+  padding: 10px;
+}
+.wd-topbar_cont {
+  display: flex;
+}
+.wd-topbar.wd-topbar_support_forum {
+  background-color: #4786FF;
+  margin-left: 20px;
+}
+
+.wd-topbar-container .wd-topbar.wd-topbar_support_forum:hover
+{
+  background-color: #3077FF;
+  opacity:1
+}
+.wd-topbar-content {
+  display: flex;
+  justify-content: space-between;
+  flex: auto;
+  margin: 0 20px 0 0;
+  padding: 10px 15px;
+  height: 60px;
+}
+.wd-topbar-links {
+  color: #000000;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  font-size: 18px;
+  font-weight: 300;
+  margin: 0 0 0 2px;
+  height: 60px;
+}
+.wd-topbar-links-container {
+  display: flex;
+  justify-content: space-around;
+  height: 80%;
+}
+.wd-topbar-links-item {
+  display: flex;
+  flex: 1;
+  align-self: center;
+  justify-content: center;
+  width: 170px;
+  line-height: 50px;
+}
+.wd-topbar-links-item * {
+  width: auto !important;
+}
+.wd-topbar-links * {
+  font-size: 18px;
+}
+.wd-topbar-links a,
+.wd-topbar-links a:focus {
+  align-self: center;
+  box-shadow: none;
+  color: #000000;
+  text-decoration: none;
+}
+
+.wd-topbar-links a.wd-topbar_support_forum {
+  color: #fff;
+}
+
+.wd-topbar-links a.wd-topbar_support_forum .help_icon {
+  margin-right: 10px;
+}
+
+.wd-topbar-links a:hover {
+  opacity: 0.5;
+  text-decoration: none;
+}
+.wd-topbar-separator {
+  background-color: #C2C2C280;
+  width: 1px;
+  height: 100%;
+}
+.wd-topbar-content-title {
+  color: #0C4D68;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 22px;
+  text-transform: uppercase;
+}
+.wd-topbar-content-body {
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 20px;
+}
+.wd-topbar-content-container {
+  display: flex;
+  flex-direction: column;
+}
+.wd-topbar-content-button-container,
+.wd-free-message-button-container {
+  align-self: center;
+}
+.wd-topbar-upgrade-button,
+.wd-topbar-upgrade-button:focus {
+  background-color: #29B311;
+  border-radius: 20px;
+  box-shadow: none;
+  color: #FFFFFF;
+  font-size: 14px;
+  padding: 5px 44px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+.wd-topbar-upgrade-button:hover {
+  text-decoration: none;
+  color: #FFFFFFCC;
+}
+@media screen and (max-width: 1366px) {
+  .wd-topbar-links {
+    font-size: 15px;
+  }
+  .wd-topbar-content-title {
+    font-size: 15px;
+  }
+  .wd-topbar-content-body {
+    font-size: 13px;
+  }
+}
+@media screen and (max-width: 1285px) {
+  .wd-topbar-container {
+    flex-direction: column;
+  }
+  .wd-topbar-links,
+  .wd-topbar-content {
+    margin: 0 0 10px 0;
+    width: 100%;
+  }
+  .wd-topbar-content {
+    flex-direction: column;
+    height: auto;
+  }
+  .wd-topbar-content-container,
+  .wd-topbar-content-container * {
+    align-self: center;
+    padding-bottom: 4px;
+  }
+
+}
+
+@media screen and (max-width: 450px) {
+  .wd-topbar_cont {
+    display: block;
+  }
+
+  .wd-topbar-container .wd-topbar.wd-topbar_support_forum {
+    margin-left: 0px;
+  }
+}
+
+/* Top bar end */

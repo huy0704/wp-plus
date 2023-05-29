@@ -1,0 +1,87 @@
+(~'div@{sliderid}') {
+
+  .n2-ss-slider-1 {
+    display: grid;
+
+    box-sizing: border-box;
+    position: relative;
+    background-repeat: repeat;
+    background-position: 50% 50%;
+    background-size: @backgroundSize;
+    background-attachment: @backgroundAttachment;
+
+    border: @border solid @borderrgba;
+    border-radius: @borderRadius;
+    overflow: hidden;
+  }
+
+  &:not(.n2-ss-loaded) {
+    .n2-ss-slider-1 {
+      background-image: none !important;
+    }
+  }
+
+  .n2-ss-slider-2 {
+    display: grid;
+    place-items: center;
+
+    position: relative;
+    overflow: hidden;
+    z-index: 10;
+  }
+
+  .n2-ss-slider-3 {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    z-index: 20;
+
+    display: grid;
+    grid-template-areas: 'slide';
+
+    > * {
+      grid-area: slide;
+    }
+  }
+
+  &.n2-ss-full-page--constrain-ratio .n2-ss-slider-3 {
+    height: auto;
+  }
+
+  .n2-ss-slide-backgrounds {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .n2-ss-slide-backgrounds {
+    z-index: 10;
+  }
+
+  .n2-ss-slide {
+    /**
+    Place Max width limited .n2-ss-layers-container to the center.
+     */
+    display: grid;
+    place-items: center;
+    grid-auto-columns: 100%;
+    /**
+    End
+     */
+
+    position: relative;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    z-index: 20;
+  }
+
+  .ssPerspective() when (@hasPerspective = 1) {
+    .n2-ss-slide {
+      perspective: @perspective;
+    }
+  }
+  .ssPerspective();
+}

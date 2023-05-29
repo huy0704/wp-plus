@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wds\n"
+"POT-Creation-Date: 2014-09-26 17:58+0400\n"
+"PO-Revision-Date: 2014-09-26 17:58+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ms\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress3.5\\wp-content\\plugins"
+"\\slider-plugin\n"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:30
+#, fuzzy
+msgid "There is no slider selected or the slider was deleted."
+msgstr "Tidak ada yang dipilih atau galeri galeri itu dihapuskan."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:42
+#, fuzzy
+msgid "There are no slides in this slider."
+msgstr "Tiada imej dalam galeri ini."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:660
+msgid "Share on Facebook"
+msgstr "Kongsi di Facebook."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:666
+msgid "Share on Twitter"
+msgstr "Kongsi di Twitter."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:672
+msgid "Share on Google+"
+msgstr "Berkongsi di Google +."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:678
+msgid "Share on Pinterest"
+msgstr "Berbagi di Pinterest"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:684
+msgid "Share on Tumblr"
+msgstr "Berbagi di Tumblr"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1875
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1894
+msgid "Pause"
+msgstr "Berhenti seketika"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1884
+msgid "Play"
+msgstr "Bermain"
+
+#~ msgid "field is required."
+#~ msgstr "bidang diperlukan."
+
+#~ msgid "This is not a valid email address."
+#~ msgstr "Ini bukan alamat e-mel yang sah."
+
+#~ msgid "There are no images matching your search."
+#~ msgstr "Tidak ada gambar yang sesuai dengan pencarian Anda."
+
+#~ msgid " item(s)"
+#~ msgstr "item"
+
+#~ msgid "First"
+#~ msgstr "Pertama"
+
+#~ msgid "Previous"
+#~ msgstr "Sebelumnya"
+
+#~ msgid "Next"
+#~ msgstr "Seterusnya"
+
+#~ msgid "Last"
+#~ msgstr "Terakhir"
+
+#~ msgid "Go to the first page"
+#~ msgstr "Pergi ke halaman yang pertama"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "Pergi ke halaman sebelumnya"
+
+#~ msgid "of"
+#~ msgstr "daripada"
+
+#~ msgid "Go to the next page"
+#~ msgstr "Pergi ke halaman seterusnya"
+
+#~ msgid "Go to the last page"
+#~ msgstr "Pergi ke halaman terakhir"
+
+#~ msgid "Reset"
+#~ msgstr "Tetap semula"
+
+#~ msgid "Search"
+#~ msgstr "Cari"
+
+#~ msgid "There is no theme selected or the theme was deleted."
+#~ msgstr "Tiada tema yang dipilih atau tema telah dipadamkan."
+
+#~ msgid "There is no album selected or the album was deleted."
+#~ msgstr "Tiada album yang dipilih atau album telah dipadamkan."
+
+#~ msgid "Back"
+#~ msgstr "Balik"
+
+#~ msgid "Album is empty."
+#~ msgstr "Album kosong"
+
+#~ msgid "Gallery is empty."
+#~ msgstr "Galeri kosong."
+
+#~ msgid "More"
+#~ msgstr "More"
+
+#~ msgid "Hide"
+#~ msgstr "Disembunyikan"
+
+#~ msgid "Show comments"
+#~ msgstr "Tunjukkan komen."
+
+#~ msgid "The image has been deleted."
+#~ msgstr "Imej telah dipadam."
+
+#~ msgid "Maximize"
+#~ msgstr "Memaksimumkan"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Skrin penuh"
+
+#~ msgid "Show info"
+#~ msgstr "Menunjukkan maklumat"
+
+#~ msgid "Show rating"
+#~ msgstr "Tunjukkan penarafan"
+
+#~ msgid "Open image in original size."
+#~ msgstr "Buka imej dalam saiz yang asal. "
+
+#~ msgid "Download original image"
+#~ msgstr "Muat turun imej asal"
+
+#~ msgid "Hits: "
+#~ msgstr "Hits: "
+
+#~ msgid "Rated."
+#~ msgstr "Dinilai."
+
+#~ msgid "Not rated yet."
+#~ msgstr "Not rated yet. "
+
+#~ msgid "Votes: "
+#~ msgstr "Undian: "
+
+#~ msgid "Cancel your rating."
+#~ msgstr "Batal rating anda. "
+
+#~ msgid "You have already rated."
+#~ msgstr "Anda telah menilai. "
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "Kesilapan. Kod Pengesahan tidak betul. "
+
+#~ msgid "Hide Comments"
+#~ msgstr "Sembunyi komen"
+
+#~ msgid "Name"
+#~ msgstr "Nama"
+
+#~ msgid "Email"
+#~ msgstr "E-mel "
+
+#~ msgid "Comment"
+#~ msgstr "Ulasan"
+
+#~ msgid "Verification Code"
+#~ msgstr "Kod Pengesahan"
+
+#~ msgid "Submit"
+#~ msgstr "Hantar"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "Komen anda menunggu penyederhanaan "
+
+#~ msgid "Delete Comment"
+#~ msgstr "Padam Ulasan"
+
+#~ msgid "Show Comments"
+#~ msgstr "Tunjukkan Komen"
+
+#~ msgid "Hide info"
+#~ msgstr "Menyembunyikan"
+
+#~ msgid "Hide rating"
+#~ msgstr "Sembunyikan penarafan."
+
+#~ msgid "Restore"
+#~ msgstr "Simpan semula"
+
+#~ msgid "Exit Fullscreen"
+#~ msgstr "Keluar Fullscreen"

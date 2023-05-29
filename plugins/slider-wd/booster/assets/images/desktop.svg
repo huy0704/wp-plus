@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_49884" data-name="Rectangle 49884" width="18" height="18" transform="translate(2005 389)" fill="#fff"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1.131" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Mask_Group_95205" data-name="Mask Group 95205" transform="translate(-2005 -389)" opacity="0.8" clip-path="url(#clip-path)">
+    <path id="design_system_icons-34" data-name="design system icons-34" d="M9.419.77V13.48a.773.773,0,0,1-.77.77H.77A.773.773,0,0,1,0,13.48V.77A.773.773,0,0,1,.77,0H8.688A.766.766,0,0,1,9.419.77Z" transform="translate(2021.122 392.482) rotate(90)" fill="url(#linear-gradient)"/>
+    <path id="Union_721" data-name="Union 721" d="M.4,11.219a.4.4,0,0,1-.4-.4v-1a.4.4,0,0,1,.4-.4H2.6a.773.773,0,0,1-.734-.769V.77A.773.773,0,0,1,2.641,0H15.352a.773.773,0,0,1,.77.77V8.688a.765.765,0,0,1-.734.731H17.6a.4.4,0,0,1,.4.4v1a.4.4,0,0,1-.4.4ZM14.2,8.3V1.117H3.836V8.3ZM3.836,8.3H3.8Z" transform="translate(2005 392.481)" fill="#343b46"/>
+  </g>
+</svg>

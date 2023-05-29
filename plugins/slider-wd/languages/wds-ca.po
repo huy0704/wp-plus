@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wds\n"
+"POT-Creation-Date: 2014-09-26 18:06+0400\n"
+"PO-Revision-Date: 2014-09-26 18:06+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress3.5\\wp-content\\plugins"
+"\\slider-plugin\n"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:30
+#, fuzzy
+msgid "There is no slider selected or the slider was deleted."
+msgstr "No hi ha galeria seleccionada o la galeria s'ha eliminat."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:42
+#, fuzzy
+msgid "There are no slides in this slider."
+msgstr "No hi ha imatges en aquesta galeria."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:660
+msgid "Share on Facebook"
+msgstr "Comparteix a Facebook "
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:666
+msgid "Share on Twitter"
+msgstr "Comparteix a Twitter"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:672
+msgid "Share on Google+"
+msgstr "Comparteix a Google+"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:678
+msgid "Share on Pinterest"
+msgstr "Compartir a Pinterest"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:684
+msgid "Share on Tumblr"
+msgstr "Compartir a Tumblr"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1875
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1894
+msgid "Pause"
+msgstr "Pausa"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1884
+msgid "Play"
+msgstr "Juga"
+
+#~ msgid "field is required."
+#~ msgstr "Es requereix camp."
+
+#~ msgid "This is not a valid email address."
+#~ msgstr "Això no és una adreça de correu electrònic vàlida."
+
+#~ msgid "There are no images matching your search."
+#~ msgstr "No hi ha imatges que coincideixen amb la vostra cerca."
+
+#~ msgid " item(s)"
+#~ msgstr "article(s)"
+
+#~ msgid "First"
+#~ msgstr "En primer lloc"
+
+#~ msgid "Previous"
+#~ msgstr "Anterior"
+
+#~ msgid "Next"
+#~ msgstr "Següent"
+
+#~ msgid "Last"
+#~ msgstr "Passat"
+
+#~ msgid "Go to the first page"
+#~ msgstr "Anar a la primera pàgina "
+
+#~ msgid "Go to the previous page"
+#~ msgstr "Anar a la pàgina anterior"
+
+#~ msgid "of"
+#~ msgstr "de "
+
+#~ msgid "Go to the next page"
+#~ msgstr "Anar a la pàgina següent"
+
+#~ msgid "Go to the last page"
+#~ msgstr "Anar a l'última pàgina"
+
+#~ msgid "Reset"
+#~ msgstr "Restablir"
+
+#~ msgid "Search"
+#~ msgstr "Cerca"
+
+#~ msgid "There is no theme selected or the theme was deleted."
+#~ msgstr "No hi ha tema seleccionat o s'ha eliminat el tema."
+
+#~ msgid "There is no album selected or the album was deleted."
+#~ msgstr "No hi ha cap àlbum seleccionat o es va eliminar l'àlbum."
+
+#~ msgid "Back"
+#~ msgstr "Tornar"
+
+#~ msgid "Album is empty."
+#~ msgstr "Àlbum està buit."
+
+#~ msgid "Gallery is empty."
+#~ msgstr "Galeria és buida."
+
+#~ msgid "More"
+#~ msgstr "Més"
+
+#~ msgid "Hide"
+#~ msgstr "Amaga"
+
+#~ msgid "Show comments"
+#~ msgstr "Mostrar comentaris"
+
+#~ msgid "The image has been deleted."
+#~ msgstr "La imatge ha estat esborrada."
+
+#~ msgid "Maximize"
+#~ msgstr "Maximitzar"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Pantalla completa "
+
+#~ msgid "Show info"
+#~ msgstr "Mostra la informació"
+
+#~ msgid "Show rating"
+#~ msgstr "Mostra classificació"
+
+#~ msgid "Open image in original size."
+#~ msgstr "Obrir imatge en mida original."
+
+#~ msgid "Download original image"
+#~ msgstr "Descarregar la imatge original"
+
+#~ msgid "Hits: "
+#~ msgstr "hits:"
+
+#~ msgid "Rated."
+#~ msgstr "Puntuació."
+
+#~ msgid "Not rated yet."
+#~ msgstr "No s'ha classificat. "
+
+#~ msgid "Votes: "
+#~ msgstr "vots: "
+
+#~ msgid "Cancel your rating."
+#~ msgstr "Cancel seva qualificació. "
+
+#~ msgid "You have already rated."
+#~ msgstr "Ja has valorat. "
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "Error. Incorrecta del codi de verificació. "
+
+#~ msgid "Hide Comments"
+#~ msgstr "Amaga comentaris "
+
+#~ msgid "Name"
+#~ msgstr "Nom"
+
+#~ msgid "Email"
+#~ msgstr "email"
+
+#~ msgid "Comment"
+#~ msgstr "Comentari"
+
+#~ msgid "Verification Code"
+#~ msgstr "codi de verificació"
+
+#~ msgid "Submit"
+#~ msgstr "Enviar"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "La vostra revisió està pendent de moderació "
+
+#~ msgid "Delete Comment"
+#~ msgstr "Eliminar comentari"
+
+#~ msgid "Show Comments"
+#~ msgstr "Mostrar comentaris"
+
+#~ msgid "Hide info"
+#~ msgstr "Anterior informació"
+
+#~ msgid "Hide rating"
+#~ msgstr "Amaga qualificació"
+
+#~ msgid "Restore"
+#~ msgstr "Restaurar"
+
+#~ msgid "Exit Fullscreen"
+#~ msgstr "Surt de la pantalla completa"

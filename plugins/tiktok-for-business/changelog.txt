@@ -1,0 +1,68 @@
+*** Changelog ***
+2023-3-14 - version 1.0.16
+* Add - WooCommerce Onboarding task asking users to connect to TikTok
+* Update - Setup improvement to allow connection of existing pixels
+
+2023-1-17 - version 1.0.15
+* Fix - type conversion when outputting pixel data
+
+2023-1-12 - version 1.0.14
+* Update - enhancements to launch page content 
+* Fix - updates activation logic when WooCommerce is not installed
+* Tweak - updates to post-setup page and backend optimizations
+
+2022-12-8 - version 1.0.13
+* Fix - Avoid fatal errors when WooCommerce is not installed
+
+2022-11-29 - version 1.0.12
+* Update - TTCLID enabled for improved pixel attribution
+* Update - Support for up to 10 product images 
+* Tweak - Product sync improvement to support trash, untrash and deleted products
+* Fix - Fix for disconnecting and uninstall logic 
+* Update - Support for Events API debugging 
+
+2022-11-08 - version 1.0.11
+* Update - Product sync improvement for inventory and orders
+* Update - Onboarding improvement to improve catalog syncing functionality
+
+2022-10-20 - version 1.0.10
+* Update - Content ID mapping for pixel and catalog 
+* Update - Onboarding Improvement for address entry
+* Tweak - Improvement to redirect url logic for website URL changes 
+
+2022-09-29 - version 1.0.9
+* Update - Overview page banner update for campaign support 
+* Fix - Update to Woo header value to fix paid upgrade bug
+* Fix - Log version number for action scheduler product syncing
+
+2022-09-16 - version 1.0.8
+* Update - Enable scheduled product sync for better performance 
+* Update - Onboarding improvements for ad account setup
+* Tweak - Update event tracking for launch and post-setup page
+
+2022-08-10 - version 1.0.7
+* Fix - Performance issue related to catalog syncing and signal tracking 
+* Tweak - Remove admin notice for file error
+
+2022-08-04 - version 1.0.6
+* Update - Admin notice for file error fix
+
+2022-07-25 - version 1.0.5
+* Fix - Disconnection on upgrade error
+
+2022-07-18 - version 1.0.4
+* Fix - Catalog syncing issues  
+* Tweak - Show launch page when Ad Blocker is enabled
+* Tweak - Updated signal and event tracking
+
+2022-06-29 - version 1.0.3
+* Tweak - Updated signal and event tracking
+
+2022-06-15 - version 1.0.2
+* Fix - Update Pixel Event instrumentation to fire correctly
+
+2022-05-24 - version 1.0.1
+* Fix - Installation errors
+
+2022-04-15 - version 1.0.0
+* Initial release

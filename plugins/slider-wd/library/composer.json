@@ -1,0 +1,5 @@
+{
+    "require": {
+        "nelexa/zip": "^3.3"
+    }
+}

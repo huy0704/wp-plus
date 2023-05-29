@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wds\n"
+"POT-Creation-Date: 2014-09-26 18:07+0400\n"
+"PO-Revision-Date: 2014-09-26 18:07+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress3.5\\wp-content\\plugins"
+"\\slider-plugin\n"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:30
+#, fuzzy
+msgid "There is no slider selected or the slider was deleted."
+msgstr "لا توجد المعرض المحددة أو تم حذف المعرض"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:42
+#, fuzzy
+msgid "There are no slides in this slider."
+msgstr "ا توجد صور في هذا الألبوم"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:660
+msgid "Share on Facebook"
+msgstr "حصة في الفيسبوك"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:666
+msgid "Share on Twitter"
+msgstr "مشاركة على تويتر"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:672
+msgid "Share on Google+"
+msgstr "في + Google المشاركة"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:678
+msgid "Share on Pinterest"
+msgstr "على حصة بينتيريست"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:684
+msgid "Share on Tumblr"
+msgstr "نعرفكم على حصة"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1875
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1894
+msgid "Pause"
+msgstr "وقفة"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1884
+msgid "Play"
+msgstr "لعب"
+
+#~ msgid "field is required."
+#~ msgstr "مطلوب الميدان. "
+
+#~ msgid "This is not a valid email address."
+#~ msgstr "هذا ليس عنوان بريد إلكتروني صحيح."
+
+#~ msgid "There are no images matching your search."
+#~ msgstr "لا توجد صور تتوافق مع البحث."
+
+#~ msgid " item(s)"
+#~ msgstr "البند (ق)"
+
+#~ msgid "First"
+#~ msgstr " أولا"
+
+#~ msgid "Previous"
+#~ msgstr "  السابقة"
+
+#~ msgid "Next"
+#~ msgstr "المقبل"
+
+#~ msgid "Last"
+#~ msgstr "آخر"
+
+#~ msgid "Go to the first page"
+#~ msgstr "  انتقل إلى الصفحة الأولى"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "  انتقل إلى الصفحة السابقة"
+
+#~ msgid "of"
+#~ msgstr "  من"
+
+#~ msgid "Go to the next page"
+#~ msgstr "  انتقل إلى الصفحة التالية"
+
+#~ msgid "Go to the last page"
+#~ msgstr "  انتقل إلى الصفحة الأخيرة"
+
+#~ msgid "Reset"
+#~ msgstr "إعادة تعيين"
+
+#~ msgid "Search"
+#~ msgstr "البحث"
+
+#~ msgid "There is no theme selected or the theme was deleted."
+#~ msgstr " . لا يوجد أي موضوع المحددة أو تم حذف الموضوع"
+
+#~ msgid "There is no album selected or the album was deleted."
+#~ msgstr "  لا يوجد ألبوم المحددة أو تم حذف الألبوم"
+
+#~ msgid "Back"
+#~ msgstr "  الظهر"
+
+#~ msgid "Album is empty."
+#~ msgstr "  الألبوم فارغ"
+
+#~ msgid "Gallery is empty."
+#~ msgstr "  معرض فارغة"
+
+#~ msgid "More"
+#~ msgstr "أكثر"
+
+#~ msgid "Hide"
+#~ msgstr "إخفاء"
+
+#~ msgid "Show comments"
+#~ msgstr "تظهر التعليقات"
+
+#~ msgid "The image has been deleted."
+#~ msgstr "تم حذف الصورة"
+
+#~ msgid "Maximize"
+#~ msgstr "تعظيم"
+
+#~ msgid "Fullscreen"
+#~ msgstr "ملء الشاشة"
+
+#~ msgid "Show info"
+#~ msgstr "تظهر المعلومات"
+
+#~ msgid "Show rating"
+#~ msgstr "تظهر التصنيف"
+
+#~ msgid "Open image in original size."
+#~ msgstr "صورة مفتوحة في حجمها الأصلي"
+
+#~ msgid "Download original image"
+#~ msgstr "تحميل الصورة الأصلية"
+
+#~ msgid "Hits: "
+#~ msgstr "الفعالية:"
+
+#~ msgid "Rated."
+#~ msgstr "تصنيف."
+
+#~ msgid "Not rated yet."
+#~ msgstr "غير مصنفة حتى الآن."
+
+#~ msgid "Votes: "
+#~ msgstr "عدد الأصوات: "
+
+#~ msgid "Cancel your rating."
+#~ msgstr "إلغاء تقييمك"
+
+#~ msgid "You have already rated."
+#~ msgstr "لقد تقييما بالفعل"
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "خطأ. رمز التحقق غير صحيح. "
+
+#~ msgid "Hide Comments"
+#~ msgstr "إخفاء التعليقات"
+
+#~ msgid "Name"
+#~ msgstr "الاسم"
+
+#~ msgid "Email"
+#~ msgstr "مينا "
+
+#~ msgid "Comment"
+#~ msgstr "التعليق"
+
+#~ msgid "Verification Code"
+#~ msgstr "كود التحقق"
+
+#~ msgid "Submit"
+#~ msgstr "تقدم"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "تعليقك ينتظر الاعتدال"
+
+#~ msgid "Delete Comment"
+#~ msgstr "حذف تعليق"
+
+#~ msgid "Show Comments"
+#~ msgstr " عرض التعليقات"
+
+#~ msgid "Hide info"
+#~ msgstr "إخفاء المعلومات"
+
+#~ msgid "Hide rating"
+#~ msgstr "اخفاء تصنيف"
+
+#~ msgid "Restore"
+#~ msgstr "استعادة"
+
+#~ msgid "Exit Fullscreen"
+#~ msgstr "خروج ملء الشاشة"

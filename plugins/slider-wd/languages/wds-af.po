@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wds\n"
+"POT-Creation-Date: 2014-09-26 17:51+0400\n"
+"PO-Revision-Date: 2014-09-26 17:51+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress3.5\\wp-content\\plugins"
+"\\slider-plugin\n"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:30
+msgid "There is no slider selected or the slider was deleted."
+msgstr "Daar is geen gallery gekies of die slider is verwyder."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:42
+msgid "There are no slides in this slider."
+msgstr "Daar is geen foto's in die slider."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:660
+msgid "Share on Facebook"
+msgstr "Deel op Facebook"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:666
+msgid "Share on Twitter"
+msgstr "Deel op Twitter"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:672
+msgid "Share on Google+"
+msgstr "Deel op Google+"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:678
+msgid "Share on Pinterest"
+msgstr "Deel op Pinterest"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:684
+msgid "Share on Tumblr"
+msgstr "Deel op Tumblr"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1875
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1894
+msgid "Pause"
+msgstr "Breek"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1884
+msgid "Play"
+msgstr "Speel"
+
+#~ msgid "field is required."
+#~ msgstr "veld is required. "
+
+#~ msgid "This is not a valid email address."
+#~ msgstr "Dit is nie 'n geldige e-posadres."
+
+#~ msgid "There are no images matching your search."
+#~ msgstr "Daar is geen beelde wat ooreenstem met jou soektog."
+
+#~ msgid " item(s)"
+#~ msgstr "item(s)"
+
+#~ msgid "First"
+#~ msgstr "Eerste"
+
+#~ msgid "Previous"
+#~ msgstr "Vorige"
+
+#~ msgid "Next"
+#~ msgstr "Volgende"
+
+#~ msgid "Last"
+#~ msgstr "Duur"
+
+#~ msgid "Go to the first page"
+#~ msgstr "Gaan na die eerste bladsy"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "Gaan na die vorige bladsy"
+
+#~ msgid "of"
+#~ msgstr "van"
+
+#~ msgid "Go to the next page"
+#~ msgstr "Gaan na die volgende bladsy"
+
+#~ msgid "Go to the last page"
+#~ msgstr "Gaan na die laaste bladsy"
+
+#~ msgid "Reset"
+#~ msgstr "Herstel"
+
+#~ msgid "Search"
+#~ msgstr "Soek"
+
+#~ msgid "There is no theme selected or the theme was deleted."
+#~ msgstr "Daar is geen tema gekies of die tema is verwyder."
+
+#~ msgid "There is no album selected or the album was deleted."
+#~ msgstr "Daar is geen album gekies of die album is verwyder."
+
+#~ msgid "Back"
+#~ msgstr "Terug"
+
+#~ msgid "Album is empty."
+#~ msgstr "Album is leeg."
+
+#~ msgid "Gallery is empty."
+#~ msgstr "Gallery is leeg."
+
+#~ msgid "More"
+#~ msgstr "Meer"
+
+#~ msgid "Hide"
+#~ msgstr "Verberg"
+
+#~ msgid "Show comments"
+#~ msgstr "Wys kommentaar"
+
+#~ msgid "The image has been deleted."
+#~ msgstr "Die beeld is verwyder"
+
+#~ msgid "Maximize"
+#~ msgstr "Maksimeer"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Volskerm"
+
+#~ msgid "Show info"
+#~ msgstr "Wys info"
+
+#~ msgid "Show rating"
+#~ msgstr "Wys gradering"
+
+#~ msgid "Open image in original size."
+#~ msgstr "Open beeld in die oorspronklike grootte"
+
+#~ msgid "Download original image"
+#~ msgstr "Aflaai oorspronklike beeld"
+
+#~ msgid "Hits: "
+#~ msgstr "Hits: "
+
+#~ msgid "Rated."
+#~ msgstr "Gegradeer."
+
+#~ msgid "Not rated yet."
+#~ msgstr "Nog nie gegradeer nie"
+
+#~ msgid "Votes: "
+#~ msgstr "stemme"
+
+#~ msgid "Cancel your rating."
+#~ msgstr "Die styl van jou gradering"
+
+#~ msgid "You have already rated."
+#~ msgstr "Jy het reeds gegradeer"
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "Fout. Verkeerde Bevestigingskode."
+
+#~ msgid "Hide Comments"
+#~ msgstr "Steek kommentaar"
+
+#~ msgid "Name"
+#~ msgstr "Noem"
+
+#~ msgid "Email"
+#~ msgstr "E-pos "
+
+#~ msgid "Comment"
+#~ msgstr "Kommentaar lewer nie"
+
+#~ msgid "Verification Code"
+#~ msgstr "Bevestigingskode"
+
+#~ msgid "Submit"
+#~ msgstr "Stuur"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "Jou opmerking is wag moderering"
+
+#~ msgid "Delete Comment"
+#~ msgstr "Verwyder Kommentaar"
+
+#~ msgid "Show Comments"
+#~ msgstr "Wys kommentaar"
+
+#~ msgid "Hide info"
+#~ msgstr "Steek info"
+
+#~ msgid "Hide rating"
+#~ msgstr "Steek gradering"
+
+#~ msgid "Restore"
+#~ msgstr "Herstel"
+
+#~ msgid "Exit Fullscreen"
+#~ msgstr "Verlaat Volskerm"

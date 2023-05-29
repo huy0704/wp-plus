@@ -1,0 +1,100 @@
+(~'div#@{sliderid}') {
+  .nextend-arrow {
+    cursor: pointer;
+    overflow: hidden;
+    line-height: 0 !important;
+    z-index: 18;
+    -webkit-user-select: none;
+  }
+
+  .nextend-arrow img {
+    position: relative;
+    display: block;
+  }
+
+  .nextend-arrow img.n2-arrow-hover-img {
+    display: none;
+  }
+
+  .nextend-arrow:FOCUS img.n2-arrow-hover-img,
+  .nextend-arrow:HOVER img.n2-arrow-hover-img {
+    display: inline;
+  }
+
+  .nextend-arrow:FOCUS img.n2-arrow-normal-img,
+  .nextend-arrow:HOVER img.n2-arrow-normal-img {
+    display: none;
+  }
+
+  .nextend-arrow-animated {
+    overflow: hidden;
+  }
+
+  .nextend-arrow-animated > div {
+    position: relative;
+  }
+
+  .nextend-arrow-animated .n2-active {
+    position: absolute;
+  }
+
+  .nextend-arrow-animated-fade {
+    transition: background 0.3s, opacity 0.4s;
+  }
+
+  .nextend-arrow-animated-horizontal > div {
+    transition: all 0.4s;
+    transform: none;
+  }
+
+  .nextend-arrow-animated-horizontal .n2-active {
+    top: 0;
+  }
+
+  .nextend-arrow-previous.nextend-arrow-animated-horizontal .n2-active {
+    left: 100%;
+  }
+
+  .nextend-arrow-next.nextend-arrow-animated-horizontal .n2-active {
+    right: 100%;
+  }
+
+  .nextend-arrow-previous.nextend-arrow-animated-horizontal:HOVER > div,
+  .nextend-arrow-previous.nextend-arrow-animated-horizontal:FOCUS > div {
+    transform: translateX(-100%);
+  }
+
+  .nextend-arrow-next.nextend-arrow-animated-horizontal:HOVER > div,
+  .nextend-arrow-next.nextend-arrow-animated-horizontal:FOCUS > div {
+    transform: translateX(100%);
+  }
+
+
+  .nextend-arrow-animated-vertical > div {
+    transition: all 0.4s;
+    transform: none;
+  }
+
+  .nextend-arrow-animated-vertical .n2-active {
+    left: 0;
+  }
+
+  .nextend-arrow-previous.nextend-arrow-animated-vertical .n2-active {
+    top: 100%;
+  }
+
+  .nextend-arrow-next.nextend-arrow-animated-vertical .n2-active {
+    bottom: 100%;
+  }
+
+  .nextend-arrow-previous.nextend-arrow-animated-vertical:HOVER > div,
+  .nextend-arrow-previous.nextend-arrow-animated-vertical:FOCUS > div {
+    transform: translateY(-100%);
+  }
+
+  .nextend-arrow-next.nextend-arrow-animated-vertical:HOVER > div,
+  .nextend-arrow-next.nextend-arrow-animated-vertical:FOCUS > div {
+    transform: translateY(100%);
+  }
+
+}

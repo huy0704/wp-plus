@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_48150" data-name="Rectangle 48150" width="20" height="20" fill="#323a45"/>
+    </clipPath>
+  </defs>
+  <g id="Group_103117" data-name="Group 103117" transform="translate(-2809 -4142)">
+    <path id="design_system_icons-40" data-name="design system icons-40" d="M31.5,21.5a10,10,0,1,1-10-10A10.012,10.012,0,0,1,31.5,21.5Z" transform="translate(2797.5 4130.5)" fill="#22b339" opacity="0.3"/>
+    <g id="Checkmark_Icon_2" transform="translate(2809 4142)">
+      <g id="Mask_Group_1304" data-name="Mask Group 1304" clip-path="url(#clip-path)">
+        <path id="Success_Done_Checkmark_Icon" d="M24.833,18.167A6.667,6.667,0,1,1,18.167,11.5,6.675,6.675,0,0,1,24.833,18.167Z" transform="translate(-8.167 -8.167)" fill="#22b339"/>
+        <path id="Success_Done_Checkmark_Icon-2" data-name="Success_Done_Checkmark_Icon" d="M21.443,15.641a.616.616,0,0,0-.937,0l-3.171,3.171a.537.537,0,0,1-.324.144.391.391,0,0,1-.324-.144L15.245,17.37a.553.553,0,0,0-.468-.18.685.685,0,0,0-.468.18.675.675,0,0,0,0,.937l2.234,2.234a.759.759,0,0,0,.468.18.685.685,0,0,0,.468-.18l3.964-3.964A.615.615,0,0,0,21.443,15.641Z" transform="translate(-7.876 -7.731)" fill="#fafafa"/>
+      </g>
+    </g>
+  </g>
+</svg>

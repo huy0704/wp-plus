@@ -1,0 +1,701 @@
+*** WooCommerce Google Listings and Ads Changelog ***
+
+= 2.4.1 - 2023-03-14 =
+* Tweak - WC 7.5 compatibility.
+* Tweak - WP 6.2 compatibility.
+
+= 2.4.0 - 2023-03-07 =
+* Add - Support for the Assets of Performance Max campaigns.
+* Dev - Externalize Panel, PanelBody, and PanelRow.
+* Dev - Externalize the KeyboardShortcuts component.
+* Dev - Increase maximum payload size in the test proxy.
+* Fix - The blank Product Feed page after completing the onboarding flow.
+* Tweak - Make the popover of the tooltip can be closed properly.
+
+= 2.3.10 - 2023-02-21 =
+* Add "Working with DEWP.md" to exclude list.
+* Add - Integration with WooCommerce Multichannel Marketing.
+* Tweak - Remove unnecessary PMax migration banners.
+* Tweak - Remove unnecessary woocommerce_loop_add_to_cart_link filter param.
+
+= 2.3.9 - 2023-02-15 =
+* Dev - Update phpunit to version 9.5.
+* Fix - Prefix Google Service packages to prevent plugin conflicts.
+* Tweak - Improve PHP 8.1 compatibility.
+* Tweak - Show admin notice when PHP 32 bits is being used.
+* Tweak - WC 7.4 compatibility.
+* Update - Google Ads library to API V12.
+* Update - Google Content library to API 2.13.
+
+= 2.3.8 - 2023-01-24 =
+* Fix - Product feed table footer rendering a zero when there are no products.
+
+= 2.3.7 - 2023-01-17 =
+* Tweak - Pre-select a default MC account.
+
+= 2.3.6 - 2023-01-10 =
+* Dev - Use extracted Button component from @wordpress/components package.
+* Fix - i18n for "View Reports" button.
+* Tweak - WooCommerce 7.3 Compatibility with Customer Effort Score prompt.
+
+= 2.3.5 - 2022-12-28 =
+* Tweak - Adjust copy in Attribute Mapping section.
+* Tweak - Retrieve a published product as a landing page URL.
+* Tweak - Simplify report controller parameters.
+
+= 2.3.4 - 2022-12-20 =
+* Tweak - Improve image validation error messages.
+
+= 2.3.3 - 2022-12-14 =
+* Fix - Tours API Endpoint.
+* Tweak - WC 7.2 compatibility.
+* Update - Drop support for WordPress < 5.9.
+
+= 2.3.2 - 2022-12-06 =
+* Dev - Adjusted parts of the post-install process to work on machines without `grep` and `find`. .
+* Dev - Adjusted post-install process to mention when files have their class-expectations modified but retain their original namespace.
+* Fix - Certain inbox notifications were shown before setup completed.
+* Fix - Delete products in GMC when force delete a product or change catalog visibility to hidden.
+
+= 2.3.1 - 2022-11-22 =
+* Add -  Attribute Mapping Feature.
+* Dev - Add script to list DEWPed dependencies' versions for a given WC version.
+* Fix - Incorrect product statistics count.
+* Fix - Yoast global identifiers for variable products.
+* Tweak - Remove unused GRPC packages.
+* Tweak - WC 7.1 compatibility.
+* Update - Change multipack attribute input to be native number input, to improve accessibility.
+* Update - Drop support for WC < 6.9.
+
+= 2.2.1 - 2022-11-15 =
+* Add - Declare compatibility for High Performance Order Storage.
+* Dev - Selectively externalize bundled packages.
+* Fix - E2E Testing: Reduce the false positive rate and adjust the running events on GitHub Actions.
+* Fix - Move the order of Google Listings & Ads below the Coupons in the Marketing menu of WooCommerce admin page.
+* Fix - WC 6.9 compatibility: Shipping time settings should not appear after selecting the "complex" shipping option.
+* Fix - WC 6.9 compatibility: The free shipping threshold should be cleared after selecting the "No" free shipping option.
+* Fix - WC 6.9 compatibility: The selected free shipping option should be reset after setting all shipping rates to 0.
+* Fix - WC 7.1 compatibility: Fixing the forms in the free listings setup may cause infinite requesting state updates which lead to a blank page or issue a lot of API requests.
+* Fix - WordPress 5.9 Compatibility: Visually hide descriptions of external link icons.
+* Fix - WordPress 6.1 Compatibility: Popover and Tooltip components should be displayed as floating.
+* Fix - WordPress 6.1 Compatibility: The size of navigation icons in Datepicker component should not be a giant size.
+* Tweak - WC 7.1 compatibility.
+* Tweak - WP 6.1 compatibility.
+* Update - ISO3166 package version 4.1.
+
+= 2.2.0 - 2022-10-18 =
+* Add - Ad previews in the post-onboarding ads setup flow.
+* Add - Combine the audience and shipping steps for the onboarding flow and the editing free listings page.
+* Add - Streamlined Free Listings + Paid Ads for the onboarding flow.
+* Add - The disclaimer of Comparison Shopping Service of the accounts setup of onboarding flow.
+* Add - The submission success modal on the Product Feed page after the onboarding is completed along with paid ads setup.
+* Fix - A validateDOMNesting warning in the accounts setup step of the onboarding flow.
+* Fix - Free Listings + Paid Ads: Add the paid ads previews to the boost product listings section.
+* Fix - Remove - Support for WC < 6.8.
+* Fix - Shipping time values flash during the onboarding setup.
+* Fix - Steppers on the onboarding flow allow switching to later steps when the current step is not yet finished.
+* Fix - The "Or, create a new Google Ads account" button at the footer of the Google Ads account setup is clickable when connecting an existing account.
+* Fix - The incorrect active status style for a disabled button.
+* Tweak - Use different titles for the free listings setup of the onboarding and editing pages.
+* Update - Change the steppers in the onboarding flow to only allow going back to the previous steps.
+* Update - Detect the verification status of the phone number in the contact information settings.
+* Update - Layouts and copywriting of the Get Started page and the onboarding flow.
+* Update - Logos of Google Merchant Center and Google Ads.
+* Update - Open the billing setup page of Google Ads via a popup window and add an alternative hyperlink to open the same setup page.
+* Update - The FAQs in the paid ads setup and the campaign setup page.
+
+= 2.1.4 - 2022-10-04 =
+* Add - Policy Compliance Checks in the onboarding flow.
+* Tweak - WC 7.0 compatibility.
+
+= 2.1.3 - 2022-09-27 =
+* Fix - Avoid truncate for issues with more than 100 characters length.
+* Fix - Update Size Type Attribute available values.
+* Tweak - Update Website not Claimed issue information.
+
+= 2.1.2 - 2022-09-15 =
+* Fix - WooCommerce 6.7 compatibility issues.
+* Tweak - WC 6.9 compatibility.
+
+= 2.1.1 - 2022-09-06 =
+* Dev - Run PHPCS checks for unit tests.
+* Fix - A compatibility issue with WooCommerce 6.9 which prevents interaction with the input field of the paid campaign budget.
+* Fix - Fatal error if a null rate specified for flat rate methods with shipping classes.
+* Tweak - Add a filter to disable GTag tracking.
+* Tweak - Updated plugin icons.
+
+= 2.1.0 - 2022-08-23 =
+* Add - Automatically sync WooCommerce shipping settings with Merchant Center.
+* Add - Get shipping rates suggestions for provinces/states and postal codes.
+* Add - Option to automatically sync the shipping rates based on the store shipping zone configurations.
+* Add - Sync the shipping rates for states/provinces and postal codes to Merchant Center.
+* Fix - A compatibility issue with WC 6.5+ that the store country might be undefined and further break the onboarding setup.
+* Tweak - Generate random ID for postcode regions when syncing shipping settings.
+
+= 2.0.4 - 2022-08-16 =
+* Dev - E2E Fix for redirecting to single product page.
+* Dev - Remove wc-admin installation from E2E env setup.
+* Fix - Handle multiple errors in the Edit free listings page.
+* Fix - Hide WooCommerce System messages in the plugin screen. .
+* Fix - Onload conflict when tracking events.
+
+= 2.0.3 - 2022-08-09 =
+* Add - Campaign Conversion Status for detecting converted campaigns.
+* Add - Gtag event tracking.
+* Add - Inbox notification for PMax migration.
+* Add - Includes removed campaign in the program report section.
+* Add - Pmax migration banner dashboard.
+* Add - Pmax migration banner reports.
+* Add - Tooltip in reports section for SSC Campaigns.
+* Add - Track add to cart events from all buttons including Gutenberg blocks.
+* Fix - Add Woo gTag remarketing and conversion signals.
+
+= 2.0.2 - 2022-07-29 =
+* Fix - Disable identifier_exists field.
+* Tweak - Propagate errors for saveSettings.
+* Tweak - Refactor SCSS variables.
+* Tweak - Remove PHP 8.0 specific code of Symfony polyfills.
+* Tweak - Revert migration applicable version value.
+* Tweak - Update change log records type.
+* Tweak - WC 6.8 compatibility.
+* Update - Google Ads library to API V11.
+
+= 2.0.1 - 2022-07-12 =
+* Dev - A script to generate a list of hooks that defined or used in GLA.
+* Dev - GH workflow to set PR labels.
+* Add - Normalizer Polyfill.
+* Dev - changed the changelog types list.
+* Fix - Compatibility with History Navigation v5.
+* Fix - Encoding product names in Issues Table .
+* Tweak - Remove try and catch in saveTargetAudience action.
+
+= 2.0.0 - 2022-07-05 =
+* Add - Filter Ads accounts to exclude manager and test accounts.
+* Add - Return account names when retrieving the list of existing accounts.
+* Fix - Normalize image URLs before validation.
+* Tweak - WooCommerce 6.7 compatibility.
+
+= 1.13.6 - 2022-06-21 =
+* Fix - Cannot disconnect Jetpack when other activated plugins are using Jetpack connection.
+* Fix - Compatibility CES prompts with WC 6.6.0.
+* Fix - Multiple CES prompts on the Dashboard Page.
+
+= 1.13.5 - 2022-06-15 =
+* Fix - Avoid losing focus when selecting an option in Tree Select Control.
+* Fix - Bump node-forge from 1.2.1 to 1.3.1.
+* Tweak - Clear input search filter after selecting an option.
+* Tweak - Disable Review Request in Standalone Accounts.
+* Tweak - Update copy for Free and Enhanced Listings merge
+* Tweak - WC 6.6 compatibility.
+
+= 1.13.4 - 2022-06-07 =
+* Fix - Adding Github Actions for storybook.
+* Fix - Do not show error notice when Merchant Center review request API call failed.
+* Fix - Do not store URL matches transient until fully connected.
+* Fix - Fix GitHub Workflow paths.
+* Fix - Use commit instead of branch for storybook dependency.
+* Tweak - Always compare site URL hash without trailing slash.
+* Tweak - Compliance Policy links.
+* Tweak - WC 6.6 compatibility.
+
+= 1.13.3 - 2022-05-31 =
+* Add - Add six more promotion supported countries.
+* Fix - Allow unicode for Manufacturer Part Number (MPN) value.
+* Fix - Avoid to show Unsaved Values confirmation in Edit Free Listing when no values has been changed.
+* Fix - Prevent repeated account URL retrievals.
+* Fix - Update tracking docs.
+* Tweak - Replace storybook deps in favor of woocommerce-grow/storybook.
+* Tweak - Simplify and centralize the processing of internal states for the TreeSelectControl component.
+* Update - budget recommendation conversion rate.
+
+= 1.13.2 - 2022-05-25 =
+* Fix - Prevent repeated account URL retrievals.
+
+= 1.13.1 - 2022-05-24 =
+* Fix - Missing ShoppingPerformanceView error when viewing report data.
+* Fix - Update the start/end date in the timePeriod message of coupon following google.protobuf.Timestamp.
+* Tweak - Show MC Issues resolution steps in the UI.
+
+= 1.13.0 - 2022-05-18 =
+* Add - Extending Update All Products Test Suit.
+* Add - Request a Google Merchant Account Review for disapproved accounts.
+* Fix - Address a crash problem of TreeSelectControl component when the dropdown is not showing and press the Up or Down key.
+* Fix - Edit shipping rate modal disappears after auto-save shipping rate in Setup MC.
+* Fix - Prevent product sync if the site URL does not match the originally claimed URL.
+* Fix - Revert filtering only Shopping destination for account issues.
+* Fix - The unsaved prompt might pop up when the countries of the target audience are the same when navigating away from the free listings edit page.
+* Fix - Unit tests for WooCommerce 6.5.
+* Fix - Validation for shipping rates and shipping times in Setup MC and Edit Free Listings.
+* Tweak - Add helper class to obtain supported countries of a continent.
+* Tweak - Adjust the implementation of focus navigation for the TreeSelectControl component.
+* Tweak - Cleanup unused Google Ads services.
+* Tweak - Drop support for WooCommerce < 6.0.
+* Tweak - Enhance event name for documentation link and update tracking document.
+* Tweak - WooCommerce 6.5 compatibility.
+* Tweak - WordPress 6.0 compatibility.
+* Update - Improved UX in the Product Feed Issues table.
+* Update - Use a shared helper method to get supported countries of a continent for /mc/countries API.
+
+= 1.12.8 - 2022-05-05 =
+* Update - Add the FAQs card for UX improvements on get started page.
+* Update - Add the benefits card for UX improvements on get started page.
+* Update - Add the customer quotes card for UX improvements on get started page.
+* Update - Add the features card for UX improvements on get started page.
+* Update - Add the first card with a CTA and a video for UX improvements on get started page.
+* Update - Add the get started card for UX improvements on get started page.
+
+= 1.12.7 - 2022-05-04 =
+* Fix - Label UI for selecting countries (TreeSelectControl / SupportedCountrySelect).
+* Tweak - Refactor, remove `record*Event` utils.
+* Tweak - Upgrade @wordpress/scripts to 22.1.0, and the related packages were upgraded to the corresponding versions.
+* Tweak - Upgrade the packages of the e2e testing.
+* Tweak - Upgrade webpack config to v5, and enhance the config.
+
+= 1.12.6 - 2022-04-29 =
+* Fix - Update all products job syncing products
+
+= 1.12.5 - 2022-04-12 =
+* Fix - Cache Yoast SEO values per product, to ensure unique values.
+* Fix - Feature/tree select control component.
+* Fix - Prompt to reconnect when a Jetpack disconnect is detected.
+* Tweak - Automatically generate Tracking events docs from JSDoc.
+* Tweak - Move Tracking events docs to JSDoc.
+
+= 1.12.4 - 2022-04-06 =
+* Fix - Prevent fatal errors when migrating or syncing merchant settings.
+
+= 1.12.3 - 2022-04-05 =
+* Fix - Shipping times section not showing up and unable to proceed through the Setup Merchant Center flow.
+
+= 1.12.2 - 2022-04-05 =
+* Add - Unit test for AdsConversionAction.
+* Add - Unit test for AdsReport.
+* Fix - Prevent uncaught exception when Merchant account is not connected and we send a tracker snapshot.
+* Tweak - DB migration for shipping rates.
+* Update - Create all new campaigns as PMax campaigns.
+
+= 1.12.1 - 2022-04-01 =
+* Fix - Change shipping time options based on shipping rate options, to address missing shipping times data when shipping rates option is set to automatic or simple flat option, and shipping times option is set to complex manual option.
+* Fix - Do not sync shipping rates if the shipping time setting is set to complex.
+
+= 1.12.0 - 2022-03-29 =
+* Add - Additional data points for tracker snapshot.
+* Add - Enables merchants to select multiple countries as their audience when creating a Google Ads campaign (Smart Shopping Campaign).
+* Add - Google Listings And Ads product attributes icon.
+* Add - Integration with WooCommerce Shipping Zone to automatically sync shipping settings to Merchant Center.
+* FIx - Show right link and message in Paid Campaigns report when there is no data available.
+* Fix - Cleanup synced products locally when disconnecting Merchant Center account.
+* Fix - Combine duplicate account issues per country.
+* Fix - Fatal error when the plugin is activated before WooCommerce.
+* Fix - Fix incorrect HTTP status code when campaign creation and edit APIs call fails.
+* Fix - Limit failed delete retries to 5 and schedule again after one minute.
+* Fix - Performance issue related with NoteInitializer class.
+* Tweak - Add message to advise users to only connect Google Ads child account, not manager account.
+* Tweak - Catch errors related to invalid top-level domains specifically, and throw an error when the site's URL ends with an invalid top-level domain.
+* Tweak - Improve Ads error messages returned by the API.
+* Tweak - Simplify the format processing of number and amount values for all report metrics.
+* Update - Budget recommendation API supports for multiple countries.
+* Update - Campaigns APIs support for multiple countries.
+* Update - Change Campaign operations to batch requests.
+* Update - Refactor the Middleware class.
+* Update - Remove delete operations for campaign budget and ads group.
+* Update - WP-CLI dev dependencies.
+
+= 1.11.1 - 2022-02-10 =
+* Fix - Prevent a fatal error in case an existing Merchant Center account has an invalid domain.
+
+= 1.11.0 - 2022-02-02 =
+* Add - Unit tests for the Ads AccountController and AccountService.
+* Fix - Failure handling was not correctly displayed when the ads campaign creation and editing failed.
+* Fix - Fix the incorrect text color of the disabled "Disconnect account" buttons on the Settings page.
+* Fix - Makes country dropdown list always below the input box.
+* Fix - Prevent page flickering when loading admin pages of this extension.
+* Tweak - Change the importing way of lodash package to reduce the bundle size by 4 KB.
+* Tweak - Clean up outdated workarounds for WooCommerce 5.7.
+* Update - Google Ads API to V9.
+* Update - Google Content API library to 2.12.1.
+* Update - Inbox notifications have update promotion information from Google.
+* Update - Update Google Ads credit incentive in WordPress.org plugin landing page.
+* Update - Update Google Ads credit incentive info in plugin UI.
+
+= 1.10.0 - 2022-01-13 =
+* Add - Bulk update channel visibility for coupons.
+* Add - CES prompts for initial setup and campaign creation.
+* Add - Pre-fill shipping rates during free listing configuration wizard.
+* Add - Pre-fill shipping rates in Setup Merchant Center flow based on store's shipping settings.
+* Add - Sync products' shipping label/class to Merchant Center.
+* Fix - Drop WC 5.7 support.
+* Fix - Fatal error when creating Ads account without Site Title.
+* Fix - Fix/1078 shipping values flash during onboarding setup.
+* Fix - Fixing coupon test issue.
+* Fix - Group shipping rate by price and currency, and display the right currency in shipping rate input.
+* Fix - MC address validation.
+* Fix - Remove WC's `is_ajax` (deprecated in 6.1) in favor of proxied WP `wp_doing_ajax`.
+* Fix - Removed state/region address validation .
+* Fix - Replace `cloneDeep` within `.~/data/reducer.js` with functions that would not mutate other references of the state tree.
+* Tweak - WC 6.1 compatibility.
+
+= 1.9.0 - 2021-12-15 =
+* Add - Pre-fill target audience countries during onboarding using WooCommerce shipping zones. #1131
+* Add - Pre-fill target audience countries with suggestions based on WooCommerce settings. #1145
+* Fix -  Fatal error on plugin deactivation. #1142
+* Fix - Fix UI loading flicker in Setup MC Step 2 "Choose your audience" page. #1146
+* Fix - Fix e2e test after copy update. #1134
+* Tweak - Display help cursor for tooltip. #1130
+* Tweak - Update product channel visibility's styling to match that of coupons channel visibility. #1135
+* Tweak - Updated `@wordpress/scripts@17.1.0`. #1132
+* Tweak - WC 6.0 compatibility.
+* Tweak - WP 5.9 compatibility.
+* Update - min. WC version to 5.7. #1110
+
+= 1.8.0 - 2021-11-30 =
+* Add - Allow connecting to a different Google account in Setup MC. - #1072
+* Add - Disconnect Google Merchant Center account when switching Google account. - #1109
+* Add - Display account name and domain in Google Merchant Center cards. - #1112
+* Add - track events for UX improvements. - #1124
+* Fix - Refetch list of GMC accounts when users choose to connect to a different GMC accounts. - #1123
+* Tweak - Improve UX and adjust UI style for the accounts connection step of the Google Ads & Paid Campaign setup page. - #1102
+* Tweak - Minor layout tweak in Google Ads card in Setup Ads. - #1114
+* Update - Display better explanation tip for Google Merchant Center in Setup MC Step 1. - #1075
+* Update - UX improvement on Google account card in Setup MC. - #1072
+* Update - UX improvements on Google Merchant Center section in Setup MC flow. - #1094
+* Update - UX improvements on account connections in Setup Merchant Center flow. - #1119
+* Update - Update the WordPress.com account connection UI to the newer design. - #1068
+
+= 1.7.0 - 2021-11-24 =
+* Add - The partial authorization feature of Google account to the onboarding setup, Google Ads setup and reconnection pages.
+* Add - Accept login_hint when generating OAuth URL.
+* Add - Review request inbox notification after 10 conversions and 100 free listing clicks
+* Update – Add support for retrieving the name and domain from the Google API
+* Fix - Add support for Norwegian language, nb and nn
+* Fix - Report tabs lose active state when changing chart.
+* Tweak - Update `in_stock` and `out_of_stock` availability enums
+* Tweak - Retry async jobs on timeout
+* Tweak - Reduce the bundle size of the index.js file.
+* Tweak - refactored legacy WC menu highlighting effect.
+
+= 1.6.0 - 2021-11-09 =
+* Add - Coupon/promotion integration with Merchant Center.
+* Tweak - WooCommerce 5.9 compatibility.
+
+= 1.5.1 - 2021-10-13 =
+* Update - Changed minimum version of WordPress to 5.6 and WooCommerce to 5.5.
+* Fix - Change the way of getting WooCommerce admin settings to fix a compatibility issue in WooCommerce 5.8.
+* Tweak - WooCommerce 5.8 compatibility.
+
+= 1.5.0 - 2021-10-01 =
+* Add - Verify user's phone number via SMS or phone call at the last step of the onboarding flow and on the settings page. And update the verified phone number to user's connected Google Merchant Center account.
+* Add - Allow backorder stock availability for products.
+* Add - Set pre-order availability for products using the WooCommerce Pre-Orders extension.
+* Add - Warning notice when the Ads' currency is different from the store's one.
+* Add - Unit tests for the Merchant Google Service class.
+* Fix - Retry Merchant account creation after detecting invalid terms.
+* Fix - Render Ads Account's currency in Dashboard's table.
+* Fix - Don't render `DifferentCurrencyNotice` when the Ads account is disconnected.
+* Fix - Limit the number of synced additional product images to 10.
+* Fix - Split contact information settings page to phone and address settings.
+* Fix - Update phone number and store address pages flow.
+* Fix - Correct spelling/capitalization of "WordPress.com".
+* Fix - PHP notice when creating a product variation.
+* Fix - Bump E2E-related devDeps, bump tested WC version.
+* Tweak - Hide channel visibility box and attributes tab if the setup is not completed.
+* Tweak - Added a few more e2e tests and utils.
+* Tweak - WC 5.7 compatibility.
+
+= 1.4.3 - 2021-09-08 =
+* Fix - PHP notice when creating a product variation.
+* Tweak - Hide channel visibility box and attributes tab if the setup is not completed.
+
+= 1.4.2 - 2021-08-24 =
+* Fix - Fix a potential fatal error when WooCommerce isn't active while activating Google Listings and Ads.
+* Fix - Fix margin/padding styles for the AppButton when having spinner/icon/text.
+* Fix - Make audience country searchable in Setup Ads.
+* Fix - Remove file autoloads for namespaced packages.
+* Tweak - Remove all "STEP [NUMBER]" texts from step headers on the onboarding setup, paid campaign setup, and free listings edit pages.
+* Tweak - WC 5.5 compatibility.
+
+= 1.4.1 - 2021-08-16 =
+* Fix - Allow connection test page for other admin users.
+* Fix - Allow spaces in paths when prefixing vendor namespaces.
+* Fix - Database error: "Specified key was too long". i.e. removed the `product_issue` index from the `merchant_issues` table.
+* Fix - Fatal error when activating plugin with no Merchant Center account connected.
+* Fix - Some pre-sync errors being skipped in the product issues table.
+* Fix - display the correct currency actually used for the paid campaign budget.
+* Tweak - Limit the product descriptions to 5000 characters when syncing.
+
+= 1.4.0 - 2021-08-09 =
+* Add - Filter to allow applying shortcodes to product description.
+* Add - New contact information feature.
+* Fix - Add `woocommerce_gla_product_attribute_values` filter to allow overriding all product attributes.
+* Fix - Invalid Google IDs meta value causing fatal failure.
+* Fix - Load deprecated functions from Guzzle which are required for the GAX library.
+* Fix - Process all batches when updating products.
+* Tweak - Removed SVGs from JS bundle.
+* Tweak - Use the WordPress date and time formats on the Product Feed page.
+
+= 1.3.0 - 2021-07-27 =
+* Fix - Bump WordPress tested version to 5.8.
+* Fix - Code formatting with Prettier.
+* Fix - Disable the "Complete setup" button if the free shipping price is not yet entered when setting up Merchant Center for the first time.
+* Fix - Fix: add eslint-plugin-import to help catch JavaScript import errors.
+* Fix - Import `Button` from `@wordpress/components` in Switch URL flow.
+* Fix - Remove unused code.
+* Fix - Shows a Jetpack connected success text instead of blank when viewing the onboarding setup and the settings pages as a non jetpack owner account.
+* Fix - Skip orphaned variations instead of throwing errors when syncing products.
+* Tweak - Add filters for adjusting description.
+* Tweak - Allow safe HTML tags for product descriptions.
+* Tweak - Replaced `<AppTextButton>` with WP's `<Button isLink>`.
+* Tweak - Use @wordpress/prettier-config package.
+* Update - Optionally clean up plugin data on uninstall.
+* Update - Stop syncing invisible products and variations.
+
+= 1.2.1 - 2021-07-15 =
+* Fix - Made Forms submit and change behavior work with WooCommerce >= 5.5 (WooCommerce Admin >= 2.4.0).
+
+= 1.2.0 - 2021-07-14 =
+* Add - Added a param to indicate the redirect URI when back from Google authorization.
+* Add - Endpoint for checking access to previously connected accounts.
+* Add - Google account reconnection UI and flow.
+* Add - Incompatibility warning for Google Product Feed plugin.
+* Fix - Add unit test configurations.
+* Fix - Add unit tests for AttributeManager and AbstractAttribute.
+* Fix - Add unit tests for BatchProductHelper and ProductFactory.
+* Fix - Add unit tests for ProductHelper and ProductMetaHandler.
+* Fix - Add unit tests for ProductRepository.
+* Fix - Add unit tests for ProductSyncer and SyncerHooks.
+* Fix - Add unit tests for WCProductAdapter.
+* Fix - Adds e2e testing covering merchant getting started to Setup MC page 1.
+* Fix - Conflict with LiteSpeed cache plugin.
+* Fix - Consistently return error codes from the middleware server.
+* Fix - Create test products manually instead of using a provider.
+* Fix - Hide product attributes and channel visibility for subscription products.
+* Fix - Order billing status results by newest entries first.
+* Fix - Remove undefined variable warning during Ads account connection.
+* Fix - TypeError in WooCommerce Brands integration.
+* Fix - Update travis config to use latest version of WP and WC.
+* Tweak - 401 error when retrieving status data and Google account is not connected.
+* Tweak - Add bundlewatch to monitor bundle size in GitHub PRs.
+* Tweak - Change product expiry to after 25 days.
+* Tweak - Clarify which HTML header tags are inserted by GLA.
+* Tweak - Clear Merchant Center issues table on account disconnect.
+* Tweak - Improve namespace replacements in conflicting composer packages.
+* Tweak - Omit unpublished products from issues to resolve.
+* Tweak - Prevent showing all 401 response errors in the general error message UI.
+* Tweak - Stop syncing products if the Merchant or Google accounts are no longer connected.
+* Tweak - Unset Ads currency DB option when disconnecting account.
+* Tweak - WC 5.5 compatibility.
+* Update - Latest versions of phpseclib and wp-cli packages.
+* Update - Switch apiclient services to namespaces.
+* Update - Version 10.0 of the Google Ads library.
+* Update - Version 2.10 of the apiclient library.
+
+= 1.1.0 - 2021-06-23 =
+* Fix - Adds warning message and checkbox for reclaiming URL in Google Merchant Center account connection setup.
+* Fix - Align not synced product stats.
+* Fix - Automatically set default values for Setup MC and Edit Free Listings' Target Audience.
+* Fix - Cancel the focus from the "Remove" links after removing a program from the programs table.
+* Fix - Catch invalid product ID.
+* Fix - Cleanup target countries per product.
+* Fix - Clear product stats cache on every product sync .
+* Fix - Combine the "flat" and "manual" options of shipping rate and time in the MC setup flow to avoid possible errors caused by inconsistent shipping setup logic.
+* Fix - Correct formatting string of "day" for status box on the Product Feed page.
+* Fix - Handle null postmeta values gracefully.
+* Fix - Include the Ads account currency when checking the status.
+* Fix - Prevent conflicts when storing the channel visibility value.
+* Fix - Resolve Guzzle Conflict with other plugins.
+* Fix - Strip shortcodes used in the product description when syncing to Google.
+* Fix - The incorrect enabled state after removing a disabled program from the programs table.
+* Fix - Update deprecated `stylelint-config-wordpress` to `@wordpress/stylelint-config@19.0.4`,.
+* Fix - Use WooCommerce CRUD class methods to handle metadata.
+* Fix - Use batch productstatuses.
+* Fix - Use get_home_url for retrieving the site URL.
+* Fix - Use product's short description if no description is set.
+* Tweak - Optimize product queries.
+* Tweak - Reduce the default productstatus batch size.
+* Tweak - Set batch size to 100 for the "update all products" job.
+* Tweak - Show "Unavailable" and more descriptive tooltip when Google reports API fails.
+* Tweak - Standardize action and filter hook prefix.
+* Tweak - Use target countries as shipping destinations.
+* Tweak - WC 5.4 compatibility.
+* Update - Increase required minimum WordPress and WooCommerce versions.
+
+= 1.0.0 - 2021-06-08 =
+* Fix - Add Tracks events for site claim and URL switching.
+* Fix - Add debugging logs for product syncer.
+* Fix - Add event tracking when clicking on the chart tabs in the report pages.
+* Fix - Add event trackings when the "Launch paid campaign" buttons are clicked.
+* Fix - Add status box in the Product Feed page.
+* Fix - Add table's pagination tracking events to the product feed page.
+* Fix - Add track events for account connections.
+* Fix - Add validations to fix that the free listings setup/edit forms could be submitted with a negative shipping rate/time.
+* Fix - Bump TravisCI's OS and node version to match the one used for the release.
+* Fix - Change "disconnect all accounts" modal text.
+* Fix - Change error message and add Open Google MC button to the Dashboard.
+* Fix - Change to use batch upsert actions for saving shipping data on the Edit Free Listings page.
+* Fix - Check product exists with helper function.
+* Fix - Cleanup synced product IDs on settings change.
+* Fix - Do not request ads reports when the setup is incomplete.
+* Fix - Double check product's sync ready status returned by repository.
+* Fix - Expose pre-sync errors.
+* Fix - Fall back to 'SurfacesAcrossGoogle' status if 'Shopping' isn't available for Product Feed.
+* Fix - Fix compatibility issue that lacks required class of new WC Navigation in supported WC versions.
+* Fix - Fix fatal error when duplicating and trashing synced variable products.
+* Fix - Fix the alignment of label and helper next to radio and checkbox.
+* Fix - Fix the problem of the "Create another campaign" button not working.
+* Fix - Hide the ChannelVisibilityMetaBox for unsupported products.
+* Fix - Hide unpublished products from the product feed.
+* Fix - Include pre-sync product errors in the issues API.
+* Fix - Make the free shipping threshold be able to set up with $0.
+* Fix - Modify `path` in URL to make additional pages work with WooCommerce Navigation.
+* Fix - Only submit 'Published' products.
+* Fix - Optimize presync error to issue collation process.
+* Fix - Override values for enhanced free listings issue.
+* Fix - Prevent render breaking when getting errors from report API in the programs report page.
+* Fix - Product titles for Free Listing reports.
+* Fix - Refactor product meta to use product object instead of ID.
+* Fix - Remove Checkbox.
+* Fix - Reports mocked responses.
+* Fix - Resolve getLabels immediately, if free listings are requested. ….
+* Fix - Retrieve product IDs and use update_post_meta.
+* Fix - Return empty if no matching attributes found.
+* Fix - Scheduled sync count.
+* Fix - Shipping rates and shipping times: Add and edit modals - validation logic.
+* Fix - Show selected program label in the filter on program report page load.
+* Fix - Small ProductQueryFeedHelper Fix.
+* Fix - Sort list of supported countries.
+* Fix - Throw an error if no ID is provided.
+* Fix - Tracking doc tweaks.
+* Fix - Tracking settings.
+* Fix - Use empty check for campaign name.
+* Fix - Use product name or title in products report.
+* Fix - Validate required and incompatible plugins.
+* Fix - Workaround `woocommerce/data` dependency issues, reset `package-lock.json`.
+
+= 0.6.0 - 2021-05-27 =
+* Fix - Add FAQs to step 1 of the MC setup flow.
+* Fix - Add extra product attributes.
+* Fix - Add validations for the main steps of edit free listings.
+* Fix - Admin Notes 2 to 4.
+* Fix - Aggregate intervals from free and paid campaigns, render programs report w/o waiting for secondary request.
+* Fix - Change JetPack connection name.
+* Fix - Changes to Success Modal after first setup.
+* Fix - Connect programs report page to the API data.
+* Fix - Connect programs report table to API data.
+* Fix - Consistent currency format across all summary list usages.
+* Fix - Edit the channel visibility of products on the Product Feed page.
+* Fix - Error notice if WooCommerce Admin isn't active.
+* Fix - Fix fatal in Product Feed API.
+* Fix - Get started copy updates.
+* Fix - Implement the deletion feature of paid campaigns for the dashboard page.
+* Fix - Integration with new WC Navigation.
+* Fix - Make `getReport` ignore unsupported orderby query params.
+* Fix - Make unit-tests run with @woocommerce packages.
+* Fix - Make unit-tests run with `woocommerce/date` (~`/components`~) dependency.
+* Fix - Move @woocommerce/* dependency tests to /tests/unit.
+* Fix - Note lack of support for IE in `README.md`.
+* Fix - Prefetch product feed data to prevent multiple duplicated Google API requests.
+* Fix - REST endpoint for batch product channel visibility updates.
+* Fix - Redirect to onboarding / get started page on plugin activation.
+* Fix - Remove product feed coming soon notice and show reports by default.
+* Fix - Run unit tests on TravisCI,.
+* Fix - Silently skip Product Feed products that are no longer in WooCommerce .
+* Fix - Sort report API results by date index.
+* Fix - Sort the merged programs table.
+* Tweak - WC 5.4 compatibility.
+
+= 0.5.6 - 2021-05-17 =
+* Fix - Add Color, Material, and Pattern attributes.
+* Fix - Add Size, Size System, and Size Type product attributes.
+* Fix - Add WooCommerce Brands integration.
+* Fix - Add age group and adult product attributes.
+* Fix - Add bcmath compatibility library.
+* Fix - Add extra product attributes.
+* Fix - Add gender attribute.
+* Fix - Add hook and mocked data for testing API requests.
+* Fix - Add more props and formatting to the shared summary component for report pages.
+* Fix - Add spend column to product reports.
+* Fix - Adjust chart to fit with API schema and visual design, and extract as a shared component for report pages.
+* Fix - Change 'Get started' to 'Set up free listings in Google' in small copy text.
+* Fix - Code refactor with useIsEqualRefValue.
+* Fix - Conflict resolution in Merchant Center account connection process.
+* Fix - Connect products report page to the data source of report API.
+* Fix - Display ReclaimURLCard upon getting 403 from SwitchURLCard.
+* Fix - Display or hide attributes based on product type.
+* Fix - Fix dashboard performance when the response comes w/o data.
+* Fix - Get report parameter defaults using a helper function.
+* Fix - Opens documentation in new tab upon clicking Help button.
+* Fix - Product Feed UI with API.
+* Fix - Remove margin-bottom for checkboxes in Table.
+* Fix - Replacement polyfills for mbstring.
+* Fix - Run async jobs only when Google is connected.
+* Fix - Setup MC: display error message when Google MC Account API call failed.
+* Fix - Show selected "Free Listings" filter / Handle URL param id `0` as valid in `getIdsFromQuery`.
+* Fix - Some README and contributor documentation updates.
+* Fix - Standardize product statuses and caches.
+* Fix - Update Product Feed status labels.
+* Fix - Use shared `SummarySection` in Programs Report page.
+* Tweak - WC 5.3 compatibility.
+
+= 0.5.5 - 2021-05-07 =
+* Fix - Add a custom hook to get calculated data and its status for the Products Reporting page.
+* Fix - Add products reporting data source picker and connect all UI query interactions to page route.
+* Fix - Adjust report data interfaces and structures in the wp.data.
+* Fix - Clean up TODO comments.
+* Fix - Connect Programs filter to data source.
+* Fix - Display "Continue setup" button text in Get Started page.
+* Fix - Display "Issues to Resolve" in Product Feed.
+* Fix - Display product statistics in UI.
+* Fix - Don't enable Continue button when MC account is not connected.
+* Fix - Escape and sanitize site URL.
+* Fix - Fix table title and icon button spacing.
+* Fix - Product feed API endpoint.
+* Fix - Remove Beta Testing UI for production release.
+* Fix - Resolve `@woocommerce/experimental.Text` to suppress build warnings.
+* Fix - Specify `argsRef.current` as dependency in `useAppSelectDispatch`.
+
+= 0.5.4 - 2021-04-30 =
+* Fix - Add readme and assets for releasing to WordPress.org.
+* Fix - Additional testing flags.
+* Fix - Conditionally hide Reports tab and show a coming soon notice on Product Feed tab.
+* Fix - Fix condition that filters TabNav's tabs.
+
+= 0.5.3 - 2021-04-29 =
+* Fix - Fix popover width.
+* Fix - Fix the giant icon problem in the warning messages.
+* Fix - South Korea is only supported for currency KRW.
+
+= 0.5.2 - 2021-04-28 =
+* Fix - Consistent i18n domain name.
+* Fix - Include Merchant Center beta countries.
+
+= 0.5.1 - 2021-04-27 =
+* Fix - Add FAQ for "What if I already have free listings set up for my store?".
+* Fix - Build translation files.
+* Fix - Dedicated Merchant Center issues table.
+* Fix - Delete MC shipping settings on disconnect.
+* Fix - Disable the "create a new MC account" link when an existing account is being connected.
+* Fix - Disabled toggle with tooltip for free listings in Programs table.
+* Fix - Fix "Complete setup" button re-enabled when finishing the MC setup.
+* Fix - Fix issues of shipping rate/time components for MC onboarding flow.
+* Fix - Generate optimized autoload for final archive.
+* Fix - Helper function for getting the WCS URL.
+* Fix - Hide `SupportedCountrySelect` if `location` is not `selected`.
+* Fix - Make `useDisplayTaxRate` check also store's country.
+* Fix - Override shipping for virtual products.
+* Fix - Paid ads campaign form validation.
+* Fix - Prevent passing empty array of IDs to product update job.
+* Fix - Rename "Google Shopping Free Listings" and fix "product" typos.
+* Fix - Script for cleaning up some vendor files.
+* Fix - Set default paid campaign name on server-side.
+* Fix - Setup MC: validate form and disable Continue button when form is not valid.
+* Fix - Show success & failure messages when free listings are updated.
+* Fix - Use fallback billing url when billingStatus.billing_url is null.
+
+= 0.5.0 - 2021-04-15 =
+- Google Ads onboarding and dashboard test release.
+
+= 0.4.0 - 2021-04-01 =
+- Merchant Center and Google Ads onboarding test release.
+
+= 0.3.0 - 2021-03-16 =
+- Initial release

@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wds\n"
+"POT-Creation-Date: 2014-09-26 17:59+0400\n"
+"PO-Revision-Date: 2014-09-26 17:59+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: lv_LV\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
+"2);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress3.5\\wp-content\\plugins"
+"\\slider-plugin\n"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:30
+#, fuzzy
+msgid "There is no slider selected or the slider was deleted."
+msgstr "Nav galerija jāizvēlas vai galerijā tika dzēsts"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:42
+#, fuzzy
+msgid "There are no slides in this slider."
+msgstr "Nav bildes šajā galerijā"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:660
+msgid "Share on Facebook"
+msgstr "Dalīties ar Facebook"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:666
+msgid "Share on Twitter"
+msgstr "Dalīties ar Twitter"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:672
+msgid "Share on Google+"
+msgstr "Daļa Google+."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:678
+msgid "Share on Pinterest"
+msgstr "Share on Pinterest"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:684
+msgid "Share on Tumblr"
+msgstr "Share on Tumblr"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1875
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1894
+msgid "Pause"
+msgstr "Pauze"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1884
+msgid "Play"
+msgstr "Spēlēt"
+
+#~ msgid "field is required."
+#~ msgstr "lauks ir nepieciešams. "
+
+#~ msgid "This is not a valid email address."
+#~ msgstr "Šī nav derīga e-pasta adresi."
+
+#~ msgid "There are no images matching your search."
+#~ msgstr "Nav attēlu, kas atbilst Jūsu meklēšanai."
+
+#~ msgid " item(s)"
+#~ msgstr "pozīcija"
+
+#~ msgid "First"
+#~ msgstr "Pirmās"
+
+#~ msgid "Previous"
+#~ msgstr "Iepriekšējā"
+
+#~ msgid "Next"
+#~ msgstr "Nākamais"
+
+#~ msgid "Last"
+#~ msgstr "Pēdējais"
+
+#~ msgid "Go to the first page"
+#~ msgstr "Iet uz pirmo lapu"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "Doties uz iepriekšējo lapu"
+
+#~ msgid "of"
+#~ msgstr "gada"
+
+#~ msgid "Go to the next page"
+#~ msgstr "Doties uz nākamo lapu"
+
+#~ msgid "Go to the last page"
+#~ msgstr "Iet uz pēdējo lapu"
+
+#~ msgid "Reset"
+#~ msgstr "Reset"
+
+#~ msgid "Search"
+#~ msgstr "Meklēšanu"
+
+#~ msgid "There is no theme selected or the theme was deleted."
+#~ msgstr "Nav izvēlēts tēmu vai tēma tika dzēsts"
+
+#~ msgid "There is no album selected or the album was deleted."
+#~ msgstr "Nav izvēlēts albuma vai albums tika dzēsts"
+
+#~ msgid "Back"
+#~ msgstr "Atpakaļ"
+
+#~ msgid "Album is empty."
+#~ msgstr "Albums ir tukšs"
+
+#~ msgid "Gallery is empty."
+#~ msgstr "Galerija ir tukša"
+
+#~ msgid "More"
+#~ msgstr "Vairāk"
+
+#~ msgid "Hide"
+#~ msgstr "Slēpt"
+
+#~ msgid "Show comments"
+#~ msgstr "Parādīt komentārus"
+
+#~ msgid "The image has been deleted."
+#~ msgstr "Attēls ir izdzēsts."
+
+#~ msgid "Maximize"
+#~ msgstr "Palielinātu"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Pilnekrāna"
+
+#~ msgid "Show info"
+#~ msgstr "Parādīt info"
+
+#~ msgid "Show rating"
+#~ msgstr "Parādīt reitingu"
+
+#~ msgid "Open image in original size."
+#~ msgstr "Atvērt attēlu oriģinālajā izmērā. "
+
+#~ msgid "Download original image"
+#~ msgstr "Lejupielādēt oriģinālo attēlu"
+
+#~ msgid "Hits: "
+#~ msgstr "Hits: "
+
+#~ msgid "Rated."
+#~ msgstr "Novērtēja."
+
+#~ msgid "Not rated yet."
+#~ msgstr "Nav vērtējuma."
+
+#~ msgid "Votes: "
+#~ msgstr "Balsis: "
+
+#~ msgid "Cancel your rating."
+#~ msgstr "Atcelt savu reitingu. "
+
+#~ msgid "You have already rated."
+#~ msgstr "Jūs jau novērtēja. "
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "Kļūda. Nepareizs verifikācijas kods. "
+
+#~ msgid "Hide Comments"
+#~ msgstr "Slēpt komentārus"
+
+#~ msgid "Name"
+#~ msgstr "Nosaukt"
+
+#~ msgid "Email"
+#~ msgstr "e-pasts "
+
+#~ msgid "Comment"
+#~ msgstr "Komentārs"
+
+#~ msgid "Verification Code"
+#~ msgstr "verifikācijas kodu"
+
+#~ msgid "Submit"
+#~ msgstr "Iesniegt"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "Jūsu komentārs gaida mērenība "
+
+#~ msgid "Delete Comment"
+#~ msgstr "Dzēst komentāru"
+
+#~ msgid "Show Comments"
+#~ msgstr "Rādīt komentārus"
+
+#~ msgid "Hide info"
+#~ msgstr "Slēpt info"
+
+#~ msgid "Hide rating"
+#~ msgstr "Slēpt vērtējums"
+
+#~ msgid "Restore"
+#~ msgstr "Atjaunot"
+
+#~ msgid "Exit Fullscreen"
+#~ msgstr "Izietu visu ekrānu"

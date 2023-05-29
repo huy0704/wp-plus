@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Facebook Chat Plugin - Live Chat Plugin for WordPress\n"
+"POT-Creation-Date: 2020-11-13 16:39-0800\n"
+"PO-Revision-Date: 2022-06-29 17:00-0700\n"
+"Last-Translator: \n"
+"Language-Team: Facebook\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: facebook-messenger-customer-chat.php:106 facebook-messenger-customer-chat.php:136
+msgid "Settings"
+msgstr "Instellingen"
+
+#: facebook-messenger-customer-chat.php:142
+msgid "https://wordpress.org/plugins/facebook-messenger-customer-chat/#faq"
+msgstr ""
+
+#: facebook-messenger-customer-chat.php:143
+msgid "FAQ"
+msgstr "Veelgestelde vragen"
+
+#: facebook-messenger-customer-chat.php:148
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: facebook-messenger-customer-chat.php:268
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: facebook-messenger-customer-chat.php:283
+msgid "We value your feedback."
+msgstr "We waarderen je feedback."
+
+#: facebook-messenger-customer-chat.php:287
+msgid "Please let us know why you’re deactivating Facebook Chat Plugin."
+msgstr "We horen graag waarom je de chatplug-in van Facebook deactiveert."
+
+#: facebook-messenger-customer-chat.php:295
+msgid "I’m unable to get the plugin to work"
+msgstr "De plug-in werkt niet"
+
+#: facebook-messenger-customer-chat.php:302
+msgid "I no longer need a live chat feature"
+msgstr "Ik heb geen livechatfunctie meer nodig"
+
+#: facebook-messenger-customer-chat.php:309
+msgid "I’m using a different live chat plugin"
+msgstr "Ik gebruik een andere plug-in voor livechat"
+
+#: facebook-messenger-customer-chat.php:316
+msgid "This is a temporary deactivation. I’ll be back!"
+msgstr "Dit is een tijdelijke deactivering. Ik ben van plan de plug-in weer te activeren."
+
+#: facebook-messenger-customer-chat.php:323
+msgid "Other"
+msgstr "Anders"
+
+#: facebook-messenger-customer-chat.php:330
+msgid "Comments:"
+msgstr "Opmerkingen:"
+
+#: facebook-messenger-customer-chat.php:338
+msgid "Submit"
+msgstr "Verzenden"
+
+#: facebook-messenger-customer-chat.php:346
+msgid "Thank you."
+msgstr "Bedankt."
+
+#: facebook-messenger-customer-chat.php:347
+msgid "We appreciate your feedback."
+msgstr "We waarderen je feedback."
+
+#: facebook-messenger-customer-chat.php:372
+#, php-format
+msgid "Facebook Chat Plugin is almost ready to use. Connect your Facebook page %1$shere%2$s to start receiving messages today."
+msgstr "De chatplug-in van Facebook is bijna klaar voor gebruik. Koppel %1$sr%2$s je Facebook-pagina om vandaag nog chatberichten te ontvangen."
+
+#: facebook-messenger-customer-chat.php:424
+msgid "How is the Facebook Chat plugin working out for you and your visitors?"
+msgstr "Hoe bevalt de chatplug-in van Facebook voor jou en je bezoekers?"
+
+#: facebook-messenger-customer-chat.php:426
+msgid "We'd love to hear your feedback!"
+msgstr "We zien je feedback graag tegemoet."
+
+#: facebook-messenger-customer-chat.php:428
+msgid "Please leave us a review."
+msgstr "Geef ons een beoordeling."
+
+#: options.php:51
+msgid "Plugin settings"
+msgstr "Instellingen van plug-in"
+
+#: options.php:52
+msgid "Facebook Chat"
+msgstr "Facebook Chat"
+
+#: options.php:196
+msgid "Facebook Chat Plugin Settings"
+msgstr "Instellingen van chatplug-in van Facebook"
+
+#: options.php:203
+msgid "Getting Started?"
+msgstr "Wil je aan de slag gaan?"
+
+#: options.php:209
+msgid ""
+"Let people start a conversation on\n"
+"\t\t\t\t\t\t\tyour website and continue in Messenger. It's easy to set up. Chats\n"
+"\t\t\t\t\t\t\tstarted on your website can be continued in the customers'\n"
+"\t\t\t\t\t\t\tMessenger app, so you never lose connections with your customers.\n"
+"\t\t\t\t\t\t\tEven those without a Facebook Messenger account can chat with you\n"
+"\t\t\t\t\t\t\tin guest mode, so you can reach more customers than ever."
+msgstr "Laat mensen een gesprek starten op je website en het gesprek voortzetten in Messenger. De plug-in is eenvoudig in te stellen. Chats die worden gestart op je website, kunnen worden voortgezet in de Messenger-app van klanten. Op die manier verlies je nooit het contact met je klanten. Zelfs klanten zonder Facebook Messenger-account kunnen met je chatten via de gastmodus"
+
+#: options.php:225
+msgid "Setup Chat Plugin"
+msgstr "Chatplug-in instellen"
+
+#: options.php:227
+msgid "Edit Chat Plugin Configuration"
+msgstr "Configuratie van chatplug-in bewerken"
+
+#: options.php:243
+msgid "Edit Availability and Automated Responses"
+msgstr ""
+
+#: options.php:254
+msgid "Setup status"
+msgstr "Instellingenstatus"
+
+#: options.php:260
+msgid ""
+"The plugin code has already been added.\n"
+"\t\t\t\t\t\tinto your website. You can always go back through the setup process\n"
+"\t\t\t\t\t\tto customize the plugin."
+msgstr "De plug-incode is al toegevoegd aan je website. Je kunt altijd terugkeren naar het configuratieproces om de plug-in aan te passen."
+
+#: options.php:269
+msgid "Advanced Configuration"
+msgstr "Geavanceerde configuratie"
+
+#: options.php:277
+msgid "Deploy Chat plugin on:"
+msgstr "Chatplug-in implementeren op:"
+
+#: options.php:285
+msgid "All WordPress pages"
+msgstr "Alle WordPress-pagina's"
+
+#: options.php:291
+msgid "Custom WordPress pages"
+msgstr "Aangepaste WordPress-pagina's"
+
+#: options.php:310
+msgid "Homepage"
+msgstr "Startpagina"
+
+#: options.php:316 options.php:328
+msgid "Posts"
+msgstr "Berichten"
+
+#: options.php:326 options.php:389
+msgid "Click for granular options"
+msgstr "Klik voor gedetailleerdere opties"
+
+#: options.php:341
+msgid "Single post view"
+msgstr "Weergave één bericht"
+
+#: options.php:353
+msgid "Category view"
+msgstr "Weergave categorie"
+
+#: options.php:365
+msgid "Tags view"
+msgstr "Weergave tags"
+
+#: options.php:373 options.php:393
+msgid "Pages"
+msgstr "Pagina's"
+
+#: options.php:438
+msgid "WooCommerce Product pages"
+msgstr "WooCommerce-productpagina's"
+
+#: options.php:447
+msgid "Error saving settings."
+msgstr "Fout bij opslaan van instellingen."
+
+#: options.php:451
+msgid "Settings saved."
+msgstr "Instellingen opgeslagen."
+
+#: options.php:455
+msgid "Saving settings..."
+msgstr "Instellingen worden opgeslagen..."
+
+#: options.php:469
+msgid "https://developers.facebook.com/terms/"
+msgstr ""
+
+#: options.php:470
+msgid "Use of this plugin is subject to Facebook's Platform Terms"
+msgstr "Het gebruik van deze plug-in is onderhevig aan de platformvoorwaarden van Facebook"
+
+#: options.php:475
+msgid "Having a problem setting up or using the Chat Plugin?"
+msgstr "Ondervind je problemen met het instellen of gebruiken van de chatplug-in?"
+
+#: options.php:481
+msgid "Please consult our Troubleshooting Guide."
+msgstr "Raadpleeg onze gids voor het oplossen van problemen."
+
+#: options.php:487
+msgid "If the troubleshooting steps in the guide do not solve your problem, please post in the plugin support forum."
+msgstr "Als de stappen in de gids om het probleem op te lossen niet werken, plaats dan een bericht in het ondersteuningsforum van de plug-in."

@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wds\n"
+"POT-Creation-Date: 2014-09-26 18:05+0400\n"
+"PO-Revision-Date: 2014-09-26 18:05+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress3.5\\wp-content\\plugins"
+"\\slider-plugin\n"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:30
+#, fuzzy
+msgid "There is no slider selected or the slider was deleted."
+msgstr "Ne estas galerio selektitaj aŭ la galerio estis forigita."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:42
+#, fuzzy
+msgid "There are no slides in this slider."
+msgstr "Ne estas bildoj en ĉi galerion."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:660
+msgid "Share on Facebook"
+msgstr "Kunhavigi en Facebook"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:666
+msgid "Share on Twitter"
+msgstr "Kunhavigi en Twitter"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:672
+msgid "Share on Google+"
+msgstr "Kunhavigi sur Google+"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:678
+msgid "Share on Pinterest"
+msgstr "Dividi en Pinterest"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:684
+msgid "Share on Tumblr"
+msgstr "Dividi en Tumblr"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1875
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1894
+msgid "Pause"
+msgstr "Paŭzi"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1884
+msgid "Play"
+msgstr "Ludi"
+
+#~ msgid "field is required."
+#~ msgstr "kampo estas bezonata. "
+
+#~ msgid "This is not a valid email address."
+#~ msgstr "Tio ne estas valida retadreso. "
+
+#~ msgid "There are no images matching your search."
+#~ msgstr "Ne estas bildoj kongruas kun via serĉo."
+
+#~ msgid " item(s)"
+#~ msgstr "listero"
+
+#~ msgid "First"
+#~ msgstr "Unua"
+
+#~ msgid "Previous"
+#~ msgstr "Malantaŭa"
+
+#~ msgid "Next"
+#~ msgstr "Sekva"
+
+#~ msgid "Last"
+#~ msgstr "Daŭri"
+
+#~ msgid "Go to the first page"
+#~ msgstr "Iru al la unua paĝo"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "Iru al la antaŭa paĝo"
+
+#~ msgid "of"
+#~ msgstr "de"
+
+#~ msgid "Go to the next page"
+#~ msgstr "Iru al la sekva paĝo"
+
+#~ msgid "Go to the last page"
+#~ msgstr "Iru al la lasta paĝo"
+
+#~ msgid "Reset"
+#~ msgstr "Restarigi"
+
+#~ msgid "Search"
+#~ msgstr "Serĉu"
+
+#~ msgid "There is no theme selected or the theme was deleted."
+#~ msgstr "Ne estas la temo elektita aŭ la temo estis forigita."
+
+#~ msgid "There is no album selected or the album was deleted."
+#~ msgstr "Ne estas disko selektitaj aŭ la albumo estis forigita."
+
+#~ msgid "Back"
+#~ msgstr "Dorso"
+
+#~ msgid "Album is empty."
+#~ msgstr "Albumo estas malplena"
+
+#~ msgid "Gallery is empty."
+#~ msgstr "Galerio estas malplena"
+
+#~ msgid "More"
+#~ msgstr "Pli"
+
+#~ msgid "Hide"
+#~ msgstr "Kaŝi"
+
+#~ msgid "Show comments"
+#~ msgstr "Montri komentojn"
+
+#~ msgid "The image has been deleted."
+#~ msgstr "La bildo estas forigita"
+
+#~ msgid "Maximize"
+#~ msgstr "Maksimumigi"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Fullscreen"
+
+#~ msgid "Show info"
+#~ msgstr "Montru informoj"
+
+#~ msgid "Show rating"
+#~ msgstr "Montru kvalifikon"
+
+#~ msgid "Open image in original size."
+#~ msgstr "Malferma bildo in originala grandeco. "
+
+#~ msgid "Download original image"
+#~ msgstr "Elŝuti originala bildo"
+
+#~ msgid "Hits: "
+#~ msgstr "Trafoj: "
+
+#~ msgid "Rated."
+#~ msgstr "Rated."
+
+#~ msgid "Not rated yet."
+#~ msgstr "Ne rated ankoraŭ."
+
+#~ msgid "Votes: "
+#~ msgstr "Voĉdonoj: "
+
+#~ msgid "Cancel your rating."
+#~ msgstr "Nuligi via takso. "
+
+#~ msgid "You have already rated."
+#~ msgstr "Vi jam rated. "
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "Eraro. Malĝusta Konfirma Kodo. "
+
+#~ msgid "Hide Comments"
+#~ msgstr "Kaŝi Komentoj"
+
+#~ msgid "Name"
+#~ msgstr "Nomo"
+
+#~ msgid "Email"
+#~ msgstr "retpoŝto "
+
+#~ msgid "Comment"
+#~ msgstr "Komento"
+
+#~ msgid "Verification Code"
+#~ msgstr "Konfirma kodo"
+
+#~ msgid "Submit"
+#~ msgstr "Submetu"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "Via komento atendas modereco "
+
+#~ msgid "Delete Comment"
+#~ msgstr "Forigi Komento"
+
+#~ msgid "Show Comments"
+#~ msgstr "Montri komentojn"
+
+#, fuzzy
+#~ msgid "Hide info"
+#~ msgstr "Kaŝi"
+
+#~ msgid "Hide rating"
+#~ msgstr "Kaŝi kvalifikon"
+
+#~ msgid "Restore"
+#~ msgstr "Redonu"
+
+#~ msgid "Exit Fullscreen"
+#~ msgstr "Eliro Fullscreen"

@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wds\n"
+"POT-Creation-Date: 2014-09-26 17:55+0400\n"
+"PO-Revision-Date: 2014-09-26 17:55+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sq_AL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress3.5\\wp-content\\plugins"
+"\\slider-plugin\n"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:30
+#, fuzzy
+msgid "There is no slider selected or the slider was deleted."
+msgstr "Nuk ka galeri të zgjedhur apo galeri u fshi."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:42
+#, fuzzy
+msgid "There are no slides in this slider."
+msgstr "Nuk ka imazhe në këtë galeri."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:660
+msgid "Share on Facebook"
+msgstr "Share në Facebook."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:666
+msgid "Share on Twitter"
+msgstr "Share në Twitter."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:672
+msgid "Share on Google+"
+msgstr "Share në Google +."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:678
+msgid "Share on Pinterest"
+msgstr "Share on Pinterest"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:684
+msgid "Share on Tumblr"
+msgstr "Share on Tumblr"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1875
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1894
+msgid "Pause"
+msgstr "Ndalo"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1884
+msgid "Play"
+msgstr "Luajnë"
+
+#~ msgid "field is required."
+#~ msgstr "fushë është e nevojshme. "
+
+#~ msgid "This is not a valid email address."
+#~ msgstr "Kjo nuk është një adresë e vlefshme email. "
+
+#~ msgid "There are no images matching your search."
+#~ msgstr "Nuk ka imazhe që përputhen me kërkimin tuaj."
+
+#~ msgid " item(s)"
+#~ msgstr "artikull"
+
+#~ msgid "First"
+#~ msgstr "I parë"
+
+#~ msgid "Previous"
+#~ msgstr "Kthehu"
+
+#~ msgid "Next"
+#~ msgstr "Next"
+
+#~ msgid "Last"
+#~ msgstr "Fundit"
+
+#~ msgid "Go to the first page"
+#~ msgstr "Shko në faqen e parë"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "Shko në faqen e mëparshme"
+
+#~ msgid "of"
+#~ msgstr "të"
+
+#~ msgid "Go to the next page"
+#~ msgstr "Shko në faqen tjetër"
+
+#~ msgid "Go to the last page"
+#~ msgstr "Shko në faqen e fundit"
+
+#~ msgid "Reset"
+#~ msgstr "Reset"
+
+#~ msgid "Search"
+#~ msgstr "Kërko"
+
+#~ msgid "There is no theme selected or the theme was deleted."
+#~ msgstr "Nuk ka asnjë temë zgjedhur ose tema u fshi."
+
+#~ msgid "There is no album selected or the album was deleted."
+#~ msgstr "Nuk ka asnjë album i zgjedhur apo album u fshi."
+
+#~ msgid "Back"
+#~ msgstr "Prapa"
+
+#~ msgid "Album is empty."
+#~ msgstr "Album është bosh."
+
+#~ msgid "Gallery is empty."
+#~ msgstr "Galeria është bosh."
+
+#~ msgid "More"
+#~ msgstr "Më shumë."
+
+#~ msgid "Hide"
+#~ msgstr "Hide"
+
+#~ msgid "Show comments"
+#~ msgstr "Afisho komentet."
+
+#~ msgid "The image has been deleted."
+#~ msgstr "Imazhi është fshirë. "
+
+#~ msgid "Maximize"
+#~ msgstr "Maximize"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Fullscreen"
+
+#~ msgid "Show info"
+#~ msgstr "Shfaq info"
+
+#~ msgid "Show rating"
+#~ msgstr "Trego vlerësim"
+
+#~ msgid "Open image in original size."
+#~ msgstr "Image Open në madhësi origjinale. "
+
+#~ msgid "Download original image"
+#~ msgstr "Download imazhin origjinal"
+
+#~ msgid "Hits: "
+#~ msgstr "Klikime: "
+
+#~ msgid "Rated."
+#~ msgstr "Vlerësuar me."
+
+#~ msgid "Not rated yet."
+#~ msgstr "Ende e pavlerësuar. "
+
+#~ msgid "Votes: "
+#~ msgstr "Votes: "
+
+#~ msgid "Cancel your rating."
+#~ msgstr "Cancel vlerësimin tuaj. "
+
+#~ msgid "You have already rated."
+#~ msgstr "Ju keni të vlerësuarat tashmë. "
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "Gabim. Pasaktë Kodi i Verifikimit. "
+
+#~ msgid "Hide Comments"
+#~ msgstr "Hide Komentet"
+
+#~ msgid "Name"
+#~ msgstr "Emri"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Comment"
+#~ msgstr "Koment"
+
+#~ msgid "Verification Code"
+#~ msgstr "Kodi i Verifikimit"
+
+#~ msgid "Submit"
+#~ msgstr "Submit"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "Komenti juaj është në pritje moderim "
+
+#~ msgid "Delete Comment"
+#~ msgstr "Fshini koment"
+
+#~ msgid "Show Comments"
+#~ msgstr "Shfaq komentet"
+
+#~ msgid "Hide info"
+#~ msgstr "Fshih"
+
+#~ msgid "Hide rating"
+#~ msgstr "Hide rating"
+
+#~ msgid "Restore"
+#~ msgstr "Restore"
+
+#~ msgid "Exit Fullscreen"
+#~ msgstr "Dil me ekran të plotë"

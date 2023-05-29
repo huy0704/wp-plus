@@ -1,0 +1,6929 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-05-24 09:10+0200\n"
+"PO-Revision-Date: 2022-06-16 18:16+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: ;n2_;n2_e;n2_n:1,2;n2_en:1,2;n2_x:1,2c;n2_ex:1,2c\n"
+"X-Poedit-Flags-xgettext: --no-location\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: Framework/Asset/Builder/cache\n"
+
+msgid "Debug error"
+msgstr "Debug fout"
+
+msgid "CURL disabled in your php.ini configuration. Please enable it!"
+msgstr ""
+"CURL is gedeactiveerd in uw php.ini configuratie. Gelieve het te activeren!"
+
+msgid "Unable to contact with the licensing server, please try again later!"
+msgstr ""
+"Kon geen verbinding maken met de licentie server. Gelieve het later nog eens "
+"te proberen!"
+
+msgid "You are not allowed to upload!"
+msgstr "U hebt geen toelating om te uploaden!"
+
+msgid "Folder is missing!"
+msgstr "Map ontbreekt!"
+
+msgid "Menu item"
+msgstr "Menu item"
+
+msgid "You are not authorised to view this resource."
+msgstr "U hebt geen toelating om deze resource te bekijken."
+
+#, php-format
+msgid "Missing parameter: %s"
+msgstr "Ontbrekende parameter: %s"
+
+msgid "Database error"
+msgstr "Database fout"
+
+msgid "Security token mismatch"
+msgstr "Beveiligingstoken komt niet overeen"
+
+msgid "Unexpected error"
+msgstr "Onverwachte fout"
+
+msgid "Set is not editable"
+msgstr "Set is niet bewerkbaar"
+
+msgid "Visual do not exists"
+msgstr "Visueel element bestaat niet"
+
+msgid "Not editable"
+msgstr "Niet bewerkbaar"
+
+msgid "Security token mismatch. Please refresh the page!"
+msgstr "Beveiligingstoken komt niet overeen. Gelieve de pagina te vernieuwen!"
+
+#, php-format
+msgid ""
+"If you see this message after the repair database process, please "
+"%1$scontact us%2$s with the log:"
+msgstr ""
+"Als u dit bericht ziet na het database reparatie proces %1$scontacteer ons"
+"%2$s dan met het log:"
+
+msgid "Contact your server host and ask them to fix this for you!"
+msgstr "Contacteer uw server host en vraag hem om dit voor u te repareren!"
+
+msgid "Unexpected database error."
+msgstr "Onverwachte database fout."
+
+msgid "Try to repair database"
+msgstr "Probeer de database te repareren"
+
+msgid "Font manager"
+msgstr "Font beheer"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "Hover"
+msgstr "Muisover"
+
+msgid "Heading"
+msgstr "Hoofding"
+
+msgid "Link"
+msgstr "Link"
+
+msgid "Button"
+msgstr "Knop"
+
+msgid "Paragraph"
+msgstr "Paragraaf"
+
+msgid "Dot"
+msgstr "Stip"
+
+msgid "Active"
+msgstr "Actief"
+
+msgid "List"
+msgstr "Lijst"
+
+msgid "Highlight"
+msgstr "Accentuering"
+
+msgctxt "Default font"
+msgid "Roboto,Arial"
+msgstr "Roboto,Arial"
+
+msgid "Font settings"
+msgstr "Font instellingen"
+
+msgid "Clear tab"
+msgstr "Tab leegmaken"
+
+msgid "Family"
+msgstr "Familie"
+
+msgid "Color"
+msgstr "Kleur"
+
+msgid "Size"
+msgstr "Grootte"
+
+msgid "Font weight"
+msgstr "Font gewicht"
+
+msgid "Decoration"
+msgstr "Decoratie"
+
+msgid "Line height"
+msgstr "Lijnhoogte"
+
+msgid "Text align"
+msgstr "Tekst uitlijning"
+
+msgid "Letter spacing"
+msgstr "Ruimte tussen letters"
+
+msgid "Word spacing"
+msgstr "Ruimte tussen woorden"
+
+msgid "Transform"
+msgstr "Omvormen"
+
+msgid "None"
+msgstr "Geen"
+
+msgid "Capitalize"
+msgstr "In hoofdletters"
+
+msgid "Uppercase"
+msgstr "Hoofdletters"
+
+msgid "Lowercase"
+msgstr "Kleine letters"
+
+msgid "Text shadow"
+msgstr "Tekst schaduw"
+
+msgid "Preview"
+msgstr "Voorvertoning"
+
+msgid "Frontend"
+msgstr "Frontend"
+
+msgid "You can load Google Fonts on the frontend."
+msgstr "U kunt Google Fonts in de frontend inladen."
+
+msgid "Save fonts locally"
+msgstr "Sla fonts lokaal op"
+
+msgid ""
+"You can store the used Google Fonts on your server. This way all Google "
+"Fonts will load from your own domain."
+msgstr ""
+"U kunt de gebruikte Google Fonts op uw server opslaan. Op die manier zullen "
+"alle Google Fonts laden vanuit uw eigen domein."
+
+msgid "Backend"
+msgstr "Backend"
+
+msgid "You can load Google Fonts in the backend."
+msgstr "U kunt Google Fonts in de backend inladen."
+
+msgid "Style"
+msgstr "Stijl"
+
+msgctxt "Font style"
+msgid "Italic"
+msgstr "Cursief"
+
+msgid "Normal"
+msgstr "Normaal"
+
+msgid "Choose"
+msgstr "Kies"
+
+msgid "Orientation"
+msgstr "Oriëntering"
+
+msgid "Portrait"
+msgstr "Portret"
+
+msgid "Landscape"
+msgstr "Landschap"
+
+msgid "Mobile"
+msgstr "Mobieltje"
+
+msgid "Large mobile"
+msgstr "Groot mobieltje"
+
+msgid "Tablet"
+msgstr "Tablet"
+
+msgid "Large tablet"
+msgstr "Grote tablet"
+
+msgid "Desktop"
+msgstr "Desktop"
+
+msgid "Large desktop"
+msgstr "Grote desktop"
+
+msgid "More"
+msgstr "Meer"
+
+msgid "Less"
+msgstr "Minder"
+
+msgid "View records"
+msgstr "Toon records"
+
+msgid "Font"
+msgstr "Font"
+
+msgid "Warning"
+msgstr "Waarschuwing"
+
+msgid "Dotted"
+msgstr "Gestipt"
+
+msgid "Dashed"
+msgstr "Gestreept"
+
+msgid "Solid"
+msgstr "Solide"
+
+msgid "Double"
+msgstr "Dubbel"
+
+msgid "Groove"
+msgstr "Groef"
+
+msgid "Ridge"
+msgstr "Ribbel"
+
+msgid "Inset"
+msgstr "Insprong"
+
+msgid "Outset"
+msgstr "Uitsprong"
+
+msgid "Field"
+msgstr "Veld"
+
+msgid "Order"
+msgstr "Volgorde"
+
+msgid "Ascending"
+msgstr "Oplopend"
+
+msgid "Descending"
+msgstr "Aflopend"
+
+msgid "Off"
+msgstr "Uit"
+
+msgid "On"
+msgstr "Aan"
+
+msgid ""
+"Hold down the ctrl (Windows) or command (MAC) button to select multiple "
+"options."
+msgstr ""
+"Houd de ctrl (Windows) of command (MAC) knop ingedrukt om meerdere opties te "
+"selecteren."
+
+msgid "Fill"
+msgstr "Opvullen"
+
+msgid "Blur fit"
+msgstr "Wazig inpassen"
+
+msgid "Fit"
+msgstr "Inpassen"
+
+msgid "Stretch"
+msgstr "Uitrekken"
+
+msgid "Center"
+msgstr "Midden"
+
+msgid "Slider's default"
+msgstr "Standaard van de slider"
+
+msgid "All"
+msgstr "Allemaal"
+
+#, php-format
+msgid "Not %s"
+msgstr "Niet %s"
+
+msgid "Bold"
+msgstr "Vet"
+
+msgid "Extra light"
+msgstr "Extra licht"
+
+msgid "Light"
+msgstr "Licht"
+
+msgid "Semi bold"
+msgstr "Semi vet"
+
+msgid "Extra bold"
+msgstr "Extra vet"
+
+msgid "Self"
+msgstr "Zelfde venster"
+
+msgid "New"
+msgstr "Nieuw venster"
+
+msgid "Parent"
+msgstr "Bovenliggend venster"
+
+msgid "Top"
+msgstr "Bovenaan"
+
+msgid "Select images for devices"
+msgstr "Selecteer afbeeldingen voor toestellen"
+
+msgid "Select a page or a blog post from your WordPress site."
+msgstr "Selecteer een pagina of een blog inzending van uw WordPress site."
+
+msgid "Select article or menu item from your site."
+msgstr "Selecteer een artikel of een menu item van uw site."
+
+msgid "Reset to normal state"
+msgstr "Stel terug in op normale status"
+
+msgid "Default"
+msgstr "Standaard"
+
+msgid "The image is empty"
+msgstr "De afbeelding is leeg"
+
+msgid "Empty"
+msgstr "Leeg"
+
+msgid "Image manager"
+msgstr "Beheer afbeeldingen"
+
+msgid "Desktop retina"
+msgstr "Desktop retina"
+
+msgid "Image"
+msgstr "Afbeelding"
+
+#, php-format
+msgid ""
+"The %1$s is not turned on in your server, which is necessary to read rss "
+"feeds. You should contact your server host, and ask them to enable it!"
+msgstr ""
+"De %1$s is niet ingeschakeld in uw server, hetgeen nodig is voor het lezen "
+"van rss feeds. Contacteer uw server host en vraag hem het te activeren!"
+
+#, php-format
+msgid "%s is not readable"
+msgstr "%s is niet leesbaar"
+
+msgid "Style manager"
+msgstr "Stijlbeheer"
+
+msgid "Style settings"
+msgstr "Stijl instellingen"
+
+msgid "Background color"
+msgstr "Achtergrondkleur"
+
+msgid "Opacity"
+msgstr "Ondoorzichtigheid"
+
+msgid "Padding"
+msgstr "Opvulling"
+
+msgid "Border"
+msgstr "Rand"
+
+msgid "Border radius"
+msgstr "Straal van rand"
+
+msgid "Box shadow"
+msgstr "Vak schaduw"
+
+msgid "Single"
+msgstr "Individueel"
+
+msgid "Simple"
+msgstr "Simpel"
+
+msgid "Box"
+msgstr "Vak"
+
+msgid "Heading active"
+msgstr "Hoofding actief"
+
+msgid "Dashboard"
+msgstr "Bedieningspaneel"
+
+msgid "Drop files here"
+msgstr "Laat bestanden hier vallen"
+
+msgid "Parent directory"
+msgstr "Moedermap"
+
+msgid "Current path"
+msgstr "Huidig pad"
+
+msgid "Preset"
+msgstr "Voorinstelling"
+
+msgid ""
+"You can use presets to save style settings for later use. Clicking on any "
+"preset will load its styling to your current layer, and the previous style "
+"settings will be lost."
+msgstr ""
+"U kunt voorinstellingen gebruiken om stijl instellingen op te slaan voor "
+"later gebruik. Het klikken op eender welke voorinstelling zal de stijl ervan "
+"inladen in uw huidige laag en de vorige stijl instelling zal verloren gaan."
+
+msgid ""
+"Layer design options affect every device. If you need to make responsive "
+"adjustments, look for the options with the device icon."
+msgstr ""
+"Laag ontwerp opties hebben invloed op elk toestel. Als u responsive "
+"aanpassingen moet doen kijk dan naar de opties met het toestel icoon."
+
+msgid "Reset style to default"
+msgstr "Stijl terug instellen op standaard waarde"
+
+msgid "Save style as new preset"
+msgstr "Stijl opslaan als nieuwe voorinstelling"
+
+msgid "Load style"
+msgstr "Stijl inladen"
+
+msgid "You have not created any presets for this layer yet."
+msgstr "U hebt nog geen voorinstellingen aangemaakt voor deze laag."
+
+msgid "Save as"
+msgstr "Opslaan als"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "Please fill the name field!"
+msgstr "Gelieve het naam veld in te vullen!"
+
+msgid "Preset saved."
+msgstr "Voorinstelling opgeslagen."
+
+msgid "Overwrite preset"
+msgstr "Voorinstelling overschrijven"
+
+msgid "Preset deleted."
+msgstr "Voorinstelling verwijderd."
+
+msgid "Choose folder"
+msgstr "Kies map"
+
+msgid "Select"
+msgstr "Selecteer"
+
+msgid "Disabled"
+msgstr "Gedeactiveerd"
+
+msgid "Image field can not be empty!"
+msgstr "Afbeelding veld mag niet leeg zijn!"
+
+msgid "Done"
+msgstr "Klaar"
+
+msgid "No file selected."
+msgstr "Geen bestand geselecteerd."
+
+msgid "Open docs"
+msgstr "Open documenten"
+
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr ""
+"De veranderingen die u hebt aangebracht zullen verloren gaan als u deze "
+"pagina verlaat."
+
+msgid "Icons"
+msgstr "Iconen"
+
+msgid "Search"
+msgstr "Zoeken"
+
+msgid "Are you sure?"
+msgstr "Bent u zeker?"
+
+#, javascript-format
+msgid "You're about to %s. "
+msgstr "U staat op het punt om te %s. "
+
+#, javascript-format
+msgid "The deletion is irreversible, and it's not possible to recover %s."
+msgstr ""
+"Het verwijderen is onomkeerbaar en het is niet mogelijk om %s te herstellen."
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgid "Delete"
+msgstr "Verwijderen"
+
+msgid "Close"
+msgstr "Sluiten"
+
+msgid "Create group"
+msgstr "Groep maken"
+
+msgid "Group name"
+msgstr "Groepsnaam"
+
+msgid "Group created"
+msgstr "Groep aangemaakt"
+
+msgid "Records"
+msgstr "Records"
+
+msgid "Keyboard shortcuts"
+msgstr "Toetsenbord snelkoppelingen"
+
+msgid "Got it"
+msgstr "Ik begrijp het"
+
+msgid "General"
+msgstr "Algemeen"
+
+msgid "Content tab"
+msgstr "Inhoud tab"
+
+msgid "Style tab"
+msgstr "Stijl tab"
+
+msgid "Animation tab"
+msgstr "Animatie tab"
+
+msgid "Add Layer"
+msgstr "Laag toevoegen"
+
+msgid "Layer List"
+msgstr "Lijst met lagen"
+
+msgid "Timeline"
+msgstr "Tijdlijn"
+
+msgid "View"
+msgstr "Weergave"
+
+msgid "Adjust"
+msgstr "Aanpassen"
+
+msgid "Move (Absolute)"
+msgstr "Verplaatsen (absoluut)"
+
+msgid "Arrows"
+msgstr "Pijlen"
+
+msgid "Align (Absolute)"
+msgstr "Uitlijnen (absoluut)"
+
+msgid "Numeric keys"
+msgstr "Numerieke toetsen"
+
+msgid "Action"
+msgstr "Actie"
+
+msgid "Duplicate"
+msgstr "Klonen"
+
+msgid "Copy"
+msgstr "Kopiëren"
+
+msgid "Paste"
+msgstr "Plakken"
+
+msgid "Undo"
+msgstr "Ongedaan maken"
+
+msgid "Redo"
+msgstr "Nogmaals uitvoeren"
+
+msgid "Save"
+msgstr "Opslaan"
+
+msgid "Play animations"
+msgstr "Speel animaties"
+
+msgid "Clear device specific settings"
+msgstr "Toestel specifieke instellingen leegmaken"
+
+msgid "Current layer, current device"
+msgstr "Huidige laag, huidig toestel"
+
+msgid "Current layer, all devices"
+msgstr "Huidige laag, alle toestellen"
+
+msgid "All layers, current device"
+msgstr "Alle lagen, huidig toestel"
+
+msgid "All layers, all devices"
+msgstr "Alle lagen, alle toestellen"
+
+msgid "Unexpected response"
+msgstr "Onverwacht antwoord"
+
+msgid "Scroll to"
+msgstr "Scroll naar"
+
+msgid "Scroll to alias"
+msgstr "Scroll naar alias"
+
+msgid "Go to slide"
+msgstr "Ga naar slide"
+
+msgid "Go to slide ID"
+msgstr "Ga naar slide ID"
+
+msgid "Previous slide"
+msgstr "Vorige slide"
+
+msgid "Next slide"
+msgstr "Volgende slide"
+
+msgid "Slide event"
+msgstr "Slide evenement"
+
+msgid "Examples"
+msgstr "Voorbeelden"
+
+msgid "Scrolls to the top of the page."
+msgstr "Scrollt naar de bovenkant van de pagina."
+
+msgid "Scrolls to the bottom of the page."
+msgstr "Scrollt naar de onderkant van de pagina."
+
+msgid ""
+"You can use any jQuery selector to scroll to a specific element on the page. "
+"Example: \"#pricing\" scrolls to the element with the id of \"pricing\"."
+msgstr ""
+"U mag eender welke jQuery selector gebruiken om te scrollen naar een "
+"specifiek element op de pagina. Bijvoorbeeld: \"#pricing\" scrollt naar het "
+"element met het id \"pricing\"."
+
+msgid "Slider alias"
+msgstr "Slider alias"
+
+msgid "Slider alias set at Slider settings > General"
+msgstr "Slider alias ingesteld in de Slider instellingen > Algemeen"
+
+msgid "Slide index"
+msgstr "Slide index"
+
+msgid "Direction"
+msgstr "Richting"
+
+msgid "Auto"
+msgstr "Automatisch"
+
+msgid "Backward"
+msgstr "Achteruit"
+
+msgid "Forward"
+msgstr "Vooruit"
+
+#, javascript-format
+msgid "slide index: 2 %s direction: backward"
+msgstr "slide index: 2 %s richting: achteruit"
+
+msgid "Switches to the second slide as if the previous arrow was pressed"
+msgstr "Schakelt naar de tweede slide alsof er op de vorige pijl geklikt werd"
+
+#, javascript-format
+msgid "slide index: 5 %s direction: forward"
+msgstr "slide index: 5 %s richting: vooruit"
+
+msgid "Switches to the fifth slide as if the next arrow was pressed"
+msgstr ""
+"Schakelt naar de vijfde slide alsof er op de volgende pijl geklikt werd"
+
+msgid "Slide ID"
+msgstr "Slide ID"
+
+msgid ""
+"Switches to the slide with the #2 ID as if the previous arrow was pressed"
+msgstr ""
+"Schakelt naar de slide met het #2 ID alsof er op de vorige pijl geklikt werd"
+
+msgid "Switches to the slide with the #5 ID as if the next arrow was pressed"
+msgstr ""
+"Schakelt naar de slide met het #5 ID alsof er op de volgende pijl geklikt "
+"werd"
+
+msgid "Event name"
+msgstr "Evenement naam"
+
+msgid "An event you use to trigger layer animation(s) with"
+msgstr "Een evenement dat u gebruikt om de laag animatie(s) te activeren"
+
+msgid "Content List - One Per Line"
+msgstr "Inhoudslijst - Eén per regel"
+
+msgid "Choose images"
+msgstr "Kies afbeeldingen"
+
+msgid "Titles - One Per Line"
+msgstr "Titels - Eén per regel"
+
+msgid "Autoplay duration"
+msgstr "Duur automatisch afspelen"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Search keyword"
+msgstr "Zoek trefwoord"
+
+msgid "Posts"
+msgstr "Inzendingen"
+
+msgid "Lightbox"
+msgstr "Lightbox"
+
+msgid "Insert"
+msgstr "Invoegen"
+
+msgid "Oops, Something Went Wrong"
+msgstr "Oeps. Er ging iets mis"
+
+msgid "Success"
+msgstr "Gelukt"
+
+msgid "Notice"
+msgstr "Opmerking"
+
+msgid "Select image"
+msgstr "Selecteer afbeelding"
+
+msgid "Use Joomla selector"
+msgstr "Gebruik Joomla selector"
+
+msgid "Use default selector"
+msgstr "Gebruik standaard selector"
+
+msgid "Deleted."
+msgstr "Verwijderd."
+
+msgid "Static"
+msgstr "Statisch"
+
+msgid "Save as New"
+msgstr "Opslaan als nieuw"
+
+msgid "Saved."
+msgstr "Opgeslagen."
+
+msgid "Enabled"
+msgstr "Geactiveerd"
+
+msgid "Column"
+msgstr "Kolom"
+
+msgid "There is no layer available to be parent of the current layer!"
+msgstr "Er is geen laag beschikbaar om de moeder te zijn van de huidige laag!"
+
+msgid "Pick the parent layer!"
+msgstr "Kies de moederlaag!"
+
+msgid "Pick the align point of the parent layer!"
+msgstr "Kies het uitlijningspunt van de moederlaag!"
+
+msgid "Pick the align point of the child layer!"
+msgstr "Kies het uitlijningspunt van de onderliggende laag!"
+
+msgid "Advanced"
+msgstr "Uitgebreid"
+
+#, javascript-format
+msgid "Outer %s"
+msgstr "Buitenste %s"
+
+msgid "Left"
+msgstr "Links"
+
+msgid "Right"
+msgstr "Rechts"
+
+msgid "Middle"
+msgstr "Midden"
+
+msgid "Bottom"
+msgstr "Onderkant"
+
+msgid "Layer(s)"
+msgstr "Laag/Lagen"
+
+msgid "Hide on"
+msgstr "Verberg op"
+
+msgid "Rename"
+msgstr "Hernoemen"
+
+msgid "Show/Hide in editor"
+msgstr "Tonen/verbergen in editor"
+
+msgid "Animation"
+msgstr "Animatie"
+
+msgid "Add animation"
+msgstr "Animatie toevoegen"
+
+msgid "Remove animations"
+msgstr "Verwijder animaties"
+
+msgid "Layer Animation - Basic"
+msgstr "Laag animatie - Basis"
+
+msgid "Add keyframe"
+msgstr "Keyframe toevoegen"
+
+msgid "Loop"
+msgstr "Herhalen"
+
+msgid "Special Zero"
+msgstr "Speciaal nul"
+
+msgid "Keyframe"
+msgstr "Keyframe"
+
+msgid "Layer Animation - Reveal"
+msgstr "Laag animatie - Onthullen"
+
+msgid "Open/Close"
+msgstr "Openen/Sluiten"
+
+msgid "Content"
+msgstr "Inhoud"
+
+msgid "Child layers"
+msgstr "Onderliggende lagen"
+
+msgid "Animated heading"
+msgstr "Geanimeerde hoofding"
+
+msgid "Highlighted heading"
+msgstr "Geaccentueerde hoofding"
+
+msgid "Text animation in"
+msgstr "Tekst animatie in"
+
+msgid "Text animation out"
+msgstr "Tekst animatie uit"
+
+msgid "Layer"
+msgstr "Laag"
+
+msgid "Row"
+msgstr "Rij"
+
+msgid "Slide"
+msgstr "Slide"
+
+msgid "Theme"
+msgstr "Thema"
+
+#, javascript-format
+msgid "%s or newer required for this feature."
+msgstr "%s of nieuwer is vereist voor deze mogelijkheid."
+
+msgid "This section requires activated Pro version."
+msgstr "Deze sectie vereist een geactiveerde Pro versie."
+
+#, javascript-format
+msgid "This block is not available in the free version. %s"
+msgstr "Dit blok is niet beschikbaar in de gratis versie. %s"
+
+msgid "Go Pro"
+msgstr "Word Pro"
+
+msgid "Editor settings"
+msgstr "Editor instellingen"
+
+msgid "Upgrade to Pro"
+msgstr "Upgrade naar Pro"
+
+msgid "Guide settings"
+msgstr "Gidslijn instellingen"
+
+msgid "Smart snap"
+msgstr "Slim aanhechten"
+
+msgid "Round to 5px"
+msgstr "Rond af op 5px"
+
+msgid "Ruler"
+msgstr "Liniaal"
+
+msgid "Clear guides"
+msgstr "Gidslijnen leegmaken"
+
+msgid "Activate Smart Slider 3 Pro"
+msgstr "Activeer Smart Slider 3 Pro"
+
+msgid "Activation is required to unlock all features!"
+msgstr "Activatie is vereist om alle mogelijkheden te ontsluiten!"
+
+msgid ""
+"Register Smart Slider 3 Pro on this domain to enable auto update, slider "
+"templates and slide library."
+msgstr ""
+"Registreer Smart Slider 3 Pro op dit domein om automatische updates, slider "
+"templates en de slide bibliotheek te activeren."
+
+msgid "Skip"
+msgstr "Overslaan"
+
+msgid "Activate"
+msgstr "Activeer"
+
+msgid "Smart Slider 3 activated!"
+msgstr "Smart Slider 3 geaactiveerd!"
+
+msgid "Laptop"
+msgstr "Laptop"
+
+msgid "Width"
+msgstr "Breedte"
+
+msgid "Height"
+msgstr "Hoogte"
+
+#, javascript-format
+msgid "Below %s pixels."
+msgstr "Onder %s pixels."
+
+#, javascript-format
+msgid "Above %s pixels."
+msgstr "Boven %s pixels."
+
+#, javascript-format
+msgid "Between %s and %s pixels."
+msgstr "Tussen %s en %s pixels."
+
+#, javascript-format, php-format
+msgid "This slide is hidden on the following devices: %s"
+msgstr "Deze slide wordt verborgen op de volgende toestellen: %s"
+
+msgid "Data"
+msgstr "Data"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "No"
+msgstr "Nee"
+
+msgid "Clean HTML"
+msgstr "HTML opkuisen"
+
+msgid "Remove HTML"
+msgstr "HTML verwijderen"
+
+msgid "Split by Chars"
+msgstr "Splits op lettertekens"
+
+msgid "Strict"
+msgstr "Strikt"
+
+msgid "Respect words"
+msgstr "Respecteer woorden"
+
+msgid "Find image"
+msgstr "Zoek afbeelding"
+
+msgid "Find link"
+msgstr "Zoek link"
+
+msgid "Remove links"
+msgstr "Verwijder links"
+
+msgid "Remove line breaks"
+msgstr "Verwijder nieuwe regels"
+
+msgid "Result"
+msgstr "Resultaat"
+
+msgid "Change slider type"
+msgstr "Verander slider type"
+
+msgid ""
+"Changing your slider type is irreversible. After changing your slider type, "
+"<b>you will lose all slider type related settings</b>."
+msgstr ""
+"Het veranderen van uw slider type is onomkeerbaar. Na het veranderen van uw "
+"slider type, <b>zult u alle instellingen voor dat slider type verliezen</b>."
+
+msgid "Slider type"
+msgstr "Slider type"
+
+msgid "Convert"
+msgstr "Omvormen"
+
+msgid "What do you want to create today?"
+msgstr "Wat wilt u vandaag maken?"
+
+msgid ""
+"Use our powerful visual editor, or simply import one of our existing "
+"template."
+msgstr ""
+"Gebruik onze krachtige visuele editor of importeer eenvoudigweg één van onze "
+"bestaande templates."
+
+msgid "Create a New Project"
+msgstr "Maak een nieuw project"
+
+msgid ""
+"Start a new project from scratch and build exactly what you’ve imagined. You "
+"can easily customize every pixels and create anything with layers."
+msgstr ""
+"Begin een nieuw project vanaf nul en bouw exact datgene wat u zich ingebeeld "
+"hebt. U kunt gemakkelijk elke pixel aanpassen en eender wat met lagen "
+"aanmaken."
+
+msgid "Start with a Template"
+msgstr "Begin met een template"
+
+msgid ""
+"Start with a template and make it your own with the innovative drag and drop "
+"interface. You can choose from hundreds of premade templates."
+msgstr ""
+"Begin met een template en maak er uw eigen versie van met de innovatieve "
+"drag en drop interface. U kunt kiezen uit honderden vooraf gemaakte "
+"templates."
+
+msgid "or import your own files"
+msgstr "of importeer uw eigen bestanden"
+
+msgid "Create new project"
+msgstr "Maak nieuw project"
+
+msgid "Project type"
+msgstr "Project type"
+
+msgid "Slider"
+msgstr "Slider"
+
+msgid "Block"
+msgstr "Blok"
+
+msgid "Full page"
+msgstr "Volledige pagina"
+
+msgid "Carousel"
+msgstr "Carousel"
+
+msgid "Showcase"
+msgstr "Etalage"
+
+msgid "Pro"
+msgstr "Pro"
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "My project"
+msgstr "Mijn project"
+
+msgid "Boxed"
+msgstr "In een box"
+
+msgid "Full width"
+msgstr "Volledige breedte"
+
+msgid "Layout"
+msgstr "Lay-out"
+
+msgid "Slide width"
+msgstr "Slide breedte"
+
+msgid "Slide height"
+msgstr "Slide hoogte"
+
+msgid "Create"
+msgstr "Aanmaken"
+
+msgid "Join The Smart Slider 3 Community"
+msgstr "Word lid van de Smart Slider 3 Community"
+
+msgid ""
+"Join more than 120,000 subscribers and get access to the latest slider "
+"templates, tips, tutorials and other exclusive contents directly to your "
+"inbox."
+msgstr ""
+"Word één van de meer dan 120.000 abonnees en krijg de laatste slider "
+"templates, tips, handleidingen en andere exclusieve inhoud direct in uw "
+"inbox."
+
+msgid "Subscribe"
+msgstr "Abonneren"
+
+msgid "Change group"
+msgstr "Verander groep"
+
+msgid "Groups"
+msgstr "Groepen"
+
+msgid "Set"
+msgstr "Set"
+
+msgid "Edit"
+msgstr "Bewerken"
+
+msgid "Group"
+msgstr "Groep"
+
+msgid "Edit Slider"
+msgstr "Slider bewerken"
+
+msgid "Up"
+msgstr "Omhoog"
+
+msgid "Insert group"
+msgstr "Groep invoegen"
+
+msgid "Move to trash"
+msgstr "Verplaats naar prullenbak"
+
+msgid "empty the trash"
+msgstr "maak de prullenbak leeg"
+
+msgid "Delete permanently"
+msgstr "Permanent verwijderen"
+
+msgid "delete this slider"
+msgstr "verwijder deze slider"
+
+msgid "Publish"
+msgstr "Publiceren"
+
+msgid "Unpublish"
+msgstr "Depubliceren"
+
+msgid "Edit generator"
+msgstr "Generator bewerken"
+
+msgid "Set as first"
+msgstr "Instellen als eerste"
+
+msgid "Convert to slide"
+msgstr "Omvormen tot slide"
+
+msgid "Copy slide to"
+msgstr "Kopieer slide naar"
+
+msgid "Add post"
+msgstr "Inzending toevoegen"
+
+msgid "Please select a Post first!"
+msgstr "Gelieve eerst een inzending te kiezen!"
+
+msgid "delete these slides"
+msgstr "verwijder deze slides"
+
+msgid "delete this slide"
+msgstr "verwijder deze slide"
+
+msgid "Max width"
+msgstr "Max breedte"
+
+msgid "Margin"
+msgstr "Marge"
+
+msgid "top"
+msgstr "bovenaan"
+
+msgid "right"
+msgstr "rechts"
+
+msgid "bottom"
+msgstr "onderaan"
+
+msgid "left"
+msgstr "links"
+
+msgid "Animations"
+msgstr "Animaties"
+
+msgid "Effects"
+msgstr "Effecten"
+
+msgid "Shape divider"
+msgstr "Vorm scheiding"
+
+msgid "Particle effect"
+msgstr "Partikel effect"
+
+msgid "Layer animations"
+msgstr "Laag animaties"
+
+msgid "Play on load"
+msgstr "Speel bij inladen"
+
+msgid ""
+"Plays the layer animations on the first slide when it appears for the first "
+"time."
+msgstr ""
+"Speelt de laag animaties op de eerste slide als deze voor de eerste keer "
+"verschijnt."
+
+msgid "Play once"
+msgstr "Speel eenmalig"
+
+msgid "Plays the layer animations only during the first loop."
+msgstr "Speelt de laag animaties alleen tijdens de eerste uitvoering."
+
+msgid "Play on"
+msgstr "Speel op"
+
+msgid "Main animation start"
+msgstr "Start hoofdanimatie"
+
+msgid "Main animation end"
+msgstr "Einde hoofdanimatie"
+
+msgid "Mode"
+msgstr "Modus"
+
+msgid "Skippable"
+msgstr "Mag overgeslagen worden"
+
+msgid "Forced"
+msgstr "Geforceerd"
+
+msgid ""
+"You can make the outgoing layer animations, which don't have events, to play "
+"on slide switching."
+msgstr ""
+"U kunt ervoor zorgen dat de uitgaande laag animaties, die geen evenementen "
+"hebben, bij het wisselen van slide afgespeeld worden."
+
+msgid "Layer parallax"
+msgstr "Laag parallax"
+
+msgid "Enable"
+msgstr "Activeren"
+
+msgid "Animate"
+msgstr "Animeren"
+
+msgid "Horizontal"
+msgstr "Horizontaal"
+
+msgid "Mouse"
+msgstr "Muis"
+
+msgid "Invert"
+msgstr "Omkeren"
+
+msgid "Vertical"
+msgstr "Verticaal"
+
+msgid "Scroll"
+msgstr "Scrollen"
+
+msgid "Mouse origin"
+msgstr "Muis oorsprong"
+
+msgid "Slider center"
+msgstr "Slider centrum"
+
+msgid "Mouse enter position"
+msgstr "Muis in positie"
+
+msgid "Scroll move"
+msgstr "Scrollend bewegen"
+
+msgid "Both"
+msgstr "Beide"
+
+msgid "To bottom"
+msgstr "Naar beneden"
+
+msgid "To top"
+msgstr "Naar boven"
+
+msgid "Autoplay"
+msgstr "Automatisch spelen"
+
+msgid "Slide duration"
+msgstr "Slide duur"
+
+msgid "Autostart"
+msgstr "Automatisch starten"
+
+msgid "Allow restart"
+msgstr "Laat herstarten toe"
+
+msgid ""
+"Keeps the autoplay control visible after the autoplay has finished to allow "
+"starting it again."
+msgstr ""
+"Houd de bediening voor het automatisch spelen zichtbaar nadat het "
+"automatisch spelen afgelopen is om toe te laten het opnieuw te starten."
+
+msgid "Infinite loop"
+msgstr "Oneindige herhaling"
+
+msgid "Finish autoplay"
+msgstr "Einde automatisch spelen"
+
+msgid "Stop on click"
+msgstr "Stop bij klikken"
+
+msgid "Stop on mouse"
+msgstr "Stop bij muis"
+
+msgid "Enter"
+msgstr "Binnengaan"
+
+msgid "Leave"
+msgstr "Buitengaan"
+
+msgid "Stop on media"
+msgstr "Stop bij media"
+
+msgid "Resume on click"
+msgstr "Herneem bij klikken"
+
+msgid "Resume on mouse"
+msgstr "Herneem bij muis"
+
+msgid "Resume on media"
+msgstr "Herneem bij media"
+
+msgid "Controls"
+msgstr "Bedieningselementen"
+
+msgid "Drag"
+msgstr "Slepen"
+
+msgid "Defines the drag (and touch) direction for your slider."
+msgstr "Bepaalt de sleep (en aanraking) richting voor uw slider."
+
+msgid "Mouse wheel"
+msgstr "Muiswiel"
+
+msgid "Allows switching slides with the mouse wheel."
+msgstr "Laat het wisselen van slides met het muiswiel toe."
+
+msgid "Keyboard"
+msgstr "Toetsenbord"
+
+msgid "Allows switching slides with the keyboard."
+msgstr "Laat het wisselen van slides met het toetsenbord toe."
+
+msgid "Developer"
+msgstr "Ontwikkelaar"
+
+msgid "Block right click"
+msgstr "Blokkeer rechts klikken"
+
+msgid "Block carousel"
+msgstr "Blokkeer carousel"
+
+msgid ""
+"Stops the carousel at the last slide when the source of interaction is "
+"vertical touch, vertical pointer, mouse wheel or vertical keyboard."
+msgstr ""
+"Stopt de carousel op de laatste slide als de bron van de interactie "
+"verticale touch, verticale pointer, muiswiel of verticaal toetsenbord is."
+
+msgid "Clear before"
+msgstr "Ervoor leegmaken"
+
+msgid "Closes the unclosed float CSS codes before the slider."
+msgstr "Sluit de onafgesloten zwevende CSS codes voor de slider."
+
+msgid "Clear after"
+msgstr "Erna leegmaken"
+
+msgid "Allows you to put your slider next to your text."
+msgstr "Laat u toe uw slider naast uw tekst te plaatsen."
+
+msgid "Hide scrollbar"
+msgstr "Verberg scrollbalk"
+
+msgid ""
+"Your website won't be scrollable anymore! All out of screen elements will be "
+"hidden."
+msgstr ""
+"Uw website zal niet langer scrollbaar zijn! Alle elementen die buiten het "
+"scherm vallen zullen verborgen zijn."
+
+msgid "Scroll to slider"
+msgstr "Scroll naar slider"
+
+msgid "The page scrolls back to the slider when the user interacts with it."
+msgstr ""
+"De pagina scrollt terug naar de slider als de gebruiker ermee interageert."
+
+msgid "Edge"
+msgstr "Rand"
+
+msgid "Top - when needed"
+msgstr "Bovenaan - indien nodig"
+
+msgid "Top - always"
+msgstr "Bovenaan - altijd"
+
+msgid "Bottom - when needed"
+msgstr "Onderaan - indien nodig"
+
+msgid "Bottom - always"
+msgstr "Onderaan - altijd"
+
+msgid "Delayed (for lightbox/tabs)"
+msgstr "Uitgesteld (voor lightbox/tabs)"
+
+msgid ""
+"Delays the loading of the slider until its container gets visible. Useful "
+"when you display the slider in a lightbox or tab."
+msgstr ""
+"Stelt het inladen van de slider uit tot haar container zichtbaar is. Nuttig "
+"als u de slider toont in een lightbox of een tab."
+
+msgid "Legacy font scale"
+msgstr "Legacy font schaal"
+
+msgid ""
+"This feature brings back the non-adaptive font size for absolute layers "
+"which were made before version 3.5. Turning on can affect website "
+"performance, so we suggest to keep it disabled.\n"
+msgstr ""
+"Deze mogelijkheid brengt de non-adaptieve font grootte voor absolute lagen "
+"terug die voor versie 3.5 gemaakt werden. Dit inschakelen kan een invloed "
+"hebben op de  performantie van de website, dus raden we aan het "
+"uitgeschakeld te laten.\n"
+
+msgid "Slider CSS classes"
+msgstr "Slider CSS classes"
+
+msgid "You can put custom CSS classes to the slider's container."
+msgstr "U kunt eigen CSS classes aan de container van de slider toevoegen."
+
+msgid "JavaScript callbacks"
+msgstr "JavaScript callbacks"
+
+msgid "Loading animation waiting time"
+msgstr "Inladen animatie wachttijd"
+
+msgid "Post IDs"
+msgstr "Post IDs"
+
+msgid "one per line"
+msgstr "een per regel"
+
+msgid "The cache of the posts with the given ID will be cleared upon save."
+msgstr ""
+"De cache van de inzendingen met het gegeven ID zal bij het opslaan "
+"leeggemaakt worden."
+
+msgid "Fallback slider"
+msgstr "Terugval slider"
+
+msgid "ID or Alias"
+msgstr "ID of alias"
+
+msgid ""
+"Select another slider by its ID or Alias that displays if your current "
+"slider has no published slides."
+msgstr ""
+"Selecteer een andere slider via zijn ID of alias die getoond zal worden als "
+"uw huidige slider geen gepubliceerde slides bevat."
+
+msgid "Thumbnail"
+msgstr "Miniatuur"
+
+msgid "Slider thumbnail which appears in the slider list."
+msgstr "Slider miniatuur die in de slider lijst verschijnt."
+
+msgid "ARIA label"
+msgstr "ARIA label"
+
+msgid "It allows you to label your slider for screen readers."
+msgstr "Dit laat u toe uw slider te labelen voor schermlezers."
+
+msgid "Alias"
+msgstr "Alias"
+
+msgid "You can use this alias in the slider's shortcode."
+msgstr "U kunt dit alias in de snelcode van de slider gebruiken."
+
+msgid "Use as anchor"
+msgstr "Gebruik als interne link"
+
+msgid ""
+"Creates an empty div before the slider, using the alias as the ID of this "
+"div. As a result, you can use #your-alias in the URL to make the page jump "
+"to the slider."
+msgstr ""
+"Maakt een lege div voor de slider, gebruik makend van het alias als het ID "
+"van deze div. Daardoor kunt u #uw-alias in de URL gebruiken om de pagina "
+"naar de slider te doen springen."
+
+msgid "Smooth scroll"
+msgstr "Soepel scrollen"
+
+msgid ""
+"The #your-alias urls in links would be forced to smooth scroll to the slider."
+msgstr ""
+"De #uw-alias urls in links zullen geforceerd worden om soepel te scrollen "
+"naar de slider."
+
+msgid "Switch slide"
+msgstr "Wissel slide"
+
+msgid ""
+"Use #your-alias-2 as an anchor to jump to the slider and switch to the 2nd "
+"slide immediately. Use #your-alias-3 for the 3rd slide and so on."
+msgstr ""
+"Gebruik #uw-alias-2 als een anker om naar de slider te springen en "
+"onmiddellijk naar de 2de slide te schakelen. Gebruik #uw-alias-3 voor de 3de "
+"slide enzovoort."
+
+msgid "Scroll to slide"
+msgstr "Scroll naar slide"
+
+msgid ""
+"The \"Switch slide\" option won't scroll you to the slider. Only the slides "
+"will switch."
+msgstr ""
+"De \"Wissel slide\" optie zal u niet naar de slider scrollen. Alleen de "
+"slides zullen wisselen."
+
+msgid "Slider design"
+msgstr "Slider ontwerp"
+
+msgid "Slider background image"
+msgstr "Slider achtergrondafbeelding"
+
+msgid "Fixed"
+msgstr "Vast"
+
+msgid "Background video"
+msgstr "Achtergrond video"
+
+msgid "Muted"
+msgstr "Gedempt"
+
+msgctxt "Video/Audio play"
+msgid "Loop"
+msgstr "Herhalen"
+
+msgid "Fill mode"
+msgstr "Opvulmodus"
+
+msgid "Align"
+msgstr "Uitlijnen"
+
+msgid "Puts a fix margin around your slider."
+msgstr "Plaatst een vaste marge rond uw slider."
+
+msgid "Perspective"
+msgstr "Perspectief"
+
+msgid "Optimize"
+msgstr "Optimaliseer"
+
+msgid "Loading"
+msgstr "Inladen"
+
+msgid "Loading type"
+msgstr "Type laden"
+
+msgid "Instant"
+msgstr "Instant"
+
+msgid "After page loaded"
+msgstr "Na pagina geladen"
+
+msgid "After delay"
+msgstr "Na wachttijd"
+
+msgid ""
+"If your slider is above the fold, you can load it immediately. Otherwise, "
+"you can load it only after the page has loaded."
+msgstr ""
+"Als uw slider zich boven de plooi bevindt dan kunt u hem onmiddellijk "
+"inladen. Zoniet kunt u hem alleen inladen nadat de pagina ingeladen is."
+
+msgid "Load delay"
+msgstr "Laad wachttijd"
+
+msgid "Play when visible"
+msgstr "Speel indien zichtbaar"
+
+msgid ""
+"Makes sure that the autoplay and layer animations only start when your "
+"slider is visible."
+msgstr ""
+"Verzekert dat het automatisch spelen en de laag animaties alleen starten als "
+"uw slider zichtbaar is."
+
+msgid "At"
+msgstr "Op"
+
+msgid "Slide background images"
+msgstr "Slide achtergrondafbeeldingen"
+
+msgid "Loading mode"
+msgstr "Laad modus"
+
+msgid "Delayed loading"
+msgstr "Uitgesteld laden"
+
+msgid "Lazy loading"
+msgstr "Lazy laden"
+
+msgid ""
+"You can speed up your site's loading by delaying the slide background images."
+msgstr ""
+"U kunt de inlaadtijd van uw site verbeteren door de achtergrondafbeeldingen "
+"van de slide uit te stellen."
+
+msgid "Load neighbor"
+msgstr "Laad buur"
+
+msgctxt "Unit"
+msgid "slides"
+msgstr "slides"
+
+#, php-format
+msgid ""
+"Convert to WebP and image resizing require a lot of memory. Lift the memory "
+"limit%s if you get a blank page."
+msgstr ""
+"Omvorming tot WebP en afbeelding herschaling vereisen veel geheugen. Hef de "
+"geheugenlimiet%s op als u een blanco pagina krijgt."
+
+msgid "Convert to WebP"
+msgstr "Omvormen tot WebP"
+
+msgid "Resize"
+msgstr "Herschalen"
+
+msgid "Quality"
+msgstr "Kwaliteit"
+
+msgid "Default width"
+msgstr "Standaard breedte"
+
+msgid "Medium width"
+msgstr "Medium breedte"
+
+msgid "Medium height"
+msgstr "Medium hoogte"
+
+msgid "Small width"
+msgstr "Kleine breedte"
+
+msgid "Small height"
+msgstr "Kleine hoogte"
+
+msgid "Retina"
+msgstr "Retina"
+
+msgid "Instruction"
+msgstr "Instructie"
+
+msgid ""
+"If your images look blurry on small screens, use the available height option "
+"to match the aspect ratio of the slider and image on that device."
+msgstr ""
+"Als uw afbeeldingen wazig zijn op kleine schermen gebruik dan de beschikbare "
+"hoogte optie om de verhoudingen van de slider aan te passen aan deze van de "
+"afbeelding voor dat toestel."
+
+msgid "Resize Thumbnail"
+msgstr "Herschaal miniatuur"
+
+msgid "Thumbnail Quality"
+msgstr "Miniatuur kwaliteit"
+
+msgid "Thumbnail width"
+msgstr "Miniatuur breedte"
+
+msgid "Thumbnail height"
+msgstr "Miniatuur hoogte"
+
+msgid "Layer images"
+msgstr "Laag afbeeldingen"
+
+msgid "Base64 embed"
+msgstr "Base64 inbedden"
+
+msgid "Embeds the layer images to the page source, reducing the requests."
+msgstr ""
+"Neemt de laag afbeeldingen op in de paginabron, hetgeen de aanvragen "
+"vermindert."
+
+msgid "Max file size"
+msgstr "Max grootte bestand"
+
+msgid "Other"
+msgstr "Ander"
+
+msgid "JetPack Photon image optimizer"
+msgstr "JetPack Photon afbeelding optimalisator"
+
+msgid "Background video on mobile"
+msgstr "Achtergrond video op mobieltjes"
+
+msgid "Slider size"
+msgstr "Slider grootte"
+
+msgid "Limit slide width"
+msgstr "Beperk slide breedte"
+
+msgid ""
+"Limits the width of the slide and prevents the slider from getting too tall."
+msgstr ""
+"Beperkt de breedte van de slide en verhindert dat de slider te groot wordt."
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Breakpoints"
+msgstr "Breekpunten"
+
+msgid ""
+"Breakpoints define the browser width in pixel when the slider switches to a "
+"different device."
+msgstr ""
+"Breekpunten definiëren de browser breedte in pixel als de slider "
+"overschakelt naar een ander toestel."
+
+msgid "Global breakpoints"
+msgstr "Globale breekpunten"
+
+#, php-format
+msgid ""
+"You can use the global breakpoints, or adjust them locally here. You can "
+"configure the Global breakpoints at <a href=\"%1$s\" target=\"_blank"
+"\">Global settings</a> > General > Breakpoints"
+msgstr ""
+"U kunt de globale breekpunten gebruiken, of ze hier lokaal aanpassen. U kunt "
+"de globale breekpunten configureren in <a href=\"%1$s\" target=\"_blank"
+"\">Globale instellingen</a> > Algemeen > Breekpunten"
+
+msgid "Custom size"
+msgstr "Aangepaste grootte"
+
+#, php-format
+msgid ""
+"Use this option to customize the aspect ratio for each device. %1$s Read "
+"more in the documentation%2$s. <b>Beware:</b> This option is rarely needed "
+"and might be hard to set properly!"
+msgstr ""
+"Gebruik deze optie om de beeldverhouding voor elk toestel aan te passen. "
+"%1$s Lees meer in de documentatie%2$s. <b>Opgelet:</b> deze optie is zelden "
+"nodig en het is mogelijk dat zij moeilijk correct in te stellen is!"
+
+msgid "Slides"
+msgstr "Slides"
+
+msgid "Slides design"
+msgstr "Slides ontwerp"
+
+msgid "Slide background image fill"
+msgstr "Slide achtergrondafbeelding opvulling"
+
+msgid ""
+"If the size of your image is not the same as your slider's, you can improve "
+"the result with the filling modes."
+msgstr ""
+"Als de grootte van uw afbeelding verschilt van de grootte van uw slider dan "
+"kunt u het resultaat verbeteren met de opvulmodi."
+
+msgid "Background Blur"
+msgstr "Wazige achtergrond"
+
+msgid "Randomize"
+msgstr "Bij toeval genereren"
+
+msgid "Randomize slides"
+msgstr "Genereer slides bij toeval"
+
+msgid "Randomize first"
+msgstr "Eerste bij toeval genereren"
+
+msgid "Cache support"
+msgstr "Cache ondersteuning"
+
+msgid "Cache variations"
+msgstr "Cache variaties"
+
+msgid "Reverse"
+msgstr "Omkeren"
+
+msgid "You can make your slides appear in the slider in a reversed order."
+msgstr ""
+"U kunt ervoor zorgen dat uw slides in omgekeerde volgorde in de slider "
+"verschijnen."
+
+msgid "Max count"
+msgstr "Max aantal"
+
+msgid ""
+"You can limit how many slides you want to show from your slider. It's best "
+"used with the Randomize feature, to improve the experience."
+msgstr ""
+"U kunt beperken hoeveel slides van uw slider u wilt tonen. Om de ervaring te "
+"verbeteren wordt dit best gebruikt met de 'Bij toeval genereren' "
+"mogelijkheid."
+
+msgid "Maintain session"
+msgstr "Behoud sessie"
+
+msgid ""
+"The slider continues from the last viewed slide when the visitor comes back "
+"to the page."
+msgstr ""
+"De slider gaat verder vanaf de laatst bekeken slide als de bezoeker "
+"terugkomt naar de pagina."
+
+msgid "Backgrounds in lightbox"
+msgstr "Achtergronden in lightbox"
+
+msgid ""
+"Creates a lightbox from your slide background images. This feature only "
+"works if all slides have background images."
+msgstr ""
+"Maakt een lightbox van uw slide achtergrond afbeeldingen. Deze mogelijkheid "
+"werkt alleen als alle slides achtergrond afbeeldingen hebben."
+
+msgid "Show label"
+msgstr "Toon label"
+
+msgid "Only slide name"
+msgstr "Alleen slide naam"
+
+msgid "Slide name and description"
+msgstr "Slide naam en beschrijving"
+
+msgid "Background parallax"
+msgstr "Achtergrond parallax"
+
+msgid "Strength"
+msgstr "Sterkte"
+
+msgid "Super soft"
+msgstr "Super zacht"
+
+msgid "Soft"
+msgstr "Zacht"
+
+msgid "Strong"
+msgstr "Sterk"
+
+msgid "Super strong"
+msgstr "Super sterk"
+
+msgid "Generator created."
+msgstr "Generator aangemaakt."
+
+msgid "Generator updated and cache cleared."
+msgstr "Generator bijgewerkt en cache leeggemaakt."
+
+msgid "Generator group not found"
+msgstr "Generator groep niet gevonden"
+
+msgid "Generator source not found"
+msgstr "Generator bron niet gevonden"
+
+msgid "No records found for the filter"
+msgstr "Geen records gevonden voor de filter"
+
+msgid "Authentication successful."
+msgstr "Authenticatie succesvol."
+
+msgid "Not installed"
+msgstr "Niet geïnstalleerd"
+
+msgid "Visit"
+msgstr "Bezoek"
+
+msgid "Add dynamic slides"
+msgstr "Dynamische slides toevoegen"
+
+msgid "Configure"
+msgstr "Configureer"
+
+msgid "Add"
+msgstr "Toevoegen"
+
+msgid "Generator"
+msgstr "Generator"
+
+msgid "How to upgrade to Smart Slider 3 Pro?"
+msgstr "Hoe te upgraden naar Smart Slider 3 Pro?"
+
+#, php-format
+msgid ""
+"After making your purchase, %1$slog in to your account%3$s and download the "
+"Pro installer. To get started with Smart Slider 3 Pro, simply %2$sinstall it "
+"on your website%3$s."
+msgstr ""
+"Na uw aankoop kunt u zich %1$saanmelden met uw account%3$s en de Pro "
+"installer downloaden. Om te beginnen met Smart Slider 3 Pro %2$sinstalleert "
+"u de extensie eenvoudigweg op uw website%3$s."
+
+msgid "Download Pro"
+msgstr "Download Pro"
+
+msgid ""
+"Feel free to remove the Free version, as you no longer need it. Your sliders "
+"will stay!"
+msgstr ""
+"Voel u vrij om de gratis versie te verwijderen. U hebt deze niet meer nodig. "
+"Uw sliders zullen bewaard blijven!"
+
+msgid "Ready to go Pro?"
+msgstr "Klaar om Pro te gaan?"
+
+msgid "Supercharge Smart Slider 3 with powerful functionality!"
+msgstr "Geef Smart Slider 3 een boost met krachtige functionaliteit!"
+
+msgid "Already purchased?"
+msgstr "Al aangekocht?"
+
+msgid "Get started with the Pro version now!"
+msgstr "Begin nu met de Pro versie!"
+
+#, php-format
+msgid "Unable to connect to the API (%s)."
+msgstr "Kon geen verbinding met de API maken (%s)."
+
+msgid "See <b>Debug Information</b> for more details!"
+msgstr "Bekijk de <b>Debug informatie</b> voor meer details!"
+
+msgid "Successful connection with the API."
+msgstr "Succesvolle verbinding met de API."
+
+msgid "Welcome to Help Center"
+msgstr "Welkom in het helpcentrum"
+
+msgid ""
+"To help you get started, we've put together a super tutorial video that "
+"shows you the basic settings."
+msgstr ""
+"Om u op weg te helpen hebben we een super handleiding video samengesteld die "
+"u de basisinstellingen toont."
+
+msgid "Possible conflicts"
+msgstr "Mogelijke conflicten"
+
+msgid "Test connection"
+msgstr "Test verbinding"
+
+msgid "No conflicts detected."
+msgstr "Geen conflicten gedetecteerd."
+
+msgid "Hello! How can we help you today?"
+msgstr "Hallo! Hoe kunnen we u vandaag van dienst zijn?"
+
+msgid "Search in the knowledge base"
+msgstr "Zoek in de kennisbank"
+
+msgid "Documentation"
+msgstr "Documentatie"
+
+msgid ""
+"To get started with Smart Slider 3, please refer to this guide for "
+"downloading, installing, and using."
+msgstr ""
+"Om te beginnen met Smart Slider 3 kunt u deze gids raadplegen voor het "
+"downloaden, het installeren en het gebruik."
+
+msgid "Email support"
+msgstr "E-mail ondersteuning"
+
+msgid ""
+"Need one-to-one assistance? Get in touch with our Support team! We'd love "
+"the opportunity to help you."
+msgstr ""
+"Persoonlijke assistentie nodig? Neem contact op met ons support team! We "
+"helpen u graag verder."
+
+msgid "Tutorial videos"
+msgstr "Video handleidingen"
+
+msgid ""
+"Check our video tutorials which cover everything you need to know about "
+"Smart Slider 3."
+msgstr ""
+"Kijk eens naar onze video handleidingen die alles behandelen wat u moet "
+"weten over Smart Slider 3."
+
+msgid "Selected articles"
+msgstr "Geselecteerde artikels"
+
+msgid "Debug information"
+msgstr "Debug informatie"
+
+#, php-format
+msgid "%s or later"
+msgstr "%s of later"
+
+msgid "You are using an unsupported browser!"
+msgstr "U gebruikt een niet ondersteunde browser!"
+
+#, php-format
+msgid ""
+"Smart Slider 3 does not support your current browser for editing. Supported "
+"browsers are the following: %s."
+msgstr ""
+"Smart Slider 3 ondersteunt uw huidige browser niet voor bewerking. "
+"Ondersteunde browsers zijn de volgende: %s."
+
+msgid "Help center"
+msgstr "Helpcentrum"
+
+msgid "Help"
+msgstr "Help"
+
+msgid "Read more"
+msgstr "Lees meer"
+
+msgid "Need more?"
+msgstr "Meer nodig?"
+
+msgid "Unlock all the pro features by upgrading to Smart Slider 3 Pro."
+msgstr ""
+"Ontgrendel al de pro mogelijkheden door te upgraden naar Smart Slider 3 Pro."
+
+msgid "Changelog"
+msgstr "Log met wijzigingen"
+
+msgid "Check for update"
+msgstr "Controleer op update"
+
+msgid "Check"
+msgstr "Controle"
+
+msgid "Your license is active"
+msgstr "Uw licentie is actief"
+
+msgid "Deactivate license"
+msgstr "Deactiveer licentie"
+
+msgid "Activate your license"
+msgstr "Activeer uw licentie"
+
+msgid "Don’t miss any update"
+msgstr "Mis geen enkele update"
+
+msgid "Let us know how we're doing"
+msgstr "Laat ons weten hoe we het ervan afbrengen"
+
+msgid ""
+"If you are happy with Smart Slider 3 and can take a minute please leave a "
+"review. This will help to spread its popularity and to make this plugin a "
+"better one."
+msgstr ""
+"Als u tevreden bent over Smart Slider 3 en wat tijd over heeft laat dan een "
+"recensie achter. Dit helpt om de populariteit ervan te verspreiden en deze "
+"plugin te verbeteren."
+
+msgid "Rate your experience"
+msgstr "Beoordeel uw ervaring"
+
+msgid "Hated it"
+msgstr "Afgrijselijk"
+
+msgid "Disliked it"
+msgstr "Vond ik niet goed"
+
+msgid "It was ok"
+msgstr "Het was OK"
+
+msgid "Liked it"
+msgstr "Ik vond het goed"
+
+msgid "Loved it"
+msgstr "Ik vond het geweldig"
+
+msgid "Why upgrade to Smart Slider 3 Pro?"
+msgstr "Waarom upgraden naar Smart Slider 3 Pro?"
+
+#, php-format
+msgid "%d+ slider templates"
+msgstr "%d+ slider templates"
+
+msgid "Full slide library access"
+msgstr "Volledige toegang tot slide bibliotheek"
+
+#, php-format
+msgid "%d new layers"
+msgstr "%d nieuwe lagen"
+
+msgid "Extra advanced options"
+msgstr "Extra geavanceerde opties"
+
+msgid "New animations & effects"
+msgstr "Nieuwe animaties & effecten"
+
+msgid "Lifetime update & support"
+msgstr "Levenslange update & ondersteuning"
+
+msgid "Apply"
+msgstr "Toepassen"
+
+msgid "Back"
+msgstr "Terug"
+
+msgid "Import"
+msgstr "Importeren"
+
+msgid "Layers"
+msgstr "Lagen"
+
+msgid "Library"
+msgstr "Bibliotheek"
+
+msgid "Absolute"
+msgstr "Absoluut"
+
+msgctxt "Layer group"
+msgid "Basic"
+msgstr "Basis"
+
+msgid "Inner align"
+msgstr "Binnenste uitlijning"
+
+msgid "Positions the layers inside horizontally."
+msgstr "Plaatst de lagen horizontaal binnenin."
+
+msgid "Vertical align"
+msgstr "Verticaal uitlijnen"
+
+msgid "Positions the layers inside vertically."
+msgstr "Plaatst de lagen verticaal binnenin."
+
+msgid "Target window"
+msgstr "Doelvenster"
+
+msgid "Background image"
+msgstr "Achtergrondafbeelding"
+
+msgid "Focus"
+msgstr "Focus"
+
+msgid ""
+"You can set the starting position of a background image. This makes sure "
+"that the selected part will always remain visible, so you should pick the "
+"most important part."
+msgstr ""
+"U kunt de beginpositie van een achtergrondafbeelding instellen. Dit "
+"verzekert dat het geselecteerde deel altijd zichtbaar blijft, u kiest dus "
+"best het meest belangrijke deel."
+
+msgid "Background"
+msgstr "Achtergrond"
+
+msgid "Gradient"
+msgstr "Gradient"
+
+msgid "Color end"
+msgstr "Kleur einde"
+
+msgid "Position"
+msgstr "Positie"
+
+msgid "The editing mode the layer is positioned in."
+msgstr "De bewerkingsmodus waarin de laag geplaatst is."
+
+msgid "Positions the layer horizontally within its parent."
+msgstr "Plaatst de laag horizontaal binnen de bovenliggende laag."
+
+msgid "You can set a fix height for your layer."
+msgstr "U kunt een vaste hoogte voor uw laag instellen."
+
+msgid "With margins you can create distance between your layers."
+msgstr "Met marges kunt u afstand tussen uw lagen maken."
+
+msgid "Responsive"
+msgstr "Responsive"
+
+msgid "Linked to"
+msgstr "Gelinkt naar"
+
+msgid ""
+"You can link your layer to another layer on the same level. This way your "
+"layer won't be positioned to the slide, but the other layer."
+msgstr ""
+"U kunt uw laag linken naar een andere laag op hetzelfde niveau. Op die "
+"manier zal uw laag zelf niet in de slide geplaatst worden, maar de andere "
+"laag."
+
+msgid "Hide when variable empty"
+msgstr "Verberg als de variabele leeg is"
+
+msgid "Text scale"
+msgstr "Tekst schaal"
+
+msgid "Device specific settings"
+msgstr "Toestel specifieke instellingen"
+
+msgid "Clear"
+msgstr "Leegmaken"
+
+msgid "Erases all device specific changes you made on the current device."
+msgstr ""
+"Wist alle toestel specifieke veranderingen die u op het huidige toestel hebt "
+"aangebracht."
+
+msgid "Effect"
+msgstr "Effect"
+
+msgid "Parallax"
+msgstr "Parallax"
+
+msgid "More parallax options in slider settings -> Layer animations tab."
+msgstr "Meer parallax opties in slider instellingen -> Laag animaties tab."
+
+msgid "Crop"
+msgstr "Bijsnijden"
+
+msgid "Mask"
+msgstr "Maskeren"
+
+msgid "If your content is larger than the layer, you can crop it to fit."
+msgstr ""
+"Als uw inhoud groter is dan de laag dan kunt u die bijsnijden zodat hij past."
+
+msgid "Rotation"
+msgstr "Rotatie"
+
+msgid "CSS Class"
+msgstr "CSS class"
+
+msgid "You can add a custom CSS class on the layer container."
+msgstr "U kunt een aangepaste CSS class aan de laag container toevoegen."
+
+msgid "Content background"
+msgstr "Inhoud achtergrond"
+
+msgid "Spacing"
+msgstr "Ruimte"
+
+msgid "Typography"
+msgstr "Typografie"
+
+msgid ""
+"You can select a font family from the preset, or type your custom family."
+msgstr ""
+"U kunt een font familie uit de voorinstelling kiezen of uw eigen font "
+"familie typen."
+
+msgid ""
+"Need to change the font size device specifically? Use the Text scale option."
+msgstr ""
+"Moet u de font grootte toestel specifiek aanpassen? Gebruik de Tekst schaal "
+"optie."
+
+msgid "Columns"
+msgstr "Kolommen"
+
+msgid "Gutter"
+msgstr "Groef"
+
+msgid "Creates space between the columns"
+msgstr "Maakt ruimte tussen de kolommen"
+
+msgid "Wrap after"
+msgstr "Omslaan na"
+
+msgid "Breaks the columns to the given amount of rows."
+msgstr "Splitst de kolommen op in het gegeven aantal rijen."
+
+msgid "Makes the row fill the available vertical space"
+msgstr "Maakt dat de rij de beschikbare verticale ruimte opvult"
+
+msgid "Slide title"
+msgstr "Slide titel"
+
+msgid "Description"
+msgstr "Beschrijving"
+
+msgid "Thumbnail alt"
+msgstr "Miniatuur alt"
+
+msgid "Custom lightbox image"
+msgstr "Aangepaste lightbox afbeelding"
+
+msgid "Published"
+msgstr "Gepubliceerd"
+
+msgid "Publish on"
+msgstr "Publiceer op"
+
+msgid "Unpublish on"
+msgstr "Depubliceer op"
+
+msgid "Thumbnail type"
+msgstr "Miniatuur type"
+
+msgid "Video"
+msgstr "Video"
+
+msgid ""
+"If you have a video on your slide, you can put a play icon on the thumbnail "
+"image to indicate that."
+msgstr ""
+"Als u een video op uw slide hebt dan kunt u een speel icoon op de "
+"miniatuurafbeelding plaatsen om dat aan te geven."
+
+#, php-format
+msgid ""
+"Video autoplaying has a lot of limitations made by browsers. %1$sLearn about "
+"them.%2$s"
+msgstr ""
+"Het automatisch spelen van video's heeft een groot aantal beperkingen, "
+"opgelegd door browsers. %1$sKom hier meer over te weten.%2$s"
+
+msgid "Slide background video"
+msgstr "Slide achtergrond video"
+
+msgid "Restart on slide change"
+msgstr "Herstart bij slide wisseling"
+
+msgid "Starts the video from the beginning when the slide is viewed again."
+msgstr "Start de video vanaf het begin als de slide opnieuw bekeken wordt."
+
+msgid "Slide background"
+msgstr "Slide achtergrond"
+
+msgid ""
+"Select a background image for the slide. By clicking the small screen icon, "
+"you can pick different images for different devices."
+msgstr ""
+"Selecteer een achtergrondafbeelding voor de slide. Door te klikken op het "
+"kleine scherm icoon kunt u verschillende afbeeldingen kiezen voor "
+"verschillende toestellen."
+
+#, php-format
+msgid ""
+"Please read %1$sour detailed guide%2$s about setting your own slide "
+"background correctly."
+msgstr ""
+"Lees onze %1$sgedetailleerde gids%2$s over hoe u uw eigen slide achtergrond "
+"correct moet instellen."
+
+msgid "Background blur"
+msgstr "Wazige achtergrond"
+
+msgid "Blur"
+msgstr "Wazig"
+
+msgid "Overlay"
+msgstr "Bovenlaag"
+
+msgid "Puts the color in front of the image."
+msgstr "Plaatst de kleur voor de afbeelding."
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "Image alt"
+msgstr "Afbeelding alt"
+
+msgid "Image title"
+msgstr "Afbeelding titel"
+
+msgctxt "Layer animation"
+msgid "In"
+msgstr "In"
+
+msgctxt "Layer animation"
+msgid "Out"
+msgstr "Uit"
+
+msgctxt "Layer animation"
+msgid "Events"
+msgstr "Evenementen"
+
+msgid "Plays in when"
+msgstr "Speelt in als"
+
+msgid "Plays out when"
+msgstr "Speelt uit als"
+
+msgid "Plays loop when"
+msgstr "Speelt herhaaldelijk als"
+
+msgid "Pauses loop when"
+msgstr "Pauzeert de herhaling als"
+
+msgid "Stops loop when"
+msgstr "Stopt de herhaling als"
+
+msgid "Repeatable"
+msgstr "Herhaalbaar"
+
+msgid "Allows the layer animations to play more than once."
+msgstr "Laat toe dat de laag animaties meer dan één keer spelen."
+
+msgid "Start delay"
+msgstr "Start wachttijd"
+
+msgid "End delay"
+msgstr "Einde wachttijd"
+
+msgid "Repeat loop only"
+msgstr "Herhaal alleen de lus"
+
+msgid "Allows the stopped loop to start again."
+msgstr "Laat toe dat de gestopte herhaling opnieuw start."
+
+msgid "Trigger custom event on"
+msgstr "Voer aangepast evenement uit bij"
+
+msgid "Click"
+msgstr "Klik"
+
+msgid "Mouse enter"
+msgstr "Muis in"
+
+msgid "Mouse leave"
+msgstr "Muis uit"
+
+msgid "Media started"
+msgstr "Media gestart"
+
+msgid "Media paused"
+msgstr "Media gepauzeerd"
+
+msgid "Media stopped"
+msgstr "Media gestopt"
+
+msgid "Duration"
+msgstr "Duur"
+
+msgid "Delay"
+msgstr "Wachttijd"
+
+msgid "Easing"
+msgstr "Versoepeling"
+
+msgid "Offset"
+msgstr "Compensatie"
+
+msgid "Rotate"
+msgstr "Roteren"
+
+msgid "Scale"
+msgstr "Schaal"
+
+msgid "Skew"
+msgstr "Scheeftrekken"
+
+msgid "Transform origin"
+msgstr "Oorsprong omvormen"
+
+msgid ""
+"Makes the last keyframe to be the origin of the layer animation, instead of "
+"its canvas position."
+msgstr ""
+"Maakt dat het laatste keyframe de oorsprong van de laag animatie is, in "
+"plaats van haar canvas positie."
+
+msgid "Repeat count"
+msgstr "Aantal herhalingen"
+
+msgid "loops"
+msgstr "herhalingen"
+
+msgid ""
+"You can restrict the loop to play only a certain amount of loops, instead of "
+"infinite."
+msgstr ""
+"U kunt de herhaling beperken tot een bepaald aantal herhalingen, in plaats "
+"van oneindig."
+
+msgctxt "Animation"
+msgid "Slide"
+msgstr "Schuiven"
+
+msgid "Curtains"
+msgstr "Gordijnen"
+
+msgid "Diagonal"
+msgstr "Diagonaal"
+
+msgid "Circle"
+msgstr "Circel"
+
+msgid "From"
+msgstr "Van"
+
+msgid "To"
+msgstr "Tot"
+
+msgid "Fade"
+msgstr "Vervagen"
+
+msgid "Scale up"
+msgstr "Vergroten"
+
+msgid "Scale down"
+msgstr "Verkleinen"
+
+msgid "Static overlay"
+msgstr "Statische bovenlaag"
+
+msgid "First slide"
+msgstr "Eerste slide"
+
+msgid "Unpublished"
+msgstr "Gedepubliceerd"
+
+msgid "Bulk actions"
+msgstr "Bulk acties"
+
+msgid "Select all"
+msgstr "Selecteer alles"
+
+msgid "Select none"
+msgstr "Selecteer geen"
+
+msgid "Select published"
+msgstr "Selecteer gepubliceerde"
+
+msgid "Select unpublished"
+msgstr "Selecteer niet gepubliceerde"
+
+msgid "Blank"
+msgstr "Blanco"
+
+msgid "Post"
+msgstr "Inzending"
+
+msgid "Dynamic slides"
+msgstr "Dynamische slides"
+
+msgid "Add slide"
+msgstr "Slide toevoegen"
+
+msgid "Block must contain only one slide. Need more?"
+msgstr "Een blok mag maar één slide bevatten. Meer nodig?"
+
+msgid "Convert to slider"
+msgstr "Vorm om tot slider"
+
+msgid "Slide one"
+msgstr "Slide een"
+
+msgid "Slide two"
+msgstr "Slide twee"
+
+msgid "Drop images here"
+msgstr "Laat afbeeldingen hier vallen"
+
+msgid "Search Project"
+msgstr "Zoek project"
+
+msgid "View trash"
+msgstr "Bekijk prullenbak"
+
+msgid "Order by"
+msgstr "Sorteer op"
+
+msgid "Manual order"
+msgstr "Handmatige volgorde"
+
+msgid "A-Z"
+msgstr "A-Z"
+
+msgid "Z-A"
+msgstr "Z-A"
+
+msgid "Newest first"
+msgstr "Nieuwste eerst"
+
+msgid "Oldest first"
+msgstr "Oudste eerst"
+
+msgid "Export"
+msgstr "Exporteren"
+
+msgid "Show"
+msgstr "Tonen"
+
+#, php-format
+msgid "Showing %s to %s of %s projects"
+msgstr "%s tot %s van de %s projecten worden getoond"
+
+msgid "No projects to show"
+msgstr "Geen projecten om te tonen"
+
+msgid "New project"
+msgstr "Nieuw project"
+
+msgid "Sorry we couldn’t find any matches"
+msgstr "Sorry, we vonden geen overeenkomsten"
+
+msgid "Please try searching with another term."
+msgstr "Probeer eens te zoeken met een ander trefwoord."
+
+#, php-format
+msgid "Showing %s results for %s."
+msgstr "Tonen van %s resultaten voor %s."
+
+msgid "Module"
+msgstr "Module"
+
+msgid "Displays the slider in a template module position."
+msgstr "Toont de slider in een template module positie."
+
+msgid "Create module"
+msgstr "Module maken"
+
+msgid "Related modules"
+msgstr "Gelijkaardige modules"
+
+msgid "Articles"
+msgstr "Artikels"
+
+msgid "Paste the code into article:"
+msgstr "Plak de code in artikel:"
+
+msgid "PHP code"
+msgstr "PHP code"
+
+msgid "Paste the PHP code into source code:"
+msgstr "Plak de PHP code in broncode:"
+
+msgid "Shortcode"
+msgstr "Snelcode"
+
+msgid "Copy and paste this shortcode into your posts or pages:"
+msgstr "Kopieer en plak deze snelcode in uw inzendingen of pagina's:"
+
+msgid "Pages and Posts"
+msgstr "Pagina's en inzendingen"
+
+#, php-format
+msgid "Smart Slider 3 has integration with %s."
+msgstr "Smart Slider 3 is geïntegreerd met %s."
+
+msgid "Paste the PHP code into your theme's file:"
+msgstr "Plak de PHP code in uw thema bestand:"
+
+msgid "Trash is empty."
+msgstr "Prullenbak is leeg."
+
+msgid "Restore"
+msgstr "Herstellen"
+
+msgid "Toggle orientation"
+msgstr "Schakel oriëntatie om"
+
+msgid "Reload preview"
+msgstr "Herlaad voorvertoning"
+
+msgid "Open preview in full"
+msgstr "Open voorvertoning in volledig scherm"
+
+msgid "State"
+msgstr "Status"
+
+msgid "Reason"
+msgstr "Reden"
+
+msgid "Framework"
+msgstr "Framework"
+
+msgid "Fonts"
+msgstr "Fonts"
+
+msgid "Layer defaults"
+msgstr "Lagen standaard"
+
+msgid "Generators"
+msgstr "Generatoren"
+
+msgid "Saved and slider cache invalidated."
+msgstr "Opgeslagen en de slider cache ongeldig gemaakt."
+
+msgid "Cache cleared."
+msgstr "Cache leeggemaakt."
+
+msgid "Clear cache"
+msgstr "Cache leegmaken"
+
+msgid "Clear cache options"
+msgstr "Maak cache opties leeg"
+
+msgid "Delete resized image cache"
+msgstr "Verwijder cache met herschaalde afbeeldingen"
+
+#, php-format
+msgid "If enabled the following folder will be <b>permanently deleted</b>: %s"
+msgstr ""
+"Indien geactiveerd dan zal volgende map <b>permanent verwijderd</b> worden: "
+"%s"
+
+msgid "Configuration"
+msgstr "Configuratie"
+
+#, php-format
+msgid ""
+"Here you can configure the default font your layers have, and the dropdown "
+"list of the fonts. Google Fonts are recognized automatically, but you can "
+"use your own custom fonts, too. %1$sLearn how to do that.%2$s"
+msgstr ""
+"Hier kunt u de standaard font voor uw lagen configureren door middel van de "
+"vervolgkeuzelijst met de fonts. Google Fonts worden automatisch herkend, "
+"maar u kunt ook uw eigen fonts gebruiken. %1$sLeer hier hoe u dat moet doen."
+"%2$s"
+
+msgid "Default family"
+msgstr "Standaard familie"
+
+msgid "This font family is used for the newly added layers."
+msgstr "Deze font familie wordt gebruikt voor nieuw toegevoegde lagen."
+
+msgid "Preset font families"
+msgstr "Voorinstelling font families"
+
+msgid "These font families appear in the dropdown list."
+msgstr "Deze font families verschijnen in de vervolgkeuzelijst."
+
+msgid "Use protocol-relative URL"
+msgstr "Gebruik protocol-relatieve URL"
+
+msgid "Loads the URLs without a http or https protocol."
+msgstr "Laadt de URLs zonder een http of https protocol."
+
+msgid "Header preload"
+msgstr "Header vooraf inladen"
+
+msgid ""
+"If the slider is an important part of your site, tell the browser to preload "
+"its files."
+msgstr ""
+"Als de slider een belangrijk deel van uw site is geef dan door aan de  "
+"browser dat de bestanden ervan vooraf ingeladen moeten worden."
+
+msgid "English UI"
+msgstr "Engelse UI"
+
+msgid ""
+"You can keep using Smart Slider 3 in English, even if your backend isn't in "
+"English."
+msgstr ""
+"U kunt Smart Slider 3 verder in het engels blijven gebruiken, zelfs als uw "
+"backend niet in het engels is."
+
+msgid "Improved frontend accessibility"
+msgstr "Verbeterde frontend toegankelijkheid"
+
+msgid ""
+"Keeps the clicked element (like a button) in focus unless the focus is "
+"changed by clicking away."
+msgstr ""
+"Houd de focus op het aangeklikte element (zoals een knop) tenzij de focus "
+"veranderd wordt door weg te klikken."
+
+msgid "Script attributes"
+msgstr "Script attributen"
+
+msgid "Slider's inline JavaScript"
+msgstr "Inline Javascript van slider"
+
+msgid "Head"
+msgstr "Kop"
+
+msgid "Into the slider"
+msgstr "In de slider"
+
+msgid "Async non-primary CSS"
+msgstr "Async niet-primaire CSS"
+
+msgid ""
+"Google Fonts, icon and lightbox CSS are loaded in a non-blocking way. "
+"Disable if you see missing icons, fonts or styles."
+msgstr ""
+"Google Fonts, icoon en lightbox CSS werden geladen op een niet blokkerende "
+"manier. Deactiveer dit als u ontbrekende iconen of stijlen ziet."
+
+msgid "Load Font Awesome 4"
+msgstr "Laad Font Awesome 4"
+
+msgid "API requests"
+msgstr "API aanvragen"
+
+#, php-format
+msgctxt "Curl"
+msgid "Use %s"
+msgstr "Gebruik %s"
+
+#, php-format
+msgctxt "curl proxy"
+msgid "Clean %s"
+msgstr "Kuis %s op"
+
+msgid "General settings"
+msgstr "Algemene instellingen"
+
+msgid "Automatic update check"
+msgstr "Automatische update controle"
+
+msgid "Alternative save slide"
+msgstr "Alternatief opslaan slide"
+
+msgid ""
+"If you experience problems during the save this option might solve them."
+msgstr ""
+"Als u problemen ondervindt tijdens het opslaan dan lost deze optie ze "
+"mogelijk op."
+
+msgid "Preview in new window"
+msgstr "Voorvertoning in nieuw venster"
+
+msgid "Lightbox videos in new tab on Mobile"
+msgstr "Lightbox video's in nieuwe tab op mobieltjes"
+
+msgid ""
+"Opens the lightbox videos in the YouTube app to avoid the mobile disabling "
+"the video."
+msgstr ""
+"Opent de lightbox video's in de YouTube app om te vermijden dat de "
+"mobieltjes de video deactiveren."
+
+msgid "YouTube and Vimeo privacy enhanced mode"
+msgstr "YouTube en Vimeo privacy verbeterde modus"
+
+msgid "Smooth scroll speed"
+msgstr "Soepel scrollen snelheid"
+
+msgid "Editor - additional CSS files"
+msgstr "Editor - extra CSS bestanden"
+
+msgid ""
+"You can call your own CSS files to our backend, for example, to be able to "
+"use custom fonts. Write each URL to a new line."
+msgstr ""
+"U kunt uw eigen CSS bestanden in onze backend binnenhalen, bijvoorbeeld om "
+"eigen fonts te gebruiken. Schrijf elke URL op een nieuwe regel."
+
+msgid "WordPress settings"
+msgstr "WordPress instellingen"
+
+msgid "Show editor icon"
+msgstr "Toon editor icoon"
+
+msgid "Show in admin bar"
+msgstr "Toon in admin balk"
+
+msgid "YOAST SEO sitemap - add images"
+msgstr "YOAST SEO sitemap - afbeeldingen toevoegen"
+
+msgid "Create widget area"
+msgstr "Maak widget zone"
+
+msgid "widget area(s)"
+msgstr "widget zone(s)"
+
+msgid ""
+"Creates new widget areas which you can place to your theme for easy "
+"publishing."
+msgstr ""
+"Maakt nieuwe widget zones die u in uw thema kunt plaatsen voor gemakkelijke "
+"publicatie."
+
+msgid "Use iframe in AJAX calls"
+msgstr "Gebruik iframe in AJAX aanroepen"
+
+msgid ""
+"Loads the slider using an iframe when the page is loaded via AJAX to avoid "
+"problems."
+msgstr ""
+"Laadt de slider aan de hand van een iframe als de pagina ingeladen wordt via "
+"AJAX, en dit om problemen te vermijden."
+
+msgid "Joomla settings"
+msgstr "Joomla instellingen"
+
+msgid "Force RTL backend"
+msgstr "Forceer RTL backend"
+
+msgid "Run content plugins on sliders"
+msgstr "Voer content plugins uit op sliders"
+
+msgid "Exclude plugins"
+msgstr "Uit te sluiten plugins"
+
+msgid ""
+"At each slider you can override the global breakpoints with local values."
+msgstr ""
+"In elke slider kunt u de globale breekpunten overschrijven met lokale "
+"waarden."
+
+msgid "Focus offset"
+msgstr "Focus compensatie"
+
+msgid ""
+"This option is used at the full page layout to decrease the slider height. "
+"The \"Scroll to slider\" option also uses this option to determine where to "
+"scroll the slider."
+msgstr ""
+"Deze optie wordt gebruikt in de volledige pagina lay-out om de hoogte van de "
+"slider te verminderen. De \"Scroll naar slider\" optie gebruikt deze optie "
+"ook om te bepalen waar de slider gescrold moet worden."
+
+msgid "Translate url"
+msgstr "Vertaal URL"
+
+msgid ""
+"You can change the frontend URL our assets are loading from. It can be "
+"useful after moving to a new domain."
+msgstr ""
+"U kunt de frontend URL veranderen vanwaar onze assets geladen worden. Dit "
+"kan nuttig zijn na het verhuizen naar een nieuw domein."
+
+msgid "The old URL you want to replace. E.g. https://oldsite.com/"
+msgstr "De oude URL die u wilt vervangen. Bijvoorbeeld https://oudesite.com"
+
+msgid "The new URL you want to use. E.g. https://newsite.com"
+msgstr "De nieuwe URL die u wilt gebruiken. Bijvoorbeeld https://nieuwsite.com"
+
+msgid "Slider restored."
+msgstr "Slider hersteld."
+
+msgid "Slider permanently deleted."
+msgstr "Slider permanent verwijderd."
+
+msgid "Slider created."
+msgstr "Slider aangemaakt."
+
+msgid "Slider renamed."
+msgstr "Slider hernoemd."
+
+msgid "Slider saved."
+msgstr "Slider opgeslagen."
+
+#, php-format
+msgid "Import url is not valid: %s"
+msgstr "Import URL is niet geldig: %s"
+
+msgid "License key required for premium features!"
+msgstr "Licentie sleutel is vereist voor premium mogelijkheden!"
+
+msgid "Slider imported."
+msgstr "Slider geïmporteerd."
+
+msgid "Import error!"
+msgstr "Import fout!"
+
+msgid "Slide duplicated."
+msgstr "Slide gekloond."
+
+#, php-format
+msgid "%s slider type is not available."
+msgstr "Het %s slider type is niet beschikbaar."
+
+msgid "Groups are only available in the Pro version."
+msgstr "Groepen zijn alleen beschikbaar in de Pro versie."
+
+msgid "Slider moved to the trash."
+msgstr "Slider verplaatst naar de prullenbak."
+
+msgid "Slider removed from the group."
+msgstr "Slider verwijderd uit de groep."
+
+msgid "Slider duplicated."
+msgstr "Slider gekloond."
+
+msgid "Slider settings"
+msgstr "Slider instellingen"
+
+msgid "Delete slider"
+msgstr "Verwijder slider"
+
+msgid "Edit slide"
+msgstr "Slide bewerken"
+
+msgid "Delete slide"
+msgstr "Verwijder slide"
+
+msgid "Ordering"
+msgstr "Volgorde"
+
+msgid "Video url"
+msgstr "Video URL"
+
+msgid "Actions"
+msgstr "Acties"
+
+#, php-format
+msgid "Export %1$s as HTML"
+msgstr "Exporteer %1$s als HTML"
+
+msgid "Duplicate slider"
+msgstr "Kloon slider"
+
+msgid "Simple edit"
+msgstr "Simpel bewerken"
+
+msgid "Slider order saved."
+msgstr "Slider volgorde opgeslagen."
+
+msgid "Slider(s) moved to the trash."
+msgstr "Slider(s) verplaatst naar de prullenbak."
+
+msgid "Slider(s) removed from the group."
+msgstr "Slider(s) verwijderd uit de groep."
+
+msgid "Slider(s) deleted permanently from the trash."
+msgstr "Slider(s) permanent verwijderd uit de prullenbak."
+
+#, php-format
+msgid ""
+"Your server has an upload file limit at %s, so if you have bigger export "
+"file, please use the local import file method."
+msgstr ""
+"Uw server heeft een upload bestandslimiet op %s, dus als u een groter export "
+"bestand hebt gebruik dan de lokale import bestand methode."
+
+msgid "You have to unzip your "
+msgstr "Zorg voor het uitpakken van uw "
+
+msgid "Only *.ss3 files can be uploaded!"
+msgstr "Alleen *.ss3 bestanden mogen geüpload worden!"
+
+msgid "The imported file is not readable!"
+msgstr "Het geïmporteerde bestand is niet leesbaar!"
+
+msgid "Go to dashboard"
+msgstr "Ga naar bedieningspaneel"
+
+msgid "Welcome to Smart Slider 3"
+msgstr "Welkom bij Smart Slider 3"
+
+msgid "Don't show again"
+msgstr "Toon niet opnieuw"
+
+msgid "Import project"
+msgstr "Importeer project"
+
+msgid "You can upload *.ss3 files which were exported by Smart Slider 3."
+msgstr ""
+"U kunt *.ss3 bestanden uploaden die geëxporteerd werden door Smart Slider 3."
+
+msgid "Local import"
+msgstr "Lokaal importeren"
+
+msgid "Upload file"
+msgstr "Upload bestand"
+
+#, php-format
+msgid ""
+"Your server's upload filesize limitation is %s, so if your file is bigger, "
+"use the local import."
+msgstr ""
+"De upload bestandsgrootte beperking van uw server is %s, dus als uw bestand "
+"groter is moet u de lokale import gebruiken."
+
+msgid "File"
+msgstr "Bestand"
+
+#, php-format
+msgid "Files with <i>.ss3</i> extension are listed from: %s"
+msgstr "Bestanden met <i>.ss3</i> extensie worden getoond van: %s"
+
+msgid "Delete file"
+msgstr "Bestand verwijderen"
+
+msgid "Removes the selected .ss3 file from your sever after the import."
+msgstr "Verwijdert het geselecteerde .ss3 bestand van uw server na de import."
+
+msgid "Restore slider"
+msgstr "Herstel slider"
+
+msgid ""
+"The imported slider will have the same ID as the original export has. If you "
+"have a slider with the same ID, it will be overwritten."
+msgstr ""
+"De geïmporteerde slider zal hetzelfde ID hebben als de originele export. Als "
+"u al een slider hebt met hetzelfde ID dan zal deze overschreven worden."
+
+msgid "Image mode"
+msgstr "Afbeelding modus"
+
+msgid "Clone"
+msgstr "Klonen"
+
+msgid "Old site url"
+msgstr "Oude site URL"
+
+msgid "Original"
+msgstr "Origineel"
+
+msgid "You can choose how the slide images are loaded."
+msgstr "U kunt kiezen hoe de slide afbeeldingen geladen worden."
+
+msgid "Trash"
+msgstr "Prullenbak"
+
+msgid "Empty trash"
+msgstr "Prullenbak leegmaken"
+
+msgid "Slide saved."
+msgstr "Slide opgeslagen."
+
+#, php-format
+msgid "%d static slides generated."
+msgstr "%d statische slides gegenereerd."
+
+msgid "Slide renamed."
+msgstr "Slide hernoemd."
+
+msgid "First slide changed."
+msgstr "Eerste slide veranderd."
+
+msgid "Static overlay converted to slide."
+msgstr "Statische bovenlaag omgevormd tot slide."
+
+msgid "Slide published."
+msgstr "Slide gepubliceerd."
+
+msgid "Slide unpublished."
+msgstr "Slide gedepubliceerd."
+
+msgid "Slide order saved."
+msgstr "Slide volgorde opgeslagen."
+
+msgid "Slide(s) copied."
+msgstr "Slide(s) gekopieerd."
+
+msgid "Slide deleted."
+msgstr "Slide verwijderd."
+
+msgid "Slides created."
+msgstr "Slides aangemaakt."
+
+msgid "Slide created."
+msgstr "Slide aangemaakt."
+
+msgid "Failed to create slides."
+msgstr "Kon de slides niet aanmaken."
+
+msgid "Static save"
+msgstr "Statisch opslaan"
+
+msgid "Generator settings"
+msgstr "Generator instellingen"
+
+msgid "Cache expiration"
+msgstr "Cache verval"
+
+msgid "Hours"
+msgstr "Uur"
+
+msgid "Start index"
+msgstr "Start index"
+
+msgid "Group result"
+msgstr "Groepeer resultaat"
+
+msgid "Smart Slider 3 deactivated on this site!"
+msgstr "Smart Slider 3 gedeactiveerd op deze site!"
+
+msgid "New slider"
+msgstr "Nieuwe slider"
+
+msgid "Alias removed"
+msgstr "Alias verwijderd"
+
+msgid "Alias must contain one or more letters"
+msgstr "Alias moet één of meer letters bevatten"
+
+#, php-format
+msgid "Alias updated to: %s"
+msgstr "Alias bijgewerkt tot %s"
+
+msgid "Background animation"
+msgstr "Achtergrond animatie"
+
+msgid "Animation type"
+msgstr "Animatie type"
+
+msgid "The importing failed at the unzipping part."
+msgstr "Het importeren is mislukt bij het uitpakken."
+
+msgid "You can't import sliders from Smart Slider 2."
+msgstr "U kunt geen sliders van Smart Slider 2 importeren."
+
+msgid "Export file corrupted! Slider data is missing."
+msgstr "Export bestand is corrupt! Slider data ontbreekt."
+
+msgid "Learn more"
+msgstr "Kom meer te weten"
+
+#, php-format
+msgid "Increase %1$s in php.ini to 1000 or more. Current value: %2$s"
+msgstr "Verhoog %1$s in php.ini tot 1000 of meer. Huidige waarde: %2$s"
+
+#, php-format
+msgid ""
+"Decrease %1$s below 15 in php.ini to prevent fatal errors on plugin updates. "
+"Current value: %2$s"
+msgstr ""
+"Verlaag %1$s tot een waarde kleiner dan 15 in php.ini om fatale fouten te "
+"vermijden bij plugin updates. Huidige waarde: %2$s"
+
+msgid "Unable to connect to the API"
+msgstr "Kon geen verbinding met de API maken"
+
+msgid "MySQL table missing"
+msgstr "MySQL tabel ontbreekt"
+
+msgid "Your theme uses an outdated MooTools library which is not compatible."
+msgstr ""
+"Uw thema gebruikt een verouderde MooTools bibliotheek die niet compatibel is."
+
+msgid ""
+"JCH Optimize could have a conflict with Smart Slider's Global settings -> "
+"Framework settings -> Async Non-Primary CSS. If your Google fonts are not "
+"loading, turn this option off."
+msgstr ""
+"JCH Optimize kan een conflict hebben met de Globale instellingen -> "
+"Framework instellingen -> Async niet-primaire CSS instelling van Smart "
+"Slider. Als uw Google fonts niet ingeladen worden schakel deze optie dan uit."
+
+msgid ""
+"This plugin breaks JavaScript in the admin area, deactivate it and use "
+"alternative plugin."
+msgstr ""
+"Deze plugin breekt JavaScript in de admin zone. Deactivateer hem en gebruik "
+"een alternatieve plugin."
+
+msgid ""
+"This plugin breaks Smart Slider 3 ajax calls if custom admin url enabled."
+msgstr ""
+"Deze plugin breekt Smart Slider 3 ajax aanroepen als een aangepaste admin "
+"URL geactiveerd is."
+
+msgid "This plugin adds a background image to every SVG and breaks SSL."
+msgstr ""
+"Deze plugin voegt een achtergrondafbeelding toe aan elke SVG en breekt SSL."
+
+msgid "This plugin has a JavaScript error which might break Smart Slider."
+msgstr ""
+"Deze plugin heeft een JavaScript fout die Smart Slider mogelijk breekt."
+
+#, php-format
+msgid ""
+"This plugin breaks the filtering options of the dynamic slide generators "
+"when %1$s is set to %2$s. Also it has not received any updates since "
+"WordPress 3.9."
+msgstr ""
+"Deze plugin breekt de filtering opties van de dynamische slide generatoren "
+"als %1$s ingesteld is op %2$s. Hij heeft ook geen updates meer ontvangen "
+"sinds WordPress 3.9."
+
+msgid "Add column"
+msgstr "Kolom toevoegen"
+
+msgid "Year"
+msgstr "Jaar"
+
+msgid "Month"
+msgstr "Maand"
+
+msgid "Day"
+msgstr "Dag"
+
+msgid "Hour"
+msgstr "Uur"
+
+msgid "Minute"
+msgstr "Minuut"
+
+msgid "Stack"
+msgstr "Stapel"
+
+msgid "No description."
+msgstr "Geen beschrijving."
+
+msgid "Generator not found"
+msgstr "Generator niet gevonden"
+
+msgid "Test generator."
+msgstr "Test generator."
+
+msgid "Generator type not found"
+msgstr "Generator type niet gevonden"
+
+#, php-format
+msgid "%1$s generator missing the following source: %2$s"
+msgstr "Voor %1$s generator ontbreekt de volgende bron: %2$s"
+
+msgid "Joomla articles"
+msgstr "Joomla artikels"
+
+msgid "Creates slides from your Joomla articles or categories."
+msgstr "Maakt slides van uw Joomla artikels of categorieën."
+
+msgid "Article"
+msgstr "Artikel"
+
+msgid "Category"
+msgstr "Categorie"
+
+msgid "Creates slides from your Joomla articles in the selected categories."
+msgstr "Maakt slides van uw Joomla artikels in de geselecteerde categorieën."
+
+msgid "Tags"
+msgstr "Tags"
+
+msgid "Featured"
+msgstr "Uitgelicht"
+
+msgid "User ID"
+msgstr "Gebruiker ID"
+
+msgid "Language"
+msgstr "Taal"
+
+msgid "Extra variables"
+msgstr "Extra variabelen"
+
+msgid "Turn on these options to generate more variables for the slides."
+msgstr "Schakel deze opties in om meer variabelen voor de slides te genereren."
+
+msgid "Date format"
+msgstr "Datumformaat"
+
+msgid "Time format"
+msgstr "Tijdsformaat"
+
+msgid "Translate date and time"
+msgstr "Vertaal datum en tijd"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "User name"
+msgstr "Gebruikersnaam"
+
+msgid "Hits"
+msgstr "Hits"
+
+msgid "Creation time"
+msgstr "Aanmaaktijd"
+
+msgid "Modification time"
+msgstr "Aanpassingstijd"
+
+msgid "Publish time"
+msgstr "Publicatietijd"
+
+msgid "Featured article ordering"
+msgstr "Volgorde uitgelichte artikels"
+
+msgid "View article"
+msgstr "Bekijk artikel"
+
+msgid ""
+"Creates slides from your Joomla categories. (Not the articles inside them.)"
+msgstr ""
+"Maakt slides van uw Joomla categorieën (niet van de artikels die zij "
+"bevatten)."
+
+msgid "Parent category"
+msgstr "Moedercategorie"
+
+msgid "View category"
+msgstr "Bekijk categorie"
+
+msgid "Nothing"
+msgstr "Niets"
+
+#, php-format
+msgid "Creates slides from %1$s."
+msgstr "Maakt slides van %1$s."
+
+msgid "Posts by filter"
+msgstr "Inzendingen op filter"
+
+msgid "Posts by IDs"
+msgstr "Inzendingen op IDs"
+
+msgid "Custom"
+msgstr "Aangepast"
+
+msgid "All custom posts"
+msgstr "Alle aangepaste inzendingen"
+
+msgid "Creates slides from the posts of all your post types."
+msgstr "Maakt slides van de inzendingen van al uw inzending types."
+
+msgid "Post types"
+msgstr "Inzending types"
+
+msgid "Taxonomies"
+msgstr "Taxonomieën"
+
+msgid "Post IDs to display"
+msgstr "Weer te geven inzending IDs"
+
+#, php-format
+msgid ""
+"You can make your generator display only the posts with the set ID. No other "
+"post will be fetched, even if they match the set filters. %1$s Write one ID "
+"per line."
+msgstr ""
+"U kunt ervoor zorgen dat uw generator alleen de inzendignen toont met het "
+"ingestelde ID. Geen andere inzending zal opgehaald worden, zelfs niet als "
+"die voldoet aan de ingestelde filters. %1$s Schrijf één ID per regel."
+
+msgid "Sticky"
+msgstr "Plakkend"
+
+msgid "Post status"
+msgstr "Inzending status"
+
+msgid "Post meta comparison"
+msgstr "Inzending meta vergelijking"
+
+msgid "Field name"
+msgstr "Veldnaam"
+
+msgid ""
+"Only show posts, where the given meta key is equal to the given meta value."
+msgstr ""
+"Toon alleen inzendingen waarvan de gegeven meta sleutel gelijk is aan de "
+"gegeven meta waarde."
+
+msgid "Compare method"
+msgstr "Vergelijkingsmethode"
+
+msgid "Field value"
+msgstr "Veldwaarde"
+
+msgid "Meta comparison"
+msgstr "Meta vergelijking"
+
+msgid ""
+"Same as the previous option, just you can write down more comparisons. Read "
+"the \"Field name\" and \"Compare method\" out from the previous option. "
+"Example:"
+msgstr ""
+"Hetzelfde als de vorige optie, alleen kunt u nu meer vergelijkingen "
+"neerschrijven. Lees de \"Veldnaam\" en \"Vergelijkingsmethode\" uit van de "
+"vorige optie. Bijvoorbeeld:"
+
+msgid "Post date"
+msgstr "Inzending datum"
+
+msgid "Modification date"
+msgstr "Aanpassingsdatum"
+
+msgid "Random"
+msgstr "Willekeurig"
+
+msgid "Given IDs"
+msgstr "Gegeven IDs"
+
+msgid "Menu order"
+msgstr "Menu volgorde"
+
+#, php-format
+msgid "Creates slides from the following post type: %1$s."
+msgstr "Maakt slides van het volgende inzending type: %1$s."
+
+msgid "Relation"
+msgstr "Relatie"
+
+msgid "Exclude posts"
+msgstr "Uit te sluiten inzendingen"
+
+#, php-format
+msgid ""
+"The selected post IDs won't appear in the generator, even if they they match "
+"the set filters. %1$s Write one ID per line."
+msgstr ""
+"De geselecteerde inzending IDs zullen niet in de generator verschijnen, "
+"zelfs als zij overeenkomen met de ingestelde filters. %1$s Schrijf één ID "
+"per regel."
+
+#, php-format
+msgid ""
+"You can create other comparison based on the previous \"Field name\" and "
+"\"Compare method\" options. %1$s Use the following format: published||=||yes "
+"%1$s Write one comparison per line."
+msgstr ""
+"U kunt een andere vergelijking maken gebaseerd op de vorige \"Veldnaam\" en "
+"\"Vergelijkingsmethode\" opties. %1$s Gebruik het volgende formaat: "
+"published||=||yes %1$s Schrijf één vergelijking per regel."
+
+msgid "Post option"
+msgstr "Inzending optie"
+
+msgid ""
+"Posts can have options, like a post can be \"sticky\" or not. You can choose "
+"to only display posts, which are selected to be IN or NOT IN this option."
+msgstr ""
+"Inzendingen kunnen opties hebben, een inzending kan bijvoorbeeld \"plakkend"
+"\"  zijn of niet. U kunt ervoor kiezen om alleen inzendingen te tonen die "
+"geselecteerd zijn om IN of NIET IN deze optie te zijn."
+
+msgid "Post relationship with selected option"
+msgstr "Post relatie met geselecteerde optie"
+
+msgid "Date configuration"
+msgstr "Datum configuratie"
+
+msgid "Identify datetime"
+msgstr "Identificeer datum en tijd"
+
+msgid "Our system tries to identify the date and time in your variables."
+msgstr ""
+"Ons systeem probeert de datum en de tijd in uw variabelen te identificeren."
+
+msgid "Datetime format"
+msgstr "Datetime formaat"
+
+#, php-format
+msgid "You can use any %1$sPHP date format%2$s."
+msgstr "U mag eender welk %1$sPHP datum formaat%2$s gebruiken."
+
+msgid "Translate dates"
+msgstr "Vertaal datums"
+
+#, php-format
+msgid ""
+"Write one per line in the following format: from||to %1$s E.g.: Monday||"
+"Montag"
+msgstr ""
+"Schrijf er één per regel in het volgende formaat: van||tot %1$s "
+"Bijvoorbeeld: Monday||Maandag"
+
+msgid "Replace variables"
+msgstr "Vervang variabelen"
+
+msgid "Timestamp variables"
+msgstr "Tijdstempel variabelen"
+
+msgid "Replace timestamp variables"
+msgstr "Vervang tijdstempel variabelen"
+
+#, php-format
+msgid ""
+"The \"Datetime format\" will be used to create dates from the given "
+"timestamp containing variables. %1$s Separate them with comma."
+msgstr ""
+"Het \"Datetime formaat\" zal gebruikt worden om datums aan te maken vanaf de "
+"gegeven tijdstempel die variabelen bevat. %1$s Scheid ze door een komma."
+
+msgid "File variables"
+msgstr "Bestandsvariabelen"
+
+msgid "Replace file variables"
+msgstr "Vervang bestandsvariabelen"
+
+#, php-format
+msgid ""
+"If you have IDs of files, you can replace those variables with the urls of "
+"the files instead. %1$s Separate them with comma."
+msgstr ""
+"Als u IDs van bestanden hebt dan kunt u deze variabelen vervangen door de "
+"URLs van die bestanden. %1$s Scheid ze door een komma."
+
+msgid "Remove duplicate results"
+msgstr "Verwijder dubbele resultaten"
+
+msgid ""
+"You can remove results based on one variable's uniqueness. For example if "
+"you want the images to be unique, you could write the \"image\" variable "
+"into this field (without quotemarks)."
+msgstr ""
+"U kunt resultaten verwijderen gebaseerd op de uniekheid van één variabele. "
+"Als u bijvoorbeeld wilt dat de afbeeldingen uniek zijn dan kunt u de \"image"
+"\" variabele in dit veld invullen (zonder aanhalingstekens)."
+
+msgid "Custom field name"
+msgstr "Aangepaste veldnaam"
+
+msgid "If it's set, this will be used instead of the 'Field' value."
+msgstr ""
+"Indien dit ingesteld is dan zal het gebruikt worden in plaats van de 'Veld' "
+"waarde."
+
+msgid "Numeric"
+msgstr "Numeriek"
+
+msgid "Alphabetic"
+msgstr "Alfabetisch"
+
+msgid "Creates slides from your posts in the selected categories."
+msgstr "Maakt slides van uw inzendingen in de geselecteerde categorieën."
+
+msgid "Categories"
+msgstr "Categorieën"
+
+msgid "Remove shortcodes"
+msgstr "Verwijder snelcodes"
+
+msgid ""
+"You can remove shortcodes from variables to avoid 3rd party content "
+"rendering in your slider."
+msgstr ""
+"U kunt snelcodes verwijderen uit variabelen om te vermijden dat derde partij "
+"inhoud in uw slider gegenereerd wordt."
+
+msgid "Remove from variables"
+msgstr "Verwijder uit variabelen"
+
+msgid ""
+"Write the name of the variables you want to remove the shortcodes from. "
+"Separate new variables with a comma and space. E.g. description, content"
+msgstr ""
+"Schrijf de naam van de variabelen waarvan u de snelcodes wilt verwijderen. "
+"Scheid nieuwe variabelen door een komma en een spatie. Bijvoorbeeld: "
+"beschrijving, inhoud"
+
+msgid "Custom date variables"
+msgstr "Aangepaste datum variabelen"
+
+#, php-format
+msgid ""
+"You can create custom date variables from your existing date variables. "
+"Write each variable to a new line and use the following format: variable||"
+"format. %3$s The \"variable\" should be an existing variable. Based on this "
+"existing variable, we create a new one with the \"_datetime\" suffix. (E.g. "
+"date_datetime.) %3$s The \"format\" can be any %1$sPHP date format%2$s."
+msgstr ""
+"U kunt aangepaste datumvariabelen maken vanaf uw bestaande datumvariabelen. "
+"Schrijf elke variabele op een nieuwe regel en gebruik het volgende formaat: "
+"variabele||formaat. %3$s De \"variabele\" moet een bestaande variabele zijn. "
+"Gebaseerd op deze bestaande variabele maken we een nieuwe met het "
+"\"_datumtijd\" achtervoegsel (bijvoorbeeld datum_datumtijd). %3$s Het "
+"\"formaat\" mag eender welk %1$sPHP datumformaat%2$s zijn."
+
+msgid "Translate custom dates"
+msgstr "Vertaal aangepaste datums"
+
+#, php-format
+msgid ""
+"You can translate the content of the newly created variables. %1$s Use the "
+"following format: from||to. Eg.: Monday||Montag"
+msgstr ""
+"U kunt de inhoud van de nieuw aangemaakte variabelen vertalen. %1$s Gebruik "
+"het volgende formaat: van||naar. Bijvoorbeeld: Monday||Maandag"
+
+msgid "Date function"
+msgstr "Datum functie"
+
+msgid ""
+"This function will be used to format these custom date variables. Usually "
+"the date_i18n works, but if your date will be off a little bit, then try out "
+"the other one."
+msgstr ""
+"Deze functie zal gebruikt worden om deze aangepaste datumvariabelen vorm te "
+"geven. Doorgaans werkt date_i18n, maar als uw datum er een beetje naast zit "
+"probeer dan de andere waarde."
+
+msgid "Comment count"
+msgstr "Aantal commentaren"
+
+msgid "Creates slides from the posts with the set IDs."
+msgstr "Maakt slides van de inzendingen met de ingestelde IDs."
+
+msgid "Post or Page IDs"
+msgstr "Inzending of pagina IDs"
+
+#, php-format
+msgid ""
+"You can write the ID of the page you want to show in your generator. %1$s "
+"Write one ID per line."
+msgstr ""
+"U kunt het ID ingeven van de pagina die u in uw generator wilt tonen. %1$s "
+"Schrijf één ID per regel."
+
+msgid "Whole group"
+msgstr "Ganse groep"
+
+msgid "Select Slider"
+msgstr "Selecteer slider"
+
+msgid "OR"
+msgstr "OF"
+
+msgid "Insert a slider into your content"
+msgstr "Voeg een slider aan uw content toe"
+
+msgid "Select the slider you want to insert."
+msgstr "Selecteer de slider die u wilt invoegen."
+
+msgctxt "Button layer default text"
+msgid "MORE"
+msgstr "MEER"
+
+msgid "Label"
+msgstr "Label"
+
+msgid "No wrap"
+msgstr "Niet omslaan"
+
+msgid "Prevents the text from breaking into more lines"
+msgstr "Verhindert dat de tekst opgesplitst wordt in meerdere regels"
+
+msgid "Rel"
+msgstr "Rel"
+
+#, php-format
+msgid ""
+"Enter the %1$s rel attribute %2$s that represents the relationship between "
+"the current document and the linked document. Multiple rel attributes can be "
+"separated with space. E.g. nofollow noopener noreferrer"
+msgstr ""
+"Geef het %1$s rel attribuut %2$s in dat de relatie tussen het huidige "
+"document en het gelinkte document voorstelt. Meerdere rel attributen kunnen "
+"gescheiden worden door een spatie. Bijvoorbeeld: nofollow noopener noreferrer"
+
+msgid "Icon"
+msgstr "Icoon"
+
+msgid "Placement"
+msgstr "Plaatsing"
+
+#, php-format
+msgid "Class on the %s element."
+msgstr "Class op het %s element."
+
+msgid "Heading layer"
+msgstr "Hoofding laag"
+
+msgid "Text animation"
+msgstr "Tekst animatie"
+
+msgid "Incoming"
+msgstr "Binnenkomend"
+
+msgid "Outgoing"
+msgstr "Uitgaande"
+
+msgid "Backface visibility"
+msgstr "Backface zichtbaarheid"
+
+#, php-format
+msgid "Fix width for the %1$s."
+msgstr "Vaste breedte voor de %1$s."
+
+#, php-format
+msgid "Fix height for the %1$s."
+msgstr "Vaste hoogte voor de %1$s."
+
+msgid "Alt tag"
+msgstr "Alt tag"
+
+msgid "Optimize image"
+msgstr "Optimaliseer afbeelding"
+
+msgid ""
+"You can turn off the Layer image optimization for this image, to resize it "
+"for tablet and mobile."
+msgstr ""
+"U kunt de optimalisatie van de laag afbeelding uitschakelen voor deze "
+"afbeelding, en dit om haar te herschalen voor tablets en mobieltjes."
+
+msgctxt "Layer group"
+msgid "Special"
+msgstr "Speciaal"
+
+msgctxt "Layer group"
+msgid "Media"
+msgstr "Media"
+
+msgctxt "Layer group"
+msgid "Advanced"
+msgstr "Uitgebreid"
+
+msgctxt "Layer"
+msgid "Missing"
+msgstr "Ontbreekt"
+
+#, php-format
+msgid "Missing layer type: %s"
+msgstr "Ontbrekend laag type: %s"
+
+msgid "Custom text for tablet"
+msgstr "Aangepaste tekst voor tablet"
+
+msgid "Tablet text"
+msgstr "Tablet tekst"
+
+msgid "Custom text for mobile"
+msgstr "Aangepaste tekst voor mobieltjes"
+
+msgid "Mobile text"
+msgstr "Tekst mobieltjes"
+
+msgid "Vimeo url or Video ID"
+msgstr "Vimeo URL of Video ID"
+
+msgid "Cover image"
+msgstr "Cover afbeelding"
+
+msgid "Aspect ratio"
+msgstr "Verhouding"
+
+msgid "Fill layer height"
+msgstr "Laaghoogte opvullen"
+
+msgid "Set on Style tab."
+msgstr "Stel in op stijl tab."
+
+msgid "Video settings"
+msgstr "Video instellingen"
+
+msgid "When ended"
+msgstr "Na het beëindigen"
+
+msgid "Do nothing"
+msgstr "Doe niets"
+
+msgid "Go to next slide"
+msgstr "Ga naar volgende slide"
+
+msgid "Start time"
+msgstr "Start tijd"
+
+msgid "Volume"
+msgstr "Volume"
+
+msgid "Mute"
+msgstr "Dempen"
+
+msgid "Pause on scroll"
+msgstr "Pauzeer bij scrollen"
+
+msgid "Never"
+msgstr "Nooit"
+
+msgid "When partly visible"
+msgstr "Indien gedeeltelijk zichtbaar"
+
+msgid "When not visible"
+msgstr "Indien niet zichtbaar"
+
+msgid "You can pause the video when the visitor scrolls away from the slider"
+msgstr "U kunt de video pauzeren als de bezoeker wegscrollt van de slider"
+
+msgid "Display"
+msgstr "Weergave"
+
+msgid "Only works on videos of Vimeo Pro users."
+msgstr "Werkt alleen bij video's van Vimeo Pro gebruikers."
+
+msgid "Remove controls"
+msgstr "Verwijder bedieningselementen"
+
+msgid ""
+"Removes the controls of the video, but it only works on videos of Vimeo Pro "
+"users."
+msgstr ""
+"Verwijdert de bedieningselementen van de video, maar dit werkt alleen bij "
+"video's van Vimeo Pro gebruikers."
+
+msgid "Hides the title of the video, but only if video owner allows it."
+msgstr ""
+"Verbergt de titel van de video, maar alleen als de eigenaar van de video dit "
+"toelaat."
+
+msgid "Users byline"
+msgstr "Gebruikers naamregel"
+
+msgid ""
+"Hides the user's byline of the video, but only if video owner allows it."
+msgstr ""
+"Verbergt de naamregel van de gebruiker van de video, maar alleen als de "
+"eigenaar van de video dit toelaat."
+
+msgid ""
+"Hides the profile image of the author, but only if video owner allows it. "
+msgstr ""
+"Verbergt de profiel afbeelding van de auteur, maar alleen als de eigenaar "
+"van de video dit toelaat. "
+
+msgid "Play button"
+msgstr "Speel knop"
+
+msgid "Play"
+msgstr "Spelen"
+
+msgid "YouTube URL or Video ID"
+msgstr "YouTube URL of Video ID"
+
+msgid "End time"
+msgstr "Eindtijd"
+
+msgid "Hide YouTube logo"
+msgstr "Verberg YouTube logo"
+
+msgid "Centered"
+msgstr "Gecentreerd"
+
+msgid "Scales up and crops the video to cover the whole layer."
+msgstr "Vergroot en snijdt de video bij zodat de hele laag bedekt wordt."
+
+msgid "Show related videos"
+msgstr "Toon gelijkaardige video's"
+
+msgid "Anywhere"
+msgstr "Eender waar"
+
+msgid "Same channel"
+msgstr "Hetzelfde kanaal"
+
+msgid ""
+"YouTube no longer allows hiding the related videos at the end of the video. "
+"This setting defines whether the videos should come from the same channel as "
+"the video that was just played or from any other channel."
+msgstr ""
+"YouTube laat niet langer toe de gelijkaardige video's te verbergen aan het "
+"einde van de video. Deze instelling bepaalt of de video's moeten komen van "
+"hetzelfde kanaal als de video die net gespeeld werd of van een ander kanaal."
+
+msgid "Slider error! Generator group not found: "
+msgstr "Slider fout! Generator groep niet gevonden: "
+
+msgid "Slider error! Generator source not found: "
+msgstr "Slider fout! Generator bron niet gevonden: "
+
+msgid "Downscale"
+msgstr "Verkleinen"
+
+msgid "Allows the slider to scale down for smaller screens."
+msgstr "Laat toe dat de slider zich verkleint voor kleinere schermen."
+
+msgid "Upscale"
+msgstr "Vergroten"
+
+msgid "Allows the slider to scale up for larger screens."
+msgstr "Laat toe dat de slider zich vergroot voor grotere schermen."
+
+msgid "Min height"
+msgstr "Min hoogte"
+
+msgid "Prevents the slider from getting smaller than the set value."
+msgstr "Verhindert dat de slider kleiner wordt dan de ingestelde waarde."
+
+msgid "Force full width"
+msgstr "Forceer volledige breedte"
+
+msgid "The slider tries to fill the full width of the browser."
+msgstr "De slider probeert de volledige breedte van de browser op te vullen."
+
+msgid "Overflow-X"
+msgstr "Overloop-X"
+
+msgid ""
+"Prevents the vertical scrollbar from appear during certain slide background "
+"animations."
+msgstr ""
+"Verhindert dat de verticale scrollbalk verschijnt tijdens bepaalde slide "
+"achtergrond animaties."
+
+msgid "Adjust slider width to"
+msgstr "Pas slider breedte aan tot"
+
+msgid ""
+"You can make the slider fill up a selected parent element instead of the "
+"full browser width."
+msgstr ""
+"U kunt zorgen dat de slider een geselecteerd moederelement opvult in plaats "
+"van de volledige browser breedte."
+
+msgid "Not found"
+msgstr "Niet gevonden"
+
+msgid "Slider size is too small!"
+msgstr "Slider is te klein!"
+
+msgid "Ken Burns effect"
+msgstr "Ken Burns effect"
+
+msgid "Speed"
+msgstr "Snelheid"
+
+msgid "Super slow"
+msgstr "Super traag"
+
+msgid "Slow"
+msgstr "Traag"
+
+msgid "Fast"
+msgstr "Snel"
+
+msgid "Super fast"
+msgstr "Super snel"
+
+msgid "Border width"
+msgstr "Rand breedte"
+
+msgid "Border color"
+msgstr "Randkleur"
+
+msgid "Super fast 4x"
+msgstr "Super snel 4x"
+
+msgctxt "Slider type"
+msgid "Simple slider"
+msgstr "Simpele slider"
+
+msgid "Main animation"
+msgstr "Hoofdanimatie"
+
+msgid "No animation"
+msgstr "Geen animatie"
+
+msgid "Crossfade"
+msgstr "Crossfade"
+
+msgid "Horizontal - reversed"
+msgstr "Horizontal - omgekeerd"
+
+msgid "Vertical - reversed"
+msgstr "Verticaal - omgekeerd"
+
+msgctxt "Feature"
+msgid "Carousel"
+msgstr "Carousel"
+
+msgid ""
+"If you turn off this option, you can't switch to the first slide from the "
+"last one."
+msgstr ""
+"Als u deze optie uitschakelt dan kunt u niet meer overschakelen van de "
+"laatste slide naar de eerste."
+
+msgid ""
+"Background animations only work on the slide background images, which have "
+"Fill selected at their Fill mode. They don't affect any images if the "
+"background parallax is enabled."
+msgstr ""
+"Achtergrond animaties werken alleen voor de slide achtergrondafbeeldingen, "
+"die 'Opvullen' geselecteerd hebben voor hun 'Opvulmodus'. Zij hebben geen "
+"invloed op afbeeldingen als de achtergrond parallax geactiveerd is."
+
+msgid "Shifted"
+msgstr "Verschoven"
+
+msgid "The background and the main animation plays simultaneously or shifted."
+msgstr "De achtergrond en de hoofdanimatie spelen gelijktijdig of afwisselend."
+
+msgid "Slider CSS Preset"
+msgstr "Slider CSS voorinstelling"
+
+msgid "Light shadow"
+msgstr "Lichte schaduw"
+
+msgid "Dark shadow"
+msgstr "Donkere schaduw"
+
+msgid "Photo"
+msgstr "Foto"
+
+msgid "Photo rounded"
+msgstr "Foto afgerond"
+
+#, php-format
+msgid "Demo slider is not available with the following ID: %s"
+msgstr "Demo slider is niet beschikbaar met het volgende ID: %s"
+
+msgid "Blue"
+msgstr "Blauw"
+
+msgid "White"
+msgstr "Wit"
+
+msgid "Green"
+msgstr "Groen"
+
+msgid "Purple"
+msgstr "Purper"
+
+msgid "Grey"
+msgstr "Grijs"
+
+msgid "Black"
+msgstr "Zwart"
+
+msgid "Rounded Blue"
+msgstr "Afgerond blauw"
+
+msgid "Rounded Green"
+msgstr "Afgerond groen"
+
+msgid "Rounded Purple"
+msgstr "Afgerond purper"
+
+msgid "Rounded Grey"
+msgstr "Afgerond grijs"
+
+msgid "Rounded White"
+msgstr "Afgerond wit"
+
+msgid "Rounded Black"
+msgstr "Afgerond zwart"
+
+msgid "Border White"
+msgstr "Rand wit"
+
+msgid "Border Dark"
+msgstr "Rand donker"
+
+msgid "Rectangle Green"
+msgstr "Rechthoek groen"
+
+msgid "Rectangle Blue"
+msgstr "Rechthoek blauw"
+
+msgid "Rectangle Purple"
+msgstr "Rechthoek purper"
+
+msgid "Rectangle Grey"
+msgstr "Rechthoek grijs"
+
+msgid "Rounded Rectangle Green"
+msgstr "Afgeronde rechthoek groen"
+
+msgid "Rounded Rectangle Blue"
+msgstr "Afgeronde rechthoek blauw"
+
+msgid "Rounded Rectangle Purple"
+msgstr "Afgeronde rechthoek purper"
+
+msgid "Border Light"
+msgstr "Rand licht"
+
+msgid "My styles"
+msgstr "Mijn stijlen"
+
+msgid "X-small Light"
+msgstr "Extra klein licht"
+
+msgid "X-small Dark"
+msgstr "Extra klein donker"
+
+msgid "Small Light"
+msgstr "Klein licht"
+
+msgid "Small Dark"
+msgstr "Klein donker"
+
+msgid "Medium Light"
+msgstr "Medium licht"
+
+msgid "Medium Dark"
+msgstr "Medium donker"
+
+msgid "Large Light"
+msgstr "Groot licht"
+
+msgid "Large Dark"
+msgstr "Groot donker"
+
+msgid "X-large Light"
+msgstr "Extra groot licht"
+
+msgid "X-large Dark"
+msgstr "Extra groot donker"
+
+msgid "My fonts"
+msgstr "Mijn fonts"
+
+msgid "Warp"
+msgstr "Afwijking"
+
+msgid "Twirl"
+msgstr "Ronddraaien"
+
+msgid "Domino"
+msgstr "Domino"
+
+msgid "Stand up"
+msgstr "Opstaan"
+
+msgid "Rotate down"
+msgstr "Roteer naar beneden"
+
+msgid "Elastic"
+msgstr "Elastiek"
+
+msgid "Random elastic"
+msgstr "Willekeurig elastisch"
+
+msgid "My text animations"
+msgstr "Mijn tekst animaties"
+
+msgid "Morph - Wave"
+msgstr "Morph - Wave"
+
+msgid "Morph - Brush"
+msgstr "Morph - Brush"
+
+msgid "Morph - Flow"
+msgstr "Morph - Flow"
+
+msgid "Morph - Noise"
+msgstr "Morph - Noise"
+
+msgid "Distortion - Mosaic"
+msgstr "Distortion - Mosaic"
+
+msgid "Distortion - Triangle"
+msgstr "Distortion - Triangle"
+
+msgid "Distortion - Flow"
+msgstr "Vervorming - Flow"
+
+msgid "Distortion - Warp"
+msgstr "Vervorming - Warp"
+
+msgid "Distortion - Storm"
+msgstr "Vervorming - Storm"
+
+msgid "Distortion - Wave"
+msgstr "Distortion - Wave"
+
+msgid "Distortion - Shard"
+msgstr "Vervorming - Shard"
+
+msgid "Distortion - Noise"
+msgstr "Distortion - Noise"
+
+msgid "Slices - Single"
+msgstr "Onderdelen - Enkel"
+
+msgid "Slices - Simple rows and scale"
+msgstr "Onderdelen - Simpele rijen en herschalen"
+
+msgid "Slices - Simple rows and rotate"
+msgstr "Onderdelen - Simpele rijen en roteren"
+
+msgid "Slices - Simple rows reversed"
+msgstr "Onderdelen - Simpele rijen omgekeerd"
+
+msgid "Slices - Simple rows and blur"
+msgstr "Onderdelen - Simpele rijen en wazig maken"
+
+msgid "Slices - Triangle"
+msgstr "Onderdelen - Driehoek"
+
+msgid "Slices - Reversed triangle"
+msgstr "Onderdelen - Omgekeerde driehoek"
+
+msgid "Scale to left"
+msgstr "Schaal naar links"
+
+msgid "Rotate to left"
+msgstr "Roteer naar links"
+
+msgid "Fixed to left"
+msgstr "Vast aan linkerkant"
+
+msgid "Parallax to left"
+msgstr "Parallax naar links"
+
+msgid "Flow"
+msgstr "Vloeiend"
+
+msgid "Flowing rows"
+msgstr "Vloeiende rijen"
+
+msgid "Flowing cols"
+msgstr "Vloeiende kolommen"
+
+msgid "Flowing tiles"
+msgstr "Vloeiende tegels"
+
+msgid "Slide to left"
+msgstr "Schuif naar links"
+
+msgid "Stage"
+msgstr "Stadium"
+
+msgid "Zoom"
+msgstr "Zoomen"
+
+msgid "Zoom out"
+msgstr "Uitzoomen"
+
+msgid "Curtain to left"
+msgstr "Gordijn naar links"
+
+msgid "Blocks to left"
+msgstr "Blokken naar links"
+
+msgid "Slices to left"
+msgstr "Onderdelen naar links"
+
+msgid "Reversed slices to left"
+msgstr "Omgekeerde stukjes naar links"
+
+msgid "Puzzle"
+msgstr "Puzzel"
+
+msgid "Switching to left"
+msgstr "Omschakelen naar links"
+
+msgid "Explode"
+msgstr "Opblazen"
+
+msgid "Rebuild"
+msgstr "Heropbouwen"
+
+msgid "Page turn to left"
+msgstr "Pagina omslaan naar links"
+
+msgid "3D bricks to left"
+msgstr "3D bakstenen naar links"
+
+msgid "Vertical spin to left"
+msgstr "Verticaal draaien naar links"
+
+msgid "3D rows to left"
+msgstr "3D rijen naar links"
+
+msgid "3D columns to left"
+msgstr "3D kolommen naar links"
+
+msgid "Spinning cuboid to left"
+msgstr "Naar links draaiende kubus"
+
+msgid "Turning cuboid to left"
+msgstr "Draaiende kubus naar links"
+
+msgid "Scale to top"
+msgstr "Schaal naar boven"
+
+msgid "Scale to bottom"
+msgstr "Schaal naar beneden"
+
+msgid "Rotate to top"
+msgstr "Roteer naar de top"
+
+msgid "Rotate to bottom"
+msgstr "Roteer naar de bodem"
+
+msgid "Fixed to top"
+msgstr "Vast aan bovenkant"
+
+msgid "Fixed to bottom"
+msgstr "Vast aan onderkant"
+
+msgid "Parallax to top"
+msgstr "Parallax naar boven"
+
+msgid "Parallax to bottom"
+msgstr "Parallax naar beneden"
+
+msgid "Flowing tiles vertical"
+msgstr "Vloeiende tegels verticaal"
+
+msgid "Slide to bottom"
+msgstr "Schuif naar beneden"
+
+msgid "Slide to top"
+msgstr "Schuif naar boven"
+
+msgid "Curtain to bottom"
+msgstr "Gordijn naar beneden"
+
+msgid "Curtain to top"
+msgstr "Gordijn naar boven"
+
+msgid "Switching to bottom"
+msgstr "Omschakelen naar beneden"
+
+msgid "Switching to top"
+msgstr "Omschakelen naar boven"
+
+msgid "Horizontal spin to bottom"
+msgstr "Horizontaal doen draaien naar beneden"
+
+msgid "Horizontal spin to top"
+msgstr "Horizontaal doen draaien naar boven"
+
+msgid "3D bricks to bottom"
+msgstr "3D bakstenen naar beneden"
+
+msgid "3D bricks to top"
+msgstr "3D bakstenen naar boven"
+
+msgid "3D rows to bottom"
+msgstr "3D rijen naar beneden"
+
+msgid "3D rows to top"
+msgstr "3D rijen naar boven"
+
+msgid "3D columns to bottom"
+msgstr "3D kolommen naar beneden"
+
+msgid "3D columns to top"
+msgstr "3D kolommen naar boven"
+
+msgid "Spinning cuboid to bottom"
+msgstr "Naar beneden draaiende kubus"
+
+msgid "Spinning cuboid to top"
+msgstr "Naar boven draaiende kubus"
+
+msgid "Turning cuboid to bottom"
+msgstr "Draaiende kubus naar beneden"
+
+msgid "Turning cuboid to top"
+msgstr "Draaiende kubus naar boven"
+
+msgid "Scale to right"
+msgstr "Schaal naar rechts"
+
+msgid "Rotate to right"
+msgstr "Roteer naar rechts"
+
+msgid "Fixed to right"
+msgstr "Vast aan rechterkant"
+
+msgid "Parallax to right"
+msgstr "Parallax naar rechts"
+
+msgid "Flow - reversed"
+msgstr "Vloeiend - omgekeerd"
+
+msgid "Slide to right"
+msgstr "Schuif naar rechts"
+
+msgid "Curtain to right"
+msgstr "Gordijn naar rechts"
+
+msgid "Blocks to right"
+msgstr "Blokken naar rechts"
+
+msgid "Slices to right"
+msgstr "Onderdelen naar rechts"
+
+msgid "Reversed slices to right"
+msgstr "Omgekeerde stukjes naar rechts"
+
+msgid "Switching to right"
+msgstr "Omschakelen naar rechts"
+
+msgid "Page turn to right"
+msgstr "Pagina omslaan naar rechts"
+
+msgid "Vertical spin to right"
+msgstr "Verticaal draaien naar rechts"
+
+msgid "3D bricks to right"
+msgstr "3D bakstenen naar rechts"
+
+msgid "3D rows to right"
+msgstr "3D rijen naar rechts"
+
+msgid "3D columns to right"
+msgstr "3D kolommen naar rechts"
+
+msgid "Spinning cuboid to right"
+msgstr "Naar rechts tollende kubus"
+
+msgid "Turning cuboid to right"
+msgstr "Draaiende kubus naar rechts"
+
+msgid "Downscale left"
+msgstr "Terugschalen links"
+
+msgid "Downscale right"
+msgstr "Terugschalen rechts"
+
+msgid "Downscale top"
+msgstr "Terugschalen bovenaan"
+
+msgid "Downscale bottom"
+msgstr "Terugschalen onderaan"
+
+msgid "Upscale left"
+msgstr "Groter maken naar links"
+
+msgid "Upscale right"
+msgstr "Groter maken naar rechts"
+
+msgid "Upscale top"
+msgstr "Groter maken naar boven"
+
+msgid "Upscale bottom"
+msgstr "Groter maken naar beneden"
+
+msgid "To left"
+msgstr "Naar links"
+
+msgid "To right"
+msgstr "Naar rechts"
+
+msgid "To top left"
+msgstr "Naar boven links"
+
+msgid "To top right"
+msgstr "Naar boven rechts"
+
+msgid "To bottom left"
+msgstr "Naar beneden links"
+
+msgid "To bottom right"
+msgstr "Naar beneden rechts"
+
+msgid "My layouts"
+msgstr "Mijn lay-outs"
+
+msgctxt "Arrow direction"
+msgid "Previous"
+msgstr "Vorige"
+
+msgid "Previous image"
+msgstr "Vorige afbeelding"
+
+msgid "Hover color"
+msgstr "Muisover kleur"
+
+msgid "Mirror"
+msgstr "Spiegel"
+
+msgctxt "Arrow direction"
+msgid "Next"
+msgstr "Volgende"
+
+msgid "Next image"
+msgstr "Volgende afbeelding"
+
+msgid "Arrow"
+msgstr "Pijl"
+
+msgid "Previous position"
+msgstr "Vorige positie"
+
+msgid "Next position"
+msgstr "Volgende positie"
+
+msgid "Previous alt tag"
+msgstr "Vorige alt tag"
+
+msgid "Next alt tag"
+msgstr "Volgende alt tag"
+
+msgid "Base64"
+msgstr "Base64"
+
+msgid ""
+"Base64 encoded arrow images are loading faster and they are colorable. But "
+"optimization plugins often have errors in their codes related to them, so if "
+"your arrow won't load, turn this option off."
+msgstr ""
+"Base64 geëncodeerde pijl afbeeldingen laden sneller en zij kunnen gekleurd "
+"worden. Maar optimalisatie plugins hebben vaak fouten in hun codes die "
+"hiermee verband houden. Als uw pijl dus niet inlaadt schakel deze optie dan "
+"uit."
+
+msgid "Image width - Desktop"
+msgstr "Afbeelding breedte - Desktop"
+
+msgid "Image width - Tablet"
+msgstr "Afbeelding breedte - Tablet"
+
+msgid "Image width - Mobile"
+msgstr "Afbeelding breedte - Mobieltje"
+
+msgid "Pause"
+msgstr "Pauzeren"
+
+msgid "Play autoplay"
+msgstr "Automatisch spelen"
+
+msgid "Pause autoplay"
+msgstr "Pauzeer automatisch spelen"
+
+msgid "Bar"
+msgstr "Balk"
+
+msgid "Slide count"
+msgstr "Aantal slides"
+
+msgid ""
+"The \"Title\" will be the index of the slide and \"Description\" will be the "
+"total number of slides."
+msgstr ""
+"De \"Titel\" zal de index van de slide zijn en \"Beschrijving\" zal het "
+"totaal aantal slides zijn."
+
+msgid "Separator"
+msgstr "Scheidingsteken"
+
+#, php-format
+msgid ""
+"You can set what separates the Tex bar Title and Description. This separator "
+"is used at the Slide count option, too, to separate the current and total "
+"slide number. %1$s To put the Description to a new line, use the &lt;br&gt; "
+"HTML tag."
+msgstr ""
+"U kunt instellen wat de titel van de tekstbalk en de beschrijving scheidt. "
+"Deze scheiding wordt ook gebruikt in de slide teller optie, om het huidige "
+"slide nummer te scheiden van het totaal aantal slides. %1$s Om de "
+"beschrijving op een nieuwe regel te tonen kunt u de &lt;br&gt; HTML tag "
+"gebruiken."
+
+msgid "Bar full size"
+msgstr "Balk volledige grootte"
+
+msgid "Shows on hover"
+msgstr "Toont bij muisover"
+
+msgid "Hide on slides"
+msgstr "Verberg op slides"
+
+msgid ""
+"List the slides separated by commas on which you want the controls to be "
+"hidden."
+msgstr ""
+"Lijst met slides, gescheiden door komma's, waarop u de bedieningselementen "
+"wilt verbergen."
+
+msgid "Text bar"
+msgstr "Tekstbalk"
+
+msgid "Bullets"
+msgstr "Opsommingstekens"
+
+msgid "Side"
+msgstr "Zijkant"
+
+msgid "Before"
+msgstr "Ervoor"
+
+msgid "After"
+msgstr "Na"
+
+msgid "Shadow"
+msgstr "Schaduw"
+
+msgid "Thumbnails"
+msgstr "Miniaturen"
+
+msgid "Desktop width"
+msgstr "Breedte voor desktops"
+
+msgid "Tablet width"
+msgstr "Breedte voor tablets"
+
+msgid "Mobile width"
+msgstr "Breedte voor mobieltjes"
+
+msgid "Align thumbnails"
+msgstr "Miniaturen uitlijnen"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "End"
+msgstr "Einde"
+
+msgid "Space between"
+msgstr "Ruimte ertussen"
+
+msgid "Space around"
+msgstr "Ruimte rondom"
+
+msgid "Caption"
+msgstr "Onderschrift"
+
+msgid ""
+"The height (horizontal orientation) or width (vertical orientation) of the "
+"caption container."
+msgstr ""
+"De hoogte (horizontale oriëntatie) of breedte (verticale oriëntatie) van de "
+"onderschrift container."
+
+msgid "Next arrow image"
+msgstr "Volgende pijl afbeelding"
+
+msgid "The previous arrow image will be mirrored."
+msgstr "De vorige pijl afbeelding zal gespiegeld worden."
+
+msgid "Group by"
+msgstr "Groepeer op"
+
+msgctxt "Unit"
+msgid "thumbnails"
+msgstr "miniaturen"
+
+msgid "You can break your thumbnails into rows or columns."
+msgstr "U kunt uw miniaturen opdelen in rijen of kolommen."
+
+msgid ""
+"The height (horizontal orientation) or width (vertical orientation) of the "
+"thumbnail container in px or %."
+msgstr ""
+"De hoogte (horizontale oriëntatie) of breedte (verticale oriëntatie) van de "
+"miniatuur container in px of %."
+
+#, javascript-format
+msgid "Switches %s slide(s)."
+msgstr "Omschakelen van %s slide(s)."
+
+#, javascript-format
+msgid "Loops %s and stops before starting slide."
+msgstr "Herhaalt %s en stopt voor de beginslide."
+
+#, javascript-format
+msgid "Loops %s and returns to starting slide."
+msgstr "Herhaalt %s en keert terug naar de beginslide."
+
+#, javascript-format
+msgid "Switches to the %s. slide."
+msgstr "Schakelt om naar de %s slide."
+
+msgid "Top and bottom"
+msgstr "Bovenaan en onderaan"
+
+msgid "License key cannot be empty!"
+msgstr "Licentiesleutel mag niet leeg zijn!"
+
+msgid "License key is active!"
+msgstr "Licentiesleutel is actief!"
+
+msgid "Missing sliders!"
+msgstr "Ontbrekende sliders!"
+
+msgid "Line color"
+msgstr "Lijnkleur"
+
+msgid "Number of particles"
+msgstr "Aantal deeltjes"
+
+msgid "Grab"
+msgstr "Pak"
+
+msgid "Bubble"
+msgstr "Bubbel"
+
+msgid "Repulse"
+msgstr "Terugstoot"
+
+msgid "Push"
+msgstr "Duwen"
+
+msgid "Remove"
+msgstr "Verwijderen"
+
+msgid "Hide on mobile"
+msgstr "Verbergen op mobiele toestellen"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Secondary"
+msgstr "Secundair"
+
+msgid "Flip"
+msgstr "Spiegelen"
+
+msgid "Grow"
+msgstr "Groeien"
+
+msgid "Shrink"
+msgstr "Krimpen"
+
+msgid "Interval"
+msgstr "Interval"
+
+msgid "Interval modifier"
+msgstr "Interval aanpasser"
+
+msgctxt "Autoplay modifier"
+msgid "loops"
+msgstr "herhalingen"
+
+msgctxt "Autoplay modifier"
+msgid "slide count"
+msgstr "aantal slides"
+
+msgctxt "Autoplay modifier"
+msgid "slide index"
+msgstr "slide index"
+
+msgid "Stops on"
+msgstr "Stopt op"
+
+msgctxt "Autoplay modifier"
+msgid "last slide"
+msgstr "laatste slide"
+
+msgctxt "Autoplay modifier"
+msgid "next slide"
+msgstr "volgende slide"
+
+msgid "Polygons"
+msgstr "Polygonen"
+
+msgid "Bloom"
+msgstr "Gloed"
+
+msgid "Web"
+msgstr "Web"
+
+msgid "Black widow"
+msgstr "Zwarte weduwe"
+
+msgid "Zodiac"
+msgstr "Dierenriem"
+
+msgid "Fading dots"
+msgstr "Vervagende stippen"
+
+msgid "Pirouette"
+msgstr "Pirouette"
+
+msgid "Sparkling"
+msgstr "Glinsterend"
+
+#, php-format
+msgid "Curve %d"
+msgstr "Curve %d"
+
+msgid "Curves"
+msgstr "Curves"
+
+#, php-format
+msgid "Fan %d"
+msgstr "Ventilator %d"
+
+msgid "Hills"
+msgstr "Bergen"
+
+#, php-format
+msgid "Incline %d"
+msgstr "Helling %d"
+
+msgid "Inverse arrow"
+msgstr "Omgekeerde pijl"
+
+msgid "Rectangle"
+msgstr "Rechthoek"
+
+msgid "Slopes"
+msgstr "Hellingen"
+
+#, php-format
+msgid "Tilt %d"
+msgstr "Kantelen %d"
+
+#, php-format
+msgid "Triangle %d"
+msgstr "Driehoek %d"
+
+#, php-format
+msgid "Wave %d"
+msgstr "Golf %d"
+
+msgid "Waves"
+msgstr "Golven"
+
+#, php-format
+msgid "Columns %d"
+msgstr "Kolommen %d"
+
+#, php-format
+msgid "Paper %d"
+msgstr "Papier %d"
+
+msgid "2 Colors"
+msgstr "2 kleuren"
+
+msgid "Fan"
+msgstr "Ventilator"
+
+msgid "Masked waves"
+msgstr "Gemaskeerde golven"
+
+msgid "Ribbon"
+msgstr "Lint"
+
+msgid "The secret is empty. Please insert that value too!"
+msgstr "Het geheim is leeeg. Geef die waarde ook in!"
+
+msgid "The App ID is empty. Please insert that value too!"
+msgstr "Het App ID is leeg. Geef die waarde ook in!"
+
+#, php-format
+msgid ""
+"%1$s allows HTTPS Redirect URIs only! You must move your site to HTTPS in "
+"order to use this generator!"
+msgstr ""
+"%1$s laat alleen HTTPS doorverwijzing URIs toe! U moet uw site naar HTTPS "
+"verplaatsen om deze generator te gebruiken!"
+
+msgid "How to get SSL for my website?"
+msgstr "Hoe get SSL voor mijn website verkrijgen?"
+
+#, php-format
+msgid ""
+"%2$s Check the documentation %3$s to learn how to configure your %1$s app."
+msgstr ""
+"%2$s Raadpleeg de documentatie %3$s om te leren hoe u uw %1$s app moet "
+"configureren."
+
+msgctxt "Facebook app permission"
+msgid "pages read engagement"
+msgstr "pagina's gelezen engagement"
+
+msgid "Pages read engagement permission"
+msgstr "Pagina's lezen engagement permissie"
+
+msgid ""
+"You need \"pages_read_engagement\" permission if you want to access datas of "
+"Facebook pages, where you are an administrator. For other pages you still "
+"need to turn this option on, but request access to \"Page Public Content "
+"Access\" within your App."
+msgstr ""
+"U hebt \"pages_read_engagement\" permissie nodig als u toegang wilt hebben "
+"tot data van Facebook pagina's, waar u een administrator bent. Voor andere "
+"pagina's moet u deze optie nog steeds inschakelen, maar toegang vragen tot "
+"\"Page Public Content Access\" binnen uw app."
+
+msgctxt "Facebook app permission"
+msgid "user photos"
+msgstr "gebruikersfoto's"
+
+msgid "User photos permission"
+msgstr "Gebruiker foto permissie"
+
+msgid ""
+"You need \"user_photos\" permission to access photos of users, except your "
+"own user."
+msgstr ""
+"U moet \"user_photos\" permissie hebben om toegang te krijgen tot foto's van "
+"gebruikers, behalve deze van uzelf."
+
+msgid "Token"
+msgstr "Token"
+
+msgid "Callback url"
+msgstr "Callback URL"
+
+msgid "The token expired. Please request new token! "
+msgstr "Het token is vervallen. Gelieve een nieuw token aan te vragen! "
+
+msgid "Request token"
+msgstr "Request token"
+
+msgid "Facebook photos or posts on your page"
+msgstr "Facebook foto's of inzendingen op uw pagina"
+
+msgid "Photos by album"
+msgstr "Foto's op album"
+
+msgid "Posts by page"
+msgstr "Inzendingen op pagina"
+
+msgid "User or page"
+msgstr "Gebruiker of pagina"
+
+msgid "Album"
+msgstr "Album"
+
+msgctxt "Facebook generator type"
+msgid "Facebook posts"
+msgstr "Facebook posts"
+
+msgid "Page"
+msgstr "Pagina"
+
+msgid "Feed"
+msgstr "Feed"
+
+msgid "Remove special characters"
+msgstr "Verwijder speciale tekens"
+
+msgid "Exclude Types"
+msgstr "Uit te sluiten types"
+
+msgid "Separate the types by a comma. E.g.: share,album"
+msgstr "Scheid de types door een komma. Bijvoorbeeld: share,album"
+
+msgid "The key and secret is not valid!"
+msgstr "De sleutel en geheim is niet geldig!"
+
+msgid "There are no photos in this album!"
+msgstr "Er zitten geen foto's in dit album!"
+
+msgid "Please choose an album!"
+msgstr "Kies een album!"
+
+msgid "There are no photos in this gallery!"
+msgstr "Er zitten geen foto's in deze galerij!"
+
+msgid "Please chooose a gallery!"
+msgstr "Kies een galerij!"
+
+msgid "Privacy"
+msgstr "Privacy"
+
+msgid "There are no photos with this privacy filter!"
+msgstr "Er zijn geen foto's met deze privacy filter!"
+
+msgctxt "Flickr generator type"
+msgid "Flickr search"
+msgstr "Flickr zoeken"
+
+msgid "User name or ID"
+msgstr "Gebruikersnaam of ID"
+
+msgid "Search in title, description or tags"
+msgstr "Zoek in de titel, beschrijving of tags"
+
+msgid "Folder"
+msgstr "Map"
+
+msgid "Images in folder"
+msgstr "Afbeeldingen in map"
+
+msgid "Images in folder and subfolders"
+msgstr "Afbeeldingen in mappen en submappen"
+
+msgid "Videos in folder"
+msgstr "Video's in map"
+
+msgid "Source folder"
+msgstr "Bronmap"
+
+msgid "Filename based exclusion"
+msgstr "Op bestandsnaam gebaseerde uitsluiting"
+
+msgid "Remove resized images"
+msgstr "Verwijder herschaalde afbeeldingen"
+
+msgid ""
+"This option removes files that match the \"-[number]x[number].[extension]\" "
+"pattern in the end of their file names. For example, \"myimage.jpg\" will "
+"stay in the generator result, but \"myimage-120x120.jpg\" will be removed, "
+"because it's the same image, just in a smaller size."
+msgstr ""
+"Deze optie verwijdert bestanden die voldoen aan het  \"-[getal]x[getal]."
+"[extensie]\" patroon aan het einde van hun bestandsnamen. Bijvoorbeeld: "
+"\"mijnafbeelding.jpg\" zal in het generator resultaat blijven, maar "
+"\"mijnafbeelding-120x120.jpg\" zal verwijderd worden, omdat het om dezelfde "
+"afbeelding gaat, alleen in een kleiner formaat."
+
+msgid "Filename has to contain"
+msgstr "Bestandsnaam moet bevatten"
+
+msgid ""
+"Only those images will be asked down, which have the given texts within "
+"their filenames. You can write down multiple texts separated by comma."
+msgstr ""
+"Alleen die afbeeldingen die de gegeven tekst in hun bestandsnaam hebben "
+"zullen opgevraagd worden. U mag meerdere teksten neerschrijven, gescheiden "
+"door komma's."
+
+msgid "Filename cannot contain"
+msgstr "Bestandsnaam mag niet bevatten"
+
+msgid ""
+"Only those images will be asked down, which don't have the given texts "
+"within their filenames. You can write down multiple texts separated by comma."
+msgstr ""
+"Alleen die afbeeldingen die de gegeven tekst niet in hun bestandsnaam hebben "
+"zullen opgevraagd worden. U mag meerdere teksten neerschrijven, gescheiden "
+"door komma's."
+
+msgid "Filename"
+msgstr "Bestandsnaam"
+
+msgid "Creation date"
+msgstr "Aanmaakdatum"
+
+msgid ""
+"Wrong path. This is the default image folder path, so try to navigate from "
+"here:"
+msgstr ""
+"Verkeerd pad. Dit is het standaard pad naar de afbeeldingsmap. Probeer dus "
+"te navigeren vanaf hier:"
+
+msgid "Folder not found."
+msgstr "Map niet gevonden."
+
+msgid ""
+"Wrong path. This is the default upload/media folder path, so try to navigate "
+"from here:"
+msgstr ""
+"Verkeerd pad. Dit is het standaard pad naar de upload/media map. Probeer dus "
+"te navigeren vanaf hier:"
+
+msgid "The App ID and the Secret is empty!"
+msgstr "Het App ID en het geheim zijn leeg!"
+
+msgid "The token will expire at:"
+msgstr "Het token zal vervallen op:"
+
+msgid "Access token was not returned.Please check the credentials!"
+msgstr ""
+"Het toegangstoken werd niet teruggegeven. Controleer uw aanmeldgegevens!"
+
+msgid "The token expired. Please request new token!"
+msgstr "Het token is vervallen. Gelieve een nieuw token aan te vragen!"
+
+msgid "The token will expire in two days! Please refresh the token!"
+msgstr "Het token zal binnen twee dagen vervallen. Gelieve het te vernieuwen!"
+
+msgid "Refresh Token"
+msgstr "Vernieuw token"
+
+msgid "Refresh"
+msgstr "Vernieuwen"
+
+msgid "Album loading method"
+msgstr "Album laadmethode"
+
+msgid "Load first images only"
+msgstr "Laad alleen de eerste afbeeldingen"
+
+msgid "Load album images separately"
+msgstr "Album afbeeldingen apart inladen"
+
+msgid "Load Album images as record data"
+msgstr "Laad album afbeeldingen als record data"
+
+msgid "JSON from url"
+msgstr "JSON van URL"
+
+msgid "JSON from input"
+msgstr "JSON van invoer"
+
+msgid "Level separation"
+msgstr "Niveau scheiding"
+
+msgid ""
+"JSON codes can be customized to have many different levels. From a code it "
+"is impossible to know from which level do you want to use the given datas on "
+"the different slides, so you have to select that level from this list."
+msgstr ""
+"JSON codes kunnen aangepast worden zodat zij veel verschillende niveaus "
+"hebben. Uit een code is onmogelijk vast te stellen van welk niveau u de "
+"gegeven data op de verschillende slides wilt gebruiken, dus moet u dat "
+"niveau uit deze lijst kiezen."
+
+#, php-format
+msgid ""
+"The given text is not valid XML! %1$sValidate your code%2$s to make sure it "
+"is correct."
+msgstr ""
+"De gegeven tekst is geen geldige XML! %1$sValideer uw code%2$s om u ervan te "
+"vergewissen dat ze correct is."
+
+#, php-format
+msgid ""
+"The given text is not valid JSON! %1$sValidate your code%2$s to make sure it "
+"is correct."
+msgstr ""
+"De gegeven tekst is geen geldige JSON! %1$sValideer uw code%2$s om u ervan "
+"te vergewissen dat ze correct is."
+
+msgid ""
+"Try to change the \"Level separation\" or \"Remove levels from result\" "
+"setting."
+msgstr ""
+"Probeer de \"Niveau scheiding\" of \"Verwijder niveaus uit resultaat\" "
+"instelling."
+
+msgid "Images"
+msgstr "Afbeeldingen"
+
+msgid "Offset hours"
+msgstr "Compensatie uren"
+
+msgid "Timezone offset in hours. For example: +2 or -7."
+msgstr "Tijdzone compensatie in uur. Bijvoorbeeld: +2 of -7."
+
+msgid "The data in the given url is not valid XML."
+msgstr "De data in de gegeven URL is geen geldige XML."
+
+msgid "CSV from url"
+msgstr "CSV uit URL"
+
+msgid "CSV from input"
+msgstr "CSV uit invoer"
+
+msgid "View tweet"
+msgstr "Bekijk tweet"
+
+msgid "Comments"
+msgstr "Commentaren"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Likes"
+msgstr "Likes"
+
+msgid "Manual"
+msgstr "Handmatig"
+
+msgid "Modified time"
+msgstr "Aanpassingstijd"
+
+msgid "Plays"
+msgstr "Speelt"
+
+msgid "Playlist"
+msgstr "Playlist"
+
+msgid "optional"
+msgstr "optioneel"
+
+#, php-format
+msgid "Creates slides from %1$s content."
+msgstr "Maakt slides van %1$s content."
+
+msgid "Include subcategories"
+msgstr "Inclusief subcategorieën"
+
+msgid "Frontpage"
+msgstr "Voorpagina"
+
+msgid "Exclude ID"
+msgstr "Uit te sluiten ID"
+
+msgid "Category title"
+msgstr "Categorie titel"
+
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+msgid "View post"
+msgstr "Bekijk inzending"
+
+msgid "Resolved"
+msgstr "Opgelost"
+
+msgid "Only main discussions"
+msgstr "Alleen hoofd discussies"
+
+msgid "View discussion"
+msgstr "Bekijk discussie"
+
+msgid "Events"
+msgstr "Evenementen"
+
+msgid "Albums"
+msgstr "Albums"
+
+msgid "Videos"
+msgstr "Video's"
+
+msgid "Pages"
+msgstr "Pagina's"
+
+msgid "Users"
+msgstr "Gebruikers"
+
+msgid "Allowed user IDs"
+msgstr "Toegelaten gebruiker IDs"
+
+msgid "Separate them by comma."
+msgstr "Scheid ze door een komma."
+
+msgid "Banned user IDs"
+msgstr "Verbannen gebruiker IDs"
+
+msgid "Started"
+msgstr "Begonnen"
+
+msgid "Ended"
+msgstr "Beëindigd"
+
+msgid "All day"
+msgstr "Ganse dag"
+
+msgid "Recurring events"
+msgstr "Herhalende evenementen"
+
+msgid "Open"
+msgstr "Open"
+
+msgid "Closed"
+msgstr "Gesloten"
+
+msgid "Invite only"
+msgstr "Alleen op uitnodiging"
+
+msgid "Location"
+msgstr "Locatie"
+
+msgid "Pull posts only from these users. Separate them by comma."
+msgstr ""
+"Haal alleen de inzendingen van deze gebruikers op. Scheid ze door een komma."
+
+msgid "Do not pull posts from these users. Separate them by comma."
+msgstr ""
+"Haal geen inzendingen van deze gebruikers op. Scheid ze door een komma."
+
+msgid "Public"
+msgstr "Publiek"
+
+msgid "Private"
+msgstr "Privé"
+
+msgid "Notification"
+msgstr "Verwittiging"
+
+msgid "Email only"
+msgstr "Alleen E-mail"
+
+msgid "Internal only"
+msgstr "Alleen intern"
+
+msgid "Profiles"
+msgstr "Profielen"
+
+msgid "Badges"
+msgstr "Badges"
+
+msgid "Register date"
+msgstr "Registratiedatum"
+
+msgid "Last visit date"
+msgstr "Laatste bezoeksdatum"
+
+msgid "Points"
+msgstr "Punten"
+
+msgid "Products"
+msgstr "Producten"
+
+msgid "Manufacturer"
+msgstr "Fabrikant"
+
+msgid "On discount"
+msgstr "In afslag"
+
+msgid "In stock"
+msgstr "Op voorraad"
+
+msgid "Currency"
+msgstr "Munteenheid"
+
+msgid "Product language"
+msgstr "Product taal"
+
+msgid "Category language"
+msgstr "Categorie taal"
+
+msgid "Manufacturer language"
+msgstr "Fabrikant taal"
+
+msgid "Price"
+msgstr "Prijs"
+
+msgid "Product name"
+msgstr "Product naam"
+
+msgid "Product ID"
+msgstr "Product ID"
+
+msgid "Locations"
+msgstr "Locaties"
+
+msgid "Recurring"
+msgstr "Herhalend"
+
+msgid "All, but from recurring ones only parent events"
+msgstr "Allemaal, maar van herhalende alleen de bovenste evenementen"
+
+msgid "Only recurring events"
+msgstr "Alleen zich herhalende evenementen"
+
+msgid "Only recurring event parents"
+msgstr "Alleen zich herhalende moederevenementen"
+
+msgid "Only not recurring events"
+msgstr "Alleen zich niet herhalende evenementen"
+
+msgid "Menu item (item ID)"
+msgstr "Menu item (item ID)"
+
+msgid "Start date"
+msgstr "Startdatum"
+
+msgid "End date"
+msgstr "Einddatum"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Discount"
+msgstr "Korting"
+
+msgid "Registration start date"
+msgstr "Registratie begindatum"
+
+msgid "Cut off date"
+msgstr "Einde termijn"
+
+msgid "Cancel before date"
+msgstr "Annuleren voor datum"
+
+msgid "Publish up date"
+msgstr "Datum publiceren"
+
+msgid "Publish down date"
+msgstr "Datum depubliceren"
+
+msgid "Early bird discount date"
+msgstr "Korting vroege vogel datum"
+
+msgid "Early bird discount amount"
+msgstr "Kortingsbedrag vroege vogels"
+
+msgid "Late fee date"
+msgstr "Late vergoedingsdatum"
+
+msgid "Recurring end date"
+msgstr "Herhaling einddatum"
+
+msgid "Max end date"
+msgstr "Max einddatum"
+
+msgid "Only display items with these IDs"
+msgstr "Toon alleen items met deze IDs"
+
+msgid ""
+"Timezone offset in hours. For example: +2 or -7. If you leave it empty, "
+"Joomla's System -> Global Configuration -> Server -> Server Time Zone "
+"setting will be used."
+msgstr ""
+"Tijdzone compensatie in uur. Bijvoorbeeld: +2 of -7. Als u dit leeg laat, "
+"dan zal de  Joomla instelling uit Systeem -> Globale configuratie -> Server -"
+"> Servertijdzone gebruikt worden."
+
+msgid "Brand"
+msgstr "Merk"
+
+msgid "Tag"
+msgstr "Tag"
+
+msgid "Warehouse"
+msgstr "Magazijn"
+
+msgid "Include all images"
+msgstr "Neem alle afbeeldingen op"
+
+msgid "Sales"
+msgstr "Verkoop"
+
+msgid "Average score"
+msgstr "Gemiddelde score"
+
+msgid "Total vote"
+msgstr "Totaal stemmen"
+
+msgid "Product IDs"
+msgstr "Product IDs"
+
+msgid ""
+"Write the product IDs you want to display here, in the order you want them "
+"to appear in the generator. One product ID per line."
+msgstr ""
+"Schrijf hier de product IDs die u wilt tonen, in de volgorde dat ze in de "
+"generator moeten verschijnen. Eén product ID per regel."
+
+msgid "One time events"
+msgstr "Eenmalige evenementen"
+
+msgid "Repeating events"
+msgstr "Herhalende evenementen"
+
+msgid "Date language"
+msgstr "Datum taal"
+
+msgid "Date variable offset"
+msgstr "Datumvariabele compensatie"
+
+msgid "Date filter offset"
+msgstr "Datumfilter compensatie"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Trashed"
+msgstr "In prullenbak"
+
+msgid "Ask down all product images"
+msgstr "Vraag alle product afbeeldingen op"
+
+msgid "Items"
+msgstr "Items"
+
+msgid "View item"
+msgstr "Bekijk item"
+
+msgid "Viewed"
+msgstr "Bekeken"
+
+msgid "View image"
+msgstr "Bekijk afbeelding"
+
+msgid "All day event"
+msgstr "Ganse dag evenement"
+
+msgid "Fallback language"
+msgstr "Terugval taal"
+
+msgid "Show parent products only"
+msgstr "Toon alleen bovenliggende producten"
+
+#, php-format
+msgid "Creates slides from %1$s galleries."
+msgstr "Maakt slides van %1$s galerijen."
+
+msgid "Gallery"
+msgstr "Galerij"
+
+msgid "View gallery"
+msgstr "Bekijk galerij"
+
+msgid "Creates slides by your custom settings."
+msgstr "Maakt slides volgens uw aangepaste instellingen."
+
+#, php-format
+msgid ""
+"You don't have custom generators yet. %1$s Check the documentation %2$s to "
+"learn how to create your own generator."
+msgstr ""
+"U hebt nog geen aangepaste generatoren. %1$s Raadpleeg de documentatie %2$s "
+"om te weten te komen hoe u uw eigen generator moet maken."
+
+msgid "No options given"
+msgstr "Geen opties gegeven"
+
+#, php-format
+msgid "Creates slides from %1$s events."
+msgstr "Maakt slides van %1$s evenementen."
+
+msgid "Exclude event IDs (One ID per line)"
+msgstr "Uit te sluiten evenement ID (één ID per regel)"
+
+msgid "Location town"
+msgstr "Locatie stad"
+
+msgid "Location state"
+msgstr "Locatie provincie"
+
+msgid "Get all multisite events"
+msgstr "Haal alle multisite evenementen op"
+
+msgid "Order result"
+msgstr "Sorteer resultaat"
+
+msgid "Events per site"
+msgstr "Evenementen per site"
+
+msgid "Format date variables"
+msgstr "Formatteer datum variabelen"
+
+msgid ""
+"With the WordPress Settings -> General -> Timezone and Date format, new "
+"variables will be generated from the given variables. Separate them with "
+"comma."
+msgstr ""
+"Met de WordPress instellingen -> Algemeen -> Tijdzone en datum formaat "
+"zullen nieuwe variabelen gegenereerd worden vanaf de gegeven variabelen. "
+"Scheid ze door een komma."
+
+msgid "Start time text"
+msgstr "Begintijd tekst"
+
+msgid "End date text"
+msgstr "Einddatum tekst"
+
+msgid "End time text"
+msgstr "Eindtijd tekst"
+
+msgid "Rsvp date"
+msgstr "Rsvp datum"
+
+msgid "Multisite Posts"
+msgstr "Multisite inzendingen"
+
+msgid "Source gallery"
+msgstr "Bron galerij"
+
+msgid "Organizers"
+msgstr "Organisatoren"
+
+msgid "Venues"
+msgstr "Plaatsen"
+
+msgid "Hide From Event Listings"
+msgstr "Verberg in evenement listings"
+
+msgid "Event start date"
+msgstr "Evenement begindatum"
+
+msgid "Event end date"
+msgstr "Evenement einddatum"
+
+msgid "Event cost"
+msgstr "Evenement prijs"
+
+msgid "Event creation date"
+msgstr "Evenement aanmaakdatum"
+
+msgid "Event modification date"
+msgstr "Evenement aanpassingsdatum"
+
+msgid "Metakey name"
+msgstr "Metakey naam"
+
+msgid "If its set, this will be used instead of the 'Field' value."
+msgstr ""
+"Indien dit ingesteld is dan zal het gebruikt worden in plaats van de 'Veld' "
+"waarde."
+
+msgid "Sorting method"
+msgstr "Sorteermethode"
+
+msgid "Galleries"
+msgstr "Galerijen"
+
+msgid "Upload date"
+msgstr "Upload datum"
+
+msgid "Average rating"
+msgstr "Gemiddelde waardering"
+
+msgid "Rate count"
+msgstr "Aantal beoordelingen"
+
+msgid "Hit count"
+msgstr "Aantal hits"
+
+msgid "Root"
+msgstr "Hoofdmap"
+
+msgid "Products by filter"
+msgstr "Producten op filter"
+
+msgid "Products by IDs and/or SKUs"
+msgstr "Producten op IDs en/of SKUs"
+
+msgid ""
+"Creates slides from your WooCommece categories. (Not from the products "
+"inside them.)"
+msgstr ""
+"Maakt slides van uw WooCommece categorieën (niet van de producten die erin "
+"zitten)."
+
+msgid "Submenu limit"
+msgstr "Submenu limiet"
+
+msgid "No limit"
+msgstr "Geen limiet"
+
+msgid "Hide empty categories"
+msgstr "Verberg lege categorieën"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "Downloadable"
+msgstr "Downloadbaar"
+
+msgid "Virtual"
+msgstr "Virtueel"
+
+msgid "Create text variables (one per line)"
+msgstr "Maak tekst variabelen (een per regel)"
+
+msgid ""
+"if 'variable' equals to 'equalvalue', then you will get the text 'true', but "
+"if it's not equal, the text will be 'false'. The new variable's name will be "
+"textvariable (the 'variable' replaced by your variable's name)."
+msgstr ""
+"als 'variabele' gelijk is aan 'gelijkewaarde' dan krijgt u de tekst 'true', "
+"maar als hij niet gelijk is dan zal de tekst 'false' zijn. De naam van de "
+"nieuwe variabele zal tekstvariabele  zijn (de 'variabele' vervangen door de "
+"naam van uw variabele)."
+
+msgid "Round rating"
+msgstr "Beoordeling afronden"
+
+msgid "Half"
+msgstr "Half"
+
+msgid "Third"
+msgstr "Derde"
+
+msgid "Quarter"
+msgstr "Kwart"
+
+msgid "Visibility"
+msgstr "Zichtbaarheid"
+
+msgid "Shop and search results"
+msgstr "Shop en zoek resultaten"
+
+msgid "Shop only"
+msgstr "Alleen shoppen"
+
+msgid "Search results only"
+msgstr "Alleen zoekresultaten"
+
+msgid "Replace these timestamp variables"
+msgstr "Vervang deze tijdstempel variabelen"
+
+#, php-format
+msgid "Any PHP date format can be used: %s"
+msgstr "Eender welk PHP datumformaat mag gebruikt worden: %s"
+
+msgid "Total sales"
+msgstr "Totale verkoop"
+
+msgid "Regular price"
+msgstr "Normale prijs"
+
+msgid "Sale price"
+msgstr "Verkoopsprijs"
+
+msgid "IDs (one per line)"
+msgstr "IDs (één per regel)"
+
+msgid "SKUs (one per line)"
+msgstr "SKUs (één per regel)"
+
+msgid "Move"
+msgstr "Verplaatsen"
+
+msgid "Reveal"
+msgstr "Onthullen"
+
+msgid "Bounce"
+msgstr "Stuiteren"
+
+msgid "Special"
+msgstr "Speciaal"
+
+msgid "Left fade"
+msgstr "Links vervagen"
+
+msgid "Right fade"
+msgstr "Rechts vervagen"
+
+msgid "Top fade"
+msgstr "Bovenaan vervagen"
+
+msgid "Bottom fade"
+msgstr "Onderaan vervagen"
+
+msgid "Flash"
+msgstr "Flits"
+
+msgid "Left to Right"
+msgstr "Links naar rechts"
+
+msgid "Top to Bottom"
+msgstr "Van boven naar beneden"
+
+msgid "Skew Left to Right"
+msgstr "Links naar rechts scheeftrekken"
+
+msgid "Downscale back out"
+msgstr "Terugschalen uitzoomend"
+
+msgid "Upscale back out"
+msgstr "Groter maken naar buiten"
+
+msgid "Pulse"
+msgstr "Pulseren"
+
+msgid "Flip left"
+msgstr "Links spiegelen"
+
+msgid "Flip right"
+msgstr "Rechts spiegelen"
+
+msgid "Flip down"
+msgstr "Naar onder spiegelen"
+
+msgid "Flip up"
+msgstr "Naar boven spiegelen"
+
+msgid "Flip in X"
+msgstr "Spiegelen om X"
+
+msgid "Flip in Y"
+msgstr "Spiegelen om Y"
+
+msgid "Flap"
+msgstr "Afhangende rand"
+
+msgid "Rotate top left"
+msgstr "Roteer naar linksboven"
+
+msgid "Rotate top right"
+msgstr "Roteer naar rechtsboven"
+
+msgid "Roll in"
+msgstr "Binnenrollen"
+
+msgid "Rotate top left back out"
+msgstr "Roteer naar linksboven en terug naar buiten"
+
+msgid "Rotate all axis"
+msgstr "Roteer alle assen"
+
+msgid "Bounce in"
+msgstr "Binnenstuiteren"
+
+msgid "Bounce in left"
+msgstr "Links binnenstuiteren"
+
+msgid "Bounce in right"
+msgstr "Rechts binnenstuiteren"
+
+msgid "Bounce in down"
+msgstr "Naar beneden binnenstuiteren"
+
+msgid "Bounce in up"
+msgstr "Naar boven binnenstuiteren"
+
+msgid "Rubber band"
+msgstr "Elastiekje"
+
+msgid "Shake"
+msgstr "Schudden"
+
+msgid "Swing"
+msgstr "Zwaai"
+
+msgid "Wooble"
+msgstr "Wooble"
+
+msgid "Roll"
+msgstr "Rollen"
+
+msgid "Grow rotate"
+msgstr "Groeiend roteren"
+
+msgid "Pendulum"
+msgstr "Slinger"
+
+msgid "Pendulum 3D"
+msgstr "Slinger 3D"
+
+msgid "Vertical pendulum 3D"
+msgstr "Verticale slinger 3D"
+
+msgid "We are Passionate About"
+msgstr "We zijn gepassioneerd door"
+
+msgid ""
+"Amazing Food\n"
+"Great Hospitality"
+msgstr ""
+"Geweldig eten\n"
+"Warme gastvrijheid"
+
+msgid "Before text"
+msgstr "Voor de tekst"
+
+msgid "Animated text"
+msgstr "Geanimeerde tekst"
+
+msgid "After text"
+msgstr "Na tekst"
+
+msgid "Rotating"
+msgstr "Roteren"
+
+msgid "Drop-in"
+msgstr "Binnenvallen"
+
+msgid "Slide down"
+msgstr "Naar beneden schuiven"
+
+msgid "Typewriter"
+msgstr "Schrijfmachine"
+
+msgid "Chars"
+msgstr "Tekens"
+
+msgid "Chars 2"
+msgstr "Tekens 2"
+
+msgid "Auto width"
+msgstr "Automatische breedte"
+
+msgid "Cursor color"
+msgstr "Cursor kleur"
+
+msgctxt "Effect"
+msgid "Loop"
+msgstr "Herhalen"
+
+msgid "Show duration"
+msgstr "Toon tijdsduur"
+
+msgid "Class on the selected tag element."
+msgstr "Class op het geselecteerde tag element."
+
+msgid "Area"
+msgstr "Zone"
+
+msgid "Write custom CSS codes here without selectors."
+msgstr "Schrijf hier aangepaste CSS codes zonder selectors."
+
+msgid "Audio"
+msgstr "Audio"
+
+msgid "MP3 audio"
+msgstr "MP3 audio"
+
+msgid "Main color"
+msgstr "Hoofdkleur"
+
+msgid "Secondary color"
+msgstr "Secundaire kleur"
+
+msgid "Audio settings"
+msgstr "Audio instellingen"
+
+#, php-format
+msgid ""
+"Audio autoplaying has a lot of limitations made by browsers. You can read "
+"about them %1$shere%2$s."
+msgstr ""
+"Audio automatisch spelen heeft een groot aantal beperkingen in bepaalde "
+"browsers. U kunt er %1$shier%2$s over lezen."
+
+msgid "Starts the audio from the beginning when the slide is viewed again."
+msgstr "Start de audio vanaf het begin als de slide opnieuw bekeken wordt."
+
+msgid "Progress"
+msgstr "Voortgang"
+
+msgid "Time"
+msgstr "Tijd"
+
+msgid "Icon Size"
+msgstr "Icoon grootte"
+
+msgid "Before After"
+msgstr "Voor Na"
+
+msgid "Left top"
+msgstr "Linksboven"
+
+msgid "Center top"
+msgstr "Centraal bovenaan"
+
+msgid "Right top"
+msgstr "Rechtsboven"
+
+msgid "Left center"
+msgstr "Links midden"
+
+msgid "Right Center"
+msgstr "Rechts midden"
+
+msgid "Left bottom"
+msgstr "Links onderaan"
+
+msgid "Center bottom"
+msgstr "Centraal onderaan"
+
+msgid "Right bottom"
+msgstr "Rechtsonder"
+
+msgid "Before Image"
+msgstr "Voor de afbeelding"
+
+msgid "After Image"
+msgstr "Na de afbeelding"
+
+msgid "Labels"
+msgstr "Labels"
+
+msgid "Show Label"
+msgstr "Toon label"
+
+msgid "Always"
+msgstr "Altijd"
+
+msgid "Before label"
+msgstr "Voor het label"
+
+msgid "After label"
+msgstr "Na het label"
+
+msgid "Behavior"
+msgstr "Gedrag"
+
+msgid "Interaction"
+msgstr "Interactie"
+
+msgid "Divider"
+msgstr "Scheiding"
+
+msgid "Line"
+msgstr "Lijn"
+
+msgid "Show Caption"
+msgstr "Toon onderschrift"
+
+msgid "Caption text"
+msgstr "Onderschrift tekst"
+
+msgid "Before image alt tag"
+msgstr "Voor de afbeelding alt tag"
+
+msgid "After image alt tag"
+msgstr "Na de afbeelding alt tag"
+
+msgid "Optimize images"
+msgstr "Optimaliseer afbeeldingen"
+
+msgid "Full"
+msgstr "Volledig"
+
+msgid "Scales up the image on hover"
+msgstr "Vergroot de afbeelding als er met de muis over bewogen wordt"
+
+msgid "Overlay background"
+msgstr "Bovenlaag achtergrond"
+
+msgid "Positions the text inside the overlay."
+msgstr "Positioneert de tekst binnen de bovenlaag."
+
+msgid "Circle counter"
+msgstr "Circel teller"
+
+msgid "Counter"
+msgstr "Teller"
+
+msgid "Value"
+msgstr "Waarde"
+
+msgid "Start from"
+msgstr "Start vanaf"
+
+msgid "Total"
+msgstr "Totaal"
+
+msgid "Active color"
+msgstr "Actieve kleur"
+
+msgid "Stroke width"
+msgstr "Lijn breedte"
+
+msgid "Inner before"
+msgstr "Binnenste ervoor"
+
+msgid "Inner after"
+msgstr "Binnenste erna"
+
+msgid "Pre"
+msgstr "Pre"
+
+msgid "Animation duration"
+msgstr "Animatie duur"
+
+msgid "Countdown"
+msgstr "Aftellen"
+
+msgid "Days"
+msgstr "Dag"
+
+msgid "Minutes"
+msgstr "Minuut"
+
+msgid "Seconds"
+msgstr "Secundair"
+
+msgid "Use slide schedule"
+msgstr "Gebruik slide planning"
+
+msgid "You can use the \"Unpublished on\" date of the slide itself."
+msgstr "U kunt de \"Depubliceer op\" datum van de slide zelf gebruiken."
+
+msgid "Use Slide Schedule"
+msgstr "Gebruik slide planning"
+
+msgid "Go to Slide → Content tab and set the Unpublish on date for the slide."
+msgstr ""
+"Ga naar de Slide → Content tab en stel de Depubliceer op datum optie in voor "
+"de slide."
+
+msgid ""
+"Displays the days, hours, minutes and seconds texts under the counter "
+"numbers. To display the labels in your own language, translate the texts in "
+"the language files."
+msgstr ""
+"Toont de dagen, uren, minuten en seconden teksten onder de tellergetallen. "
+"Om de labels in uw eigen taal te tonen kunt u de teksten vertalen in de "
+"taalbestanden."
+
+msgid "Gap"
+msgstr "Leemte"
+
+msgid "Creates vertical and horizontal distance between the counter elements."
+msgstr "Maakt verticale en horizontale afstand tussen de teller elementen."
+
+msgid "Tablet style"
+msgstr "Tablet stijl"
+
+msgid "Set custom Gap and Column for tablet."
+msgstr "Stel een aangepaste leemte en kolom in voor tablets."
+
+msgid "Mobile style"
+msgstr "Mobieltjes stijl"
+
+msgid "Set custom Gap and Column for mobile."
+msgstr "Stel een aangepaste leemte en kolom in voor mobieltjes."
+
+msgid "Action when ends"
+msgstr "Actie aan het einde"
+
+msgid "No action"
+msgstr "Geen actie"
+
+msgid "Hide layer"
+msgstr "Verberg laag"
+
+msgid "Redirect to URL"
+msgstr "Doorverwijzen naar URL"
+
+msgid "Choose what happens after the counter reached zero."
+msgstr "Kies wat er gebeurt als de teller nul bereikt."
+
+msgid "This page is"
+msgstr "Deze pagina is"
+
+msgid "Amazing"
+msgstr "Verbazingwekkend"
+
+#, php-format
+msgid "Circle %d"
+msgstr "Circel %d"
+
+#, php-format
+msgid "Curly %d"
+msgstr "Gekruld %d"
+
+#, php-format
+msgid "Highlight %d"
+msgstr "Accentuering %d"
+
+#, php-format
+msgid "Line Through %d"
+msgstr "Doorhaling %d"
+
+#, php-format
+msgid "Rectangle %d"
+msgstr "Rechthoek %d"
+
+#, php-format
+msgid "Underline %d"
+msgstr "Onderlijn %d"
+
+#, php-format
+msgid "Underline double %d"
+msgstr "Onderlijn dubbel %d"
+
+#, php-format
+msgid "ZigZag %d"
+msgstr "ZigZag %d"
+
+msgid "Highlighted text"
+msgstr "Geaccentueerde tekst"
+
+msgid "Bring front"
+msgstr "Breng naar voor"
+
+msgid "Puts the shape on top of the text."
+msgstr "Plaatst de vorm boven op de tekst."
+
+msgid "Loop delay"
+msgstr "Herhaling wachttijd"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "Empty element"
+msgstr "Leeg element"
+
+msgid ""
+"Please note that <b>we do not support</b> the HTML layer and the 3rd party "
+"codes loaded by it. We only suggest using this layer if you are a developer. "
+"<br>Also, make sure your HTML code is valid! Invalid HTML codes can mess up "
+"the entire slide and the only way resolving this problem is deleting the "
+"slide."
+msgstr ""
+"Merk op dat we de HTML laag en de derde partij codes die erdoor geladen "
+"worden <b>niet ondersteunen</b>. We raden aan deze laag alleen te gebruiken "
+"als u een ontwikkelaar bent. <br>Vergewis u er ook van dat uw HTML code "
+"geldig is! Ongeldige HTML codes kunnen de volledige slide verknoeien en de "
+"enige manier om dat op te lossen is de volledige slide te verwijderen."
+
+msgid "Item"
+msgstr "Item"
+
+msgid ""
+"Item 1\n"
+"Item 2\n"
+"Item 3"
+msgstr ""
+"Item 1\n"
+"Item 2\n"
+"Item 3"
+
+msgid "List type"
+msgstr "Lijst type"
+
+msgctxt "List layer type"
+msgid "None"
+msgstr "Geen"
+
+msgctxt "List layer type"
+msgid "Disc"
+msgstr "Schijf"
+
+msgctxt "List layer type"
+msgid "Square"
+msgstr "Vierkant"
+
+msgctxt "List layer type"
+msgid "Circle"
+msgstr "Circel"
+
+msgctxt "List layer type"
+msgid "Decimal"
+msgstr "Decimaal"
+
+msgctxt "List layer type"
+msgid "Armenian"
+msgstr "Armenian"
+
+msgctxt "List layer type"
+msgid "Cjk-ideographic"
+msgstr "Cjk-ideographic"
+
+msgctxt "List layer type"
+msgid "Decimal-leading-zero"
+msgstr "Decimaal-leidende-nul"
+
+msgctxt "List layer type"
+msgid "Georgian"
+msgstr "Georgian"
+
+msgctxt "List layer type"
+msgid "Hebrew"
+msgstr "Hebrew"
+
+msgctxt "List layer type"
+msgid "Hiragana"
+msgstr "Hiragana"
+
+msgctxt "List layer type"
+msgid "Hiragana-iroha"
+msgstr "Hiragana-iroha"
+
+msgctxt "List layer type"
+msgid "Katakana"
+msgstr "Katakana"
+
+msgctxt "List layer type"
+msgid "Katakana-iroha"
+msgstr "Katakana-iroha"
+
+msgctxt "List layer type"
+msgid "Lower-alpha"
+msgstr "Lower-alpha"
+
+msgctxt "List layer type"
+msgid "Lower-greek"
+msgstr "Lower-greek"
+
+msgctxt "List layer type"
+msgid "Lower-latin"
+msgstr "Lower-latin"
+
+msgctxt "List layer type"
+msgid "Lower-roman"
+msgstr "Lower-roman"
+
+msgctxt "List layer type"
+msgid "Upper-alpha"
+msgstr "Upper-alpha"
+
+msgctxt "List layer type"
+msgid "Upper-latin"
+msgstr "Upper-latin"
+
+msgctxt "List layer type"
+msgid "Upper-roman"
+msgstr "Upper-roman"
+
+msgid "Icon not found"
+msgstr "Icoon niet gevonden"
+
+#, php-format
+msgid "Enter an %1$s aria-label attribute %2$s that describes the link."
+msgstr "Geef een %1$s aria-label attribuut in %2$s dat de link beschrijft."
+
+msgid "Iframe"
+msgstr "Iframe"
+
+msgid ""
+"Please note, that <b>we do not support</b> customized coding! The iframe "
+"layer often needs code customizations what you have to do yourself, so we "
+"only suggest using this layer if you are a developer!"
+msgstr ""
+"Merk op dat we aangepaste codering <b>niet ondersteunen</b>! De iframe laag "
+"heeft vaak code aanpassingen nodig die u zelf moet aanbrengen. We raden dus "
+"aan deze laag alleen te gebruiken als u een ontwikkelaar bent!"
+
+msgid "Iframe url"
+msgstr "Iframe url"
+
+msgid "You can disable the scroll on the iframe content."
+msgstr "U kun het scrollen op de iframe inhoud deactiveren."
+
+msgid "Iframe title"
+msgstr "Iframe titel"
+
+msgid "Image area"
+msgstr "Afbeeldingszone"
+
+msgid "Image box"
+msgstr "Afbeeldingsvak"
+
+msgid "Aria label"
+msgstr "Aria label"
+
+msgid ""
+"Positions the text inside the layer. Only works with left and right layout."
+msgstr ""
+"Positioneert de tekst binnen de laag. Werkt enkel met de linkse en rechtse "
+"lay-out."
+
+msgid "Input"
+msgstr "Invoer"
+
+msgid "Container"
+msgstr "Container"
+
+msgid "What are you looking for?"
+msgstr "Waar bent u naar op zoek?"
+
+msgid ""
+"We only suggest using this layer if you are a developer, since the Input "
+"layer requires deep understanding how HTML form works."
+msgstr ""
+"We raden aan deze laag alleen te gebruiken als u een ontwikkelaar bent, "
+"vermits de invoerlaag een goede kennis vereist over de werking van HTML "
+"formulieren."
+
+msgid "Placeholder text"
+msgstr "Plaatshouder tekst"
+
+msgid "Form"
+msgstr "Formulier"
+
+msgid "Input name"
+msgstr "Invoer naam"
+
+msgid "Method"
+msgstr "Methode"
+
+msgid "Form action"
+msgstr "Formulier actie"
+
+msgid "Parameters"
+msgstr "Parameters"
+
+msgid "Slide action to submit"
+msgstr "Te verzenden slide actie"
+
+msgid "JavaScript"
+msgstr "JavaScript"
+
+msgid "Progress bar"
+msgstr "Voortgangsbalk"
+
+msgid "Over"
+msgstr "Over"
+
+msgid "Transition"
+msgstr "Overgang"
+
+msgid "Front image"
+msgstr "Afbeelding voorkant"
+
+msgid "Back image"
+msgstr "Afbeelding achterkant"
+
+msgid "Vertical flip"
+msgstr "Verticaal spiegelen"
+
+msgid "Horizontal flip"
+msgstr "Horizontaal spiegelen"
+
+msgid "Front image alt tag"
+msgstr "Afbeelding voorkant alt tag"
+
+msgid "Back image alt tag"
+msgstr "Afbeelding achterkant alt tag"
+
+msgid "MP4 video"
+msgstr "MP4 video"
+
+msgid "Preload"
+msgstr "Vooraf inladen"
+
+msgid "Joomla module"
+msgstr "Joomla module"
+
+msgid ""
+"Please note, that <b>we do not support</b> the Joomla module layer!<br>The "
+"loaded module often needs code customizations what you have to do yourself, "
+"so we only suggest using this layer if you are a developer!"
+msgstr ""
+"Merk op dat we de Joomla module laag <b>niet ondersteunen</b>! De ingeladen "
+"module heeft vaak code aanpassingen nodig die u zelf moet aanbrengen. We "
+"raden dus aan deze laag alleen te gebruiken als u een ontwikkelaar bent!"
+
+msgid "Position name or module ID"
+msgstr "Positie naam of module ID"
+
+msgid ""
+"The position name of your module (for Loadposition and Modulepos) or the "
+"module's ID (Module)."
+msgstr ""
+"De positie naam van uw module (voor Loadposition en Modulepos) of het module "
+"ID (Module)."
+
+msgid "Constrain ratio"
+msgstr "Beperking verhouding"
+
+msgid "The slide scales horizontally and vertically with the same amount."
+msgstr ""
+"De slide verandert horizontaal en verticaal van grootte met dezelfde waarde."
+
+msgid "Height based on"
+msgstr "Hoogte gebaseerd op"
+
+msgid ""
+"The real height makes your slider have the height of the browser without the "
+"URL bar, while the CSS 100vh makes it exactly as big as the browser height."
+msgstr ""
+"De werkelijke hoogte maakt dat uw slider de hoogte heeft van de browser "
+"zonder de URL balk, terwijl de CSS 100vh hem net zo groot maakt als de "
+"hoogte van de browser."
+
+msgid "Decrease height"
+msgstr "Verminder hoogte"
+
+msgid ""
+"You can make your slider smaller than the full height of the browser by a "
+"given pixel, for example, to fit below your menu without causing scrollbar."
+msgstr ""
+"U kunt uw slider een gegeven pixel kleiner maken dan de volledige hoogte van "
+"de browser, bijvoorbeeld om onder uw menu te passen zonder dat er een "
+"scrollbalk aan te pas komt."
+
+msgid "Decrease height by selectors"
+msgstr "Verminder hoogte door selectors"
+
+msgid "Use global focus selectors"
+msgstr "Gebruik globale focus selectors"
+
+msgid "Use local selectors"
+msgstr "Gebruik lokale selectors"
+
+msgid ""
+"You can make your slider smaller than the full height of the browser, for "
+"example, to fit below your menu without causing scrollbar."
+msgstr ""
+"U kunt uw slider kleiner maken dan de volledige hoogte van de browser, "
+"bijvoorbeeld om onder uw menu te passen zonder dat er een scrollbalk aan te "
+"pas komt."
+
+msgid "CSS selector (sum of heights)"
+msgstr "CSS selector (som van hoogtes)"
+
+msgctxt "Slider type"
+msgid "Carousel slider"
+msgstr "Carousel slider"
+
+msgid "Slide size"
+msgstr "Slide grootte"
+
+msgid "Max pane width"
+msgstr "Max paneel breedte"
+
+msgid ""
+"You can use this option to limit how many slides can show up next to each "
+"other."
+msgstr ""
+"U kunt deze optie gebruiken om te beperken hoeveel slides naast elkaar mogen "
+"verschijnen."
+
+msgid "Minimum slide distance"
+msgstr "Minimum slide afstand"
+
+msgid "The minimum space between two slides."
+msgstr "De minimum ruimte tussen twee slides."
+
+msgid "Side spacing"
+msgstr "Zijruimte"
+
+msgid "Desktop side spacing"
+msgstr "Desktop zijkant tussenruimte"
+
+msgid ""
+"You can create a fix distance between the slider and the slides where your "
+"controls are which appear on this device. This way your controls won't cover "
+"the slide content."
+msgstr ""
+"U kunt een vaste afstand tussen de slider en de slides maken waar uw "
+"bedieningselementen staan die op dit toestel verschijnen. Op die manier "
+"bedekken uw bedieningselementen de inhoud van de slide niet."
+
+msgid "Tablet side spacing"
+msgstr "Tablet ruimte zijkant"
+
+msgid "Mobile side spacing"
+msgstr "Mobiele zijkant opvulling"
+
+msgid "Slide background color"
+msgstr "Slide achtergrondkleur"
+
+msgid "Slide border width"
+msgstr "Slide breedte rand"
+
+msgid "Slide border color"
+msgstr "Slide randkleur"
+
+msgid "Slide border radius"
+msgstr "Slide straal rand"
+
+msgid "Slider border width"
+msgstr "Slider breedte rand"
+
+msgid "Slider border color"
+msgstr "Slider kleur rand"
+
+msgid "Slider border radius"
+msgstr "Slider straal rand"
+
+msgid "The Single Switch setting can only move the slides horizontally!"
+msgstr ""
+"De enkele schakelaar instelling kan de slides alleen horizontaal verplaatsen!"
+
+msgid ""
+"This option will create a complete round from your slides if you have enough "
+"slides. If you don't have enough slides, you could consider duplicating all "
+"the slides or just add more slides until you will get a carousel round."
+msgstr ""
+"Deze optie zal een volledige ronde maken van uw slides, als u er genoeg "
+"hebt. Als u niet genoeg slides hebt dan kunt u overwegen om alle slides te "
+"klonen of gewoon meer slides toe te voegen tot u een carousel ronde hebt."
+
+msgid "Single switch"
+msgstr "Enkele schakelaar"
+
+msgid "It switches one slide instead of moving all the visible slides."
+msgstr ""
+"Dit wisselt één slide in plaats van al de zichtbare slides te verplaatsen."
+
+msgid "Justify slides"
+msgstr "Slides volledig uitlijnen"
+
+msgctxt "Slider type"
+msgid "Showcase slider"
+msgstr "Etalage slider"
+
+msgid "Slide distance"
+msgstr "Slide afstand"
+
+msgid "Fix space between the slides."
+msgstr "Herstel ruimte tussen de slides."
+
+msgid "Slide CSS Preset"
+msgstr "Slide CSS voorinstelling"
+
+msgid "Showcase animation"
+msgstr "Etalage animatie"
+
+msgid "Horizontal showcase"
+msgstr "Horizontale etalage"
+
+msgid "Vertical showcase"
+msgstr "Verticale etalage"
+
+msgid "Horizontal cover flow"
+msgstr "Horizontale cover stroom"
+
+msgid "Vertical cover flow"
+msgstr "Verticale cover flow"
+
+msgid "Switch with next/previous slides"
+msgstr "Wissel met volgende/vorige slides"
+
+msgid ""
+"Clicking on any slide that's not in the middle will make the slider switch "
+"to that slide. With this option you can disable this behavior, for example, "
+"to allow clicking on buttons on the visible slides."
+msgstr ""
+"Klikken op eender welke slide die niet in het midden staat zal de slider "
+"doen overschakelen naar die slide. Met deze optie kunt u dit gedrag "
+"deactiveren, bijvoorbeeld om toe te laten te klikken op knoppen op de "
+"zichtbare slides."
+
+msgid "Save as new animation"
+msgstr "Opslaan als nieuwe animatie"
+
+msgid "Sets"
+msgstr "Sets"
+
+msgid "Text animation settings"
+msgstr "Tekst animatie instellingen"
+
+msgid "Words"
+msgstr "Woorden"
+
+msgid "Sort"
+msgstr "Sorteren"
+
+msgid "Reversed"
+msgstr "Omgekeerd"
+
+msgid "Side shifted"
+msgstr "Zijkant verschoven"
+
+msgid "Center shifted"
+msgstr "Midden verschoven"
+
+msgid "Stagger"
+msgstr "Wankelen"
+
+msgid "Turn"
+msgstr "Draai"
+
+msgid "Prev"
+msgstr "Vorige"
+
+msgid "Next"
+msgstr "Volgende"
+
+msgid "Previous label"
+msgstr "Vorige label"
+
+msgid "Next label"
+msgstr "Volgende label"
+
+msgid "To normal"
+msgstr "Naar normaal"
+
+msgid "To fullscreen"
+msgstr "Naar volledig scherm"
+
+msgid "Fullscreen"
+msgstr "Volledig scherm"
+
+msgid "Exit full screen"
+msgstr "Uit volledig scherm"
+
+msgid "Enter Full screen"
+msgstr "Naar volledig scherm"
+
+#, php-format
+msgid ""
+"%1$s does not support the full screen API. For this reason the full screen "
+"button will not appear on %1$s devices."
+msgstr ""
+"%1$s ondersteunt de volledig scherm API niet. Om deze reden zal de volledig "
+"scherm knop niet verschijnen op %1$s toestellen."
+
+msgid "Indicator"
+msgstr "Indicator"
+
+msgid "Line thickness"
+msgstr "Lijndikte"
+
+msgid "Track color"
+msgstr "Track kleur"
+
+msgid "Bar color"
+msgstr "Balk kleur"
+
+#~ msgctxt "Default Google font family for admin"
+#~ msgid "Montserrat"
+#~ msgstr "Montserrat"
+
+#~ msgid "Edit slider"
+#~ msgstr "Slider bewerken"
+
+#~ msgid "hours"
+#~ msgstr "uur"
+
+#~ msgid "Select slider"
+#~ msgstr "Selecteer slider"
+
+#~ msgid "Select A Slider"
+#~ msgstr "Selecteer een slider"
+
+#~ msgid "Private video"
+#~ msgstr "Privé video"
+
+#~ msgid ""
+#~ "Turn it on to remove the admin warning that your video is not accessible."
+#~ msgstr ""
+#~ "Schakel dit in om de beheerderswaarschuwing dat uw video niet "
+#~ "toegankelijk is te verwijderen."
+
+#~ msgid "Bullet"
+#~ msgstr "Opsommingsteken"
+
+#~ msgid "Curve 2"
+#~ msgstr "Curve 2"
+
+#~ msgid "Curve 3"
+#~ msgstr "Curve 3"
+
+#~ msgid "Curve 4"
+#~ msgstr "Curve 4"
+
+#~ msgid "Fan 2"
+#~ msgstr "Ventilator 2"
+
+#~ msgid "Fan 3"
+#~ msgstr "Ventilator 3"
+
+#~ msgid "Incline 2"
+#~ msgstr "Helling 2"
+
+#~ msgid "Incline 3"
+#~ msgstr "Helling 3"
+
+#~ msgid "Tilt 2"
+#~ msgstr "Kantelen 2"
+
+#~ msgid "Triangle 2"
+#~ msgstr "Driehoek 2"
+
+#~ msgid "Wave 2"
+#~ msgstr "Golf 2"
+
+#~ msgid "Types"
+#~ msgstr "Types"
+
+#~ msgid "Expired"
+#~ msgstr "Verlopen"
+
+#~ msgid "Auction"
+#~ msgstr "Veiling"
+
+#~ msgid "Negotiable price"
+#~ msgstr "Onderhandelbare prijs"
+
+#~ msgid "Blocked by User"
+#~ msgstr "Geblokkeerd door gebruiker"
+
+#~ msgid "Paid"
+#~ msgstr "Betaald"
+
+#~ msgid "Buynow"
+#~ msgstr "Koopnu"
+
+#~ msgid ""
+#~ "Your url will point to the item within this menu item. You will only get "
+#~ "a good result, if you will pick one of your DJ Classifields menu items or "
+#~ "leave it on 'Default'."
+#~ msgstr ""
+#~ "Uw URL zal wijzen naar het item binnen dit menu item. U zal alleen een "
+#~ "goed resultaat krijgen als u één van uw DJ Classifieds menu items kiest "
+#~ "of het laat staan op 'Standaard'."
+
+#~ msgid "Expiration date"
+#~ msgstr "Vervaldatum"
+
+#~ msgid "Supplier"
+#~ msgstr "Leverancier"
+
+#~ msgid "On sale"
+#~ msgstr "Te koop"
+
+#~ msgid "Discount price"
+#~ msgstr "Kortingsprijs"
+
+#~ msgid "Create custom date variables"
+#~ msgstr "Maak aangepaste datumvariabelen"
+
+#~ msgid ""
+#~ "You can write any date format (http://php.net/manual/en/function.date."
+#~ "php) in separate lines, and new variables will be created for them."
+#~ msgstr ""
+#~ "U kunt eender welk datumformaat op aparte regels schrijven (http://php."
+#~ "net/manual/en/function.date.php). Daarna zullen er nieuwe variabelen voor "
+#~ "aangemaakt worden."
+
+#~ msgid ""
+#~ "Write the original text, like 'Monday' then two | signs, and the text you "
+#~ "want it to be translated to, for example 'Montag'. Together: Monday||"
+#~ "Montag"
+#~ msgstr ""
+#~ "Schrijf de originele tekst, zoals 'Monday', daarna twee | tekens en de "
+#~ "tekst waarnaar u deze tekst wilt vertalen. Bijvoorbeeld: 'Maandag'. "
+#~ "Samen: Monday||Maandag"
+
+#~ msgid "2"
+#~ msgstr "2"
+
+#~ msgid "4"
+#~ msgstr "4"
+
+#~ msgid "6"
+#~ msgstr "6"
+
+#~ msgid "8"
+#~ msgstr "8"
+
+#~ msgid "10"
+#~ msgstr "10"
+
+#~ msgid "Circle 2"
+#~ msgstr "Circel 2"
+
+#~ msgid "Circle 3"
+#~ msgstr "Circel 3"
+
+#~ msgid "Curly 2"
+#~ msgstr "Gekruld 2"
+
+#~ msgid "Highlight 2"
+#~ msgstr "Accentuering 2"
+
+#~ msgid "Highlight 3"
+#~ msgstr "Accentuering 3"
+
+#~ msgid "Line Through 2"
+#~ msgstr "Doorhaling 2"
+
+#~ msgid "Line Through 3"
+#~ msgstr "Doorhaling 3"
+
+#~ msgid "Rectangle 2"
+#~ msgstr "Rechthoek 2"
+
+#~ msgid "Underline 2"
+#~ msgstr "Onderlijn 2"
+
+#~ msgid "Underline 3"
+#~ msgstr "Onderlijn 3"
+
+#~ msgid "Underline double 2"
+#~ msgstr "Onderlijn dubbel 2"
+
+#~ msgid "ZigZag 2"
+#~ msgstr "ZigZag 2"
+
+#~ msgid "ZigZag 3"
+#~ msgstr "ZigZag 3"
+
+#~ msgid "iframe"
+#~ msgstr "iframe"

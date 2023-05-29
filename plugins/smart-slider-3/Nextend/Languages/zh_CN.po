@@ -1,0 +1,7860 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Slider 3\n"
+"POT-Creation-Date: 2022-05-13 07:44+0200\n"
+"PO-Revision-Date: 2022-05-17 14:20+0200\n"
+"Last-Translator: WordPress大学 <<support@wpdaxue.com>>\n"
+"Language-Team: WordPress大学<support@wpdaxue.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: ;n2_;n2_e;n2_n:1,2;n2_en:1,2;n2_x:1,2c;n2_ex:1,2c\n"
+"n2_en: 1,2;n2_x:1,2c;n2_ex:1,2c\n"
+"X-Poedit-Flags-xgettext: --no-location\n"
+
+msgid "Debug error"
+msgstr "调试错误"
+
+msgid "CURL disabled in your php.ini configuration. Please enable it!"
+msgstr "在php.ini配置中禁用了CURL。请启用它！"
+
+msgid "Unable to contact with the licensing server, please try again later!"
+msgstr "无法与许可服务器联系，请稍后再试！"
+
+msgid "You are not allowed to upload!"
+msgstr "您不可以上传！"
+
+msgid "Folder is missing!"
+msgstr "文件夹不存在！"
+
+#, fuzzy
+#| msgid "Menu order"
+msgid "Menu item"
+msgstr "菜单顺序"
+
+msgid "You are not authorised to view this resource."
+msgstr "你无权查看该资源。"
+
+#, php-format
+msgid "Missing parameter: %s"
+msgstr "缺少参数：%s"
+
+msgid "Database error"
+msgstr "数据库错误"
+
+msgid "Security token mismatch"
+msgstr "安全令牌不匹配"
+
+msgid "Unexpected error"
+msgstr "意外的错误"
+
+msgid "Set is not editable"
+msgstr "集不可编辑"
+
+msgid "Visual do not exists"
+msgstr "视觉不存在"
+
+msgid "Not editable"
+msgstr "不可编辑"
+
+msgid "Security token mismatch. Please refresh the page!"
+msgstr "安全令牌不匹配。请刷新页面！"
+
+#, php-format
+msgid ""
+"If you see this message after the repair database process, please "
+"%1$scontact us%2$s with the log:"
+msgstr "如果您在修复数据库过程之后看到此消息，请与日志%1$s联系我们%2$s："
+
+msgid "Contact your server host and ask them to fix this for you!"
+msgstr ""
+
+msgid "Unexpected database error."
+msgstr "意外的数据库错误。"
+
+msgid "Try to repair database"
+msgstr "尝试修复数据库"
+
+msgid "Font manager"
+msgstr "字体管理"
+
+msgid "Text"
+msgstr "文本"
+
+msgid "Hover"
+msgstr "悬停"
+
+msgid "Heading"
+msgstr "标题"
+
+msgid "Link"
+msgstr "链接"
+
+msgid "Button"
+msgstr "按钮"
+
+msgid "Paragraph"
+msgstr "段落"
+
+msgid "Dot"
+msgstr "点"
+
+msgid "Active"
+msgstr "激活"
+
+msgid "List"
+msgstr "列表"
+
+msgid "Highlight"
+msgstr "高亮"
+
+msgctxt "Default font"
+msgid "Roboto,Arial"
+msgstr "Roboto,Arial"
+
+msgid "Font settings"
+msgstr "字体设置"
+
+msgid "Clear tab"
+msgstr "清除选项卡"
+
+msgid "Family"
+msgstr "字体"
+
+msgid "Color"
+msgstr "颜色"
+
+msgid "Size"
+msgstr "尺寸"
+
+msgid "Font weight"
+msgstr "字体粗细"
+
+msgid "Decoration"
+msgstr "装饰"
+
+msgid "Line height"
+msgstr "行高"
+
+msgid "Text align"
+msgstr "文本对齐"
+
+msgid "Letter spacing"
+msgstr "字母间距"
+
+msgid "Word spacing"
+msgstr "词间距"
+
+msgid "Transform"
+msgstr "转换"
+
+msgid "None"
+msgstr "无"
+
+msgid "Capitalize"
+msgstr "首字大写"
+
+msgid "Uppercase"
+msgstr "大写"
+
+msgid "Lowercase"
+msgstr "小写"
+
+msgid "Text shadow"
+msgstr "文本阴影"
+
+msgid "Preview"
+msgstr "预览"
+
+msgid "Frontend"
+msgstr "前端"
+
+msgid "You can load Google Fonts on the frontend."
+msgstr "您可以在前端加载Google字体。"
+
+msgid "Save fonts locally"
+msgstr ""
+
+msgid ""
+"You can store the used Google Fonts on your server. This way all Google "
+"Fonts will load from your own domain."
+msgstr ""
+
+msgid "Backend"
+msgstr "后端"
+
+msgid "You can load Google Fonts in the backend."
+msgstr "您可以在后端加载Google字体。"
+
+msgid "Style"
+msgstr "样式"
+
+msgctxt "Font style"
+msgid "Italic"
+msgstr "斜体"
+
+msgid "Normal"
+msgstr "常规"
+
+msgid "Choose"
+msgstr "选择"
+
+msgid "Orientation"
+msgstr "方向"
+
+msgid "Portrait"
+msgstr "纵向"
+
+msgid "Landscape"
+msgstr "横向"
+
+msgid "Mobile"
+msgstr "手机端"
+
+#, fuzzy
+#| msgid "Image mode"
+msgid "Large mobile"
+msgstr "图片模式"
+
+msgid "Tablet"
+msgstr "平板端"
+
+#, fuzzy
+#| msgid "Large Dark"
+msgid "Large tablet"
+msgstr "大型深色"
+
+msgid "Desktop"
+msgstr "电脑端"
+
+#, fuzzy
+#| msgid "Large Dark"
+msgid "Large desktop"
+msgstr "大型深色"
+
+msgid "More"
+msgstr "更多"
+
+msgid "Less"
+msgstr "更少"
+
+msgid "View records"
+msgstr "查看记录"
+
+msgid "Font"
+msgstr "字体"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "Dotted"
+msgstr "圆点"
+
+msgid "Dashed"
+msgstr "虚线"
+
+msgid "Solid"
+msgstr "实线"
+
+msgid "Double"
+msgstr "双实线"
+
+msgid "Groove"
+msgstr "凹槽"
+
+msgid "Ridge"
+msgstr "脊状"
+
+msgid "Inset"
+msgstr "内凹"
+
+msgid "Outset"
+msgstr "外凸"
+
+msgid "Field"
+msgstr "字段"
+
+msgid "Order"
+msgstr "顺序"
+
+msgid "Ascending"
+msgstr "升序"
+
+msgid "Descending"
+msgstr "降序"
+
+msgid "Off"
+msgstr "关闭"
+
+msgid "On"
+msgstr "开启"
+
+msgid ""
+"Hold down the ctrl (Windows) or command (MAC) button to select multiple "
+"options."
+msgstr "按住Ctrl（Windows）或命令（MAC）按钮以选择多个选项。"
+
+msgid "Fill"
+msgstr "填充"
+
+msgid "Blur fit"
+msgstr "模糊适合"
+
+msgid "Fit"
+msgstr "适合"
+
+msgid "Stretch"
+msgstr "拉伸"
+
+msgid "Center"
+msgstr "居中"
+
+msgid "Slider's default"
+msgstr "轮播的默认值"
+
+msgid "All"
+msgstr "所有"
+
+#, php-format
+msgid "Not %s"
+msgstr "不是 %s"
+
+msgid "Bold"
+msgstr "粗体"
+
+msgid "Extra light"
+msgstr "超细(200)"
+
+msgid "Light"
+msgstr "细明亮"
+
+msgid "Semi bold"
+msgstr "半粗"
+
+msgid "Extra bold"
+msgstr "特粗"
+
+msgid "Self"
+msgstr "当前窗口"
+
+msgid "New"
+msgstr "新窗口"
+
+msgid "Parent"
+msgstr "父级窗口"
+
+msgid "Top"
+msgstr "顶部"
+
+#, fuzzy
+#| msgid "Selected articles"
+msgid "Select images for devices"
+msgstr "精选文章"
+
+msgid "Select a page or a blog post from your WordPress site."
+msgstr "从您的WordPress网站中选择一个页面或博客文章。"
+
+#, fuzzy
+#| msgid "Select a page or a blog post from your WordPress site."
+msgid "Select article or menu item from your site."
+msgstr "从您的WordPress网站中选择一个页面或博客文章。"
+
+msgid "Reset to normal state"
+msgstr "重置为正常状态"
+
+msgid "Default"
+msgstr "默认"
+
+#, fuzzy
+#| msgid "Trash is empty."
+msgid "The image is empty"
+msgstr "回收站是空的。"
+
+msgid "Empty"
+msgstr ""
+
+msgid "Image manager"
+msgstr "图片管理"
+
+msgid "Desktop retina"
+msgstr "电脑端视网膜"
+
+msgid "Image"
+msgstr "图片"
+
+#, php-format
+msgid ""
+"The %1$s is not turned on in your server, which is necessary to read rss "
+"feeds. You should contact your server host, and ask them to enable it!"
+msgstr ""
+"您的服务器未打开%1$s，这对于读取rss feed是必需的。您应该联系您的服务器主机，"
+"并要求他们启用它！"
+
+#, php-format
+msgid "%s is not readable"
+msgstr "%s 不可读"
+
+msgid "Style manager"
+msgstr "样式管理"
+
+msgid "Style settings"
+msgstr "样式设置"
+
+msgid "Background color"
+msgstr "背景颜色"
+
+msgid "Opacity"
+msgstr "不透明度"
+
+msgid "Padding"
+msgstr "内边距"
+
+msgid "Border"
+msgstr "边框"
+
+msgid "Border radius"
+msgstr "边框半径"
+
+msgid "Box shadow"
+msgstr "盒子阴影"
+
+msgid "Single"
+msgstr "单个"
+
+msgid "Simple"
+msgstr "简单"
+
+msgid "Box"
+msgstr "盒子"
+
+msgid "Heading active"
+msgstr "标题激活"
+
+msgid "Dashboard"
+msgstr "仪表盘"
+
+#, fuzzy
+#| msgid "Drop images here"
+msgid "Drop files here"
+msgstr "删除图片"
+
+msgid "Parent directory"
+msgstr ""
+
+msgid "Current path"
+msgstr ""
+
+msgid "Preset"
+msgstr ""
+
+msgid ""
+"You can use presets to save style settings for later use. Clicking on any "
+"preset will load its styling to your current layer, and the previous style "
+"settings will be lost."
+msgstr ""
+
+msgid ""
+"Layer design options affect every device. If you need to make responsive "
+"adjustments, look for the options with the device icon."
+msgstr ""
+
+msgid "Reset style to default"
+msgstr ""
+
+msgid "Save style as new preset"
+msgstr ""
+
+#, fuzzy
+#| msgid "Load after"
+msgid "Load style"
+msgstr "加载后"
+
+msgid "You have not created any presets for this layer yet."
+msgstr ""
+
+#, fuzzy
+#| msgid "Save"
+msgid "Save as"
+msgstr "保存"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Please fill the name field!"
+msgstr ""
+
+#, fuzzy
+#| msgid "Slide saved."
+msgid "Preset saved."
+msgstr "轮播图已保存。"
+
+msgid "Overwrite preset"
+msgstr ""
+
+#, fuzzy
+#| msgid "Slide deleted."
+msgid "Preset deleted."
+msgstr "轮播图已删除。"
+
+#, fuzzy
+#| msgid "Choose"
+msgid "Choose folder"
+msgstr "选择"
+
+#, fuzzy
+#| msgid "Select all"
+msgid "Select"
+msgstr "全选"
+
+msgid "Disabled"
+msgstr "禁用"
+
+msgid "Image field can not be empty!"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+#, fuzzy
+#| msgid "No conflicts detected."
+msgid "No file selected."
+msgstr "未检测到冲突。"
+
+msgid "Open docs"
+msgstr ""
+
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr ""
+
+msgid "Icons"
+msgstr ""
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Are you sure?"
+msgstr ""
+
+#, javascript-format
+msgid "You're about to %s. "
+msgstr ""
+
+#, javascript-format
+msgid "The deletion is irreversible, and it's not possible to recover %s."
+msgstr ""
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Close"
+msgstr "关闭"
+
+#, fuzzy
+#| msgid "Whole group"
+msgid "Create group"
+msgstr "全组"
+
+#, fuzzy
+#| msgid "Group"
+msgid "Group name"
+msgstr "分组"
+
+#, fuzzy
+#| msgid "Generator created."
+msgid "Group created"
+msgstr "生成器已创建。"
+
+#, fuzzy
+#| msgid "View records"
+msgid "Records"
+msgstr "查看记录"
+
+#, fuzzy
+#| msgid "Keyboard"
+msgid "Keyboard shortcuts"
+msgstr "键盘"
+
+msgid "Got it"
+msgstr ""
+
+msgid "General"
+msgstr "常规"
+
+#, fuzzy
+#| msgid "Content"
+msgid "Content tab"
+msgstr "内容"
+
+#, fuzzy
+#| msgid "Style"
+msgid "Style tab"
+msgstr "样式"
+
+#, fuzzy
+#| msgid "Animation"
+msgid "Animation tab"
+msgstr "动画"
+
+msgid "Add Layer"
+msgstr "添加图层"
+
+#, fuzzy
+#| msgid "Layers"
+msgid "Layer List"
+msgstr "图层"
+
+msgid "Timeline"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "Adjust"
+msgstr ""
+
+#, fuzzy
+#| msgid "Absolute"
+msgid "Move (Absolute)"
+msgstr "绝对"
+
+msgid "Arrows"
+msgstr "箭头"
+
+#, fuzzy
+#| msgid "Absolute"
+msgid "Align (Absolute)"
+msgstr "绝对"
+
+#, fuzzy
+#| msgid "Numeric"
+msgid "Numeric keys"
+msgstr "数字"
+
+#, fuzzy
+#| msgid "Actions"
+msgid "Action"
+msgstr "操作"
+
+msgid "Duplicate"
+msgstr "克隆"
+
+msgid "Copy"
+msgstr "复制"
+
+msgid "Paste"
+msgstr ""
+
+msgid "Undo"
+msgstr "撤销"
+
+msgid "Redo"
+msgstr "重做"
+
+msgid "Save"
+msgstr "保存"
+
+#, fuzzy
+#| msgid "Main animation"
+msgid "Play animations"
+msgstr "主要动画"
+
+msgid "Clear device specific settings"
+msgstr "清除设备特定的设置"
+
+msgid "Current layer, current device"
+msgstr ""
+
+msgid "Current layer, all devices"
+msgstr ""
+
+msgid "All layers, current device"
+msgstr ""
+
+msgid "All layers, all devices"
+msgstr ""
+
+#, fuzzy
+#| msgid "Unexpected error"
+msgid "Unexpected response"
+msgstr "意外的错误"
+
+#, fuzzy
+#| msgid "Scroll"
+msgid "Scroll to"
+msgstr "卷动"
+
+#, fuzzy
+#| msgid "Scroll to slider"
+msgid "Scroll to alias"
+msgstr "滚动到轮播图下方"
+
+#, fuzzy
+#| msgid "Go to next slide"
+msgid "Go to slide"
+msgstr "转到下一张轮播图"
+
+#, fuzzy
+#| msgid "Go to next slide"
+msgid "Go to slide ID"
+msgstr "转到下一张轮播图"
+
+#, fuzzy
+#| msgctxt "Arrow direction"
+#| msgid "Previous"
+msgid "Previous slide"
+msgstr "上一个"
+
+#, fuzzy
+#| msgid "New slider"
+msgid "Next slide"
+msgstr "新的轮播"
+
+#, fuzzy
+#| msgid "Slide count"
+msgid "Slide event"
+msgstr "轮播图计数"
+
+msgid "Examples"
+msgstr ""
+
+msgid "Scrolls to the top of the page."
+msgstr ""
+
+msgid "Scrolls to the bottom of the page."
+msgstr ""
+
+msgid ""
+"You can use any jQuery selector to scroll to a specific element on the page. "
+"Example: \"#pricing\" scrolls to the element with the id of \"pricing\"."
+msgstr ""
+
+#, fuzzy
+#| msgid "Slider size"
+msgid "Slider alias"
+msgstr "轮播大小"
+
+msgid "Slider alias set at Slider settings > General"
+msgstr ""
+
+#, fuzzy
+#| msgid "Slide one"
+msgid "Slide index"
+msgstr "轮播图一"
+
+#, fuzzy
+#| msgid "Decoration"
+msgid "Direction"
+msgstr "装饰"
+
+msgid "Auto"
+msgstr "自动"
+
+#, fuzzy
+#| msgid "Backend"
+msgid "Backward"
+msgstr "后端"
+
+msgid "Forward"
+msgstr ""
+
+#, javascript-format
+msgid "slide index: 2 %s direction: backward"
+msgstr ""
+
+msgid "Switches to the second slide as if the previous arrow was pressed"
+msgstr ""
+
+#, javascript-format
+msgid "slide index: 5 %s direction: forward"
+msgstr ""
+
+msgid "Switches to the fifth slide as if the next arrow was pressed"
+msgstr ""
+
+#, fuzzy
+#| msgid "Slider ID"
+msgid "Slide ID"
+msgstr "轮播图ID"
+
+msgid ""
+"Switches to the slide with the #2 ID as if the previous arrow was pressed"
+msgstr ""
+
+msgid "Switches to the slide with the #5 ID as if the next arrow was pressed"
+msgstr ""
+
+#, fuzzy
+#| msgid "Field name"
+msgid "Event name"
+msgstr "字段名称"
+
+msgid "An event you use to trigger layer animation(s) with"
+msgstr ""
+
+msgid "Content List - One Per Line"
+msgstr ""
+
+#, fuzzy
+#| msgid "Cover image"
+msgid "Choose images"
+msgstr "封面图片"
+
+msgid "Titles - One Per Line"
+msgstr ""
+
+#, fuzzy
+#| msgid "Slide duration"
+msgid "Autoplay duration"
+msgstr "轮播图持续时间"
+
+msgid "URL"
+msgstr ""
+
+#, fuzzy
+#| msgid "Search"
+msgid "Search keyword"
+msgstr "搜索"
+
+msgid "Posts"
+msgstr "文章"
+
+#, fuzzy
+#| msgid "Light"
+msgid "Lightbox"
+msgstr "细明亮"
+
+#, fuzzy
+#| msgid "Inset"
+msgid "Insert"
+msgstr "内凹"
+
+msgid "Oops, Something Went Wrong"
+msgstr ""
+
+msgid "Success"
+msgstr ""
+
+msgid "Notice"
+msgstr ""
+
+#, fuzzy
+#| msgid "Select all"
+msgid "Select image"
+msgstr "全选"
+
+msgid "Use Joomla selector"
+msgstr ""
+
+msgid "Use default selector"
+msgstr ""
+
+#, fuzzy
+#| msgid "Delete"
+msgid "Deleted."
+msgstr "删除"
+
+#, fuzzy
+#| msgid "State"
+msgid "Static"
+msgstr "省"
+
+msgid "Save as New"
+msgstr ""
+
+#, fuzzy
+#| msgid "Save"
+msgid "Saved."
+msgstr "保存"
+
+#, fuzzy
+#| msgid "Enable"
+msgid "Enabled"
+msgstr "启用"
+
+msgid "Column"
+msgstr "列"
+
+msgid "There is no layer available to be parent of the current layer!"
+msgstr ""
+
+msgid "Pick the parent layer!"
+msgstr ""
+
+msgid "Pick the align point of the parent layer!"
+msgstr ""
+
+#, fuzzy
+#| msgid "Puts the color in front of the image."
+msgid "Pick the align point of the child layer!"
+msgstr "将颜色放在图片前面。"
+
+msgid "Advanced"
+msgstr "高级"
+
+#, javascript-format
+msgid "Outer %s"
+msgstr ""
+
+msgid "Left"
+msgstr "左边"
+
+msgid "Right"
+msgstr "右边"
+
+msgid "Middle"
+msgstr ""
+
+msgid "Bottom"
+msgstr "底部"
+
+#, fuzzy
+#| msgid "Layers"
+msgid "Layer(s)"
+msgstr "图层"
+
+msgid "Hide on"
+msgstr "隐藏于"
+
+#, fuzzy
+#| msgid "Field name"
+msgid "Rename"
+msgstr "字段名称"
+
+#, fuzzy
+#| msgid "Show editor icon"
+msgid "Show/Hide in editor"
+msgstr "显示编辑器图标"
+
+msgid "Animation"
+msgstr "动画"
+
+#, fuzzy
+#| msgid "Animation"
+msgid "Add animation"
+msgstr "动画"
+
+#, fuzzy
+#| msgid "No animation"
+msgid "Remove animations"
+msgstr "没有动画"
+
+#, fuzzy
+#| msgid "Animations"
+msgid "Layer Animation - Basic"
+msgstr "动画"
+
+msgid "Add keyframe"
+msgstr ""
+
+#, fuzzy
+#| msgctxt "Video/Audio play"
+#| msgid "Loop"
+msgid "Loop"
+msgstr "循环"
+
+msgid "Special Zero"
+msgstr ""
+
+msgid "Keyframe"
+msgstr ""
+
+msgid "Layer Animation - Reveal"
+msgstr ""
+
+#, fuzzy
+#| msgid "Close"
+msgid "Open/Close"
+msgstr "关闭"
+
+msgid "Content"
+msgstr "内容"
+
+msgid "Child layers"
+msgstr ""
+
+#, fuzzy
+#| msgid "Animation"
+msgid "Animated heading"
+msgstr "动画"
+
+#, fuzzy
+#| msgid "Highlight"
+msgid "Highlighted heading"
+msgstr "高亮"
+
+#, fuzzy
+#| msgid "My text animations"
+msgid "Text animation in"
+msgstr "我的文字动画"
+
+#, fuzzy
+#| msgid "My text animations"
+msgid "Text animation out"
+msgstr "我的文字动画"
+
+#, fuzzy
+#| msgid "Layers"
+msgid "Layer"
+msgstr "图层"
+
+msgid "Row"
+msgstr "行"
+
+msgid "Slide"
+msgstr "轮播图"
+
+msgid "Theme"
+msgstr ""
+
+#, javascript-format
+msgid "%s or newer required for this feature."
+msgstr ""
+
+msgid "This section requires activated Pro version."
+msgstr ""
+
+#, fuzzy, javascript-format
+#| msgid "Demo slider is not available with the following ID: %s"
+msgid "This block is not available in the free version. %s"
+msgstr "以下ID的轮播无法进行演示： %s"
+
+msgid "Go Pro"
+msgstr "升级到专业版"
+
+#, fuzzy
+#| msgid "Video settings"
+msgid "Editor settings"
+msgstr "视频设置"
+
+msgid "Upgrade to Pro"
+msgstr "升级到专业版"
+
+#, fuzzy
+#| msgid "Video settings"
+msgid "Guide settings"
+msgstr "视频设置"
+
+msgid "Smart snap"
+msgstr ""
+
+msgid "Round to 5px"
+msgstr ""
+
+msgid "Ruler"
+msgstr ""
+
+#, fuzzy
+#| msgid "Clear after"
+msgid "Clear guides"
+msgstr "清除后浮动"
+
+msgid "Activate Smart Slider 3 Pro"
+msgstr "激活Smart Slider 3 专业版"
+
+msgid "Activation is required to unlock all features!"
+msgstr "需要激活才能解锁所有功能！"
+
+msgid ""
+"Register Smart Slider 3 Pro on this domain to enable auto update, slider "
+"templates and slide library."
+msgstr ""
+"在此域上注册Smart Slider 3 专业版，以启用自动更新，轮播模板和轮播图库。"
+
+msgid "Skip"
+msgstr ""
+
+msgid "Activate"
+msgstr "激活"
+
+#, fuzzy
+#| msgid "Smart Slider 3 deactivated on this site!"
+msgid "Smart Slider 3 activated!"
+msgstr "在此站点上禁用了Smart Slider 3！"
+
+msgid "Laptop"
+msgstr ""
+
+msgid "Width"
+msgstr "宽"
+
+msgid "Height"
+msgstr "高"
+
+#, javascript-format
+msgid "Below %s pixels."
+msgstr ""
+
+#, javascript-format
+msgid "Above %s pixels."
+msgstr ""
+
+#, javascript-format
+msgid "Between %s and %s pixels."
+msgstr ""
+
+#, javascript-format, php-format
+msgid "This slide is hidden on the following devices: %s"
+msgstr "该轮播图在以下设备上隐藏：%s"
+
+msgid "Data"
+msgstr ""
+
+msgid "Filter"
+msgstr "过滤"
+
+msgid "No"
+msgstr "否"
+
+#, fuzzy
+#| msgctxt "curl proxy"
+#| msgid "Clean %s"
+msgid "Clean HTML"
+msgstr "清除%s"
+
+msgid "Remove HTML"
+msgstr ""
+
+msgid "Split by Chars"
+msgstr ""
+
+msgid "Strict"
+msgstr ""
+
+msgid "Respect words"
+msgstr ""
+
+#, fuzzy
+#| msgid "Background image"
+msgid "Find image"
+msgstr "背景图片"
+
+msgid "Find link"
+msgstr ""
+
+msgid "Remove links"
+msgstr ""
+
+#, fuzzy
+#| msgid "Remove duplicate results"
+msgid "Remove line breaks"
+msgstr "删除重复的结果"
+
+msgid "Result"
+msgstr ""
+
+msgid "Change slider type"
+msgstr "更改轮播类型"
+
+msgid ""
+"Changing your slider type is irreversible. After changing your slider type, "
+"<b>you will lose all slider type related settings</b>."
+msgstr ""
+
+#, fuzzy
+#| msgid "Slider size"
+msgid "Slider type"
+msgstr "轮播大小"
+
+msgid "Convert"
+msgstr ""
+
+msgid "What do you want to create today?"
+msgstr ""
+
+msgid ""
+"Use our powerful visual editor, or simply import one of our existing "
+"template."
+msgstr ""
+
+#, fuzzy
+#| msgid "New project"
+msgid "Create a New Project"
+msgstr "新建项目"
+
+msgid ""
+"Start a new project from scratch and build exactly what you’ve imagined. You "
+"can easily customize every pixels and create anything with layers."
+msgstr ""
+
+msgid "Start with a Template"
+msgstr ""
+
+msgid ""
+"Start with a template and make it your own with the innovative drag and drop "
+"interface. You can choose from hundreds of premade templates."
+msgstr ""
+
+msgid "or import your own files"
+msgstr ""
+
+#, fuzzy
+#| msgid "New project"
+msgid "Create new project"
+msgstr "新建项目"
+
+msgid "Project type"
+msgstr ""
+
+msgid "Slider"
+msgstr "轮播"
+
+msgid "Block"
+msgstr "区块"
+
+msgid "Full page"
+msgstr ""
+
+msgid "Carousel"
+msgstr ""
+
+#, fuzzy
+#| msgid "Lowercase"
+msgid "Showcase"
+msgstr "小写"
+
+#, fuzzy
+#| msgid "Go Pro"
+msgid "Pro"
+msgstr "升级到专业版"
+
+msgid "Settings"
+msgstr "设置"
+
+#, fuzzy
+#| msgid "New project"
+msgid "My project"
+msgstr "新建项目"
+
+msgid "Boxed"
+msgstr "盒装"
+
+msgid "Full width"
+msgstr "全宽"
+
+msgid "Layout"
+msgstr "布局"
+
+#, fuzzy
+#| msgid "Slide title"
+msgid "Slide width"
+msgstr "轮播图标题"
+
+#, fuzzy
+#| msgid "Line height"
+msgid "Slide height"
+msgstr "行高"
+
+msgid "Create"
+msgstr ""
+
+#, fuzzy
+#| msgid "Activate Smart Slider 3 Pro"
+msgid "Join The Smart Slider 3 Community"
+msgstr "激活Smart Slider 3 专业版"
+
+msgid ""
+"Join more than 120,000 subscribers and get access to the latest slider "
+"templates, tips, tutorials and other exclusive contents directly to your "
+"inbox."
+msgstr ""
+"加入超过120,000个订户，直接在您的收件箱中访问最新的轮播模板、技巧、教程和其他"
+"专有内容。"
+
+msgid "Subscribe"
+msgstr "订阅"
+
+#, fuzzy
+#| msgid "Whole group"
+msgid "Change group"
+msgstr "全组"
+
+#, fuzzy
+#| msgid "Group"
+msgid "Groups"
+msgstr "分组"
+
+#, fuzzy
+#| msgid "Stretch"
+msgid "Set"
+msgstr "拉伸"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Group"
+msgstr "分组"
+
+#, fuzzy
+#| msgid "First slide"
+msgid "Edit Slider"
+msgstr "第一张轮播图"
+
+msgid "Up"
+msgstr ""
+
+#, fuzzy
+#| msgid "Whole group"
+msgid "Insert group"
+msgstr "全组"
+
+msgid "Move to trash"
+msgstr "移至回收站"
+
+#, fuzzy
+#| msgid "Move to trash"
+msgid "empty the trash"
+msgstr "移至回收站"
+
+#, fuzzy
+#| msgid "Slider permanently deleted."
+msgid "Delete permanently"
+msgstr "轮播已永久删除。"
+
+#, fuzzy
+#| msgid "Select slider"
+msgid "delete this slider"
+msgstr "选择轮播"
+
+msgid "Publish"
+msgstr "发布"
+
+msgid "Unpublish"
+msgstr "取消发布"
+
+#, fuzzy
+#| msgid "Generator"
+msgid "Edit generator"
+msgstr "生成器"
+
+#, fuzzy
+#| msgid "Newest first"
+msgid "Set as first"
+msgstr "最新优先"
+
+#, fuzzy
+#| msgid "Convert to slider"
+msgid "Convert to slide"
+msgstr "转换为轮播"
+
+#, fuzzy
+#| msgid "Slide two"
+msgid "Copy slide to"
+msgstr "轮播图二"
+
+msgid "Add post"
+msgstr ""
+
+msgid "Please select a Post first!"
+msgstr ""
+
+#, fuzzy
+#| msgid "Into the slider"
+msgid "delete these slides"
+msgstr "插入轮播内部"
+
+#, fuzzy
+#| msgid "Select slider"
+msgid "delete this slide"
+msgstr "选择轮播"
+
+msgid "Max width"
+msgstr "最大宽度"
+
+msgid "Margin"
+msgstr "外边距"
+
+#, fuzzy
+#| msgid "Top"
+msgid "top"
+msgstr "顶部"
+
+#, fuzzy
+#| msgid "Light"
+msgid "right"
+msgstr "细明亮"
+
+#, fuzzy
+#| msgid "Bottom"
+msgid "bottom"
+msgstr "底部"
+
+#, fuzzy
+#| msgid "To left"
+msgid "left"
+msgstr "向左"
+
+msgid "Animations"
+msgstr "动画"
+
+msgid "Effects"
+msgstr "效果"
+
+#, fuzzy
+#| msgctxt "Slider type"
+#| msgid "Simple slider"
+msgid "Shape divider"
+msgstr "简单轮播"
+
+msgid "Particle effect"
+msgstr ""
+
+#, fuzzy
+#| msgid "My text animations"
+msgid "Layer animations"
+msgstr "我的文字动画"
+
+#, fuzzy
+#| msgid "Lazy load"
+msgid "Play on load"
+msgstr "懒加载"
+
+msgid ""
+"Plays the layer animations on the first slide when it appears for the first "
+"time."
+msgstr ""
+
+#, fuzzy
+#| msgid "Play"
+msgid "Play once"
+msgstr "播放"
+
+msgid "Plays the layer animations only during the first loop."
+msgstr ""
+
+#, fuzzy
+#| msgid "Play"
+msgid "Play on"
+msgstr "播放"
+
+#, fuzzy
+#| msgid "Main animation"
+msgid "Main animation start"
+msgstr "主要动画"
+
+#, fuzzy
+#| msgid "Main animation"
+msgid "Main animation end"
+msgstr "主要动画"
+
+msgid "Mode"
+msgstr ""
+
+msgid "Skippable"
+msgstr ""
+
+msgid "Forced"
+msgstr ""
+
+msgid ""
+"You can make the outgoing layer animations, which don't have events, to play "
+"on slide switching."
+msgstr ""
+
+#, fuzzy
+#| msgid "Background parallax"
+msgid "Layer parallax"
+msgstr "背景视差"
+
+msgid "Enable"
+msgstr "启用"
+
+msgid "Animate"
+msgstr "动画"
+
+msgid "Horizontal"
+msgstr "水平"
+
+#, fuzzy
+#| msgid "Mouse wheel"
+msgid "Mouse"
+msgstr "鼠标滚动"
+
+msgid "Invert"
+msgstr ""
+
+msgid "Vertical"
+msgstr "垂直"
+
+msgid "Scroll"
+msgstr "卷动"
+
+msgid "Mouse origin"
+msgstr ""
+
+#, fuzzy
+#| msgid "Slider created."
+msgid "Slider center"
+msgstr "轮播已创建。"
+
+#, fuzzy
+#| msgid "Next position"
+msgid "Mouse enter position"
+msgstr "下一个位置"
+
+#, fuzzy
+#| msgid "Scroll"
+msgid "Scroll move"
+msgstr "卷动"
+
+msgid "Both"
+msgstr ""
+
+msgid "To bottom"
+msgstr "向下"
+
+msgid "To top"
+msgstr "向上"
+
+msgid "Autoplay"
+msgstr "自动播放"
+
+msgid "Slide duration"
+msgstr "轮播图持续时间"
+
+#, fuzzy
+#| msgid "Auto"
+msgid "Autostart"
+msgstr "自动"
+
+msgid "Allow restart"
+msgstr ""
+
+msgid ""
+"Keeps the autoplay control visible after the autoplay has finished to allow "
+"starting it again."
+msgstr ""
+
+msgid "Infinite loop"
+msgstr ""
+
+#, fuzzy
+#| msgid "Pause autoplay"
+msgid "Finish autoplay"
+msgstr "暂停自动播放"
+
+msgid "Stop on click"
+msgstr "点击停止"
+
+msgid "Stop on mouse"
+msgstr "鼠标悬停时停止"
+
+msgid "Enter"
+msgstr "进入"
+
+msgid "Leave"
+msgstr "离开"
+
+msgid "Stop on media"
+msgstr "在媒体上停止"
+
+msgid "Resume on click"
+msgstr "点击继续"
+
+msgid "Resume on mouse"
+msgstr "鼠标悬停时继续"
+
+msgid "Resume on media"
+msgstr "在媒体上继续"
+
+msgid "Controls"
+msgstr "控制"
+
+msgid "Drag"
+msgstr "拖动"
+
+msgid "Defines the drag (and touch) direction for your slider."
+msgstr "定义轮播的拖动（和触摸）方向。"
+
+msgid "Mouse wheel"
+msgstr "鼠标滚动"
+
+msgid "Allows switching slides with the mouse wheel."
+msgstr "允许使用鼠标滚轮切换轮播图。"
+
+msgid "Keyboard"
+msgstr "键盘"
+
+msgid "Allows switching slides with the keyboard."
+msgstr "允许使用键盘切换轮播图。"
+
+msgid "Developer"
+msgstr "开发者"
+
+msgid "Block right click"
+msgstr ""
+
+msgid "Block carousel"
+msgstr ""
+
+msgid ""
+"Stops the carousel at the last slide when the source of interaction is "
+"vertical touch, vertical pointer, mouse wheel or vertical keyboard."
+msgstr ""
+
+msgid "Clear before"
+msgstr "清除前浮动"
+
+msgid "Closes the unclosed float CSS codes before the slider."
+msgstr "在轮播之前关闭未封闭的float CSS代码。"
+
+msgid "Clear after"
+msgstr "清除后浮动"
+
+msgid "Allows you to put your slider next to your text."
+msgstr "允许您将轮播放在文本旁边。"
+
+msgid "Hide scrollbar"
+msgstr "隐藏滚动条"
+
+msgid ""
+"Your website won't be scrollable anymore! All out of screen elements will be "
+"hidden."
+msgstr "您的网站将不再滚动！屏幕外的所有元素都将被隐藏。"
+
+msgid "Scroll to slider"
+msgstr "滚动到轮播图下方"
+
+msgid "The page scrolls back to the slider when the user interacts with it."
+msgstr "当用户与轮播互动时，页面会滚动回到轮播。"
+
+msgid "Edge"
+msgstr "边缘"
+
+msgid "Top - when needed"
+msgstr "顶部-需要时"
+
+msgid "Top - always"
+msgstr "顶部-始终"
+
+msgid "Bottom - when needed"
+msgstr "底部-需要时"
+
+msgid "Bottom - always"
+msgstr "底部-始终"
+
+msgid "Delayed (for lightbox/tabs)"
+msgstr "延迟（用于灯箱/选项卡）"
+
+msgid ""
+"Delays the loading of the slider until its container gets visible. Useful "
+"when you display the slider in a lightbox or tab."
+msgstr ""
+
+msgid "Legacy font scale"
+msgstr ""
+
+msgid ""
+"This feature brings back the non-adaptive font size for absolute layers "
+"which were made before version 3.5. Turning on can affect website "
+"performance, so we suggest to keep it disabled.\n"
+msgstr ""
+
+msgid "Slider CSS classes"
+msgstr "轮播CSS类"
+
+msgid "You can put custom CSS classes to the slider's container."
+msgstr "您可以将自定义CSS类放入轮播的容器中。"
+
+msgid "JavaScript callbacks"
+msgstr "JavaScript回调"
+
+#, fuzzy
+#| msgid "Main animation"
+msgid "Loading animation waiting time"
+msgstr "主要动画"
+
+msgid "Post IDs"
+msgstr "文章 IDs"
+
+msgid "one per line"
+msgstr "每行一个"
+
+msgid "The cache of the posts with the given ID will be cleared upon save."
+msgstr "保存后将清除具有给定ID的文章的缓存。"
+
+#, fuzzy
+#| msgid "Select slider"
+msgid "Fallback slider"
+msgstr "选择轮播"
+
+#, fuzzy
+#| msgid "Alias"
+msgid "ID or Alias"
+msgstr "别名"
+
+msgid ""
+"Select another slider by its ID or Alias that displays if your current "
+"slider has no published slides."
+msgstr ""
+
+msgid "Thumbnail"
+msgstr "缩略图"
+
+msgid "Slider thumbnail which appears in the slider list."
+msgstr "出现在轮播列表中的轮播缩略图。"
+
+msgid "ARIA label"
+msgstr "ARIA标签"
+
+msgid "It allows you to label your slider for screen readers."
+msgstr "它允许您为屏幕阅读器标记轮播。"
+
+msgid "Alias"
+msgstr "别名"
+
+msgid "You can use this alias in the slider's shortcode."
+msgstr "您可以在轮播的简码中使用此别名。"
+
+msgid "Use as anchor"
+msgstr "用作锚点"
+
+msgid ""
+"Creates an empty div before the slider, using the alias as the ID of this "
+"div. As a result, you can use #your-alias in the URL to make the page jump "
+"to the slider."
+msgstr ""
+"使用别名作为该div的ID，在轮播之前创建一个空的div。因此，您可以在URL中使用 "
+"#your-alias 来使页面跳至轮播。"
+
+#, fuzzy
+#| msgid "Smooth scroll speed"
+msgid "Smooth scroll"
+msgstr "平滑滚动速度"
+
+msgid ""
+"The #your-alias urls in links would be forced to smooth scroll to the slider."
+msgstr "链接中的#your-alias 网址将被强制平滑滚动到轮播。"
+
+#, fuzzy
+#| msgid "First slide"
+msgid "Switch slide"
+msgstr "第一张轮播图"
+
+msgid ""
+"Use #your-alias-2 as an anchor to jump to the slider and switch to the 2nd "
+"slide immediately. Use #your-alias-3 for the 3rd slide and so on."
+msgstr ""
+"使用#your-alias-2作为锚点跳到轮播并立即切换到第二张轮播图。对第三张轮播图使"
+"用 #your-alias-3，依此类推。"
+
+#, fuzzy
+#| msgid "Scroll to slider"
+msgid "Scroll to slide"
+msgstr "滚动到轮播图下方"
+
+msgid ""
+"The \"Switch slide\" option won't scroll you to the slider. Only the slides "
+"will switch."
+msgstr ""
+
+msgid "Slider design"
+msgstr "轮播设计"
+
+#, fuzzy
+#| msgid "Slide background image fill"
+msgid "Slider background image"
+msgstr "轮播图背景填充"
+
+msgid "Fixed"
+msgstr ""
+
+#, fuzzy
+#| msgid "Background image"
+msgid "Background video"
+msgstr "背景图片"
+
+#, fuzzy
+#| msgid "Mute"
+msgid "Muted"
+msgstr "静音"
+
+msgctxt "Video/Audio play"
+msgid "Loop"
+msgstr "循环"
+
+msgid "Fill mode"
+msgstr "填充模式"
+
+msgid "Align"
+msgstr "对齐"
+
+msgid "Puts a fix margin around your slider."
+msgstr "在轮播周围放置固定外边距。"
+
+msgid "Perspective"
+msgstr ""
+
+msgid "Optimize"
+msgstr "优化"
+
+msgid "Loading"
+msgstr "加载中"
+
+#, fuzzy
+#| msgid "Loading mode"
+msgid "Loading type"
+msgstr "加载方式"
+
+msgid "Instant"
+msgstr "即时"
+
+msgid "After page loaded"
+msgstr "页面已加载"
+
+msgid "After delay"
+msgstr "延迟"
+
+msgid ""
+"If your slider is above the fold, you can load it immediately. Otherwise, "
+"you can load it only after the page has loaded."
+msgstr ""
+
+msgid "Load delay"
+msgstr "加载延迟"
+
+msgid "Play when visible"
+msgstr "可见时播放"
+
+msgid ""
+"Makes sure that the autoplay and layer animations only start when your "
+"slider is visible."
+msgstr "确保仅在可见轮播时才开始自动播放和图层动画。"
+
+msgid "At"
+msgstr "在"
+
+#, fuzzy
+#| msgid "Slide background image fill"
+msgid "Slide background images"
+msgstr "轮播图背景填充"
+
+msgid "Loading mode"
+msgstr "加载方式"
+
+msgid "Delayed loading"
+msgstr "延迟加载"
+
+msgid "Lazy loading"
+msgstr "懒加载"
+
+msgid ""
+"You can speed up your site's loading by delaying the slide background images."
+msgstr "您可以通过延迟轮播图背景图片来加快网站的加载速度。"
+
+msgid "Load neighbor"
+msgstr "加载相邻"
+
+msgctxt "Unit"
+msgid "slides"
+msgstr "轮播图"
+
+#, php-format
+msgid ""
+"Convert to WebP and image resizing require a lot of memory. Lift the memory "
+"limit%s if you get a blank page."
+msgstr ""
+
+#, fuzzy
+#| msgid "Convert to slider"
+msgid "Convert to WebP"
+msgstr "转换为轮播"
+
+msgid "Resize"
+msgstr "调整"
+
+msgid "Quality"
+msgstr "质量"
+
+#, fuzzy
+#| msgid "Default"
+msgid "Default width"
+msgstr "默认"
+
+#, fuzzy
+#| msgid "Medium Light"
+msgid "Medium width"
+msgstr "中等浅色"
+
+#, fuzzy
+#| msgid "Medium Light"
+msgid "Medium height"
+msgstr "中等浅色"
+
+#, fuzzy
+#| msgid "Full width"
+msgid "Small width"
+msgstr "全宽"
+
+#, fuzzy
+#| msgid "Small Light"
+msgid "Small height"
+msgstr "小型浅色"
+
+msgid "Retina"
+msgstr ""
+
+msgid "Instruction"
+msgstr "说明"
+
+msgid ""
+"If your images look blurry on small screens, use the available height option "
+"to match the aspect ratio of the slider and image on that device."
+msgstr ""
+
+#, fuzzy
+#| msgid "Thumbnail"
+msgid "Resize Thumbnail"
+msgstr "缩略图"
+
+#, fuzzy
+#| msgid "Thumbnail type"
+msgid "Thumbnail Quality"
+msgstr "缩略图类型"
+
+msgid "Thumbnail width"
+msgstr "缩略图宽度"
+
+msgid "Thumbnail height"
+msgstr "缩略图高度"
+
+#, fuzzy
+#| msgid "Layers"
+msgid "Layer images"
+msgstr "图层"
+
+msgid "Base64 embed"
+msgstr "Base64 编码"
+
+msgid "Embeds the layer images to the page source, reducing the requests."
+msgstr "将图层图片嵌入到页面源中，从而减少了请求。"
+
+msgid "Max file size"
+msgstr "最大文件大小"
+
+msgid "Other"
+msgstr "其他"
+
+msgid "JetPack Photon image optimizer"
+msgstr "JetPack Photon图片优化器"
+
+#, fuzzy
+#| msgid "Background image"
+msgid "Background video on mobile"
+msgstr "背景图片"
+
+msgid "Slider size"
+msgstr "轮播大小"
+
+msgid "Limit slide width"
+msgstr "限制轮播宽度"
+
+msgid ""
+"Limits the width of the slide and prevents the slider from getting too tall."
+msgstr "限制轮播图的宽度，并防止轮播过高。"
+
+msgid "Max"
+msgstr "最大"
+
+msgid "Breakpoints"
+msgstr "断点"
+
+msgid ""
+"Breakpoints define the browser width in pixel when the slider switches to a "
+"different device."
+msgstr "当轮播切换到其他设备时，断点定义浏览器的宽度（以像素为单位）。"
+
+msgid "Global breakpoints"
+msgstr "全局断点"
+
+#, php-format
+msgid ""
+"You can use the global breakpoints, or adjust them locally here. You can "
+"configure the Global breakpoints at <a href=\"%1$s\" target=\"_blank"
+"\">Global settings</a> > General > Breakpoints"
+msgstr ""
+"您可以使用全局断点，或在此处本地调整它们。您可以在<a href=\"%1$s\" target="
+"\"_blank\">全局设置</a> >常规>断点 处配置全局断点"
+
+#, fuzzy
+#| msgid "Custom field name"
+msgid "Custom size"
+msgstr "自定义字段名称"
+
+#, php-format
+msgid ""
+"Use this option to customize the aspect ratio for each device. %1$s Read "
+"more in the documentation%2$s. <b>Beware:</b> This option is rarely needed "
+"and might be hard to set properly!"
+msgstr ""
+
+msgid "Slides"
+msgstr "轮播图"
+
+msgid "Slides design"
+msgstr "轮播图设计"
+
+msgid "Slide background image fill"
+msgstr "轮播图背景填充"
+
+msgid ""
+"If the size of your image is not the same as your slider's, you can improve "
+"the result with the filling modes."
+msgstr "如果图片的大小与轮播的大小不同，则可以使用填充模式来改善结果。"
+
+#, fuzzy
+#| msgid "Background color"
+msgid "Background Blur"
+msgstr "背景颜色"
+
+msgid "Randomize"
+msgstr "随机"
+
+#, fuzzy
+#| msgid "Randomize first"
+msgid "Randomize slides"
+msgstr "首先随机化"
+
+msgid "Randomize first"
+msgstr "首先随机化"
+
+msgid "Cache support"
+msgstr "缓存支援"
+
+msgid "Cache variations"
+msgstr "缓存变化"
+
+msgid "Reverse"
+msgstr "相反"
+
+msgid "You can make your slides appear in the slider in a reversed order."
+msgstr "您可以使轮播图以相反的顺序出现在轮播中。"
+
+msgid "Max count"
+msgstr "最大数量"
+
+msgid ""
+"You can limit how many slides you want to show from your slider. It's best "
+"used with the Randomize feature, to improve the experience."
+msgstr ""
+"您可以限制要从轮播中显示的轮播图数量。最好与“随机化”功能一起使用，以改善体"
+"验。"
+
+msgid "Maintain session"
+msgstr "维持会话"
+
+msgid ""
+"The slider continues from the last viewed slide when the visitor comes back "
+"to the page."
+msgstr "当访问者返回页面时，轮播将从上次查看的轮播图继续。"
+
+msgid "Backgrounds in lightbox"
+msgstr "灯箱中的背景"
+
+msgid ""
+"Creates a lightbox from your slide background images. This feature only "
+"works if all slides have background images."
+msgstr ""
+"从轮播图背景图创建一个灯箱。仅当所有轮播图都具有背景图时，此功能才有效。"
+
+msgid "Show label"
+msgstr "显示标签"
+
+msgid "Only slide name"
+msgstr "仅轮播图名称"
+
+msgid "Slide name and description"
+msgstr "轮播图名称与描述"
+
+msgid "Background parallax"
+msgstr "背景视差"
+
+msgid "Strength"
+msgstr "强度"
+
+msgid "Super soft"
+msgstr "非常柔和"
+
+msgid "Soft"
+msgstr "柔和"
+
+msgid "Strong"
+msgstr "强烈"
+
+msgid "Super strong"
+msgstr "非常强烈"
+
+msgid "Generator created."
+msgstr "生成器已创建。"
+
+msgid "Generator updated and cache cleared."
+msgstr "生成器已更新，缓存已清除。"
+
+msgid "Generator group not found"
+msgstr "找不到生成器分组"
+
+msgid "Generator source not found"
+msgstr "找不到生成器资源"
+
+msgid "No records found for the filter"
+msgstr "找不到该过滤器的记录"
+
+msgid "Authentication successful."
+msgstr "认证成功。"
+
+msgid "Not installed"
+msgstr "未安装"
+
+msgid "Visit"
+msgstr "访问"
+
+msgid "Add dynamic slides"
+msgstr "添加动态轮播图"
+
+msgid "Configure"
+msgstr "配置"
+
+msgid "Add"
+msgstr "添加"
+
+msgid "Generator"
+msgstr "生成器"
+
+msgid "How to upgrade to Smart Slider 3 Pro?"
+msgstr "如何升级到Smart Slider 3 专业版？"
+
+#, php-format
+msgid ""
+"After making your purchase, %1$slog in to your account%3$s and download the "
+"Pro installer. To get started with Smart Slider 3 Pro, simply %2$sinstall it "
+"on your website%3$s."
+msgstr ""
+"购买后，%1$s登录到您的帐户%3$s并下载专业版安装程序。要开始使用Smart Slider 3 "
+"专业版，只需%2$s将其安装在您的网站%3$s上。"
+
+msgid "Download Pro"
+msgstr "下载专业版"
+
+msgid ""
+"Feel free to remove the Free version, as you no longer need it. Your sliders "
+"will stay!"
+msgstr "放心删除免费版本，因为您不再需要它。您的轮播数据将保留！"
+
+msgid "Ready to go Pro?"
+msgstr "准备好使用专业版了吗？"
+
+msgid "Supercharge Smart Slider 3 with powerful functionality!"
+msgstr "Smart Slider 3 功能更强大！"
+
+msgid "Already purchased?"
+msgstr "已经购买？"
+
+msgid "Get started with the Pro version now!"
+msgstr "立即开始使用专业版！"
+
+#, php-format
+msgid "Unable to connect to the API (%s)."
+msgstr "无法连接到API（%s）。"
+
+msgid "See <b>Debug Information</b> for more details!"
+msgstr "有关更多详细信息，请参见<b>调试信息</b> ！"
+
+msgid "Successful connection with the API."
+msgstr "与API成功连接。"
+
+msgid "Welcome to Help Center"
+msgstr "欢迎访问帮助中心"
+
+msgid ""
+"To help you get started, we've put together a super tutorial video that "
+"shows you the basic settings."
+msgstr "为了帮助您入门，我们整理了一个超级教程视频，向您显示基本设置。"
+
+msgid "Possible conflicts"
+msgstr "可能的冲突"
+
+msgid "Test connection"
+msgstr "测试连接"
+
+msgid "No conflicts detected."
+msgstr "未检测到冲突。"
+
+msgid "Hello! How can we help you today?"
+msgstr "你好！需要我们提供什么帮助？"
+
+msgid "Search in the knowledge base"
+msgstr "在知识库中搜索"
+
+msgid "Documentation"
+msgstr "文档"
+
+msgid ""
+"To get started with Smart Slider 3, please refer to this guide for "
+"downloading, installing, and using."
+msgstr "要开始使用Smart Slider 3，请参考本指南进行下载、安装和使用。"
+
+msgid "Email support"
+msgstr "邮件支持"
+
+msgid ""
+"Need one-to-one assistance? Get in touch with our Support team! We'd love "
+"the opportunity to help you."
+msgstr "需要一对一的协助吗？与我们的支持团队联系！我们希望有机会为您提供帮助。"
+
+msgid "Tutorial videos"
+msgstr "视频教程"
+
+msgid ""
+"Check our video tutorials which cover everything you need to know about "
+"Smart Slider 3."
+msgstr "查看我们的视频教程，其中涵盖了您需要了解有关Smart Slider 3的所有信息。"
+
+msgid "Selected articles"
+msgstr "精选文章"
+
+msgid "Debug information"
+msgstr "调试信息"
+
+#, php-format
+msgid "%s or later"
+msgstr "%s 或更高版本"
+
+msgid "You are using an unsupported browser!"
+msgstr "您使用的是不受支持的浏览器！"
+
+#, php-format
+msgid ""
+"Smart Slider 3 does not support your current browser for editing. Supported "
+"browsers are the following: %s."
+msgstr "Smart Slider 3不支持您当前的浏览器进行编辑。受支持的浏览器如下：%s。"
+
+msgid "Help center"
+msgstr "帮助中心"
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "Read more"
+msgstr "阅读更多"
+
+msgid "Need more?"
+msgstr "需要更多？"
+
+msgid "Unlock all the pro features by upgrading to Smart Slider 3 Pro."
+msgstr "通过升级到Smart Slider 3 专业版，解锁所有专业功能。"
+
+msgid "Changelog"
+msgstr "更新历史"
+
+msgid "Check for update"
+msgstr "检查更新"
+
+msgid "Check"
+msgstr "检查"
+
+msgid "Your license is active"
+msgstr ""
+
+msgid "Deactivate license"
+msgstr ""
+
+#, fuzzy
+#| msgid "Rate your experience"
+msgid "Activate your license"
+msgstr "评价您的体验"
+
+msgid "Don’t miss any update"
+msgstr "不要错过任何更新"
+
+msgid "Let us know how we're doing"
+msgstr "让我们知道我们的状况"
+
+msgid ""
+"If you are happy with Smart Slider 3 and can take a minute please leave a "
+"review. This will help to spread its popularity and to make this plugin a "
+"better one."
+msgstr ""
+"如果您对Smart Slider 3感到满意，并且可能需要一分钟，请留下评论。这将有助于传"
+"播其流行性并使该插件成为更好的插件。"
+
+msgid "Rate your experience"
+msgstr "评价您的体验"
+
+msgid "Hated it"
+msgstr "讨厌它"
+
+msgid "Disliked it"
+msgstr "不喜欢它"
+
+msgid "It was ok"
+msgstr "还行吧"
+
+msgid "Liked it"
+msgstr "喜欢它"
+
+msgid "Loved it"
+msgstr "超喜欢它"
+
+msgid "Why upgrade to Smart Slider 3 Pro?"
+msgstr "为什么要升级到 Smart Slider 3 专业版？"
+
+#, fuzzy, php-format
+#| msgid "180+ slider templates"
+msgid "%d+ slider templates"
+msgstr "180多个轮播模板"
+
+msgid "Full slide library access"
+msgstr "完整的轮播图库访问"
+
+#, fuzzy, php-format
+#| msgid "14 new layers"
+msgid "%d new layers"
+msgstr "14个新图层"
+
+msgid "Extra advanced options"
+msgstr "额外的高级选项"
+
+msgid "New animations & effects"
+msgstr "新动画和特效"
+
+msgid "Lifetime update & support"
+msgstr "终身更新和支持"
+
+msgid "Apply"
+msgstr "应用"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Import"
+msgstr "导入"
+
+msgid "Layers"
+msgstr "图层"
+
+msgid "Library"
+msgstr "库"
+
+msgid "Absolute"
+msgstr "绝对"
+
+msgctxt "Layer group"
+msgid "Basic"
+msgstr "基本"
+
+msgid "Inner align"
+msgstr "内部对齐"
+
+msgid "Positions the layers inside horizontally."
+msgstr "将图层水平放置在内部。"
+
+msgid "Vertical align"
+msgstr "垂直对齐"
+
+msgid "Positions the layers inside vertically."
+msgstr "将图层垂直放置在内部。"
+
+msgid "Target window"
+msgstr "目标窗口"
+
+msgid "Background image"
+msgstr "背景图片"
+
+msgid "Focus"
+msgstr "焦点"
+
+msgid ""
+"You can set the starting position of a background image. This makes sure "
+"that the selected part will always remain visible, so you should pick the "
+"most important part."
+msgstr ""
+"您可以设置背景图片的开始位置。这样可以确保所选部分始终保持可见，因此您应该选"
+"择最重要的部分。"
+
+msgid "Background"
+msgstr "背景"
+
+msgid "Gradient"
+msgstr "渐变"
+
+msgid "Color end"
+msgstr "结束颜色"
+
+msgid "Position"
+msgstr "位置"
+
+msgid "The editing mode the layer is positioned in."
+msgstr "图层所在的编辑模式。"
+
+msgid "Positions the layer horizontally within its parent."
+msgstr "将图层水平放置在其父图层中。"
+
+msgid "You can set a fix height for your layer."
+msgstr "您可以为图层设置固定高度。"
+
+msgid "With margins you can create distance between your layers."
+msgstr "使用外边距可以在图层之间创建距离。"
+
+msgid "Responsive"
+msgstr "自适应"
+
+#, fuzzy
+#| msgid "Liked it"
+msgid "Linked to"
+msgstr "喜欢它"
+
+msgid ""
+"You can link your layer to another layer on the same level. This way your "
+"layer won't be positioned to the slide, but the other layer."
+msgstr ""
+
+msgid "Hide when variable empty"
+msgstr "变量为空时隐藏"
+
+msgid "Text scale"
+msgstr "文字比例"
+
+msgid "Device specific settings"
+msgstr "设备特定的设置"
+
+msgid "Clear"
+msgstr "清除"
+
+msgid "Erases all device specific changes you made on the current device."
+msgstr "清除您在当前设备上进行的所有设备特定更改。"
+
+msgid "Effect"
+msgstr "效果"
+
+msgid "Parallax"
+msgstr ""
+
+msgid "More parallax options in slider settings -> Layer animations tab."
+msgstr ""
+
+msgid "Crop"
+msgstr "裁剪"
+
+msgid "Mask"
+msgstr "遮罩"
+
+msgid "If your content is larger than the layer, you can crop it to fit."
+msgstr "如果内容大于图层，则可以对其进行裁剪以适合。"
+
+msgid "Rotation"
+msgstr "旋转"
+
+msgid "CSS Class"
+msgstr "CSS类"
+
+msgid "You can add a custom CSS class on the layer container."
+msgstr "您可以在图层容器上添加自定义CSS类。"
+
+msgid "Content background"
+msgstr "内容背景"
+
+msgid "Spacing"
+msgstr "空白"
+
+msgid "Typography"
+msgstr "排版"
+
+msgid ""
+"You can select a font family from the preset, or type your custom family."
+msgstr "您可以从预设中选择字体系列，或键入您的自定义系列。"
+
+msgid ""
+"Need to change the font size device specifically? Use the Text scale option."
+msgstr "需要专门更改字体大小的设备吗？使用文本比例选项。"
+
+msgid "Columns"
+msgstr "列"
+
+msgid "Gutter"
+msgstr "间距"
+
+msgid "Creates space between the columns"
+msgstr "在列之间创建空间"
+
+msgid "Wrap after"
+msgstr "包装后"
+
+msgid "Breaks the columns to the given amount of rows."
+msgstr "将列拆分为给定的行数。"
+
+msgid "Makes the row fill the available vertical space"
+msgstr "使行填充可用的垂直空间"
+
+msgid "Slide title"
+msgstr "轮播图标题"
+
+msgid "Description"
+msgstr "描述"
+
+#, fuzzy
+#| msgid "Thumbnail type"
+msgid "Thumbnail alt"
+msgstr "缩略图类型"
+
+msgid "Custom lightbox image"
+msgstr "自定义灯箱图片"
+
+msgid "Published"
+msgstr "已发布"
+
+#, fuzzy
+#| msgid "Publish"
+msgid "Publish on"
+msgstr "发布"
+
+#, fuzzy
+#| msgid "Unpublish"
+msgid "Unpublish on"
+msgstr "取消发布"
+
+msgid "Thumbnail type"
+msgstr "缩略图类型"
+
+msgid "Video"
+msgstr "视频"
+
+msgid ""
+"If you have a video on your slide, you can put a play icon on the thumbnail "
+"image to indicate that."
+msgstr "如果轮播图上有视频，则可以在缩略图上放置一个播放图标来表明这一点。"
+
+#, php-format
+msgid ""
+"Video autoplaying has a lot of limitations made by browsers. %1$sLearn about "
+"them.%2$s"
+msgstr "视频自动播放具有许多浏览器的限制。 %1$s了解详情。%2$s"
+
+#, fuzzy
+#| msgid "Slide background"
+msgid "Slide background video"
+msgstr "轮播图背景"
+
+#, fuzzy
+#| msgid "First slide changed."
+msgid "Restart on slide change"
+msgstr "第一个轮播图已更改。"
+
+msgid "Starts the video from the beginning when the slide is viewed again."
+msgstr ""
+
+msgid "Slide background"
+msgstr "轮播图背景"
+
+msgid ""
+"Select a background image for the slide. By clicking the small screen icon, "
+"you can pick different images for different devices."
+msgstr ""
+
+#, php-format
+msgid ""
+"Please read %1$sour detailed guide%2$s about setting your own slide "
+"background correctly."
+msgstr "请阅读%1$s我们的详细指南%2$s，了解如何正确设置自己的轮播图背景。"
+
+#, fuzzy
+#| msgid "Background color"
+msgid "Background blur"
+msgstr "背景颜色"
+
+msgid "Blur"
+msgstr "模糊"
+
+msgid "Overlay"
+msgstr "覆盖"
+
+msgid "Puts the color in front of the image."
+msgstr "将颜色放在图片前面。"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "Image alt"
+msgstr "图片alt"
+
+msgid "Image title"
+msgstr "图片标题"
+
+msgctxt "Layer animation"
+msgid "In"
+msgstr ""
+
+#, fuzzy
+#| msgid "Outset"
+msgctxt "Layer animation"
+msgid "Out"
+msgstr "外凸"
+
+msgctxt "Layer animation"
+msgid "Events"
+msgstr ""
+
+#, fuzzy
+#| msgid "Play when visible"
+msgid "Plays in when"
+msgstr "可见时播放"
+
+msgid "Plays out when"
+msgstr ""
+
+msgid "Plays loop when"
+msgstr ""
+
+msgid "Pauses loop when"
+msgstr ""
+
+msgid "Stops loop when"
+msgstr ""
+
+#, fuzzy
+#| msgid "Replace variables"
+msgid "Repeatable"
+msgstr "替换变量"
+
+msgid "Allows the layer animations to play more than once."
+msgstr ""
+
+#, fuzzy
+#| msgid "After delay"
+msgid "Start delay"
+msgstr "延迟"
+
+#, fuzzy
+#| msgid "Load delay"
+msgid "End delay"
+msgstr "加载延迟"
+
+msgid "Repeat loop only"
+msgstr ""
+
+msgid "Allows the stopped loop to start again."
+msgstr ""
+
+msgid "Trigger custom event on"
+msgstr ""
+
+msgid "Click"
+msgstr ""
+
+#, fuzzy
+#| msgid "Mouse wheel"
+msgid "Mouse enter"
+msgstr "鼠标滚动"
+
+#, fuzzy
+#| msgid "Mouse wheel"
+msgid "Mouse leave"
+msgstr "鼠标滚动"
+
+msgid "Media started"
+msgstr ""
+
+msgid "Media paused"
+msgstr ""
+
+msgid "Media stopped"
+msgstr ""
+
+msgid "Duration"
+msgstr "持续时间"
+
+msgid "Delay"
+msgstr ""
+
+#, fuzzy
+#| msgctxt "Layer"
+#| msgid "Missing"
+msgid "Easing"
+msgstr "缺失"
+
+msgid "Offset"
+msgstr "偏移"
+
+#, fuzzy
+#| msgid "State"
+msgid "Rotate"
+msgstr "省"
+
+#, fuzzy
+#| msgid "Scale up"
+msgid "Scale"
+msgstr "Scale up"
+
+msgid "Skew"
+msgstr ""
+
+#, fuzzy
+#| msgid "Transform"
+msgid "Transform origin"
+msgstr "转换"
+
+msgid ""
+"Makes the last keyframe to be the origin of the layer animation, instead of "
+"its canvas position."
+msgstr ""
+
+#, fuzzy
+#| msgid "Max count"
+msgid "Repeat count"
+msgstr "最大数量"
+
+msgid "loops"
+msgstr ""
+
+msgid ""
+"You can restrict the loop to play only a certain amount of loops, instead of "
+"infinite."
+msgstr ""
+
+#, fuzzy
+#| msgid "Slide"
+msgctxt "Animation"
+msgid "Slide"
+msgstr "轮播图"
+
+#, fuzzy
+#| msgid "Curtain to top"
+msgid "Curtains"
+msgstr "Curtain to top"
+
+msgid "Diagonal"
+msgstr ""
+
+msgid "Circle"
+msgstr ""
+
+msgid "From"
+msgstr "从"
+
+msgid "To"
+msgstr "到"
+
+msgid "Fade"
+msgstr "渐变"
+
+msgid "Scale up"
+msgstr "Scale up"
+
+msgid "Scale down"
+msgstr "Scale down"
+
+msgid "Static overlay"
+msgstr "静态叠加"
+
+msgid "First slide"
+msgstr "第一张轮播图"
+
+msgid "Unpublished"
+msgstr "取消发布"
+
+msgid "Bulk actions"
+msgstr "批量动作"
+
+msgid "Select all"
+msgstr "全选"
+
+msgid "Select none"
+msgstr "取消全选"
+
+msgid "Select published"
+msgstr "选择已发布"
+
+msgid "Select unpublished"
+msgstr "选择已取消发布"
+
+msgid "Blank"
+msgstr "空白"
+
+msgid "Post"
+msgstr "发布"
+
+msgid "Dynamic slides"
+msgstr "动态轮播图"
+
+msgid "Add slide"
+msgstr "添加轮播图"
+
+msgid "Block must contain only one slide. Need more?"
+msgstr "块只能包含一张轮播图。需要更多？"
+
+msgid "Convert to slider"
+msgstr "转换为轮播"
+
+msgid "Slide one"
+msgstr "轮播图一"
+
+msgid "Slide two"
+msgstr "轮播图二"
+
+msgid "Drop images here"
+msgstr "删除图片"
+
+#, fuzzy
+#| msgid "New project"
+msgid "Search Project"
+msgstr "新建项目"
+
+msgid "View trash"
+msgstr "查看回收站"
+
+msgid "Order by"
+msgstr "排序依据"
+
+msgid "Manual order"
+msgstr "手动排序"
+
+msgid "A-Z"
+msgstr "A-Z"
+
+msgid "Z-A"
+msgstr "Z-A"
+
+msgid "Newest first"
+msgstr "最新优先"
+
+msgid "Oldest first"
+msgstr "最早优先"
+
+msgid "Export"
+msgstr "导出"
+
+#, fuzzy
+#| msgid "Lowercase"
+msgid "Show"
+msgstr "小写"
+
+#, php-format
+msgid "Showing %s to %s of %s projects"
+msgstr ""
+
+#, fuzzy
+#| msgid "New project"
+msgid "No projects to show"
+msgstr "新建项目"
+
+msgid "New project"
+msgstr "新建项目"
+
+msgid "Sorry we couldn’t find any matches"
+msgstr ""
+
+msgid "Please try searching with another term."
+msgstr ""
+
+#, php-format
+msgid "Showing %s results for %s."
+msgstr ""
+
+#, fuzzy
+#| msgid "Basic Modules"
+msgid "Module"
+msgstr "基本模块"
+
+msgid "Displays the slider in a template module position."
+msgstr ""
+
+#, fuzzy
+#| msgid "Image mode"
+msgid "Create module"
+msgstr "图片模式"
+
+#, fuzzy
+#| msgid "Read more"
+msgid "Related modules"
+msgstr "阅读更多"
+
+#, fuzzy
+#| msgid "Vertical"
+msgid "Articles"
+msgstr "垂直"
+
+#, fuzzy
+#| msgid "Paste the PHP code into your theme's file:"
+msgid "Paste the code into article:"
+msgstr "将PHP代码粘贴到主题文件中："
+
+msgid "PHP code"
+msgstr "PHP代码"
+
+#, fuzzy
+#| msgid "Paste the PHP code into your theme's file:"
+msgid "Paste the PHP code into source code:"
+msgstr "将PHP代码粘贴到主题文件中："
+
+msgid "Shortcode"
+msgstr "简码"
+
+msgid "Copy and paste this shortcode into your posts or pages:"
+msgstr "复制粘贴此代码到您的文章或页面内容中："
+
+msgid "Pages and Posts"
+msgstr "页面和文章"
+
+#, php-format
+msgid "Smart Slider 3 has integration with %s."
+msgstr "Smart Slider 3 已与%s集成。"
+
+msgid "Paste the PHP code into your theme's file:"
+msgstr "将PHP代码粘贴到主题文件中："
+
+msgid "Trash is empty."
+msgstr "回收站是空的。"
+
+msgid "Restore"
+msgstr "恢复"
+
+msgid "Toggle orientation"
+msgstr "切换方向"
+
+msgid "Reload preview"
+msgstr "刷新预览"
+
+msgid "Open preview in full"
+msgstr "全屏预览"
+
+msgid "State"
+msgstr "省"
+
+msgid "Reason"
+msgstr "原因"
+
+msgid "Framework"
+msgstr "框架"
+
+msgid "Fonts"
+msgstr "字体"
+
+msgid "Layer defaults"
+msgstr "图层默认设置"
+
+msgid "Generators"
+msgstr "生成器"
+
+msgid "Saved and slider cache invalidated."
+msgstr "已保存，并且轮播缓存无效。"
+
+msgid "Cache cleared."
+msgstr "缓存已清除。"
+
+msgid "Clear cache"
+msgstr "清除缓存"
+
+#, fuzzy
+#| msgid "Clear cache"
+msgid "Clear cache options"
+msgstr "清除缓存"
+
+#, fuzzy
+#| msgid "Cover image"
+msgid "Delete resized image cache"
+msgstr "封面图片"
+
+#, php-format
+msgid "If enabled the following folder will be <b>permanently deleted</b>: %s"
+msgstr ""
+
+msgid "Configuration"
+msgstr "配置"
+
+#, php-format
+msgid ""
+"Here you can configure the default font your layers have, and the dropdown "
+"list of the fonts. Google Fonts are recognized automatically, but you can "
+"use your own custom fonts, too. %1$sLearn how to do that.%2$s"
+msgstr ""
+"在这里，您可以配置图层具有的默认字体以及字体的下拉列表。 Google字体会自动识"
+"别，但您也可以使用自己的自定义字体。 %1$s了解操作方法。%2$s"
+
+msgid "Default family"
+msgstr "默认字体"
+
+msgid "This font family is used for the newly added layers."
+msgstr "该字体系列用于新添加的图层。"
+
+msgid "Preset font families"
+msgstr "预设字体系列"
+
+msgid "These font families appear in the dropdown list."
+msgstr "这些字体系列显示在下拉列表中。"
+
+msgid "Use protocol-relative URL"
+msgstr "使用相对网址"
+
+msgid "Loads the URLs without a http or https protocol."
+msgstr "加载不含http或https协议的网址。"
+
+msgid "Header preload"
+msgstr ""
+
+msgid ""
+"If the slider is an important part of your site, tell the browser to preload "
+"its files."
+msgstr ""
+
+msgid "English UI"
+msgstr "英文界面"
+
+msgid ""
+"You can keep using Smart Slider 3 in English, even if your backend isn't in "
+"English."
+msgstr "即使您的后端不是英语，也可以继续使用英文的Smart Slider 3。"
+
+msgid "Improved frontend accessibility"
+msgstr "改进的前端可访问性"
+
+msgid ""
+"Keeps the clicked element (like a button) in focus unless the focus is "
+"changed by clicking away."
+msgstr "除非通过单击将焦点更改，否则将使单击的元素（如按钮）保持焦点。"
+
+msgid "Script attributes"
+msgstr "脚本属性"
+
+msgid "Slider's inline JavaScript"
+msgstr "轮播的内联JavaScript"
+
+msgid "Head"
+msgstr "在头部加载"
+
+msgid "Into the slider"
+msgstr "插入轮播内部"
+
+msgid "Async non-primary CSS"
+msgstr ""
+
+msgid ""
+"Google Fonts, icon and lightbox CSS are loaded in a non-blocking way. "
+"Disable if you see missing icons, fonts or styles."
+msgstr ""
+
+msgid "Load Font Awesome 4"
+msgstr ""
+
+msgid "API requests"
+msgstr "API 请求"
+
+#, php-format
+msgctxt "Curl"
+msgid "Use %s"
+msgstr "使用%s"
+
+#, php-format
+msgctxt "curl proxy"
+msgid "Clean %s"
+msgstr "清除%s"
+
+msgid "General settings"
+msgstr "常规设置"
+
+msgid "Automatic update check"
+msgstr "自动检查更新"
+
+msgid "Alternative save slide"
+msgstr "备用保存轮播图"
+
+msgid ""
+"If you experience problems during the save this option might solve them."
+msgstr "如果在保存过程中遇到问题，此选项可能会解决。"
+
+msgid "Preview in new window"
+msgstr "在新窗口预览"
+
+msgid "Lightbox videos in new tab on Mobile"
+msgstr ""
+
+msgid ""
+"Opens the lightbox videos in the YouTube app to avoid the mobile disabling "
+"the video."
+msgstr ""
+
+msgid "YouTube and Vimeo privacy enhanced mode"
+msgstr "YouTube和Vimeo隐私增强模式"
+
+msgid "Smooth scroll speed"
+msgstr "平滑滚动速度"
+
+msgid "Editor - additional CSS files"
+msgstr "编辑器 - 额外的CSS文件"
+
+msgid ""
+"You can call your own CSS files to our backend, for example, to be able to "
+"use custom fonts. Write each URL to a new line."
+msgstr ""
+"例如，您可以将自己的CSS文件调用到我们的后端，以便能够使用自定义字体。每行一个"
+"网址。"
+
+msgid "WordPress settings"
+msgstr "WordPress设置"
+
+msgid "Show editor icon"
+msgstr "显示编辑器图标"
+
+msgid "Show in admin bar"
+msgstr "在顶部管理条中显示"
+
+msgid "YOAST SEO sitemap - add images"
+msgstr "YOAST SEO网站地图 - 添加图片"
+
+msgid "Create widget area"
+msgstr "创建小工具区域"
+
+msgid "widget area(s)"
+msgstr "小工具区域"
+
+msgid ""
+"Creates new widget areas which you can place to your theme for easy "
+"publishing."
+msgstr "创建新的小工具区域，您可以将其放置在主题中以便于发布。"
+
+msgid "Use iframe in AJAX calls"
+msgstr "在AJAX调用中使用iframe"
+
+msgid ""
+"Loads the slider using an iframe when the page is loaded via AJAX to avoid "
+"problems."
+msgstr "通过AJAX加载页面时，请使用iframe加载轮播，以避免出现问题。"
+
+#, fuzzy
+#| msgid "Font settings"
+msgid "Joomla settings"
+msgstr "字体设置"
+
+msgid "Force RTL backend"
+msgstr ""
+
+msgid "Run content plugins on sliders"
+msgstr ""
+
+#, fuzzy
+#| msgid "Exclude posts"
+msgid "Exclude plugins"
+msgstr "排除文章"
+
+msgid ""
+"At each slider you can override the global breakpoints with local values."
+msgstr "您可以在每个轮播上用局部值覆盖全局断点。"
+
+msgid "Focus offset"
+msgstr "焦点偏移"
+
+msgid ""
+"This option is used at the full page layout to decrease the slider height. "
+"The \"Scroll to slider\" option also uses this option to determine where to "
+"scroll the slider."
+msgstr ""
+"在整个页面布局中使用此选项可以减小轮播的高度。 “滚动到轮播”选项还使用此选项来"
+"确定滚动轮播的位置。"
+
+msgid "Translate url"
+msgstr "更改网址"
+
+msgid ""
+"You can change the frontend URL our assets are loading from. It can be "
+"useful after moving to a new domain."
+msgstr "您可以更改资源加载的前端网址。移至新域名后，它可能会很有用。"
+
+msgid "The old URL you want to replace. E.g. https://oldsite.com/"
+msgstr "您要替换的旧网址。例如：https://www.wpdaxue.com"
+
+msgid "The new URL you want to use. E.g. https://newsite.com"
+msgstr "您要使用的新网址。例如：https://www.wptaobao.com"
+
+msgid "Slider restored."
+msgstr "轮播已恢复。"
+
+msgid "Slider permanently deleted."
+msgstr "轮播已永久删除。"
+
+msgid "Slider created."
+msgstr "轮播已创建。"
+
+msgid "Slider renamed."
+msgstr "轮播已重命名。"
+
+msgid "Slider saved."
+msgstr "轮播已保存。"
+
+#, php-format
+msgid "Import url is not valid: %s"
+msgstr "导入网址无效：%s"
+
+msgid "License key required for premium features!"
+msgstr ""
+
+msgid "Slider imported."
+msgstr "轮播已导入。"
+
+msgid "Import error!"
+msgstr "导入错误！"
+
+msgid "Slide duplicated."
+msgstr "轮播图已复制。"
+
+#, php-format
+msgid "%s slider type is not available."
+msgstr "%s 轮播类型不可用。"
+
+#, fuzzy
+#| msgid "Demo slider is not available with the following ID: %s"
+msgid "Groups are only available in the Pro version."
+msgstr "以下ID的轮播无法进行演示： %s"
+
+msgid "Slider moved to the trash."
+msgstr "轮播已移至回收站。"
+
+msgid "Slider removed from the group."
+msgstr "轮播已从分组中删除。"
+
+msgid "Slider duplicated."
+msgstr "轮播已复制。"
+
+#, fuzzy
+#| msgid "Style settings"
+msgid "Slider settings"
+msgstr "样式设置"
+
+#, fuzzy
+#| msgid "Select slider"
+msgid "Delete slider"
+msgstr "选择轮播"
+
+#, fuzzy
+#| msgid "First slide"
+msgid "Edit slide"
+msgstr "第一张轮播图"
+
+#, fuzzy
+#| msgid "Select slider"
+msgid "Delete slide"
+msgstr "选择轮播"
+
+#, fuzzy
+#| msgid "Order"
+msgid "Ordering"
+msgstr "顺序"
+
+#, fuzzy
+#| msgid "Video"
+msgid "Video url"
+msgstr "视频"
+
+msgid "Actions"
+msgstr "操作"
+
+#, php-format
+msgid "Export %1$s as HTML"
+msgstr "将%1$s导出为HTML"
+
+msgid "Duplicate slider"
+msgstr "克隆轮播"
+
+#, fuzzy
+#| msgid "Simple"
+msgid "Simple edit"
+msgstr "简单"
+
+msgid "Slider order saved."
+msgstr "轮播顺序已保存。"
+
+msgid "Slider(s) moved to the trash."
+msgstr "轮播已移至回收站。"
+
+msgid "Slider(s) removed from the group."
+msgstr "轮播要从分组中删除。"
+
+msgid "Slider(s) deleted permanently from the trash."
+msgstr "轮播已从回收站中永久删除。"
+
+#, php-format
+msgid ""
+"Your server has an upload file limit at %s, so if you have bigger export "
+"file, please use the local import file method."
+msgstr ""
+"您的服务器的上传文件限制为%s，因此，如果较大的导出文件，请使用本地导入文件方"
+"法。"
+
+msgid "You have to unzip your "
+msgstr "您必须解压缩您的 "
+
+msgid "Only *.ss3 files can be uploaded!"
+msgstr "只能上传*.ss3文件！"
+
+msgid "The imported file is not readable!"
+msgstr "导入的文件不可读！"
+
+msgid "Go to dashboard"
+msgstr "返回仪表盘"
+
+msgid "Welcome to Smart Slider 3"
+msgstr "欢迎使用 Smart Slider 3"
+
+msgid "Don't show again"
+msgstr "不再显示"
+
+msgid "Import project"
+msgstr "导入项目"
+
+msgid "You can upload *.ss3 files which were exported by Smart Slider 3."
+msgstr "您可以上传由Smart Slider 3导出的*.ss3文件。"
+
+msgid "Local import"
+msgstr "本地导入"
+
+msgid "Upload file"
+msgstr "上传文件"
+
+#, php-format
+msgid ""
+"Your server's upload filesize limitation is %s, so if your file is bigger, "
+"use the local import."
+msgstr "您服务器的上传文件大小限制为%s，因此，如果文件较大，请使用本地导入。"
+
+msgid "File"
+msgstr "文件"
+
+#, php-format
+msgid "Files with <i>.ss3</i> extension are listed from: %s"
+msgstr "扩展名为<i>ss3</i>的文件来自：%s"
+
+msgid "Delete file"
+msgstr "删除文件"
+
+msgid "Removes the selected .ss3 file from your sever after the import."
+msgstr "导入后，从服务器中删除所选的.ss3文件。"
+
+msgid "Restore slider"
+msgstr "恢复轮播"
+
+msgid ""
+"The imported slider will have the same ID as the original export has. If you "
+"have a slider with the same ID, it will be overwritten."
+msgstr ""
+"导入的轮播将具有与原始导出相同的ID。如果您有一个具有相同ID的轮播，它将被覆"
+"盖。"
+
+msgid "Image mode"
+msgstr "图片模式"
+
+msgid "Clone"
+msgstr "克隆"
+
+msgid "Old site url"
+msgstr "旧网站的网址"
+
+msgid "Original"
+msgstr "原始"
+
+msgid "You can choose how the slide images are loaded."
+msgstr "您可以选择轮播图片的加载方式。"
+
+msgid "Trash"
+msgstr "回收站"
+
+#, fuzzy
+#| msgid "Move to trash"
+msgid "Empty trash"
+msgstr "移至回收站"
+
+msgid "Slide saved."
+msgstr "轮播图已保存。"
+
+#, php-format
+msgid "%d static slides generated."
+msgstr "%d 静态轮播图已生成。"
+
+msgid "Slide renamed."
+msgstr "轮播图已重命名。"
+
+msgid "First slide changed."
+msgstr "第一个轮播图已更改。"
+
+msgid "Static overlay converted to slide."
+msgstr "静态叠加层转换为轮播图。"
+
+msgid "Slide published."
+msgstr "轮播图已发布。"
+
+msgid "Slide unpublished."
+msgstr "轮播图已取消发布。"
+
+msgid "Slide order saved."
+msgstr "轮播图的顺序已保存。"
+
+msgid "Slide(s) copied."
+msgstr "轮播图已复制。"
+
+msgid "Slide deleted."
+msgstr "轮播图已删除。"
+
+msgid "Slides created."
+msgstr "轮播图已创建。"
+
+msgid "Slide created."
+msgstr "轮播图已创建。"
+
+msgid "Failed to create slides."
+msgstr "无法创建轮播图。"
+
+msgid "Static save"
+msgstr "静态保存"
+
+msgid "Generator settings"
+msgstr "生成器设置"
+
+msgid "Cache expiration"
+msgstr "缓存过期"
+
+msgid "Hours"
+msgstr "时"
+
+#, fuzzy
+#| msgid "Start time"
+msgid "Start index"
+msgstr "开始时间"
+
+msgid "Group result"
+msgstr ""
+
+msgid "Smart Slider 3 deactivated on this site!"
+msgstr "在此站点上禁用了Smart Slider 3！"
+
+msgid "New slider"
+msgstr "新的轮播"
+
+msgid "Alias removed"
+msgstr "别名已删除"
+
+msgid "Alias must contain one or more letters"
+msgstr "别名必须包含一个或多个字母"
+
+#, php-format
+msgid "Alias updated to: %s"
+msgstr "别名更新为：%s"
+
+msgid "Background animation"
+msgstr "背景动画"
+
+msgid "Animation type"
+msgstr "动画类型"
+
+msgid "The importing failed at the unzipping part."
+msgstr "该导入在解压缩部份时失败了。"
+
+msgid "You can't import sliders from Smart Slider 2."
+msgstr "无法导入Smart Slider 2 的轮播。"
+
+msgid "Export file corrupted! Slider data is missing."
+msgstr "导出文件已损坏！轮播数据丢失。"
+
+msgid "Learn more"
+msgstr "了解更多"
+
+#, php-format
+msgid "Increase %1$s in php.ini to 1000 or more. Current value: %2$s"
+msgstr "将php.ini中的%1$s增加到1000或更多。当前值：%2$s"
+
+#, php-format
+msgid ""
+"Decrease %1$s below 15 in php.ini to prevent fatal errors on plugin updates. "
+"Current value: %2$s"
+msgstr ""
+"将php.ini中的%1$s降低到15以下，以防止插件更新时出现致命错误。当前值：%2$s"
+
+msgid "Unable to connect to the API"
+msgstr "无法连接到API"
+
+msgid "MySQL table missing"
+msgstr "MySQL表丢失"
+
+msgid "Your theme uses an outdated MooTools library which is not compatible."
+msgstr "您的主题使用了不兼容的过时MooTools库。"
+
+msgid ""
+"JCH Optimize could have a conflict with Smart Slider's Global settings -> "
+"Framework settings -> Async Non-Primary CSS. If your Google fonts are not "
+"loading, turn this option off."
+msgstr ""
+
+msgid ""
+"This plugin breaks JavaScript in the admin area, deactivate it and use "
+"alternative plugin."
+msgstr "此插件会在管理区域中破坏JavaScript，将其停用并使用其他插件。"
+
+msgid ""
+"This plugin breaks Smart Slider 3 ajax calls if custom admin url enabled."
+msgstr "如果启用了自定义管理网址，此插件将中断Smart Slider 3 ajax调用。"
+
+msgid "This plugin adds a background image to every SVG and breaks SSL."
+msgstr "此插件为每个SVG添加背景图片并破坏SSL。"
+
+msgid "This plugin has a JavaScript error which might break Smart Slider."
+msgstr "此插件有一个JavaScript错误，可能会损坏Smart Slider。"
+
+#, php-format
+msgid ""
+"This plugin breaks the filtering options of the dynamic slide generators "
+"when %1$s is set to %2$s. Also it has not received any updates since "
+"WordPress 3.9."
+msgstr ""
+
+msgid "Add column"
+msgstr "添加列"
+
+msgid "Year"
+msgstr "年"
+
+msgid "Month"
+msgstr "月"
+
+msgid "Day"
+msgstr "日"
+
+msgid "Hour"
+msgstr "时"
+
+msgid "Minute"
+msgstr "分"
+
+msgid "Stack"
+msgstr "堆叠"
+
+msgid "No description."
+msgstr "没有描述。"
+
+#, fuzzy
+#| msgid "Generator type not found"
+msgid "Generator not found"
+msgstr "找不到生成器类型"
+
+#, fuzzy
+#| msgid "Generator"
+msgid "Test generator."
+msgstr "生成器"
+
+msgid "Generator type not found"
+msgstr "找不到生成器类型"
+
+#, php-format
+msgid "%1$s generator missing the following source: %2$s"
+msgstr "%1$s生成器缺少以下来源：%2$s"
+
+#, fuzzy
+#| msgid "Selected articles"
+msgid "Joomla articles"
+msgstr "精选文章"
+
+#, fuzzy
+#| msgid "Creates slides from your posts in the selected categories."
+msgid "Creates slides from your Joomla articles or categories."
+msgstr "根据您所选文章中的分类创建轮播图。"
+
+#, fuzzy
+#| msgid "Vertical"
+msgid "Article"
+msgstr "垂直"
+
+#, fuzzy
+#| msgid "Categories"
+msgid "Category"
+msgstr "分类"
+
+#, fuzzy
+#| msgid "Creates slides from your posts in the selected categories."
+msgid "Creates slides from your Joomla articles in the selected categories."
+msgstr "根据您所选文章中的分类创建轮播图。"
+
+msgid "Tags"
+msgstr "标签"
+
+msgid "Featured"
+msgstr ""
+
+#, fuzzy
+#| msgid "Slider ID"
+msgid "User ID"
+msgstr "轮播图ID"
+
+msgid "Language"
+msgstr ""
+
+#, fuzzy
+#| msgid "Timestamp variables"
+msgid "Extra variables"
+msgstr "时间戳变量"
+
+msgid "Turn on these options to generate more variables for the slides."
+msgstr ""
+
+#, fuzzy
+#| msgid "Datetime format"
+msgid "Date format"
+msgstr "日期时间格式"
+
+#, fuzzy
+#| msgid "Datetime format"
+msgid "Time format"
+msgstr "日期时间格式"
+
+#, fuzzy
+#| msgid "Translate dates"
+msgid "Translate date and time"
+msgstr "翻译日期"
+
+msgid "Title"
+msgstr "标题"
+
+#, fuzzy
+#| msgid "Users byline"
+msgid "User name"
+msgstr "用户按行"
+
+msgid "Hits"
+msgstr ""
+
+#, fuzzy
+#| msgid "Start time"
+msgid "Creation time"
+msgstr "开始时间"
+
+#, fuzzy
+#| msgid "Modification date"
+msgid "Modification time"
+msgstr "修改日期"
+
+#, fuzzy
+#| msgid "Published"
+msgid "Publish time"
+msgstr "已发布"
+
+msgid "Featured article ordering"
+msgstr ""
+
+#, fuzzy
+#| msgid "Vertical"
+msgid "View article"
+msgstr "垂直"
+
+#, fuzzy
+#| msgid "Creates slides from your posts in the selected categories."
+msgid ""
+"Creates slides from your Joomla categories. (Not the articles inside them.)"
+msgstr "根据您所选文章中的分类创建轮播图。"
+
+msgid "Parent category"
+msgstr ""
+
+#, fuzzy
+#| msgid "View records"
+msgid "View category"
+msgstr "查看记录"
+
+msgid "Nothing"
+msgstr "什么也没有"
+
+#, php-format
+msgid "Creates slides from %1$s."
+msgstr "从%1$s创建轮播图。"
+
+msgid "Posts by filter"
+msgstr "筛选文章"
+
+msgid "Posts by IDs"
+msgstr "选择文章 ID"
+
+msgid "Custom"
+msgstr ""
+
+msgid "All custom posts"
+msgstr ""
+
+#, fuzzy
+#| msgid "Creates slides from the following post type: %1$s."
+msgid "Creates slides from the posts of all your post types."
+msgstr "根据以下文章类型创建轮播图：%1$s。"
+
+#, fuzzy
+#| msgid "Post date"
+msgid "Post types"
+msgstr "发布日期"
+
+msgid "Taxonomies"
+msgstr "分类法"
+
+msgid "Post IDs to display"
+msgstr "要显示的文章IDs"
+
+#, php-format
+msgid ""
+"You can make your generator display only the posts with the set ID. No other "
+"post will be fetched, even if they match the set filters. %1$s Write one ID "
+"per line."
+msgstr ""
+"您可以使生成器仅显示所设ID的文章。即使其他文章与设置的过滤条件匹配，也不会获"
+"取其他任何文章。 %1$s每行写一个ID。"
+
+msgid "Sticky"
+msgstr "置顶"
+
+msgid "Post status"
+msgstr "文章状态"
+
+msgid "Post meta comparison"
+msgstr "文章元数据比较"
+
+msgid "Field name"
+msgstr "字段名称"
+
+msgid ""
+"Only show posts, where the given meta key is equal to the given meta value."
+msgstr "仅显示指定元字段和对应元字段值的文章。"
+
+msgid "Compare method"
+msgstr "比较方法"
+
+msgid "Field value"
+msgstr "字段值"
+
+msgid "Meta comparison"
+msgstr "元数据比较"
+
+msgid ""
+"Same as the previous option, just you can write down more comparisons. Read "
+"the \"Field name\" and \"Compare method\" out from the previous option. "
+"Example:"
+msgstr ""
+
+msgid "Post date"
+msgstr "发布日期"
+
+msgid "Modification date"
+msgstr "修改日期"
+
+msgid "Random"
+msgstr "随机"
+
+msgid "Given IDs"
+msgstr "给定IDs"
+
+msgid "Menu order"
+msgstr "菜单顺序"
+
+#, php-format
+msgid "Creates slides from the following post type: %1$s."
+msgstr "根据以下文章类型创建轮播图：%1$s。"
+
+msgid "Relation"
+msgstr "关系"
+
+msgid "Exclude posts"
+msgstr "排除文章"
+
+#, php-format
+msgid ""
+"The selected post IDs won't appear in the generator, even if they they match "
+"the set filters. %1$s Write one ID per line."
+msgstr ""
+"所选的文章ID即使与设置的过滤器匹配也不会出现在生成器中。 %1$s每行写一个ID。"
+
+#, php-format
+msgid ""
+"You can create other comparison based on the previous \"Field name\" and "
+"\"Compare method\" options. %1$s Use the following format: published||=||yes "
+"%1$s Write one comparison per line."
+msgstr ""
+"您可以基于先前的“字段名称”和“比较方法”选项创建其他比较。 %1$s使用以下格式："
+"published||=||yes %1$s 每行写一个比较。"
+
+msgid "Post option"
+msgstr "文章选项"
+
+msgid ""
+"Posts can have options, like a post can be \"sticky\" or not. You can choose "
+"to only display posts, which are selected to be IN or NOT IN this option."
+msgstr ""
+"文章可以有选项，例如文章可以设置是否“置顶”。您可以选择仅显示特定的文章，只需"
+"要通过IN或NOT IN设置即可。"
+
+msgid "Post relationship with selected option"
+msgstr "与所选选项关联的文章"
+
+msgid "Date configuration"
+msgstr "日期配置"
+
+msgid "Identify datetime"
+msgstr "识别日期时间"
+
+msgid "Our system tries to identify the date and time in your variables."
+msgstr "我们的系统尝试识别变量中的日期和时间。"
+
+msgid "Datetime format"
+msgstr "日期时间格式"
+
+#, php-format
+msgid "You can use any %1$sPHP date format%2$s."
+msgstr "您可以使用任何%1$sPHP日期格式%2$s。"
+
+msgid "Translate dates"
+msgstr "翻译日期"
+
+#, php-format
+msgid ""
+"Write one per line in the following format: from||to %1$s E.g.: Monday||"
+"Montag"
+msgstr "每行一个，格式如下：from||to %1$s，例如：Monday||周一"
+
+msgid "Replace variables"
+msgstr "替换变量"
+
+msgid "Timestamp variables"
+msgstr "时间戳变量"
+
+msgid "Replace timestamp variables"
+msgstr "替换时间戳变量"
+
+#, php-format
+msgid ""
+"The \"Datetime format\" will be used to create dates from the given "
+"timestamp containing variables. %1$s Separate them with comma."
+msgstr ""
+"“日期时间格式”将用于根据给定的包含变量的时间戳创建日期。 %1$s 用逗号分隔它"
+"们。"
+
+msgid "File variables"
+msgstr "文件变量"
+
+msgid "Replace file variables"
+msgstr "替换文件变量"
+
+#, php-format
+msgid ""
+"If you have IDs of files, you can replace those variables with the urls of "
+"the files instead. %1$s Separate them with comma."
+msgstr ""
+"如果您具有文件ID，则可以将这些变量替换为文件的网址。 %1$s 用逗号分隔它们。"
+
+msgid "Remove duplicate results"
+msgstr "删除重复的结果"
+
+msgid ""
+"You can remove results based on one variable's uniqueness. For example if "
+"you want the images to be unique, you could write the \"image\" variable "
+"into this field (without quotemarks)."
+msgstr ""
+"您可以根据一个变量的唯一性删除结果。例如，如果希望图片唯一，则可以将\"image"
+"\"变量写入此字段（不带引号）。"
+
+msgid "Custom field name"
+msgstr "自定义字段名称"
+
+msgid "If it's set, this will be used instead of the 'Field' value."
+msgstr "如果已设置，将使用它代替“字段”值。"
+
+msgid "Numeric"
+msgstr "数字"
+
+msgid "Alphabetic"
+msgstr "字母"
+
+msgid "Creates slides from your posts in the selected categories."
+msgstr "根据您所选文章中的分类创建轮播图。"
+
+msgid "Categories"
+msgstr "分类"
+
+msgid "Remove shortcodes"
+msgstr "删除简码"
+
+msgid ""
+"You can remove shortcodes from variables to avoid 3rd party content "
+"rendering in your slider."
+msgstr "您可以从变量中删除简码，以避免在轮播中呈现第三方内容。"
+
+msgid "Remove from variables"
+msgstr "从变量中删除"
+
+msgid ""
+"Write the name of the variables you want to remove the shortcodes from. "
+"Separate new variables with a comma and space. E.g. description, content"
+msgstr ""
+"输入要从中删除简码的变量的名称。用逗号和空格分隔新变量。例如：description, "
+"content"
+
+msgid "Custom date variables"
+msgstr "自定义日期变量"
+
+#, php-format
+msgid ""
+"You can create custom date variables from your existing date variables. "
+"Write each variable to a new line and use the following format: variable||"
+"format. %3$s The \"variable\" should be an existing variable. Based on this "
+"existing variable, we create a new one with the \"_datetime\" suffix. (E.g. "
+"date_datetime.) %3$s The \"format\" can be any %1$sPHP date format%2$s."
+msgstr ""
+"您可以从现有的日期变量中创建自定义日期变量。每个一个变量，并使用以下格式："
+"variable||format。 %3$s  \"variable\"应为现有变量。基于此现有变量，我们创建后"
+"缀为\"_datetime\" 的新变量（例如date_datetime）。%3$s \"format\" 可以是任"
+"何%1$sPHP日期格式%2$s。"
+
+msgid "Translate custom dates"
+msgstr "翻译自定义日期"
+
+#, php-format
+msgid ""
+"You can translate the content of the newly created variables. %1$s Use the "
+"following format: from||to. Eg.: Monday||Montag"
+msgstr ""
+"您可以翻译新创建的变量的内容。 %1$s 使用以下格式：from||to 。例如：Monday||周"
+"一"
+
+msgid "Date function"
+msgstr "日期功能"
+
+msgid ""
+"This function will be used to format these custom date variables. Usually "
+"the date_i18n works, but if your date will be off a little bit, then try out "
+"the other one."
+msgstr ""
+"此功能将用于格式化这些自定义日期变量。通常 date_i18 是有效的，但是如果您的日"
+"期过短，请尝试其他日期。"
+
+msgid "Comment count"
+msgstr "评论计数"
+
+msgid "Creates slides from the posts with the set IDs."
+msgstr "根据设置好的IDs的文章来创建轮播图。"
+
+msgid "Post or Page IDs"
+msgstr "文章或页面IDs"
+
+#, php-format
+msgid ""
+"You can write the ID of the page you want to show in your generator. %1$s "
+"Write one ID per line."
+msgstr "您可以编写要在生成器中显示的页面的ID。 %1$s 每行一个ID。"
+
+msgid "Whole group"
+msgstr "全组"
+
+#, fuzzy
+#| msgid "Select slider"
+msgid "Select Slider"
+msgstr "选择轮播"
+
+msgid "OR"
+msgstr "或"
+
+msgid "Insert a slider into your content"
+msgstr ""
+
+msgid "Select the slider you want to insert."
+msgstr ""
+
+msgctxt "Button layer default text"
+msgid "MORE"
+msgstr "更多"
+
+msgid "Label"
+msgstr "标签（Label）"
+
+msgid "No wrap"
+msgstr "无包装"
+
+msgid "Prevents the text from breaking into more lines"
+msgstr "防止文本分成更多行"
+
+msgid "Rel"
+msgstr "Rel"
+
+#, php-format
+msgid ""
+"Enter the %1$s rel attribute %2$s that represents the relationship between "
+"the current document and the linked document. Multiple rel attributes can be "
+"separated with space. E.g. nofollow noopener noreferrer"
+msgstr ""
+"输入%1$s rel属性%2$s，它表示当前文档和链接文档之间的关系。多个rel属性可以用空"
+"格分隔。例如：nofollow noopener noreferrer"
+
+msgid "Icon"
+msgstr ""
+
+msgid "Placement"
+msgstr "位置"
+
+#, php-format
+msgid "Class on the %s element."
+msgstr "在%s元素的类。"
+
+msgid "Heading layer"
+msgstr "标题图层"
+
+#, fuzzy
+#| msgid "My text animations"
+msgid "Text animation"
+msgstr "我的文字动画"
+
+msgid "Incoming"
+msgstr ""
+
+msgid "Outgoing"
+msgstr ""
+
+msgid "Backface visibility"
+msgstr ""
+
+#, php-format
+msgid "Fix width for the %1$s."
+msgstr "固定%1$s的宽度。"
+
+#, php-format
+msgid "Fix height for the %1$s."
+msgstr "固定%1$s的高度。"
+
+msgid "Alt tag"
+msgstr "Alt 标签"
+
+#, fuzzy
+#| msgid "Optimize slide images"
+msgid "Optimize image"
+msgstr "优化轮播图图片"
+
+msgid ""
+"You can turn off the Layer image optimization for this image, to resize it "
+"for tablet and mobile."
+msgstr ""
+
+msgctxt "Layer group"
+msgid "Special"
+msgstr ""
+
+msgctxt "Layer group"
+msgid "Media"
+msgstr "媒体"
+
+#, fuzzy
+#| msgid "Advanced"
+msgctxt "Layer group"
+msgid "Advanced"
+msgstr "高级"
+
+msgctxt "Layer"
+msgid "Missing"
+msgstr "缺失"
+
+#, php-format
+msgid "Missing layer type: %s"
+msgstr "缺少图层类型：%s"
+
+msgid "Custom text for tablet"
+msgstr "平板端的文字"
+
+msgid "Tablet text"
+msgstr "平板端文字"
+
+msgid "Custom text for mobile"
+msgstr "手机端的文字"
+
+msgid "Mobile text"
+msgstr "手机端文字"
+
+msgid "Vimeo url or Video ID"
+msgstr "Vimeo网址或视频ID"
+
+msgid "Cover image"
+msgstr "封面图片"
+
+msgid "Aspect ratio"
+msgstr "宽高比"
+
+msgid "Fill layer height"
+msgstr "填充层高度"
+
+msgid "Set on Style tab."
+msgstr "在样式选项卡里设置。"
+
+msgid "Video settings"
+msgstr "视频设置"
+
+msgid "When ended"
+msgstr "当结束时"
+
+msgid "Do nothing"
+msgstr "什么都不做"
+
+msgid "Go to next slide"
+msgstr "转到下一张轮播图"
+
+msgid "Start time"
+msgstr "开始时间"
+
+msgid "Volume"
+msgstr "音量"
+
+msgid "Mute"
+msgstr "静音"
+
+msgid "Pause on scroll"
+msgstr "滚动时暂停"
+
+msgid "Never"
+msgstr "从不"
+
+msgid "When partly visible"
+msgstr "当部分可见时"
+
+msgid "When not visible"
+msgstr "当不可见时"
+
+msgid "You can pause the video when the visitor scrolls away from the slider"
+msgstr "当访客滚动离开轮播时，您可以暂停视频"
+
+msgid "Display"
+msgstr "显示"
+
+msgid "Only works on videos of Vimeo Pro users."
+msgstr ""
+
+#, fuzzy
+#| msgid "Remove shortcodes"
+msgid "Remove controls"
+msgstr "删除简码"
+
+msgid ""
+"Removes the controls of the video, but it only works on videos of Vimeo Pro "
+"users."
+msgstr ""
+
+msgid "Hides the title of the video, but only if video owner allows it."
+msgstr ""
+
+msgid "Users byline"
+msgstr "用户按行"
+
+msgid ""
+"Hides the user's byline of the video, but only if video owner allows it."
+msgstr ""
+
+msgid ""
+"Hides the profile image of the author, but only if video owner allows it. "
+msgstr ""
+
+msgid "Play button"
+msgstr ""
+
+msgid "Play"
+msgstr "播放"
+
+msgid "YouTube URL or Video ID"
+msgstr "YouTube 网址或视频ID"
+
+msgid "End time"
+msgstr "结束时间"
+
+msgid "Hide YouTube logo"
+msgstr ""
+
+msgid "Centered"
+msgstr "居中"
+
+msgid "Scales up and crops the video to cover the whole layer."
+msgstr "放大并裁剪视频以覆盖整个图层。"
+
+msgid "Show related videos"
+msgstr "显示相关视频"
+
+msgid "Anywhere"
+msgstr "任何地方"
+
+msgid "Same channel"
+msgstr "同一频道"
+
+msgid ""
+"YouTube no longer allows hiding the related videos at the end of the video. "
+"This setting defines whether the videos should come from the same channel as "
+"the video that was just played or from any other channel."
+msgstr ""
+"YouTube不再允许在视频末尾隐藏相关视频。此设置定义视频是应与刚播放的视频来自同"
+"一频道还是应来自其他任何频道。"
+
+msgid "Slider error! Generator group not found: "
+msgstr "轮播错误！找不到生成器分组： "
+
+msgid "Slider error! Generator source not found: "
+msgstr "轮播错误！找不到生成器来源： "
+
+msgid "Downscale"
+msgstr "缩小"
+
+msgid "Allows the slider to scale down for smaller screens."
+msgstr "允许轮播缩小以显示较小的屏幕。"
+
+msgid "Upscale"
+msgstr "放大"
+
+msgid "Allows the slider to scale up for larger screens."
+msgstr "允许轮播放大到更大的屏幕。"
+
+msgid "Min height"
+msgstr "最小高度"
+
+msgid "Prevents the slider from getting smaller than the set value."
+msgstr "防止轮播变得小于设定值。"
+
+msgid "Force full width"
+msgstr "强制全宽"
+
+msgid "The slider tries to fill the full width of the browser."
+msgstr "轮播尝试填充浏览器的整个宽度。"
+
+msgid "Overflow-X"
+msgstr "Overflow-X"
+
+msgid ""
+"Prevents the vertical scrollbar from appear during certain slide background "
+"animations."
+msgstr "防止在某些轮播图背景动画期间出现垂直滚动条。"
+
+msgid "Adjust slider width to"
+msgstr "将轮播宽度调整为"
+
+msgid ""
+"You can make the slider fill up a selected parent element instead of the "
+"full browser width."
+msgstr "您可以使轮播填充选定的父元素，而不是填充整个浏览器宽度。"
+
+msgid "Not found"
+msgstr "未找到"
+
+msgid "Slider size is too small!"
+msgstr "轮播尺寸太小！"
+
+msgid "Ken Burns effect"
+msgstr ""
+
+msgid "Speed"
+msgstr "速度"
+
+msgid "Super slow"
+msgstr "极慢"
+
+msgid "Slow"
+msgstr "慢"
+
+msgid "Fast"
+msgstr "快"
+
+msgid "Super fast"
+msgstr "极快"
+
+#, fuzzy
+#| msgid "Border White"
+msgid "Border width"
+msgstr "边框白色"
+
+#, fuzzy
+#| msgid "Hover color"
+msgid "Border color"
+msgstr "悬停颜色"
+
+#, fuzzy
+#| msgid "Super fast"
+msgid "Super fast 4x"
+msgstr "极快"
+
+msgctxt "Slider type"
+msgid "Simple slider"
+msgstr "简单轮播"
+
+msgid "Main animation"
+msgstr "主要动画"
+
+msgid "No animation"
+msgstr "没有动画"
+
+msgid "Crossfade"
+msgstr "交叉渐变"
+
+msgid "Horizontal - reversed"
+msgstr "水平-反转"
+
+msgid "Vertical - reversed"
+msgstr "垂直-反转"
+
+msgctxt "Feature"
+msgid "Carousel"
+msgstr ""
+
+msgid ""
+"If you turn off this option, you can't switch to the first slide from the "
+"last one."
+msgstr ""
+
+msgid ""
+"Background animations only work on the slide background images, which have "
+"Fill selected at their Fill mode. They don't affect any images if the "
+"background parallax is enabled."
+msgstr ""
+
+msgid "Shifted"
+msgstr ""
+
+msgid "The background and the main animation plays simultaneously or shifted."
+msgstr ""
+
+#, fuzzy
+#| msgid "Slider CSS classes"
+msgid "Slider CSS Preset"
+msgstr "轮播CSS类"
+
+#, fuzzy
+#| msgid "Text shadow"
+msgid "Light shadow"
+msgstr "文本阴影"
+
+#, fuzzy
+#| msgid "Box shadow"
+msgid "Dark shadow"
+msgstr "盒子阴影"
+
+msgid "Photo"
+msgstr ""
+
+#, fuzzy
+#| msgid "Not found"
+msgid "Photo rounded"
+msgstr "未找到"
+
+#, php-format
+msgid "Demo slider is not available with the following ID: %s"
+msgstr "以下ID的轮播无法进行演示： %s"
+
+msgid "Blue"
+msgstr "蓝色"
+
+msgid "White"
+msgstr "白色"
+
+msgid "Green"
+msgstr "绿色"
+
+msgid "Purple"
+msgstr "紫色"
+
+msgid "Grey"
+msgstr "灰色"
+
+msgid "Black"
+msgstr "黑色"
+
+msgid "Rounded Blue"
+msgstr "圆角蓝色"
+
+msgid "Rounded Green"
+msgstr "圆角绿色"
+
+msgid "Rounded Purple"
+msgstr "圆角紫色"
+
+msgid "Rounded Grey"
+msgstr "圆角灰色"
+
+msgid "Rounded White"
+msgstr "圆角白色"
+
+msgid "Rounded Black"
+msgstr "圆角黑色"
+
+msgid "Border White"
+msgstr "边框白色"
+
+msgid "Border Dark"
+msgstr "边框深色"
+
+msgid "Rectangle Green"
+msgstr "矩形绿色"
+
+msgid "Rectangle Blue"
+msgstr "矩形蓝色"
+
+msgid "Rectangle Purple"
+msgstr "矩形紫色"
+
+msgid "Rectangle Grey"
+msgstr "矩形灰色"
+
+msgid "Rounded Rectangle Green"
+msgstr "圆角矩形绿色"
+
+msgid "Rounded Rectangle Blue"
+msgstr "圆角矩形蓝色"
+
+msgid "Rounded Rectangle Purple"
+msgstr "圆角矩形紫色"
+
+msgid "Border Light"
+msgstr "边框浅色"
+
+msgid "My styles"
+msgstr "我的样式"
+
+msgid "X-small Light"
+msgstr "极小浅色"
+
+msgid "X-small Dark"
+msgstr "极小深色"
+
+msgid "Small Light"
+msgstr "小型浅色"
+
+msgid "Small Dark"
+msgstr "小型深色"
+
+msgid "Medium Light"
+msgstr "中等浅色"
+
+msgid "Medium Dark"
+msgstr "中等深色"
+
+msgid "Large Light"
+msgstr "大型浅色"
+
+msgid "Large Dark"
+msgstr "大型深色"
+
+msgid "X-large Light"
+msgstr "极大浅色"
+
+msgid "X-large Dark"
+msgstr "极大深色"
+
+msgid "My fonts"
+msgstr "我的字体"
+
+msgid "Warp"
+msgstr "Warp"
+
+msgid "Twirl"
+msgstr "Twirl"
+
+msgid "Domino"
+msgstr "Domino"
+
+msgid "Stand up"
+msgstr "Stand up"
+
+msgid "Rotate down"
+msgstr "Rotate down"
+
+msgid "Elastic"
+msgstr "Elastic"
+
+msgid "Random elastic"
+msgstr "Random elastic"
+
+msgid "My text animations"
+msgstr "我的文字动画"
+
+msgid "Morph - Wave"
+msgstr ""
+
+msgid "Morph - Brush"
+msgstr ""
+
+msgid "Morph - Flow"
+msgstr ""
+
+msgid "Morph - Noise"
+msgstr ""
+
+msgid "Distortion - Mosaic"
+msgstr ""
+
+msgid "Distortion - Triangle"
+msgstr ""
+
+msgid "Distortion - Flow"
+msgstr ""
+
+msgid "Distortion - Warp"
+msgstr ""
+
+msgid "Distortion - Storm"
+msgstr ""
+
+msgid "Distortion - Wave"
+msgstr ""
+
+msgid "Distortion - Shard"
+msgstr ""
+
+msgid "Distortion - Noise"
+msgstr ""
+
+msgid "Slices - Single"
+msgstr ""
+
+msgid "Slices - Simple rows and scale"
+msgstr ""
+
+msgid "Slices - Simple rows and rotate"
+msgstr ""
+
+msgid "Slices - Simple rows reversed"
+msgstr ""
+
+msgid "Slices - Simple rows and blur"
+msgstr ""
+
+msgid "Slices - Triangle"
+msgstr ""
+
+msgid "Slices - Reversed triangle"
+msgstr ""
+
+msgid "Scale to left"
+msgstr "Scale to left"
+
+#, fuzzy
+#| msgid "Scale to left"
+msgid "Rotate to left"
+msgstr "Scale to left"
+
+#, fuzzy
+#| msgid "Scale to left"
+msgid "Fixed to left"
+msgstr "Scale to left"
+
+#, fuzzy
+#| msgid "Scale to left"
+msgid "Parallax to left"
+msgstr "Scale to left"
+
+msgid "Flow"
+msgstr ""
+
+msgid "Flowing rows"
+msgstr ""
+
+msgid "Flowing cols"
+msgstr ""
+
+msgid "Flowing tiles"
+msgstr ""
+
+#, fuzzy
+#| msgid "Scale to left"
+msgid "Slide to left"
+msgstr "Scale to left"
+
+msgid "Stage"
+msgstr ""
+
+msgid "Zoom"
+msgstr "Zoom"
+
+msgid "Zoom out"
+msgstr "Zoom out"
+
+msgid "Curtain to left"
+msgstr "Curtain to left"
+
+#, fuzzy
+#| msgid "To top left"
+msgid "Blocks to left"
+msgstr "向左上方"
+
+#, fuzzy
+#| msgid "Scale to left"
+msgid "Slices to left"
+msgstr "Scale to left"
+
+msgid "Reversed slices to left"
+msgstr ""
+
+msgid "Puzzle"
+msgstr "Puzzle"
+
+#, fuzzy
+#| msgid "Curtain to left"
+msgid "Switching to left"
+msgstr "Curtain to left"
+
+msgid "Explode"
+msgstr ""
+
+msgid "Rebuild"
+msgstr ""
+
+#, fuzzy
+#| msgid "Curtain to left"
+msgid "Page turn to left"
+msgstr "Curtain to left"
+
+#, fuzzy
+#| msgid "Curtain to left"
+msgid "3D bricks to left"
+msgstr "Curtain to left"
+
+#, fuzzy
+#| msgid "Curtain to left"
+msgid "Vertical spin to left"
+msgstr "Curtain to left"
+
+#, fuzzy
+#| msgid "To top left"
+msgid "3D rows to left"
+msgstr "向左上方"
+
+#, fuzzy
+#| msgid "Scale to left"
+msgid "3D columns to left"
+msgstr "Scale to left"
+
+msgid "Spinning cuboid to left"
+msgstr ""
+
+#, fuzzy
+#| msgid "Curtain to left"
+msgid "Turning cuboid to left"
+msgstr "Curtain to left"
+
+msgid "Scale to top"
+msgstr "Scale to top"
+
+msgid "Scale to bottom"
+msgstr "Scale to bottom"
+
+#, fuzzy
+#| msgid "Scale to top"
+msgid "Rotate to top"
+msgstr "Scale to top"
+
+#, fuzzy
+#| msgid "Scale to bottom"
+msgid "Rotate to bottom"
+msgstr "Scale to bottom"
+
+#, fuzzy
+#| msgid "Scale to top"
+msgid "Fixed to top"
+msgstr "Scale to top"
+
+#, fuzzy
+#| msgid "Scale to bottom"
+msgid "Fixed to bottom"
+msgstr "Scale to bottom"
+
+#, fuzzy
+#| msgid "Scale to top"
+msgid "Parallax to top"
+msgstr "Scale to top"
+
+#, fuzzy
+#| msgid "Scale to bottom"
+msgid "Parallax to bottom"
+msgstr "Scale to bottom"
+
+msgid "Flowing tiles vertical"
+msgstr ""
+
+#, fuzzy
+#| msgid "Scale to bottom"
+msgid "Slide to bottom"
+msgstr "Scale to bottom"
+
+#, fuzzy
+#| msgid "Scale to top"
+msgid "Slide to top"
+msgstr "Scale to top"
+
+msgid "Curtain to bottom"
+msgstr "Curtain to bottom"
+
+msgid "Curtain to top"
+msgstr "Curtain to top"
+
+#, fuzzy
+#| msgid "Curtain to bottom"
+msgid "Switching to bottom"
+msgstr "Curtain to bottom"
+
+#, fuzzy
+#| msgid "Curtain to top"
+msgid "Switching to top"
+msgstr "Curtain to top"
+
+#, fuzzy
+#| msgid "Curtain to bottom"
+msgid "Horizontal spin to bottom"
+msgstr "Curtain to bottom"
+
+#, fuzzy
+#| msgid "Curtain to top"
+msgid "Horizontal spin to top"
+msgstr "Curtain to top"
+
+#, fuzzy
+#| msgid "Curtain to bottom"
+msgid "3D bricks to bottom"
+msgstr "Curtain to bottom"
+
+#, fuzzy
+#| msgid "Curtain to top"
+msgid "3D bricks to top"
+msgstr "Curtain to top"
+
+#, fuzzy
+#| msgid "Downscale bottom"
+msgid "3D rows to bottom"
+msgstr "Downscale bottom"
+
+msgid "3D rows to top"
+msgstr ""
+
+#, fuzzy
+#| msgid "Scale to bottom"
+msgid "3D columns to bottom"
+msgstr "Scale to bottom"
+
+#, fuzzy
+#| msgid "Scale to top"
+msgid "3D columns to top"
+msgstr "Scale to top"
+
+#, fuzzy
+#| msgid "Scale to bottom"
+msgid "Spinning cuboid to bottom"
+msgstr "Scale to bottom"
+
+msgid "Spinning cuboid to top"
+msgstr ""
+
+#, fuzzy
+#| msgid "Curtain to bottom"
+msgid "Turning cuboid to bottom"
+msgstr "Curtain to bottom"
+
+#, fuzzy
+#| msgid "Curtain to top"
+msgid "Turning cuboid to top"
+msgstr "Curtain to top"
+
+msgid "Scale to right"
+msgstr "Scale to right"
+
+#, fuzzy
+#| msgid "Scale to right"
+msgid "Rotate to right"
+msgstr "Scale to right"
+
+#, fuzzy
+#| msgid "Scale to right"
+msgid "Fixed to right"
+msgstr "Scale to right"
+
+#, fuzzy
+#| msgid "Scale to right"
+msgid "Parallax to right"
+msgstr "Scale to right"
+
+#, fuzzy
+#| msgid "Vertical - reversed"
+msgid "Flow - reversed"
+msgstr "垂直-反转"
+
+#, fuzzy
+#| msgid "Scale to right"
+msgid "Slide to right"
+msgstr "Scale to right"
+
+msgid "Curtain to right"
+msgstr "Curtain to right"
+
+#, fuzzy
+#| msgid "To top right"
+msgid "Blocks to right"
+msgstr "向右上方"
+
+#, fuzzy
+#| msgid "Scale to right"
+msgid "Slices to right"
+msgstr "Scale to right"
+
+msgid "Reversed slices to right"
+msgstr ""
+
+#, fuzzy
+#| msgid "Curtain to right"
+msgid "Switching to right"
+msgstr "Curtain to right"
+
+#, fuzzy
+#| msgid "Curtain to right"
+msgid "Page turn to right"
+msgstr "Curtain to right"
+
+#, fuzzy
+#| msgid "Curtain to right"
+msgid "Vertical spin to right"
+msgstr "Curtain to right"
+
+#, fuzzy
+#| msgid "Curtain to right"
+msgid "3D bricks to right"
+msgstr "Curtain to right"
+
+#, fuzzy
+#| msgid "To top right"
+msgid "3D rows to right"
+msgstr "向右上方"
+
+#, fuzzy
+#| msgid "Scale to right"
+msgid "3D columns to right"
+msgstr "Scale to right"
+
+msgid "Spinning cuboid to right"
+msgstr ""
+
+#, fuzzy
+#| msgid "Curtain to right"
+msgid "Turning cuboid to right"
+msgstr "Curtain to right"
+
+msgid "Downscale left"
+msgstr "Downscale left"
+
+msgid "Downscale right"
+msgstr "Downscale right"
+
+msgid "Downscale top"
+msgstr "Downscale top"
+
+msgid "Downscale bottom"
+msgstr "Downscale bottom"
+
+msgid "Upscale left"
+msgstr "Upscale left"
+
+msgid "Upscale right"
+msgstr "Upscale right"
+
+msgid "Upscale top"
+msgstr "Upscale top"
+
+msgid "Upscale bottom"
+msgstr "Upscale bottom"
+
+msgid "To left"
+msgstr "向左"
+
+msgid "To right"
+msgstr "向右"
+
+msgid "To top left"
+msgstr "向左上方"
+
+msgid "To top right"
+msgstr "向右上方"
+
+msgid "To bottom left"
+msgstr "向左下方"
+
+msgid "To bottom right"
+msgstr "向右下方"
+
+msgid "My layouts"
+msgstr "我的布局"
+
+msgctxt "Arrow direction"
+msgid "Previous"
+msgstr "上一个"
+
+#, fuzzy
+#| msgid "Previous alt tag"
+msgid "Previous image"
+msgstr "上一个alt标签"
+
+msgid "Hover color"
+msgstr "悬停颜色"
+
+msgid "Mirror"
+msgstr ""
+
+msgctxt "Arrow direction"
+msgid "Next"
+msgstr ""
+
+#, fuzzy
+#| msgid "Cover image"
+msgid "Next image"
+msgstr "封面图片"
+
+msgid "Arrow"
+msgstr "箭头"
+
+msgid "Previous position"
+msgstr "上一个位置"
+
+msgid "Next position"
+msgstr "下一个位置"
+
+msgid "Previous alt tag"
+msgstr "上一个alt标签"
+
+msgid "Next alt tag"
+msgstr "下一个alt标签"
+
+msgid "Base64"
+msgstr "Base64"
+
+msgid ""
+"Base64 encoded arrow images are loading faster and they are colorable. But "
+"optimization plugins often have errors in their codes related to them, so if "
+"your arrow won't load, turn this option off."
+msgstr ""
+"Base64编码的箭头图片加载速度更快，并且是可着色的。但是优化插件通常在与它们相"
+"关的代码中存在错误，因此，如果您的箭头无法加载，请关闭此选项。"
+
+#, fuzzy
+#| msgid "Large Dark"
+msgid "Image width - Desktop"
+msgstr "大型深色"
+
+#, fuzzy
+#| msgid "Image title"
+msgid "Image width - Tablet"
+msgstr "图片标题"
+
+#, fuzzy
+#| msgid "Image title"
+msgid "Image width - Mobile"
+msgstr "图片标题"
+
+msgid "Pause"
+msgstr ""
+
+#, fuzzy
+#| msgid "Pause autoplay"
+msgid "Play autoplay"
+msgstr "暂停自动播放"
+
+msgid "Pause autoplay"
+msgstr "暂停自动播放"
+
+msgid "Bar"
+msgstr "条"
+
+msgid "Slide count"
+msgstr "轮播图计数"
+
+msgid ""
+"The \"Title\" will be the index of the slide and \"Description\" will be the "
+"total number of slides."
+msgstr "“标题”将是轮播图的索引，“描述”将是轮播图的总数。"
+
+msgid "Separator"
+msgstr "分隔符"
+
+#, php-format
+msgid ""
+"You can set what separates the Tex bar Title and Description. This separator "
+"is used at the Slide count option, too, to separate the current and total "
+"slide number. %1$s To put the Description to a new line, use the &lt;br&gt; "
+"HTML tag."
+msgstr ""
+"您可以设置分隔文字条标题和描述的内容。此分隔符也可用于“轮播图计数”选项，以分"
+"隔当前和总的轮播图编号。 %1$s 要将说明换行，请使用&lt;br&gt; HTML标记。"
+
+#, fuzzy
+#| msgid "Max file size"
+msgid "Bar full size"
+msgstr "最大文件大小"
+
+msgid "Shows on hover"
+msgstr "悬停时显示"
+
+#, fuzzy
+#| msgid "Hide on"
+msgid "Hide on slides"
+msgstr "隐藏于"
+
+msgid ""
+"List the slides separated by commas on which you want the controls to be "
+"hidden."
+msgstr ""
+
+msgid "Text bar"
+msgstr "文字条"
+
+msgid "Bullets"
+msgstr "圆点导航"
+
+msgid "Side"
+msgstr "侧边"
+
+msgid "Before"
+msgstr "之前"
+
+msgid "After"
+msgstr "之后"
+
+msgid "Shadow"
+msgstr "阴影"
+
+msgid "Thumbnails"
+msgstr "缩略图"
+
+#, fuzzy
+#| msgid "Desktop"
+msgid "Desktop width"
+msgstr "电脑端"
+
+#, fuzzy
+#| msgid "Tablet text"
+msgid "Tablet width"
+msgstr "平板端文字"
+
+#, fuzzy
+#| msgid "Slide title"
+msgid "Mobile width"
+msgstr "轮播图标题"
+
+msgid "Align thumbnails"
+msgstr "缩略图对齐"
+
+msgid "Start"
+msgstr "开始"
+
+msgid "End"
+msgstr "结束"
+
+msgid "Space between"
+msgstr "间距"
+
+msgid "Space around"
+msgstr "周围的空间"
+
+msgid "Caption"
+msgstr "说明"
+
+msgid ""
+"The height (horizontal orientation) or width (vertical orientation) of the "
+"caption container."
+msgstr "字幕容器的高度（水平方向）或宽度（垂直方向）。"
+
+#, fuzzy
+#| msgid "Next alt tag"
+msgid "Next arrow image"
+msgstr "下一个alt标签"
+
+msgid "The previous arrow image will be mirrored."
+msgstr ""
+
+#, fuzzy
+#| msgid "Group"
+msgid "Group by"
+msgstr "分组"
+
+#, fuzzy
+#| msgid "Thumbnails"
+msgctxt "Unit"
+msgid "thumbnails"
+msgstr "缩略图"
+
+msgid "You can break your thumbnails into rows or columns."
+msgstr ""
+
+#, fuzzy
+#| msgid ""
+#| "The height (horizontal orientation) or width (vertical orientation) of "
+#| "the caption container."
+msgid ""
+"The height (horizontal orientation) or width (vertical orientation) of the "
+"thumbnail container in px or %."
+msgstr "字幕容器的高度（水平方向）或宽度（垂直方向）。"
+
+#, javascript-format
+msgid "Switches %s slide(s)."
+msgstr ""
+
+#, javascript-format
+msgid "Loops %s and stops before starting slide."
+msgstr ""
+
+#, javascript-format
+msgid "Loops %s and returns to starting slide."
+msgstr ""
+
+#, fuzzy, javascript-format
+#| msgid "Failed to create slides."
+msgid "Switches to the %s. slide."
+msgstr "无法创建轮播图。"
+
+#, fuzzy
+#| msgid "To bottom"
+msgid "Top and bottom"
+msgstr "向下"
+
+msgid "License key cannot be empty!"
+msgstr ""
+
+msgid "License key is active!"
+msgstr ""
+
+#, fuzzy
+#| msgid "Missing layer type: %s"
+msgid "Missing sliders!"
+msgstr "缺少图层类型：%s"
+
+#, fuzzy
+#| msgid "Hover color"
+msgid "Line color"
+msgstr "悬停颜色"
+
+msgid "Number of particles"
+msgstr ""
+
+msgid "Grab"
+msgstr ""
+
+msgid "Bubble"
+msgstr ""
+
+msgid "Repulse"
+msgstr ""
+
+msgid "Push"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+#, fuzzy
+#| msgid "Hide on"
+msgid "Hide on mobile"
+msgstr "隐藏于"
+
+msgid "Type"
+msgstr ""
+
+msgid "Secondary"
+msgstr ""
+
+msgid "Flip"
+msgstr ""
+
+msgid "Grow"
+msgstr ""
+
+msgid "Shrink"
+msgstr ""
+
+#, fuzzy
+#| msgid "Enter"
+msgid "Interval"
+msgstr "进入"
+
+msgid "Interval modifier"
+msgstr ""
+
+msgctxt "Autoplay modifier"
+msgid "loops"
+msgstr ""
+
+#, fuzzy
+#| msgid "Slide count"
+msgctxt "Autoplay modifier"
+msgid "slide count"
+msgstr "轮播图计数"
+
+#, fuzzy
+#| msgid "Slide one"
+msgctxt "Autoplay modifier"
+msgid "slide index"
+msgstr "轮播图一"
+
+#, fuzzy
+#| msgid "Stop on click"
+msgid "Stops on"
+msgstr "点击停止"
+
+#, fuzzy
+#| msgid "First slide"
+msgctxt "Autoplay modifier"
+msgid "last slide"
+msgstr "第一张轮播图"
+
+#, fuzzy
+#| msgid "Go to next slide"
+msgctxt "Autoplay modifier"
+msgid "next slide"
+msgstr "转到下一张轮播图"
+
+msgid "Polygons"
+msgstr ""
+
+msgid "Bloom"
+msgstr ""
+
+msgid "Web"
+msgstr ""
+
+#, fuzzy
+#| msgid "Black"
+msgid "Black widow"
+msgstr "黑色"
+
+msgid "Zodiac"
+msgstr ""
+
+#, fuzzy
+#| msgid "Loading mode"
+msgid "Fading dots"
+msgstr "加载方式"
+
+msgid "Pirouette"
+msgstr ""
+
+msgid "Sparkling"
+msgstr ""
+
+#, php-format
+msgid "Curve %d"
+msgstr ""
+
+msgid "Curves"
+msgstr ""
+
+#, php-format
+msgid "Fan %d"
+msgstr ""
+
+msgid "Hills"
+msgstr ""
+
+#, fuzzy, php-format
+#| msgid "Inline"
+msgid "Incline %d"
+msgstr "内联"
+
+msgid "Inverse arrow"
+msgstr ""
+
+#, fuzzy
+#| msgid "Rectangle Blue"
+msgid "Rectangle"
+msgstr "矩形蓝色"
+
+msgid "Slopes"
+msgstr ""
+
+#, php-format
+msgid "Tilt %d"
+msgstr ""
+
+#, fuzzy, php-format
+#| msgid "Single"
+msgid "Triangle %d"
+msgstr "单个"
+
+#, php-format
+msgid "Wave %d"
+msgstr ""
+
+msgid "Waves"
+msgstr ""
+
+#, fuzzy, php-format
+#| msgid "Columns"
+msgid "Columns %d"
+msgstr "列"
+
+#, php-format
+msgid "Paper %d"
+msgstr ""
+
+#, fuzzy
+#| msgid "Color"
+msgid "2 Colors"
+msgstr "颜色"
+
+msgid "Fan"
+msgstr ""
+
+msgid "Masked waves"
+msgstr ""
+
+msgid "Ribbon"
+msgstr ""
+
+msgid "The secret is empty. Please insert that value too!"
+msgstr ""
+
+msgid "The App ID is empty. Please insert that value too!"
+msgstr ""
+
+#, php-format
+msgid ""
+"%1$s allows HTTPS Redirect URIs only! You must move your site to HTTPS in "
+"order to use this generator!"
+msgstr ""
+
+msgid "How to get SSL for my website?"
+msgstr ""
+
+#, php-format
+msgid ""
+"%2$s Check the documentation %3$s to learn how to configure your %1$s app."
+msgstr ""
+
+msgctxt "Facebook app permission"
+msgid "pages read engagement"
+msgstr ""
+
+msgid "Pages read engagement permission"
+msgstr ""
+
+msgid ""
+"You need \"pages_read_engagement\" permission if you want to access datas of "
+"Facebook pages, where you are an administrator. For other pages you still "
+"need to turn this option on, but request access to \"Page Public Content "
+"Access\" within your App."
+msgstr ""
+
+msgctxt "Facebook app permission"
+msgid "user photos"
+msgstr ""
+
+msgid "User photos permission"
+msgstr ""
+
+msgid ""
+"You need \"user_photos\" permission to access photos of users, except your "
+"own user."
+msgstr ""
+
+msgid "Token"
+msgstr ""
+
+msgid "Callback url"
+msgstr ""
+
+msgid "The token expired. Please request new token! "
+msgstr ""
+
+msgid "Request token"
+msgstr ""
+
+msgid "Facebook photos or posts on your page"
+msgstr ""
+
+#, fuzzy
+#| msgid "Posts by filter"
+msgid "Photos by album"
+msgstr "筛选文章"
+
+#, fuzzy
+#| msgid "Posts by IDs"
+msgid "Posts by page"
+msgstr "选择文章 ID"
+
+#, fuzzy
+#| msgid "%s or later"
+msgid "User or page"
+msgstr "%s 或更高版本"
+
+msgid "Album"
+msgstr ""
+
+msgctxt "Facebook generator type"
+msgid "Facebook posts"
+msgstr ""
+
+msgid "Page"
+msgstr ""
+
+msgid "Feed"
+msgstr ""
+
+#, fuzzy
+#| msgid "Remove shortcodes"
+msgid "Remove special characters"
+msgstr "删除简码"
+
+#, fuzzy
+#| msgid "Exclude posts"
+msgid "Exclude Types"
+msgstr "排除文章"
+
+msgid "Separate the types by a comma. E.g.: share,album"
+msgstr ""
+
+msgid "The key and secret is not valid!"
+msgstr ""
+
+msgid "There are no photos in this album!"
+msgstr ""
+
+msgid "Please choose an album!"
+msgstr ""
+
+msgid "There are no photos in this gallery!"
+msgstr ""
+
+msgid "Please chooose a gallery!"
+msgstr ""
+
+msgid "Privacy"
+msgstr ""
+
+msgid "There are no photos with this privacy filter!"
+msgstr ""
+
+msgctxt "Flickr generator type"
+msgid "Flickr search"
+msgstr ""
+
+msgid "User name or ID"
+msgstr ""
+
+msgid "Search in title, description or tags"
+msgstr ""
+
+msgid "Folder"
+msgstr ""
+
+#, fuzzy
+#| msgid "Image mode"
+msgid "Images in folder"
+msgstr "图片模式"
+
+msgid "Images in folder and subfolders"
+msgstr ""
+
+msgid "Videos in folder"
+msgstr ""
+
+msgid "Source folder"
+msgstr ""
+
+#, fuzzy
+#| msgid "Slide name and description"
+msgid "Filename based exclusion"
+msgstr "轮播图名称与描述"
+
+#, fuzzy
+#| msgid "Cover image"
+msgid "Remove resized images"
+msgstr "封面图片"
+
+msgid ""
+"This option removes files that match the \"-[number]x[number].[extension]\" "
+"pattern in the end of their file names. For example, \"myimage.jpg\" will "
+"stay in the generator result, but \"myimage-120x120.jpg\" will be removed, "
+"because it's the same image, just in a smaller size."
+msgstr ""
+
+msgid "Filename has to contain"
+msgstr ""
+
+msgid ""
+"Only those images will be asked down, which have the given texts within "
+"their filenames. You can write down multiple texts separated by comma."
+msgstr ""
+
+msgid "Filename cannot contain"
+msgstr ""
+
+msgid ""
+"Only those images will be asked down, which don't have the given texts "
+"within their filenames. You can write down multiple texts separated by comma."
+msgstr ""
+
+#, fuzzy
+#| msgid "Field name"
+msgid "Filename"
+msgstr "字段名称"
+
+#, fuzzy
+#| msgid "Modification date"
+msgid "Creation date"
+msgstr "修改日期"
+
+msgid ""
+"Wrong path. This is the default image folder path, so try to navigate from "
+"here:"
+msgstr ""
+
+#, fuzzy
+#| msgid "Not found"
+msgid "Folder not found."
+msgstr "未找到"
+
+msgid ""
+"Wrong path. This is the default upload/media folder path, so try to navigate "
+"from here:"
+msgstr ""
+
+msgid "The App ID and the Secret is empty!"
+msgstr ""
+
+msgid "The token will expire at:"
+msgstr ""
+
+msgid "Access token was not returned.Please check the credentials!"
+msgstr ""
+
+msgid "The token expired. Please request new token!"
+msgstr ""
+
+msgid "The token will expire in two days! Please refresh the token!"
+msgstr ""
+
+msgid "Refresh Token"
+msgstr ""
+
+msgid "Refresh"
+msgstr ""
+
+#, fuzzy
+#| msgid "Compare method"
+msgid "Album loading method"
+msgstr "比较方法"
+
+msgid "Load first images only"
+msgstr ""
+
+msgid "Load album images separately"
+msgstr ""
+
+msgid "Load Album images as record data"
+msgstr ""
+
+msgid "JSON from url"
+msgstr ""
+
+msgid "JSON from input"
+msgstr ""
+
+#, fuzzy
+#| msgid "Cache expiration"
+msgid "Level separation"
+msgstr "缓存过期"
+
+msgid ""
+"JSON codes can be customized to have many different levels. From a code it "
+"is impossible to know from which level do you want to use the given datas on "
+"the different slides, so you have to select that level from this list."
+msgstr ""
+
+#, php-format
+msgid ""
+"The given text is not valid XML! %1$sValidate your code%2$s to make sure it "
+"is correct."
+msgstr ""
+
+#, php-format
+msgid ""
+"The given text is not valid JSON! %1$sValidate your code%2$s to make sure it "
+"is correct."
+msgstr ""
+
+msgid ""
+"Try to change the \"Level separation\" or \"Remove levels from result\" "
+"setting."
+msgstr ""
+
+#, fuzzy
+#| msgid "Image"
+msgid "Images"
+msgstr "图片"
+
+#, fuzzy
+#| msgid "Offset"
+msgid "Offset hours"
+msgstr "偏移"
+
+msgid "Timezone offset in hours. For example: +2 or -7."
+msgstr ""
+
+msgid "The data in the given url is not valid XML."
+msgstr ""
+
+msgid "CSV from url"
+msgstr ""
+
+msgid "CSV from input"
+msgstr ""
+
+#, fuzzy
+#| msgid "View trash"
+msgid "View tweet"
+msgstr "查看回收站"
+
+#, fuzzy
+#| msgid "Comment count"
+msgid "Comments"
+msgstr "评论计数"
+
+msgid "Date"
+msgstr ""
+
+#, fuzzy
+#| msgid "Liked it"
+msgid "Likes"
+msgstr "喜欢它"
+
+#, fuzzy
+#| msgid "Manual order"
+msgid "Manual"
+msgstr "手动排序"
+
+#, fuzzy
+#| msgid "Modification date"
+msgid "Modified time"
+msgstr "修改日期"
+
+#, fuzzy
+#| msgid "Play"
+msgid "Plays"
+msgstr "播放"
+
+#, fuzzy
+#| msgid "Play"
+msgid "Playlist"
+msgstr "播放"
+
+#, fuzzy
+#| msgid "Caption"
+msgid "optional"
+msgstr "说明"
+
+#, fuzzy, php-format
+#| msgid "Creates slides from %1$s."
+msgid "Creates slides from %1$s content."
+msgstr "从%1$s创建轮播图。"
+
+msgid "Include subcategories"
+msgstr ""
+
+#, fuzzy
+#| msgid "Frontend"
+msgid "Frontpage"
+msgstr "前端"
+
+#, fuzzy
+#| msgid "Exclude posts"
+msgid "Exclude ID"
+msgstr "排除文章"
+
+#, fuzzy
+#| msgid "Categories"
+msgid "Category title"
+msgstr "分类"
+
+#, fuzzy
+#| msgid "Users byline"
+msgid "Username"
+msgstr "用户按行"
+
+#, fuzzy
+#| msgid "View records"
+msgid "View post"
+msgstr "查看记录"
+
+msgid "Resolved"
+msgstr ""
+
+msgid "Only main discussions"
+msgstr ""
+
+msgid "View discussion"
+msgstr ""
+
+msgid "Events"
+msgstr ""
+
+msgid "Albums"
+msgstr ""
+
+#, fuzzy
+#| msgid "Video"
+msgid "Videos"
+msgstr "视频"
+
+msgid "Pages"
+msgstr ""
+
+msgid "Users"
+msgstr ""
+
+msgid "Allowed user IDs"
+msgstr ""
+
+msgid "Separate them by comma."
+msgstr ""
+
+msgid "Banned user IDs"
+msgstr ""
+
+#, fuzzy
+#| msgid "Start"
+msgid "Started"
+msgstr "开始"
+
+msgid "Ended"
+msgstr ""
+
+msgid "All day"
+msgstr ""
+
+msgid "Recurring events"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+#, fuzzy
+#| msgid "Close"
+msgid "Closed"
+msgstr "关闭"
+
+msgid "Invite only"
+msgstr ""
+
+#, fuzzy
+#| msgid "Rotation"
+msgid "Location"
+msgstr "旋转"
+
+msgid "Pull posts only from these users. Separate them by comma."
+msgstr ""
+
+msgid "Do not pull posts from these users. Separate them by comma."
+msgstr ""
+
+#, fuzzy
+#| msgid "Publish"
+msgid "Public"
+msgstr "发布"
+
+#, fuzzy
+#| msgid "Private video"
+msgid "Private"
+msgstr "隐私视频"
+
+#, fuzzy
+#| msgid "Rotation"
+msgid "Notification"
+msgstr "旋转"
+
+#, fuzzy
+#| msgid "Email support"
+msgid "Email only"
+msgstr "邮件支持"
+
+msgid "Internal only"
+msgstr ""
+
+msgid "Profiles"
+msgstr ""
+
+msgid "Badges"
+msgstr ""
+
+#, fuzzy
+#| msgid "Post date"
+msgid "Register date"
+msgstr "发布日期"
+
+msgid "Last visit date"
+msgstr ""
+
+msgid "Points"
+msgstr ""
+
+msgid "Products"
+msgstr ""
+
+#, fuzzy
+#| msgid "Manual order"
+msgid "Manufacturer"
+msgstr "手动排序"
+
+#, fuzzy
+#| msgid "Max count"
+msgid "On discount"
+msgstr "最大数量"
+
+msgid "In stock"
+msgstr ""
+
+msgid "Currency"
+msgstr ""
+
+msgid "Product language"
+msgstr ""
+
+msgid "Category language"
+msgstr ""
+
+msgid "Manufacturer language"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid "Product name"
+msgstr ""
+
+#, fuzzy
+#| msgid "Post IDs"
+msgid "Product ID"
+msgstr "文章 IDs"
+
+#, fuzzy
+#| msgid "Actions"
+msgid "Locations"
+msgstr "操作"
+
+msgid "Recurring"
+msgstr ""
+
+msgid "All, but from recurring ones only parent events"
+msgstr ""
+
+msgid "Only recurring events"
+msgstr ""
+
+msgid "Only recurring event parents"
+msgstr ""
+
+msgid "Only not recurring events"
+msgstr ""
+
+msgid "Menu item (item ID)"
+msgstr ""
+
+#, fuzzy
+#| msgid "Start time"
+msgid "Start date"
+msgstr "开始时间"
+
+#, fuzzy
+#| msgid "End time"
+msgid "End date"
+msgstr "结束时间"
+
+msgid "ID"
+msgstr ""
+
+#, fuzzy
+#| msgid "Slide count"
+msgid "Discount"
+msgstr "轮播图计数"
+
+msgid "Registration start date"
+msgstr ""
+
+msgid "Cut off date"
+msgstr ""
+
+#, fuzzy
+#| msgid "Check for update"
+msgid "Cancel before date"
+msgstr "检查更新"
+
+#, fuzzy
+#| msgid "Published"
+msgid "Publish up date"
+msgstr "已发布"
+
+#, fuzzy
+#| msgid "Published"
+msgid "Publish down date"
+msgstr "已发布"
+
+msgid "Early bird discount date"
+msgstr ""
+
+msgid "Early bird discount amount"
+msgstr ""
+
+msgid "Late fee date"
+msgstr ""
+
+msgid "Recurring end date"
+msgstr ""
+
+msgid "Max end date"
+msgstr ""
+
+msgid "Only display items with these IDs"
+msgstr ""
+
+msgid ""
+"Timezone offset in hours. For example: +2 or -7. If you leave it empty, "
+"Joomla's System -> Global Configuration -> Server -> Server Time Zone "
+"setting will be used."
+msgstr ""
+
+msgid "Brand"
+msgstr ""
+
+#, fuzzy
+#| msgid "Tags"
+msgid "Tag"
+msgstr "标签"
+
+msgid "Warehouse"
+msgstr ""
+
+msgid "Include all images"
+msgstr ""
+
+msgid "Sales"
+msgstr ""
+
+#, fuzzy
+#| msgid "After page loaded"
+msgid "Average score"
+msgstr "页面已加载"
+
+msgid "Total vote"
+msgstr ""
+
+#, fuzzy
+#| msgid "Post IDs"
+msgid "Product IDs"
+msgstr "文章 IDs"
+
+msgid ""
+"Write the product IDs you want to display here, in the order you want them "
+"to appear in the generator. One product ID per line."
+msgstr ""
+
+msgid "One time events"
+msgstr ""
+
+msgid "Repeating events"
+msgstr ""
+
+msgid "Date language"
+msgstr ""
+
+#, fuzzy
+#| msgid "Replace variables"
+msgid "Date variable offset"
+msgstr "替换变量"
+
+msgid "Date filter offset"
+msgstr ""
+
+#, fuzzy
+#| msgid "State"
+msgid "Status"
+msgstr "省"
+
+#, fuzzy
+#| msgid "Trash"
+msgid "Trashed"
+msgstr "回收站"
+
+msgid "Ask down all product images"
+msgstr ""
+
+msgid "Items"
+msgstr ""
+
+#, fuzzy
+#| msgid "View trash"
+msgid "View item"
+msgstr "查看回收站"
+
+#, fuzzy
+#| msgid "View records"
+msgid "Viewed"
+msgstr "查看记录"
+
+#, fuzzy
+#| msgid "Cover image"
+msgid "View image"
+msgstr "封面图片"
+
+msgid "All day event"
+msgstr ""
+
+msgid "Fallback language"
+msgstr ""
+
+msgid "Show parent products only"
+msgstr ""
+
+#, fuzzy, php-format
+#| msgid "Creates slides from %1$s."
+msgid "Creates slides from %1$s galleries."
+msgstr "从%1$s创建轮播图。"
+
+msgid "Gallery"
+msgstr ""
+
+msgid "View gallery"
+msgstr ""
+
+#, fuzzy
+#| msgid "Creates slides from %1$s."
+msgid "Creates slides by your custom settings."
+msgstr "从%1$s创建轮播图。"
+
+#, php-format
+msgid ""
+"You don't have custom generators yet. %1$s Check the documentation %2$s to "
+"learn how to create your own generator."
+msgstr ""
+
+msgid "No options given"
+msgstr ""
+
+#, fuzzy, php-format
+#| msgid "Creates slides from %1$s."
+msgid "Creates slides from %1$s events."
+msgstr "从%1$s创建轮播图。"
+
+msgid "Exclude event IDs (One ID per line)"
+msgstr ""
+
+#, fuzzy
+#| msgid "Modification date"
+msgid "Location town"
+msgstr "修改日期"
+
+#, fuzzy
+#| msgid "Modification date"
+msgid "Location state"
+msgstr "修改日期"
+
+msgid "Get all multisite events"
+msgstr ""
+
+#, fuzzy
+#| msgid "Order by"
+msgid "Order result"
+msgstr "排序依据"
+
+msgid "Events per site"
+msgstr ""
+
+#, fuzzy
+#| msgid "Custom date variables"
+msgid "Format date variables"
+msgstr "自定义日期变量"
+
+msgid ""
+"With the WordPress Settings -> General -> Timezone and Date format, new "
+"variables will be generated from the given variables. Separate them with "
+"comma."
+msgstr ""
+
+#, fuzzy
+#| msgid "Start time"
+msgid "Start time text"
+msgstr "开始时间"
+
+msgid "End date text"
+msgstr ""
+
+#, fuzzy
+#| msgid "End time"
+msgid "End time text"
+msgstr "结束时间"
+
+#, fuzzy
+#| msgid "Post date"
+msgid "Rsvp date"
+msgstr "发布日期"
+
+msgid "Multisite Posts"
+msgstr ""
+
+msgid "Source gallery"
+msgstr ""
+
+msgid "Organizers"
+msgstr ""
+
+msgid "Venues"
+msgstr ""
+
+#, fuzzy
+#| msgid "Video settings"
+msgid "Hide From Event Listings"
+msgstr "视频设置"
+
+msgid "Event start date"
+msgstr ""
+
+msgid "Event end date"
+msgstr ""
+
+#, fuzzy
+#| msgid "Comment count"
+msgid "Event cost"
+msgstr "评论计数"
+
+#, fuzzy
+#| msgid "Modification date"
+msgid "Event creation date"
+msgstr "修改日期"
+
+#, fuzzy
+#| msgid "Modification date"
+msgid "Event modification date"
+msgstr "修改日期"
+
+msgid "Metakey name"
+msgstr ""
+
+#, fuzzy
+#| msgid "If it's set, this will be used instead of the 'Field' value."
+msgid "If its set, this will be used instead of the 'Field' value."
+msgstr "如果已设置，将使用它代替“字段”值。"
+
+#, fuzzy
+#| msgid "Compare method"
+msgid "Sorting method"
+msgstr "比较方法"
+
+#, fuzzy
+#| msgid "Categories"
+msgid "Galleries"
+msgstr "分类"
+
+#, fuzzy
+#| msgid "Upload file"
+msgid "Upload date"
+msgstr "上传文件"
+
+msgid "Average rating"
+msgstr ""
+
+#, fuzzy
+#| msgid "Max count"
+msgid "Rate count"
+msgstr "最大数量"
+
+#, fuzzy
+#| msgid "Slide count"
+msgid "Hit count"
+msgstr "轮播图计数"
+
+msgid "Root"
+msgstr ""
+
+#, fuzzy
+#| msgid "Posts by filter"
+msgid "Products by filter"
+msgstr "筛选文章"
+
+msgid "Products by IDs and/or SKUs"
+msgstr ""
+
+msgid ""
+"Creates slides from your WooCommece categories. (Not from the products "
+"inside them.)"
+msgstr ""
+
+msgid "Submenu limit"
+msgstr ""
+
+msgid "No limit"
+msgstr ""
+
+msgid "Hide empty categories"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+#, fuzzy
+#| msgid "Download Pro"
+msgid "Downloadable"
+msgstr "下载专业版"
+
+msgid "Virtual"
+msgstr ""
+
+msgid "Create text variables (one per line)"
+msgstr ""
+
+msgid ""
+"if 'variable' equals to 'equalvalue', then you will get the text 'true', but "
+"if it's not equal, the text will be 'false'. The new variable's name will be "
+"textvariable (the 'variable' replaced by your variable's name)."
+msgstr ""
+
+#, fuzzy
+#| msgid "Rounded Green"
+msgid "Round rating"
+msgstr "圆角绿色"
+
+msgid "Half"
+msgstr ""
+
+msgid "Third"
+msgstr ""
+
+msgid "Quarter"
+msgstr ""
+
+#, fuzzy
+#| msgid "Visit"
+msgid "Visibility"
+msgstr "访问"
+
+msgid "Shop and search results"
+msgstr ""
+
+#, fuzzy
+#| msgid "Stop on click"
+msgid "Shop only"
+msgstr "点击停止"
+
+msgid "Search results only"
+msgstr ""
+
+#, fuzzy
+#| msgid "Replace timestamp variables"
+msgid "Replace these timestamp variables"
+msgstr "替换时间戳变量"
+
+#, php-format
+msgid "Any PHP date format can be used: %s"
+msgstr ""
+
+msgid "Total sales"
+msgstr ""
+
+msgid "Regular price"
+msgstr ""
+
+#, fuzzy
+#| msgid "Scale up"
+msgid "Sale price"
+msgstr "Scale up"
+
+#, fuzzy
+#| msgid "one per line"
+msgid "IDs (one per line)"
+msgstr "每行一个"
+
+#, fuzzy
+#| msgid "one per line"
+msgid "SKUs (one per line)"
+msgstr "每行一个"
+
+msgid "Move"
+msgstr ""
+
+#, fuzzy
+#| msgid "Reverse"
+msgid "Reveal"
+msgstr "相反"
+
+msgid "Bounce"
+msgstr ""
+
+msgid "Special"
+msgstr ""
+
+#, fuzzy
+#| msgid "Left"
+msgid "Left fade"
+msgstr "左边"
+
+#, fuzzy
+#| msgid "Right"
+msgid "Right fade"
+msgstr "右边"
+
+msgid "Top fade"
+msgstr ""
+
+#, fuzzy
+#| msgid "Bottom"
+msgid "Bottom fade"
+msgstr "底部"
+
+msgid "Flash"
+msgstr ""
+
+#, fuzzy
+#| msgid "Scale to right"
+msgid "Left to Right"
+msgstr "Scale to right"
+
+#, fuzzy
+#| msgid "To bottom"
+msgid "Top to Bottom"
+msgstr "向下"
+
+#, fuzzy
+#| msgid "Scale to right"
+msgid "Skew Left to Right"
+msgstr "Scale to right"
+
+#, fuzzy
+#| msgid "Downscale bottom"
+msgid "Downscale back out"
+msgstr "Downscale bottom"
+
+#, fuzzy
+#| msgid "Upscale bottom"
+msgid "Upscale back out"
+msgstr "Upscale bottom"
+
+msgid "Pulse"
+msgstr ""
+
+#, fuzzy
+#| msgid "To left"
+msgid "Flip left"
+msgstr "向左"
+
+#, fuzzy
+#| msgid "To right"
+msgid "Flip right"
+msgstr "向右"
+
+#, fuzzy
+#| msgid "Scale down"
+msgid "Flip down"
+msgstr "Scale down"
+
+msgid "Flip up"
+msgstr ""
+
+msgid "Flip in X"
+msgstr ""
+
+msgid "Flip in Y"
+msgstr ""
+
+msgid "Flap"
+msgstr ""
+
+#, fuzzy
+#| msgid "To top left"
+msgid "Rotate top left"
+msgstr "向左上方"
+
+#, fuzzy
+#| msgid "To top right"
+msgid "Rotate top right"
+msgstr "向右上方"
+
+msgid "Roll in"
+msgstr ""
+
+msgid "Rotate top left back out"
+msgstr ""
+
+msgid "Rotate all axis"
+msgstr ""
+
+msgid "Bounce in"
+msgstr ""
+
+#, fuzzy
+#| msgid "Downscale left"
+msgid "Bounce in left"
+msgstr "Downscale left"
+
+#, fuzzy
+#| msgid "Downscale right"
+msgid "Bounce in right"
+msgstr "Downscale right"
+
+msgid "Bounce in down"
+msgstr ""
+
+msgid "Bounce in up"
+msgstr ""
+
+msgid "Rubber band"
+msgstr ""
+
+msgid "Shake"
+msgstr ""
+
+msgid "Swing"
+msgstr ""
+
+msgid "Wooble"
+msgstr ""
+
+msgid "Roll"
+msgstr ""
+
+msgid "Grow rotate"
+msgstr ""
+
+msgid "Pendulum"
+msgstr ""
+
+msgid "Pendulum 3D"
+msgstr ""
+
+msgid "Vertical pendulum 3D"
+msgstr ""
+
+msgid "We are Passionate About"
+msgstr ""
+
+msgid ""
+"Amazing Food\n"
+"Great Hospitality"
+msgstr ""
+
+#, fuzzy
+#| msgid "Before"
+msgid "Before text"
+msgstr "之前"
+
+#, fuzzy
+#| msgid "Animate"
+msgid "Animated text"
+msgstr "动画"
+
+#, fuzzy
+#| msgid "After delay"
+msgid "After text"
+msgstr "延迟"
+
+#, fuzzy
+#| msgid "Rotation"
+msgid "Rotating"
+msgstr "旋转"
+
+msgid "Drop-in"
+msgstr ""
+
+#, fuzzy
+#| msgid "Slide one"
+msgid "Slide down"
+msgstr "轮播图一"
+
+msgid "Typewriter"
+msgstr ""
+
+msgid "Chars"
+msgstr ""
+
+msgid "Chars 2"
+msgstr ""
+
+#, fuzzy
+#| msgid "Full width"
+msgid "Auto width"
+msgstr "全宽"
+
+#, fuzzy
+#| msgid "Hover color"
+msgid "Cursor color"
+msgstr "悬停颜色"
+
+#, fuzzy
+#| msgctxt "Video/Audio play"
+#| msgid "Loop"
+msgctxt "Effect"
+msgid "Loop"
+msgstr "循环"
+
+#, fuzzy
+#| msgid "Slide duration"
+msgid "Show duration"
+msgstr "轮播图持续时间"
+
+#, fuzzy
+#| msgid "Class on the %s element."
+msgid "Class on the selected tag element."
+msgstr "在%s元素的类。"
+
+msgid "Area"
+msgstr ""
+
+msgid "Write custom CSS codes here without selectors."
+msgstr ""
+
+msgid "Audio"
+msgstr ""
+
+msgid "MP3 audio"
+msgstr ""
+
+#, fuzzy
+#| msgid "Background color"
+msgid "Main color"
+msgstr "背景颜色"
+
+#, fuzzy
+#| msgid "Background color"
+msgid "Secondary color"
+msgstr "背景颜色"
+
+#, fuzzy
+#| msgid "Video settings"
+msgid "Audio settings"
+msgstr "视频设置"
+
+#, fuzzy, php-format
+#| msgid ""
+#| "Video autoplaying has a lot of limitations made by browsers. %1$sLearn "
+#| "about them.%2$s"
+msgid ""
+"Audio autoplaying has a lot of limitations made by browsers. You can read "
+"about them %1$shere%2$s."
+msgstr "视频自动播放具有许多浏览器的限制。 %1$s了解详情。%2$s"
+
+msgid "Starts the audio from the beginning when the slide is viewed again."
+msgstr ""
+
+msgid "Progress"
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+#, fuzzy
+#| msgid "Size"
+msgid "Icon Size"
+msgstr "尺寸"
+
+#, fuzzy
+#| msgid "Before"
+msgid "Before After"
+msgstr "之前"
+
+#, fuzzy
+#| msgid "Scale to right"
+msgid "Left top"
+msgstr "Scale to right"
+
+#, fuzzy
+#| msgid "Center"
+msgid "Center top"
+msgstr "居中"
+
+#, fuzzy
+#| msgid "Right"
+msgid "Right top"
+msgstr "右边"
+
+#, fuzzy
+#| msgid "Help center"
+msgid "Left center"
+msgstr "帮助中心"
+
+#, fuzzy
+#| msgid "Center"
+msgid "Right Center"
+msgstr "居中"
+
+#, fuzzy
+#| msgid "To bottom"
+msgid "Left bottom"
+msgstr "向下"
+
+#, fuzzy
+#| msgid "Curtain to bottom"
+msgid "Center bottom"
+msgstr "Curtain to bottom"
+
+#, fuzzy
+#| msgid "To bottom"
+msgid "Right bottom"
+msgstr "向下"
+
+#, fuzzy
+#| msgid "Before"
+msgid "Before Image"
+msgstr "之前"
+
+#, fuzzy
+#| msgid "After delay"
+msgid "After Image"
+msgstr "延迟"
+
+#, fuzzy
+#| msgid "Label"
+msgid "Labels"
+msgstr "标签（Label）"
+
+#, fuzzy
+#| msgid "Show label"
+msgid "Show Label"
+msgstr "显示标签"
+
+msgid "Always"
+msgstr ""
+
+#, fuzzy
+#| msgid "Before"
+msgid "Before label"
+msgstr "之前"
+
+#, fuzzy
+#| msgid "ARIA label"
+msgid "After label"
+msgstr "ARIA标签"
+
+msgid "Behavior"
+msgstr ""
+
+#, fuzzy
+#| msgid "Instruction"
+msgid "Interaction"
+msgstr "说明"
+
+#, fuzzy
+#| msgid "Slider"
+msgid "Divider"
+msgstr "轮播"
+
+msgid "Line"
+msgstr ""
+
+#, fuzzy
+#| msgid "Slide duration"
+msgid "Show Caption"
+msgstr "轮播图持续时间"
+
+#, fuzzy
+#| msgid "Caption"
+msgid "Caption text"
+msgstr "说明"
+
+#, fuzzy
+#| msgid "Next alt tag"
+msgid "Before image alt tag"
+msgstr "下一个alt标签"
+
+#, fuzzy
+#| msgid "Next alt tag"
+msgid "After image alt tag"
+msgstr "下一个alt标签"
+
+#, fuzzy
+#| msgid "Optimize slide images"
+msgid "Optimize images"
+msgstr "优化轮播图图片"
+
+msgid "Full"
+msgstr ""
+
+msgid "Scales up the image on hover"
+msgstr ""
+
+#, fuzzy
+#| msgid "Slide background"
+msgid "Overlay background"
+msgstr "轮播图背景"
+
+#, fuzzy
+#| msgid "Positions the layers inside vertically."
+msgid "Positions the text inside the overlay."
+msgstr "将图层垂直放置在内部。"
+
+#, fuzzy
+#| msgid "Slide count"
+msgid "Circle counter"
+msgstr "轮播图计数"
+
+#, fuzzy
+#| msgid "Center"
+msgid "Counter"
+msgstr "居中"
+
+msgid "Value"
+msgstr ""
+
+#, fuzzy
+#| msgid "Start time"
+msgid "Start from"
+msgstr "开始时间"
+
+msgid "Total"
+msgstr ""
+
+#, fuzzy
+#| msgid "Hover color"
+msgid "Active color"
+msgstr "悬停颜色"
+
+msgid "Stroke width"
+msgstr ""
+
+#, fuzzy
+#| msgid "Clear before"
+msgid "Inner before"
+msgstr "清除前浮动"
+
+#, fuzzy
+#| msgid "Clear after"
+msgid "Inner after"
+msgstr "清除后浮动"
+
+#, fuzzy
+#| msgid "Parent"
+msgid "Pre"
+msgstr "父级窗口"
+
+#, fuzzy
+#| msgid "Animation type"
+msgid "Animation duration"
+msgstr "动画类型"
+
+#, fuzzy
+#| msgid "Center"
+msgid "Countdown"
+msgstr "居中"
+
+msgid "Days"
+msgstr "天数"
+
+msgid "Minutes"
+msgstr "会议记录"
+
+msgid "Seconds"
+msgstr "秒钟"
+
+#, fuzzy
+#| msgid "First slide changed."
+msgid "Use slide schedule"
+msgstr "第一个轮播图已更改。"
+
+#, fuzzy
+#| msgid "You can use this alias in the slider's shortcode."
+msgid "You can use the \"Unpublished on\" date of the slide itself."
+msgstr "您可以在轮播的简码中使用此别名。"
+
+msgid "Use Slide Schedule"
+msgstr ""
+
+msgid "Go to Slide → Content tab and set the Unpublish on date for the slide."
+msgstr ""
+
+msgid ""
+"Displays the days, hours, minutes and seconds texts under the counter "
+"numbers. To display the labels in your own language, translate the texts in "
+"the language files."
+msgstr ""
+
+msgid "Gap"
+msgstr ""
+
+#, fuzzy
+#| msgid "Creates space between the columns"
+msgid "Creates vertical and horizontal distance between the counter elements."
+msgstr "在列之间创建空间"
+
+#, fuzzy
+#| msgid "Tablet scale"
+msgid "Tablet style"
+msgstr "平板端"
+
+msgid "Set custom Gap and Column for tablet."
+msgstr ""
+
+#, fuzzy
+#| msgid "Mobile scale"
+msgid "Mobile style"
+msgstr "手机端"
+
+msgid "Set custom Gap and Column for mobile."
+msgstr ""
+
+#, fuzzy
+#| msgid "Actions"
+msgid "Action when ends"
+msgstr "操作"
+
+#, fuzzy
+#| msgid "Decoration"
+msgid "No action"
+msgstr "装饰"
+
+#, fuzzy
+#| msgid "Heading layer"
+msgid "Hide layer"
+msgstr "标题图层"
+
+msgid "Redirect to URL"
+msgstr ""
+
+msgid "Choose what happens after the counter reached zero."
+msgstr ""
+
+#, fuzzy
+#| msgid "Trash is empty."
+msgid "This page is"
+msgstr "回收站是空的。"
+
+msgid "Amazing"
+msgstr ""
+
+#, fuzzy, php-format
+#| msgid "Slide count"
+msgid "Circle %d"
+msgstr "轮播图计数"
+
+#, php-format
+msgid "Curly %d"
+msgstr ""
+
+#, fuzzy, php-format
+#| msgid "Highlight"
+msgid "Highlight %d"
+msgstr "高亮"
+
+#, fuzzy, php-format
+#| msgid "Line height"
+msgid "Line Through %d"
+msgstr "行高"
+
+#, fuzzy, php-format
+#| msgid "Rectangle Blue"
+msgid "Rectangle %d"
+msgstr "矩形蓝色"
+
+#, fuzzy, php-format
+#| msgid "one per line"
+msgid "Underline %d"
+msgstr "每行一个"
+
+#, fuzzy, php-format
+#| msgid "one per line"
+msgid "Underline double %d"
+msgstr "每行一个"
+
+#, php-format
+msgid "ZigZag %d"
+msgstr ""
+
+#, fuzzy
+#| msgid "Highlight"
+msgid "Highlighted text"
+msgstr "高亮"
+
+msgid "Bring front"
+msgstr ""
+
+#, fuzzy
+#| msgid "Puts the color in front of the image."
+msgid "Puts the shape on top of the text."
+msgstr "将颜色放在图片前面。"
+
+#, fuzzy
+#| msgid "Load delay"
+msgid "Loop delay"
+msgstr "加载延迟"
+
+msgid "HTML"
+msgstr ""
+
+msgid "Empty element"
+msgstr ""
+
+msgid ""
+"Please note that <b>we do not support</b> the HTML layer and the 3rd party "
+"codes loaded by it. We only suggest using this layer if you are a developer. "
+"<br>Also, make sure your HTML code is valid! Invalid HTML codes can mess up "
+"the entire slide and the only way resolving this problem is deleting the "
+"slide."
+msgstr ""
+
+msgid "Item"
+msgstr ""
+
+msgid ""
+"Item 1\n"
+"Item 2\n"
+"Item 3"
+msgstr ""
+
+#, fuzzy
+#| msgid "List"
+msgid "List type"
+msgstr "列表"
+
+#, fuzzy
+#| msgid "None"
+msgctxt "List layer type"
+msgid "None"
+msgstr "无"
+
+msgctxt "List layer type"
+msgid "Disc"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Square"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Circle"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Decimal"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Armenian"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Cjk-ideographic"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Decimal-leading-zero"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Georgian"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Hebrew"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Hiragana"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Hiragana-iroha"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Katakana"
+msgstr ""
+
+msgctxt "List layer type"
+msgid "Katakana-iroha"
+msgstr ""
+
+#, fuzzy
+#| msgid "Lowercase"
+msgctxt "List layer type"
+msgid "Lower-alpha"
+msgstr "小写"
+
+#, fuzzy
+#| msgid "Lowercase"
+msgctxt "List layer type"
+msgid "Lower-greek"
+msgstr "小写"
+
+#, fuzzy
+#| msgid "Relation"
+msgctxt "List layer type"
+msgid "Lower-latin"
+msgstr "关系"
+
+#, fuzzy
+#| msgid "Lowercase"
+msgctxt "List layer type"
+msgid "Lower-roman"
+msgstr "小写"
+
+#, fuzzy
+#| msgid "Uppercase"
+msgctxt "List layer type"
+msgid "Upper-alpha"
+msgstr "大写"
+
+#, fuzzy
+#| msgid "Relation"
+msgctxt "List layer type"
+msgid "Upper-latin"
+msgstr "关系"
+
+#, fuzzy
+#| msgid "Uppercase"
+msgctxt "List layer type"
+msgid "Upper-roman"
+msgstr "大写"
+
+#, fuzzy
+#| msgid "Not found"
+msgid "Icon not found"
+msgstr "未找到"
+
+#, php-format
+msgid "Enter an %1$s aria-label attribute %2$s that describes the link."
+msgstr ""
+
+msgid "Iframe"
+msgstr ""
+
+msgid ""
+"Please note, that <b>we do not support</b> customized coding! The iframe "
+"layer often needs code customizations what you have to do yourself, so we "
+"only suggest using this layer if you are a developer!"
+msgstr ""
+
+#, fuzzy
+#| msgid "Translate url"
+msgid "Iframe url"
+msgstr "更改网址"
+
+#, fuzzy
+#| msgid "You can load Google Fonts on the frontend."
+msgid "You can disable the scroll on the iframe content."
+msgstr "您可以在前端加载Google字体。"
+
+#, fuzzy
+#| msgid "Slide title"
+msgid "Iframe title"
+msgstr "轮播图标题"
+
+#, fuzzy
+#| msgid "Image alt"
+msgid "Image area"
+msgstr "图片alt"
+
+#, fuzzy
+#| msgid "Image mode"
+msgid "Image box"
+msgstr "图片模式"
+
+msgid ""
+"Positions the text inside the layer. Only works with left and right layout."
+msgstr ""
+
+msgid "Input"
+msgstr ""
+
+#, fuzzy
+#| msgid "Content"
+msgid "Container"
+msgstr "内容"
+
+msgid "What are you looking for?"
+msgstr ""
+
+msgid ""
+"We only suggest using this layer if you are a developer, since the Input "
+"layer requires deep understanding how HTML form works."
+msgstr ""
+
+msgid "Placeholder text"
+msgstr ""
+
+msgid "Form"
+msgstr ""
+
+msgid "Input name"
+msgstr ""
+
+msgid "Method"
+msgstr ""
+
+#, fuzzy
+#| msgid "Decoration"
+msgid "Form action"
+msgstr "装饰"
+
+msgid "Parameters"
+msgstr ""
+
+#, fuzzy
+#| msgid "Slide duration"
+msgid "Slide action to submit"
+msgstr "轮播图持续时间"
+
+#, fuzzy
+#| msgid "JavaScript callbacks"
+msgid "JavaScript"
+msgstr "JavaScript回调"
+
+msgid "Progress bar"
+msgstr ""
+
+#, fuzzy
+#| msgid "Overlay"
+msgid "Over"
+msgstr "覆盖"
+
+#, fuzzy
+#| msgid "Position"
+msgid "Transition"
+msgstr "位置"
+
+#, fuzzy
+#| msgid "Font manager"
+msgid "Front image"
+msgstr "字体管理"
+
+#, fuzzy
+#| msgid "Background image"
+msgid "Back image"
+msgstr "背景图片"
+
+#, fuzzy
+#| msgid "Vertical align"
+msgid "Vertical flip"
+msgstr "垂直对齐"
+
+#, fuzzy
+#| msgid "Horizontal"
+msgid "Horizontal flip"
+msgstr "水平"
+
+msgid "Front image alt tag"
+msgstr ""
+
+#, fuzzy
+#| msgid "Next alt tag"
+msgid "Back image alt tag"
+msgstr "下一个alt标签"
+
+#, fuzzy
+#| msgid "Private video"
+msgid "MP4 video"
+msgstr "隐私视频"
+
+msgid "Preload"
+msgstr ""
+
+#, fuzzy
+#| msgid "Image mode"
+msgid "Joomla module"
+msgstr "图片模式"
+
+msgid ""
+"Please note, that <b>we do not support</b> the Joomla module layer!<br>The "
+"loaded module often needs code customizations what you have to do yourself, "
+"so we only suggest using this layer if you are a developer!"
+msgstr ""
+
+msgid "Position name or module ID"
+msgstr ""
+
+msgid ""
+"The position name of your module (for Loadposition and Modulepos) or the "
+"module's ID (Module)."
+msgstr ""
+
+#, fuzzy
+#| msgid "Configuration"
+msgid "Constrain ratio"
+msgstr "配置"
+
+msgid "The slide scales horizontally and vertically with the same amount."
+msgstr ""
+
+msgid "Height based on"
+msgstr ""
+
+msgid ""
+"The real height makes your slider have the height of the browser without the "
+"URL bar, while the CSS 100vh makes it exactly as big as the browser height."
+msgstr ""
+
+#, fuzzy
+#| msgid "Line height"
+msgid "Decrease height"
+msgstr "行高"
+
+msgid ""
+"You can make your slider smaller than the full height of the browser by a "
+"given pixel, for example, to fit below your menu without causing scrollbar."
+msgstr ""
+
+msgid "Decrease height by selectors"
+msgstr ""
+
+msgid "Use global focus selectors"
+msgstr ""
+
+msgid "Use local selectors"
+msgstr ""
+
+msgid ""
+"You can make your slider smaller than the full height of the browser, for "
+"example, to fit below your menu without causing scrollbar."
+msgstr ""
+
+msgid "CSS selector (sum of heights)"
+msgstr ""
+
+#, fuzzy
+#| msgid "Scroll to slider"
+msgctxt "Slider type"
+msgid "Carousel slider"
+msgstr "滚动到轮播图下方"
+
+#, fuzzy
+#| msgid "Slider size"
+msgid "Slide size"
+msgstr "轮播大小"
+
+#, fuzzy
+#| msgid "Max width"
+msgid "Max pane width"
+msgstr "最大宽度"
+
+msgid ""
+"You can use this option to limit how many slides can show up next to each "
+"other."
+msgstr ""
+
+msgid "Minimum slide distance"
+msgstr ""
+
+msgid "The minimum space between two slides."
+msgstr ""
+
+#, fuzzy
+#| msgid "Word spacing"
+msgid "Side spacing"
+msgstr "词间距"
+
+#, fuzzy
+#| msgid "Letter spacing"
+msgid "Desktop side spacing"
+msgstr "字母间距"
+
+msgid ""
+"You can create a fix distance between the slider and the slides where your "
+"controls are which appear on this device. This way your controls won't cover "
+"the slide content."
+msgstr ""
+
+#, fuzzy
+#| msgid "Letter spacing"
+msgid "Tablet side spacing"
+msgstr "字母间距"
+
+#, fuzzy
+#| msgid "Word spacing"
+msgid "Mobile side spacing"
+msgstr "词间距"
+
+#, fuzzy
+#| msgid "Slide background"
+msgid "Slide background color"
+msgstr "轮播图背景"
+
+#, fuzzy
+#| msgid "Slide order saved."
+msgid "Slide border width"
+msgstr "轮播图的顺序已保存。"
+
+#, fuzzy
+#| msgid "Slide order saved."
+msgid "Slide border color"
+msgstr "轮播图的顺序已保存。"
+
+#, fuzzy
+#| msgid "Slide order saved."
+msgid "Slide border radius"
+msgstr "轮播图的顺序已保存。"
+
+#, fuzzy
+#| msgid "Slider order saved."
+msgid "Slider border width"
+msgstr "轮播顺序已保存。"
+
+#, fuzzy
+#| msgid "Slider order saved."
+msgid "Slider border color"
+msgstr "轮播顺序已保存。"
+
+#, fuzzy
+#| msgid "Slider order saved."
+msgid "Slider border radius"
+msgstr "轮播顺序已保存。"
+
+msgid "The Single Switch setting can only move the slides horizontally!"
+msgstr ""
+
+msgid ""
+"This option will create a complete round from your slides if you have enough "
+"slides. If you don't have enough slides, you could consider duplicating all "
+"the slides or just add more slides until you will get a carousel round."
+msgstr ""
+
+#, fuzzy
+#| msgid "Single"
+msgid "Single switch"
+msgstr "单个"
+
+msgid "It switches one slide instead of moving all the visible slides."
+msgstr ""
+
+#, fuzzy
+#| msgid "First slide"
+msgid "Justify slides"
+msgstr "第一张轮播图"
+
+#, fuzzy
+#| msgid "Duplicate slider"
+msgctxt "Slider type"
+msgid "Showcase slider"
+msgstr "克隆轮播"
+
+#, fuzzy
+#| msgid "Slide title"
+msgid "Slide distance"
+msgstr "轮播图标题"
+
+#, fuzzy
+#| msgid "Creates space between the columns"
+msgid "Fix space between the slides."
+msgstr "在列之间创建空间"
+
+#, fuzzy
+#| msgid "Slider CSS classes"
+msgid "Slide CSS Preset"
+msgstr "轮播CSS类"
+
+#, fuzzy
+#| msgid "No animation"
+msgid "Showcase animation"
+msgstr "没有动画"
+
+#, fuzzy
+#| msgid "Horizontal"
+msgid "Horizontal showcase"
+msgstr "水平"
+
+#, fuzzy
+#| msgid "Vertical align"
+msgid "Vertical showcase"
+msgstr "垂直对齐"
+
+#, fuzzy
+#| msgid "Horizontal - reversed"
+msgid "Horizontal cover flow"
+msgstr "水平-反转"
+
+#, fuzzy
+#| msgid "Vertical - reversed"
+msgid "Vertical cover flow"
+msgstr "垂直-反转"
+
+msgid "Switch with next/previous slides"
+msgstr ""
+
+msgid ""
+"Clicking on any slide that's not in the middle will make the slider switch "
+"to that slide. With this option you can disable this behavior, for example, "
+"to allow clicking on buttons on the visible slides."
+msgstr ""
+
+#, fuzzy
+#| msgid "Main animation"
+msgid "Save as new animation"
+msgstr "主要动画"
+
+msgid "Sets"
+msgstr ""
+
+#, fuzzy
+#| msgid "My text animations"
+msgid "Text animation settings"
+msgstr "我的文字动画"
+
+msgid "Words"
+msgstr ""
+
+msgid "Sort"
+msgstr ""
+
+#, fuzzy
+#| msgid "Reverse"
+msgid "Reversed"
+msgstr "相反"
+
+#, fuzzy
+#| msgid "Slide title"
+msgid "Side shifted"
+msgstr "轮播图标题"
+
+#, fuzzy
+#| msgid "Centered"
+msgid "Center shifted"
+msgstr "居中"
+
+msgid "Stagger"
+msgstr ""
+
+msgid "Turn"
+msgstr ""
+
+#, fuzzy
+#| msgid "Preview"
+msgid "Prev"
+msgstr "预览"
+
+msgid "Next"
+msgstr ""
+
+#, fuzzy
+#| msgid "Previous alt tag"
+msgid "Previous label"
+msgstr "上一个alt标签"
+
+#, fuzzy
+#| msgid "Next alt tag"
+msgid "Next label"
+msgstr "下一个alt标签"
+
+#, fuzzy
+#| msgid "Normal"
+msgid "To normal"
+msgstr "常规"
+
+msgid "To fullscreen"
+msgstr ""
+
+msgid "Fullscreen"
+msgstr ""
+
+msgid "Exit full screen"
+msgstr ""
+
+msgid "Enter Full screen"
+msgstr ""
+
+#, php-format
+msgid ""
+"%1$s does not support the full screen API. For this reason the full screen "
+"button will not appear on %1$s devices."
+msgstr ""
+
+msgid "Indicator"
+msgstr ""
+
+msgid "Line thickness"
+msgstr ""
+
+#, fuzzy
+#| msgid "Background color"
+msgid "Track color"
+msgstr "背景颜色"
+
+#, fuzzy
+#| msgid "Background color"
+msgid "Bar color"
+msgstr "背景颜色"
+
+#~ msgctxt "Default Google font family for admin"
+#~ msgid "Montserrat"
+#~ msgstr "Montserrat"
+
+#~ msgctxt "Default Google font charset for admin"
+#~ msgid "latin"
+#~ msgstr "latin"
+
+#~ msgid "Character set"
+#~ msgstr "字符集设置"
+
+#~ msgctxt "Character set"
+#~ msgid "Latin"
+#~ msgstr "拉丁语"
+
+#~ msgctxt "Character set"
+#~ msgid "Latin Extended"
+#~ msgstr "拉丁语扩展"
+
+#~ msgctxt "Character set"
+#~ msgid "Greek"
+#~ msgstr "希腊语"
+
+#~ msgctxt "Character set"
+#~ msgid "Greek Extended"
+#~ msgstr "希腊语扩展"
+
+#~ msgctxt "Character set"
+#~ msgid "Cyrillic"
+#~ msgstr "西里尔"
+
+#~ msgctxt "Character set"
+#~ msgid "Devanagari"
+#~ msgstr "梵文"
+
+#~ msgctxt "Character set"
+#~ msgid "Arabic"
+#~ msgstr "阿拉伯"
+
+#~ msgctxt "Character set"
+#~ msgid "Khmer"
+#~ msgstr "高棉"
+
+#~ msgctxt "Character set"
+#~ msgid "Telugu"
+#~ msgstr "泰卢固语"
+
+#~ msgctxt "Character set"
+#~ msgid "Vietnamese"
+#~ msgstr "越南语"
+
+#~ msgctxt "Default font sets"
+#~ msgid "latin"
+#~ msgstr "拉丁语"
+
+#~ msgid "hours"
+#~ msgstr "小时"
+
+#~ msgid "Private video"
+#~ msgstr "隐私视频"
+
+#, fuzzy
+#~| msgid "Go to next slide"
+#~ msgid "Loop single slide"
+#~ msgstr "转到下一张轮播图"
+
+#~ msgid "Bullet"
+#~ msgstr "圆点导航"
+
+#, fuzzy
+#~| msgid "Inline"
+#~ msgid "Incline 2"
+#~ msgstr "内联"
+
+#, fuzzy
+#~| msgid "Inline"
+#~ msgid "Incline 3"
+#~ msgstr "内联"
+
+#, fuzzy
+#~| msgid "Single"
+#~ msgid "Triangle 2"
+#~ msgstr "单个"
+
+#, fuzzy
+#~| msgid "Actions"
+#~ msgid "Auction"
+#~ msgstr "操作"
+
+#, fuzzy
+#~| msgid "Modification date"
+#~ msgid "Expiration date"
+#~ msgstr "修改日期"
+
+#, fuzzy
+#~| msgid "Custom date variables"
+#~ msgid "Create custom date variables"
+#~ msgstr "自定义日期变量"
+
+#, fuzzy
+#~| msgid "Highlight"
+#~ msgid "Highlight 2"
+#~ msgstr "高亮"
+
+#, fuzzy
+#~| msgid "Highlight"
+#~ msgid "Highlight 3"
+#~ msgstr "高亮"
+
+#, fuzzy
+#~| msgid "Line height"
+#~ msgid "Line Through 2"
+#~ msgstr "行高"
+
+#, fuzzy
+#~| msgid "Line height"
+#~ msgid "Line Through 3"
+#~ msgstr "行高"
+
+#, fuzzy
+#~| msgid "Rectangle Blue"
+#~ msgid "Rectangle 2"
+#~ msgstr "矩形蓝色"
+
+#, fuzzy
+#~| msgid "one per line"
+#~ msgid "Underline 2"
+#~ msgstr "每行一个"
+
+#, fuzzy
+#~| msgid "one per line"
+#~ msgid "Underline 3"
+#~ msgstr "每行一个"
+
+#, fuzzy
+#~| msgid "Upload file"
+#~ msgid "Upload"
+#~ msgstr "上传文件"
+
+#, fuzzy
+#~| msgid "Framework"
+#~ msgid "jquery.framework"
+#~ msgstr "框架"
+
+#~ msgid "Async"
+#~ msgstr "异步"
+
+#~ msgid "Combine"
+#~ msgstr "合并"
+
+#~ msgid "Basic Modules"
+#~ msgstr "基本模块"
+
+#~ msgid "Here you can create the content that will be used within the module."
+#~ msgstr "在这里，您可以创建将在模块中使用的内容。"
+
+#~ msgid "Admin Label"
+#~ msgstr "管理标签"
+
+#~ msgid ""
+#~ "This will change the label of the module in the builder for easy "
+#~ "identification."
+#~ msgstr "这将更改构建器中模块的标签以方便识别。"
+
+#~ msgid "Media Elements"
+#~ msgstr "媒体元素"
+
+#, fuzzy
+#~| msgid "View records"
+#~ msgid "View record"
+#~ msgstr "查看记录"
+
+#, fuzzy
+#~| msgid "Whole group"
+#~ msgid "View group"
+#~ msgstr "全组"
+
+#~ msgid "Accordion slide title"
+#~ msgstr "手风琴轮播图标题"
+
+#~ msgid "Tile"
+#~ msgstr "平铺"
+
+#, fuzzy
+#~| msgid "Generator"
+#~ msgid "Generate"
+#~ msgstr "生成器"
+
+#, fuzzy
+#~| msgid "Drop images here"
+#~ msgid "Desktop image is empty!"
+#~ msgstr "删除图片"
+
+#~ msgid "Tablet retina"
+#~ msgstr "平板端视网膜"
+
+#~ msgid "Mobile retina"
+#~ msgstr "手机端视网膜"
+
+#, fuzzy
+#~| msgid "Slide created."
+#~ msgid "Slide height increased"
+#~ msgstr "轮播图已创建。"
+
+#, fuzzy
+#~| msgid ""
+#~| "To help you get started, we've put together a super tutorial video that "
+#~| "shows you the basic settings."
+#~ msgid ""
+#~ "To help you get started with the new version, we've put together the most "
+#~ "important changes."
+#~ msgstr "为了帮助您入门，我们整理了一个超级教程视频，向您显示基本设置。"
+
+#, fuzzy
+#~| msgid "Private video"
+#~ msgid "Watch video"
+#~ msgstr "隐私视频"
+
+#, fuzzy
+#~| msgid "Next position"
+#~ msgid "Absolute position"
+#~ msgstr "下一个位置"
+
+#, fuzzy
+#~| msgid "Read more"
+#~ msgid "Read docs"
+#~ msgstr "阅读更多"
+
+#, fuzzy
+#~| msgid "Pause on scroll"
+#~ msgid "Fade on scroll"
+#~ msgstr "滚动时暂停"
+
+#~ msgid "Lazy load"
+#~ msgstr "懒加载"
+
+#~ msgid "Optimize slide images"
+#~ msgstr "优化轮播图图片"
+
+#, php-format
+#~ msgid "Your current memory limit is %s."
+#~ msgstr "您当前的内存限制为%s。"
+
+#~ msgid ""
+#~ "This feature requires high memory limit. If you do not have enough memory "
+#~ "you will get a blank page on the frontend."
+#~ msgstr "此功能需要较高的内存限制。如果没有足够的内存，则前端将显示空白页。"
+
+#~ msgid "Resize background"
+#~ msgstr "调整背景"
+
+#~ msgid "Optimize layer images"
+#~ msgstr "优化图层图片"
+
+#~ msgid "Adaptive"
+#~ msgstr "自适应"
+
+#~ msgid ""
+#~ "Keeps the same size for your text on each device for best legibility. "
+#~ "It's enabled by default on the Content layer."
+#~ msgstr ""
+#~ "在每台设备上保持文本大小相同，以提高可读性。默认情况下，它在内容层启用。"
+
+#~ msgid "Load jQuery on frontend"
+#~ msgstr "在前端加载jQuery"
+
+#, fuzzy
+#~| msgid "Load jQuery on frontend"
+#~ msgid "Load GSAP on frontend"
+#~ msgstr "在前端加载jQuery"
+
+#~ msgid "CSS mode"
+#~ msgstr "CSS模式"
+
+#~ msgid "Inline"
+#~ msgstr "内联"
+
+#~ msgid "Inline at head"
+#~ msgstr "头部内联"
+
+#, fuzzy
+#~| msgid "Background image"
+#~ msgid "Background image dynamic height"
+#~ msgstr "背景图片"
+
+#, fuzzy
+#~| msgid "Tablet scale"
+#~ msgid "Tablet size"
+#~ msgstr "平板端"
+
+#, fuzzy
+#~| msgid "Mobile scale"
+#~ msgid "Mobile size"
+#~ msgstr "手机端"
+
+#~ msgid "Minimum thumbnail count"
+#~ msgstr "最小缩微图数量"
+
+#~ msgid ""
+#~ "If your thumbnail is vertical, it hides the thumbnails when the set "
+#~ "number of thumbnails can't fit."
+#~ msgstr ""
+#~ "如果您的缩略图是垂直的，则当设置的缩略图数量无法容纳时，它将隐藏缩略图。"
+
+#~ msgid ""
+#~ "If your thumbnail is horizontal, it starts resizing the thumbnails when "
+#~ "the set number of thumbnails can't fit."
+#~ msgstr ""
+#~ "如果您的缩略图是水平的，则在设置的缩略图数量无法容纳时，它将开始调整缩略图"
+#~ "的大小。"
+
+#, fuzzy
+#~| msgid "Instruction"
+#~ msgid "Invert group direction"
+#~ msgstr "说明"
+
+#, fuzzy
+#~| msgid "Text scale"
+#~ msgid "Text color"
+#~ msgstr "文字比例"
+
+#, fuzzy
+#~| msgid "Accordion slide title"
+#~ msgctxt "Slider type"
+#~ msgid "Accordion"
+#~ msgstr "手风琴轮播图标题"
+
+#, fuzzy
+#~| msgid "Accordion slide title"
+#~ msgctxt "Slider type"
+#~ msgid "Accordion slider"
+#~ msgstr "手风琴轮播图标题"
+
+#, fuzzy
+#~| msgid "Force full width"
+#~ msgid "Border outer width"
+#~ msgstr "强制全宽"
+
+#, fuzzy
+#~| msgid "Hover color"
+#~ msgid "Outer color"
+#~ msgstr "悬停颜色"
+
+#, fuzzy
+#~| msgid "Border White"
+#~ msgid "Border inner width"
+#~ msgstr "边框白色"
+
+#, fuzzy
+#~| msgid "Hover color"
+#~ msgid "Inner color"
+#~ msgstr "悬停颜色"
+
+#, fuzzy
+#~| msgid "Background"
+#~ msgid "Tab background"
+#~ msgstr "背景"
+
+#, fuzzy
+#~| msgid "Background image"
+#~ msgid "Tab background - Active"
+#~ msgstr "背景图片"
+
+#, fuzzy
+#~| msgid "Slide duration"
+#~ msgid "Slide margin"
+#~ msgstr "轮播图持续时间"
+
+#, fuzzy
+#~| msgid "Max file size"
+#~ msgid "Title size"
+#~ msgstr "最大文件大小"
+
+#, fuzzy
+#~| msgid "Inner align"
+#~ msgid "Inner"
+#~ msgstr "内部对齐"
+
+#, fuzzy
+#~| msgid "Slide background"
+#~ msgid "Slider background color"
+#~ msgstr "轮播图背景"
+
+#~ msgid "Smooth scroll to this element"
+#~ msgstr "平滑滚动到该元素"
+
+#~ msgid "Allow slide switching for anchor"
+#~ msgstr "允许滑动切换锚点"
+
+#~ msgid "After slider"
+#~ msgstr "在轮播后"
+
+#~ msgid ""
+#~ "The current slider will not start loading until the set slider is loaded "
+#~ "completely."
+#~ msgstr "直到完全加载设置的轮播后，当前轮播才会开始加载。"

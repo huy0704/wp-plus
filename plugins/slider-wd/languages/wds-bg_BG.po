@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wds\n"
+"POT-Creation-Date: 2014-09-26 18:06+0400\n"
+"PO-Revision-Date: 2014-09-26 18:06+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress3.5\\wp-content\\plugins"
+"\\slider-plugin\n"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:30
+#, fuzzy
+msgid "There is no slider selected or the slider was deleted."
+msgstr "Не е избран галерия или галерията е била изтрита."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:42
+#, fuzzy
+msgid "There are no slides in this slider."
+msgstr "Има още няма снимки в тази галерия"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:660
+msgid "Share on Facebook"
+msgstr "Споделяне на Facebook"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:666
+msgid "Share on Twitter"
+msgstr "Споделяне на Twitter"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:672
+msgid "Share on Google+"
+msgstr "Споделете в Google+"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:678
+msgid "Share on Pinterest"
+msgstr "Сподели на Pinterest"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:684
+msgid "Share on Tumblr"
+msgstr "Сподели на Tumblr"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1875
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1894
+msgid "Pause"
+msgstr "Пауза"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1884
+msgid "Play"
+msgstr "Възпроизвеждане"
+
+#~ msgid "field is required."
+#~ msgstr "е задължително поле."
+
+#~ msgid "This is not a valid email address."
+#~ msgstr "Това не е валиден имейл адрес."
+
+#~ msgid "There are no images matching your search."
+#~ msgstr "Не са открити снимки, отговарящи на вашето търсене."
+
+#~ msgid " item(s)"
+#~ msgstr "элемент(и)"
+
+#~ msgid "First"
+#~ msgstr "Първа"
+
+#~ msgid "Previous"
+#~ msgstr "Предишна"
+
+#~ msgid "Next"
+#~ msgstr "Следваща"
+
+#~ msgid "Last"
+#~ msgstr "Последен"
+
+#~ msgid "Go to the first page"
+#~ msgstr "Отиди на първата страница"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "Отидете на предишната страница."
+
+#~ msgid "of"
+#~ msgstr "на"
+
+#~ msgid "Go to the next page"
+#~ msgstr "Преминете към следващата страница"
+
+#~ msgid "Go to the last page"
+#~ msgstr "Отиди до последната страница"
+
+#~ msgid "Reset"
+#~ msgstr "Reset"
+
+#~ msgid "Search"
+#~ msgstr "Search"
+
+#~ msgid "There is no theme selected or the theme was deleted."
+#~ msgstr "Не е избрана тема или темата е била изтрита"
+
+#~ msgid "There is no album selected or the album was deleted."
+#~ msgstr "Не е избран албум или албумът е изтрит."
+
+#~ msgid "Back"
+#~ msgstr "Назад към"
+
+#~ msgid "Album is empty."
+#~ msgstr " Албум е празна"
+
+#~ msgid "Gallery is empty."
+#~ msgstr "Галерията е празна"
+
+#~ msgid "More"
+#~ msgstr "Повече"
+
+#~ msgid "Hide"
+#~ msgstr "Скриване"
+
+#~ msgid "Show comments"
+#~ msgstr "Покажи коментари"
+
+#~ msgid "The image has been deleted."
+#~ msgstr "Образът е изтрит"
+
+#~ msgid "Maximize"
+#~ msgstr "Увеличете"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Полноэкранный"
+
+#~ msgid "Show info"
+#~ msgstr "Покажи информация"
+
+#~ msgid "Show rating"
+#~ msgstr "Покажи рейтинг"
+
+#~ msgid "Open image in original size."
+#~ msgstr "Open снимката в оригинален размер. "
+
+#~ msgid "Download original image"
+#~ msgstr "Изтегляне на оригиналното изображение"
+
+#~ msgid "Hits: "
+#~ msgstr "Посещения:"
+
+#~ msgid "Rated."
+#~ msgstr "Номинално."
+
+#~ msgid "Not rated yet."
+#~ msgstr "Все още неоценен."
+
+#~ msgid "Votes: "
+#~ msgstr "Гласове: "
+
+#~ msgid "Cancel your rating."
+#~ msgstr "Отмени вашата оценка."
+
+#~ msgid "You have already rated."
+#~ msgstr "Вече сте оценили. "
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "Грешка. Грешен код за потвърждение. "
+
+#~ msgid "Hide Comments"
+#~ msgstr "Скриване на коментарите"
+
+#~ msgid "Name"
+#~ msgstr "Име"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Comment"
+#~ msgstr "Коментар"
+
+#~ msgid "Verification Code"
+#~ msgstr "Verification Code"
+
+#~ msgid "Submit"
+#~ msgstr "Изпращане"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "Вашият коментар изчаква умереност"
+
+#~ msgid "Delete Comment"
+#~ msgstr "Изтриване на коментар"
+
+#~ msgid "Show Comments"
+#~ msgstr "Покажи коментарите"
+
+#~ msgid "Hide info"
+#~ msgstr "Скриване на информация"
+
+#~ msgid "Hide rating"
+#~ msgstr "Hide рейтинг"
+
+#~ msgid "Restore"
+#~ msgstr "Възстанови"
+
+#~ msgid "Exit Fullscreen"
+#~ msgstr "Изход полный экран"

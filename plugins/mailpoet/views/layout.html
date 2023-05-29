@@ -1,0 +1,268 @@
+<% if sub_menu %>
+<script type="text/javascript">
+jQuery('#adminmenu #toplevel_page_mailpoet-newsletters')
+  .addClass('wp-has-current-submenu')
+  .removeClass('wp-not-current-submenu')
+  .find('a[href$="<%= sub_menu %>"]')
+  .addClass('current')
+  .parent()
+  .addClass('current');
+</script>
+<% endif %>
+
+<!-- pre connect to 3d party to speed up page loading -->
+<link rel="preconnect" href="https://beacon-v2.helpscout.net/">
+<link rel="dns-prefetch" href="https://beacon-v2.helpscout.net/">
+<link rel="preconnect" href="http://cdn.mxpnl.com">
+<link rel="dns-prefetch" href="http://cdn.mxpnl.com">
+
+<!-- system notices -->
+<div id="mailpoet_notice_system" class="mailpoet_notice" style="display:none;"></div>
+
+<!-- handlebars templates -->
+<% block templates %><% endblock %>
+
+<!-- main container -->
+<% block container %>
+<div class="wrap">
+  <div class="wp-header-end"></div>
+  <!-- notices -->
+  <div id="mailpoet_notice_error" class="mailpoet_notice" style="display:none;"></div>
+  <div id="mailpoet_notice_success" class="mailpoet_notice" style="display:none;"></div>
+  <!-- React notices -->
+  <div id="mailpoet_notices"></div>
+
+  <!-- Set FROM address modal React root -->
+  <div id="mailpoet_set_from_address_modal"></div>
+
+  <!-- Set Authorize sender email React root -->
+  <div id="mailpoet_authorize_sender_email_modal"></div>
+
+  <!-- title block -->
+  <% block title %><% endblock %>
+  <!-- content block -->
+  <% block content %><% endblock %>
+</div>
+<% endblock %>
+
+<%= do_action('mailpoet_styles_admin_after') %>
+
+<% block after_css %><% endblock %>
+
+<script type="text/javascript">
+  var mailpoet_datetime_format = "<%= wp_datetime_format()|escape('js') %>";
+  var mailpoet_date_format = "<%= wp_date_format()|escape('js') %>";
+  var mailpoet_time_format = "<%= wp_time_format()|escape('js') %>";
+  var mailpoet_version = "<%= mailpoet_version() %>";
+  var mailpoet_locale = "<%= mailpoet_locale() %>";
+  var mailpoet_wp_week_starts_on = "<%= wp_start_of_week() %>";
+  var mailpoet_urls = <%= json_encode(urls) %>;
+  var mailpoet_premium_version = <%= json_encode(mailpoet_premium_version()) %>;
+  var mailpoet_main_page_slug =   <%= json_encode(main_page) %>;
+  var mailpoet_3rd_party_libs_enabled = <%= is_loading_3rd_party_enabled() | json_encode %>;
+  var mailpoet_analytics_enabled = <%= is_analytics_enabled() | json_encode %>;
+  var mailpoet_analytics_data = <%= json_encode(get_analytics_data()) %>;
+  var mailpoet_analytics_public_id = <%= json_encode(get_analytics_public_id()) %>;
+  var mailpoet_analytics_new_public_id = <%= is_analytics_public_id_new() | json_encode %>;
+  var mailpoet_free_domains = <%= json_encode(mailpoet_free_domains()) %>;
+  var mailpoet_woocommerce_active = <%= json_encode(is_woocommerce_active()) %>;
+  // RFC 5322 standard; http://emailregex.com/ combined with https://google.github.io/closure-library/api/goog.format.EmailAddress.html#isValid
+  var mailpoet_email_regex = /(?=^[+a-zA-Z0-9_.!#$%&'*\/=?^`{|}~-]+@([a-zA-Z0-9-]+\.)+[a-zA-Z0-9]{2,63}$)(?=^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,})))/;
+  var mailpoet_feature_flags = <%= json_encode(feature_flags) %>;
+  var mailpoet_referral_id = <%= json_encode(referral_id) %>;
+  var mailpoet_feature_announcement_has_news = <%= json_encode(feature_announcement_has_news) %>;
+  var mailpoet_wp_segment_state = <%= json_encode(wp_segment_state) %>;
+  var mailpoet_mta_method = '<%= mta_method %>';
+  var mailpoet_tracking_config = <%= json_encode(tracking_config) %>;
+  var mailpoet_is_new_user = <%= json_encode(is_new_user == true) %>;
+  var mailpoet_installed_days_ago = <%= json_encode(installed_days_ago) %>;
+  var mailpoet_send_transactional_emails = <%= json_encode(send_transactional_emails) %>;
+  var mailpoet_transactional_emails_opt_in_notice_dismissed = <%= json_encode(transactional_emails_opt_in_notice_dismissed) %>;
+  var mailpoet_deactivate_subscriber_after_inactive_days = <%= json_encode(deactivate_subscriber_after_inactive_days) %>;
+  var mailpoet_woocommerce_version = <%= json_encode(get_woocommerce_version()) %>;
+  var mailpoet_track_wizard_loaded_via_woocommerce = <%= json_encode(track_wizard_loaded_via_woocommerce) %>;
+  var mailpoet_mail_function_enabled = '<%= mail_function_enabled %>';
+
+  var mailpoet_site_name = '<%= site_name %>';
+  var mailpoet_site_url = "<%= site_url %>";
+  var mailpoet_site_address = '<%= site_address %>';
+
+  // Premium status
+  var mailpoet_current_wp_user_email = '<%= current_wp_user_email|escape('js') %>';
+  var mailpoet_premium_link = <%= json_encode(link_premium) %>;
+  var mailpoet_premium_plugin_installed = <%= json_encode(premium_plugin_installed) %>;
+  var mailpoet_premium_active = <%= json_encode(premium_plugin_active) %>;
+  var mailpoet_premium_plugin_download_url = <%= json_encode(premium_plugin_download_url) %>;
+  var mailpoet_premium_plugin_activation_url = <%= json_encode(premium_plugin_activation_url) %>;
+  var mailpoet_has_valid_api_key = <%= json_encode(has_valid_api_key) %>;
+  var mailpoet_has_valid_premium_key = <%= json_encode(has_valid_premium_key) %>;
+  var mailpoet_has_premium_support = <%= json_encode(has_premium_support) %>;
+  var has_mss_key_specified = <%= json_encode(has_mss_key_specified) %>;
+  var mailpoet_mss_key_invalid = <%= json_encode(mss_key_invalid) %>;
+  var mailpoet_mss_key_pending_approval = '<%= mss_key_pending_approval %>';
+  var mailpoet_mss_active = <%= json_encode(mss_active) %>;
+  var mailpoet_plugin_partial_key = '<%= plugin_partial_key %>';
+  var mailpoet_subscribers_count = <%= subscriber_count %>;
+  var mailpoet_subscribers_counts_cache_created_at = <%= json_encode(subscribers_counts_cache_created_at) %>;
+  var mailpoet_subscribers_limit = <%= subscribers_limit ? subscribers_limit : 'false'  %>;
+  var mailpoet_subscribers_limit_reached = <%= json_encode(subscribers_limit_reached) %>;
+  var mailpoet_email_volume_limit = <%= json_encode(email_volume_limit) %>;
+  var mailpoet_email_volume_limit_reached = <%= json_encode(email_volume_limit_reached) %>;
+  var mailpoet_cdn_url = <%= json_encode(cdn_url("")) %>;
+  var mailpoet_tags = <%= json_encode(tags) %>;
+
+  <% if not(premium_plugin_active) %>
+    var mailpoet_free_premium_subscribers_limit = <%= free_premium_subscribers_limit %>;
+  <% endif %>
+</script>
+
+<!-- javascripts -->
+<%= javascript(
+  'runtime.js',
+  'vendor.js',
+  'mailpoet.js'
+)%>
+
+<%= localize({
+  'topBarLogoTitle': __('Back to section root'),
+  'topBarUpdates': __('Updates'),
+  'whatsNew': __("What’s new"),
+  'updateMailPoetNotice': __('[link]Update MailPoet[/link] to see the latest changes'),
+  'ajaxFailedErrorMessage': __('An error has happened while performing a request, the server has responded with response code %d'),
+  'ajaxTimeoutErrorMessage': __('An error has happened while performing a request, the server request has timed out after %d seconds'),
+  'senderEmailAddressWarning1': _x('You might not reach the inbox of your subscribers if you use this email address.', 'In the last step, before sending a newsletter. URL: ?page=mailpoet-newsletters#/send/2'),
+  'senderEmailAddressWarning3': _x('Read more.'),
+  'mailerSendingNotResumedUnauthorized': __('Failed to resume sending because the email address is unauthorized. Please authorize it and try again.'),
+  'dismissNotice': __('Dismiss this notice.'),
+
+  'subscribersLimitNoticeTitle': __('Congratulations, you now have more than [subscribersLimit] subscribers!'),
+  'freeVersionLimit': __('Our free version is limited to [subscribersLimit] subscribers.'),
+  'yourPlanLimit': __('Your plan is limited to [subscribersLimit] subscribers.'),
+  'youNeedToUpgrade': __('You need to upgrade now to be able to continue using MailPoet.'),
+  'youCanDisableWPUsersList': __('If you do not send emails to your WordPress Users list, you can [link]disable it[/link] to lower your number of subscribers.'),
+  'upgradeNow': __('Upgrade Now'),
+  'refreshMySubscribers': __('I’ve upgraded my subscription, refresh subscriber limit'),
+
+  'emailVolumeLimitNoticeTitle': __('Congratulations, you sent more than [emailVolumeLimit] emails this month!'),
+  'youReachedEmailVolumeLimit': __('You have sent more emails this month than your MailPoet plan includes ([emailVolumeLimit]), and sending has been temporarily paused.'),
+  'toContinueUpgradeYourPlanOrWaitUntil': __('To continue sending with MailPoet Sending Service please [link]upgrade your plan[/link], or wait until sending is automatically resumed on <b>[date]</b>.'),
+  'refreshMyEmailVolumeLimit': __('I’ve upgraded my subscription, refresh monthly email limit'),
+
+  'manageSenderDomainHeaderSubtitle': __('To help your audience and MailPoet authenticate you as the domain owner, please add the following DNS records to your domain’s DNS and click “Verify the DNS records”. Please note that it may take up to 24 hours for DNS changes to propagate after you make the change. [link]Read the guide[/link].', 'mailpoet'),
+
+  'reviewRequestHeading': _x('Thank you! Time to tell the world?', 'After a user gives us positive feedback via the NPS poll, we ask them to review our plugin on WordPress.org.'),
+  'reviewRequestDidYouKnow': __('[username], did you know that hundreds of WordPress users read the reviews on the plugin repository? They’re also a source of inspiration for our team.'),
+  'reviewRequestUsingForDays': _n('You’ve been using MailPoet for [days] day now, and we would love to read your own review.', 'You’ve been using MailPoet for [days] days now, and we would love to read your own review.', installed_days_ago),
+  'reviewRequestUsingForMonths': _n('You’ve been using MailPoet for [months] month now, and we would love to read your own review.', 'You’ve been using MailPoet for [months] months now, and we would love to read your own review.', (installed_days_ago / 30) | round),
+  'reviewRequestRateUsNow': _x('Rate us now', 'Review our plugin on WordPress.org.'),
+  'reviewRequestNotNow': __('Not now'),
+
+  'sent': __('Sent'),
+  'notSentYet': __('Not sent yet!'),
+  'renderingProblem': __('There was a problem with rendering!', 'mailpoet'),
+
+  'allSendingPausedHeader': __('All sending is currently paused!'),
+  'allSendingPausedBody': __('Your [link]API key[/link] to send with MailPoet is invalid.'),
+  'allSendingPausedLink': __('Purchase a key'),
+
+  'transactionalEmailNoticeTitle': __('Good news! MailPoet can now send your website’s emails too'),
+  'transactionalEmailNoticeBody': __('All of your WordPress and WooCommerce emails are sent with your hosting company, unless you have an SMTP plugin. Would you like such emails to be delivered with MailPoet’s active sending method for better deliverability?'),
+  'transactionalEmailNoticeBodyReadMore': _x('Read more.', 'This is a link that leads to more information about transactional emails'),
+  'transactionalEmailNoticeCTA': _x('Enable', 'Button, after clicking it we will enable transactional emails'),
+
+  'mailerSendErrorNotice': __('Sending has been paused due to a technical issue with %1$s'),
+  'mailerSendErrorCheckConfiguration': __('Please check your sending method configuration, you may need to consult with your hosting company.'),
+  'mailerSendErrorUseSendingService': __('The easy alternative is to <b>send emails with MailPoet Sending Service</b> instead, like thousands of other users do.'),
+  'mailerSendErrorSignUpForSendingService': __('Sign up for free in minutes'),
+  'mailerConnectionErrorNotice': __('Sending is paused because the following connection issue prevents MailPoet from delivering emails'),
+  'mailerErrorCode': __('Error code: %1$s'),
+  'mailerCheckSettingsNotice': __('Check your [link]sending method settings[/link].'),
+  'mailerResumeSendingButton': __('Resume sending'),
+  'mailerResumeSendingAfterUpgradeButton': __('I have upgraded my subscription, resume sending'),
+
+  'topBarLogoTitle': __('Back to section root'),
+
+  'close': __('Close'),
+  'today': __('Today'),
+}) %>
+<% block translations %><% endblock %>
+
+<% block after_translations %><% endblock %>
+<%= javascript(
+  'admin_vendor.js'
+)%>
+
+<%= do_action('mailpoet_scripts_admin_before') %>
+
+<%if is_loading_3rd_party_enabled() and not is_dotcom_ecommerce_plan() %>
+  <%= javascript('lib/analytics.js') %>
+
+  <% set helpscout_form_id = '1c666cab-c0f6-4614-bc06-e5d0ad78db2b' %>
+  <%if mailpoet_api_key_state.data.support_tier == 'premium' or premium_key_state.data.support_tier == 'premium' %>
+    <% set helpscout_form_id = 'e93d0423-1fa6-4bbc-9df9-c174f823c35f' %>
+  <% endif %>
+  <%if current_page == 'mailpoet-automation' or current_page == 'mailpoet-automation-editor' or current_page == 'mailpoet-automation-templates'%>
+    <% set helpscout_form_id = '69b66c7a-e9e9-4544-9d2a-5eb0ddc74959' %>
+  <% endif %>
+
+  <script type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+
+  <script type="text/javascript">
+    if(window['Beacon'] !== undefined && window.hide_mailpoet_beacon !== true) {
+      window.Beacon('init', '<%= helpscout_form_id %>');
+
+      // HelpScout Beacon: Configuration
+      window.Beacon("config", {
+        icon: 'message',
+        zIndex: 50000,
+        instructions: "<%= __('Want to give feedback to the MailPoet team? Contact us here. Please provide as much information as possible!') %>",
+        showContactFields: true
+      });
+
+      // HelpScout Beacon: User identity information
+      window.Beacon("identify",
+        <%= json_encode(get_helpscout_user_data()) %>
+      );
+
+      // HelpScout Beacon: Custom information
+      window.Beacon("session-data",
+        <%= json_encode(get_helpscout_site_data()) %>
+    );
+
+      if (window.mailpoet_beacon_articles) {
+        window.Beacon('suggest', window.mailpoet_beacon_articles)
+      }
+    }
+  </script>
+<% endif %>
+
+<script>
+  Parsley.addMessages('mailpoet', {
+    defaultMessage: '<%= __("This value seems to be invalid.") %>',
+    type: {
+      email: '<%= __("This value should be a valid email.") %>',
+      url: '<%= __("This value should be a valid url.") %>',
+      number: '<%= __("This value should be a valid number.") %>',
+      integer: '<%= __("This value should be a valid integer.") %>',
+      digits: '<%= __("This value should be digits.") %>',
+      alphanum: '<%= __("This value should be alphanumeric.") %>'
+    },
+    notblank: '<%= __("This value should not be blank.") %>',
+    required: '<%= __("This value is required.") %>',
+    pattern: '<%= __("This value seems to be invalid.") %>',
+    min: '<%= __("This value should be greater than or equal to %s.") %>',
+    max: '<%= __("This value should be lower than or equal to %s.") %>',
+    range: '<%= __("This value should be between %s and %s.") %>',
+    minlength: '<%= __("This value is too short. It should have %s characters or more.") %>',
+    maxlength: '<%= __("This value is too long. It should have %s characters or fewer.") %>',
+    length: '<%= __("This value length is invalid. It should be between %s and %s characters long.") %>',
+    mincheck: '<%= __("You must select at least %s choices.") %>',
+    maxcheck: '<%= __("You must select %s choices or fewer.") %>',
+    check: '<%= __("You must select between %s and %s choices.") %>',
+    equalto: '<%= __("This value should be the same.") %>'
+  });
+
+  Parsley.setLocale('mailpoet');
+</script>
+<% block after_javascript %><% endblock %>
+<div id="mailpoet-modal"></div>

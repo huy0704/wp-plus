@@ -1,0 +1,15 @@
+<svg id="Component_289_2" data-name="Component 289 – 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_47762" data-name="Rectangle 47762" width="18" height="18" transform="translate(757 1233)" fill="#3a6fab"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_95145" data-name="Mask Group 95145" transform="translate(-757 -1233)" clip-path="url(#clip-path)">
+    <g id="noun-speed-1914448" transform="translate(758.725 1235.801)">
+      <g id="Group_96026" data-name="Group 96026" transform="translate(0.499 0.499)">
+        <path id="Path_170607" data-name="Path 170607" d="M2355.586,13110.588a6.923,6.923,0,0,1-.768-3.149,6.776,6.776,0,0,1,13.553,0,6.681,6.681,0,0,1-.773,3.156.916.916,0,0,1-.807.482.953.953,0,0,1-.418-.1l-.012-.007a.924.924,0,0,1-.381-1.224l0-.007a5.038,5.038,0,0,0,.565-2.3,4.955,4.955,0,0,0-9.91,0,5.1,5.1,0,0,0,.567,2.3l0,0a.916.916,0,0,1-.373,1.221.823.823,0,0,1-.438.114A.906.906,0,0,1,2355.586,13110.588Z" transform="translate(-2354.818 -13100.663)" fill="#3a6fab"/>
+        <path id="Path_170606" data-name="Path 170606" d="M297.746,209.582l-3.132,1.943a1.319,1.319,0,0,0-.614,1.112,1.29,1.29,0,0,0,2.4.639l1.879-3.17a.384.384,0,0,0-.537-.524Z" transform="translate(-289.032 -205.462)" fill="#3a6fab"/>
+      </g>
+    </g>
+  </g>
+</svg>

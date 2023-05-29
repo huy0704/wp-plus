@@ -1,0 +1,24 @@
+.gallery_type {
+  border: 1px solid #CCCCCC;
+  display: inline-block;
+  width: 13%;
+}
+
+.panel_wrapper,
+.panel_wrapper #display_panel {
+  height: 450px !important;
+  overflow: auto;
+  font-size: 11px;
+}
+
+.spider_int_input,
+.color {
+  width: 60px;
+}
+
+.ui-tooltip {
+  background-color: rgba(255,255,255,1);
+  border-radius: 3px;
+  box-shadow: 0 0 7px black;
+  line-height: 10px;
+}

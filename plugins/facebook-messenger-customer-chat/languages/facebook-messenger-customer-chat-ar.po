@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+Project-Id-Version: Facebook Chat Plugin - Live Chat Plugin for WordPress
+"POT-Creation-Date: 2020-11-13 16:39-0800\n"
+"PO-Revision-Date: 2021-07-01 00:13+0800\n"
+"Last-Translator: \n"
+"Language-Team: Facebook\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: facebook-messenger-customer-chat.php:4
+msgid ""
+"With a few clicks, you can add the Facebook Chat Plugin to your website, "
+"enabling customers to message you while browsing your website. To see and "
+"reply to those messages, simply use the same messaging tools you use for your "
+"Facebook messaging, on desktop at facebook.com, Facebook Page Manager App "
+"(available on iOS and Android), or by adding your page account to Messenger. "
+"It's free, easy to install and comes with a user interface your customers are "
+"already familiar with."
+msgstr ""
+"من خلال بضع نقرات يمكنك إضافة المكون الإضافي \"دردشة فيسبوك\" إلى الموقع "
+"الويب الخاص بك وهو ما يُمكّن العملاء من مراسلتك أثناء تصفح موقعك على الويب. "
+"لعرض تلك الرسائل والرد عليها ما عليك إلا استخدام نفس أدوات المراسلة التي "
+"تستخدمها لمراسلاتك على فيسبوك على أجهزة الكمبيوتر على موقع facebook.com تطبيق "
+"مدير الصفحات على فيسبوك (متاح لنظامي iOS وAndroid) أو عن طريق إضافة حساب "
+"صفحتك إلى تطبيق Messenger. إنه مجاني يمكن تثبيته بسهولة، ويتميز بواجهة مستخدم "
+"تُعد مألوفة لعملائك بالفعل.\""
+
+#: facebook-messenger-customer-chat.php:56
+#: facebook-messenger-customer-chat.php:73
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: facebook-messenger-customer-chat.php:80
+msgid "FAQ"
+msgstr "الأسئلة المتكررة"
+
+#: facebook-messenger-customer-chat.php:86
+msgid "Support"
+msgstr "الدعم"
+
+#: facebook-messenger-customer-chat.php:178
+msgid "Cancel"
+msgstr ""
+
+#: facebook-messenger-customer-chat.php:192
+msgid "We value your feedback."
+msgstr "نحن نقدر ملاحظاتك."
+
+#: facebook-messenger-customer-chat.php:193
+msgid "Please let us know why you’re deactivating Facebook Chat Plugin."
+msgstr "يرجى إخبارنا بسبب إلغاء تنشيط المكون الإضافي \"\"دردشة\"\" على فيسبوك."
+
+#: facebook-messenger-customer-chat.php:196
+msgid "I’m unable to get the plugin to work"
+msgstr "لا يمكنني تشغيل المكون الإضافي"
+
+#: facebook-messenger-customer-chat.php:197
+msgid "I no longer need a live chat feature"
+msgstr "لم أعد بحاجة إلى ميزة الدردشة المباشرة"
+
+#: facebook-messenger-customer-chat.php:198
+msgid "I’m using a different live chat plugin"
+msgstr "أستخدم مكونًا إضافيًا مختلفًا للدردشة المباشرة"
+
+#: facebook-messenger-customer-chat.php:199
+msgid "This is a temporary deactivation. I’ll be back!"
+msgstr "هذا إلغاء تنشيط مؤقت. سأستخدم المكون الإضافي مرة أخرى قريبًا!"
+
+#: facebook-messenger-customer-chat.php:200
+msgid "Other"
+msgstr "أخرى"
+
+#: facebook-messenger-customer-chat.php:206
+msgid "Comments:"
+msgstr "التعليقات:"
+
+#: facebook-messenger-customer-chat.php:211
+msgid "Submit"
+msgstr "إرسال"
+
+#: facebook-messenger-customer-chat.php:217
+msgid "Thank you."
+msgstr "شكرًا."
+
+#: facebook-messenger-customer-chat.php:218
+msgid "We appreciate your feedback."
+msgstr "نقدر ملاحظاتك."
+msgstr ""
+
+#: facebook-messenger-customer-chat.php:231
+msgid "How is the Facebook Chat plugin working out for you and your visitors?"
+msgstr "ما تقييمك لأداء المكون الإضافي للدردشة من فيسبوك بالنسبة لك ولزوّار موقعك؟"
+
+#: facebook-messenger-customer-chat.php:234
+msgid "We'd love to hear your feedback!"
+msgstr "يسعدنا تلقي ملاحظاتك!"
+msgstr ""
+
+#: facebook-messenger-customer-chat.php:236
+msgid "Please leave us a review."
+msgstr "يرجى تزويدنا برأيك"
+
+#: options.php:22
+msgid "Plugin Settings"
+msgstr ""
+
+#: options.php:23
+msgid "Facebook Chat"
+msgstr ""
+
+#: options.php:113
+msgid "Facebook Chat Plugin Settings"
+msgstr "إعدادات المكون الإضافي دردشة فيسبوك"
+
+#: options.php:117
+msgid "Getting Started?"
+msgstr "هل تريد بدء الاستخدام؟"
+
+#: options.php:118
+msgid ""
+"Let people start a conversation on your website and continue in Messenger. "
+"It's easy to set up. Chats started on your website can be continued in the "
+"customers' Messenger app, so you never lose connections with your customers. "
+"Even those without a Facebook Messenger account can chat with you in guest "
+"mode, so you can reach more customers than ever."
+msgstr ""
+"امنح الفرصة للأشخاص لبدء المحادثات على موقعك على الويب والمتابعة في تطبيق "
+"Messenger، فإعداد ذلك هو أمر سهل. ويمكن متابعة الدردشات التي بدأت على موقعك "
+"عل الويب في تطبيق Messenger الخاصة بالعملاء؛ لذا لن تفقد مطلقًا الاتصال مع "
+"عملائك، حتى الأشخاص الذين لا يملكون حسابًا على Facebook Messenger يمكنهم "
+"الدردشة معك في وضع الضيف؛ وبالتالي يمكنك الوصول إلى عملاء أكثر من أي وقت سابق."
+
+#: options.php:135
+msgid "Setup Chat Plugin"
+msgstr "المكوّن الإضافي إعداد الدردشة"
+
+#: options.php:137
+msgid "Edit Chat Plugin"
+msgstr "لمكوّن الإضافي تعديل الدردشة"
+
+#: options.php:151
+msgid "Setup status"
+msgstr ""
+
+#: options.php:152
+msgid ""
+"The plugin code has already been added into your website. You can always go "
+"back through the setup process to customize the plugin."
+msgstr ""
+"لقد تمت بالفعل إضافة المكون الإضافي إلى موقعك على الويب. ويمكنك دائمًا العودة "
+"إلى الخلف في عملية الإعداد من أجل تخصيص المكون الإضافي."
+
+#: options.php:156
+msgid "Advanced Configuration"
+msgstr "تكوين متقدم"
+
+#: options.php:166
+msgid "Deploy Chat plugin on:"
+msgstr "استخدام المكون الإضافي \"\"دردشة\"\" على..."
+
+#: options.php:171
+msgid "All pages"
+msgstr "كل الصفحات"
+
+#: options.php:175
+msgid "Custom pages"
+msgstr "صفحات مخصصة"
+
+#: options.php:300
+msgid "Product pages"
+msgstr "صفحات المنتجات"
+
+#: options.php:309
+msgid "Error saving settings."
+msgstr ""
+
+#: options.php:311
+msgid "Settings saved."
+msgstr ""
+
+#: options.php:313
+msgid "Saving settings..."
+msgstr ""
+
+#: options.php:326
+msgid "Use of this plugin is subject to Facebook's Platform Terms"
+msgstr "استخدام هذا المكون الإضافي يخضع لشروط منصة فيسبوك"
+
+#: options.php:328
+msgid "Having a problem setting up or using the Chat Plugin?"
+msgstr "هل تواجه مشكلات في إعداد أو استخدام المكون الإضافي \"دردشة\"؟"
+
+#: options.php:332
+msgid "Please consult our Troubleshooting Guide."
+msgstr "يرجى الاطلاع على دليل اكتشاف الأخطاء وحلها الخاص بنا."
+
+#: options.php:335
+msgid ""
+"If the troubleshooting steps in the guide do not solve your problem, please "
+"post in the plugin support forum."
+msgstr ""
+"إذا لم تجد حلاً في خطوات اكتشاف المشكلات وحلها في الدليل، يرجى النشر في منتدى "
+"دعم المكون الإضافي."
+
+#~ msgid "The Official Facebook Chat Plugin"
+#~ msgstr "المكون الإضافي دردشة فيسبوك الرسمية"
+
+#~ msgid "Name of plugin:"
+#~ msgstr "اسم المكون الإضافي:"

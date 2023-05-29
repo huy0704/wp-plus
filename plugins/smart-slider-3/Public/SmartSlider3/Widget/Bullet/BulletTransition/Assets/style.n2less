@@ -1,0 +1,78 @@
+(~'div#@{sliderid}') {
+
+  .n2-ss-control-bullet {
+    visibility: hidden;
+    text-align: center;
+    justify-content: center;
+    z-index: 14;
+  }
+
+  .n2-ss-control-bullet--calculate-size {
+    left: 0 !important;
+  }
+
+  .n2-ss-control-bullet-horizontal.n2-ss-control-bullet-fullsize {
+    width: 100%;
+  }
+
+  .n2-ss-control-bullet-vertical.n2-ss-control-bullet-fullsize {
+    height: 100%;
+    flex-flow: column;
+  }
+
+  .nextend-bullet-bar {
+    display: inline-flex;
+    vertical-align: top;
+    visibility: visible;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .n2-bar-justify-content-left {
+    justify-content: flex-start;
+  }
+
+  .n2-bar-justify-content-center {
+    justify-content: center;
+  }
+
+  .n2-bar-justify-content-right {
+    justify-content: flex-end;
+  }
+
+  .n2-ss-control-bullet-vertical > .nextend-bullet-bar {
+    flex-flow: column;
+  }
+
+  .n2-ss-control-bullet-fullsize > .nextend-bullet-bar {
+    display: flex;
+  }
+
+  .n2-ss-control-bullet-horizontal.n2-ss-control-bullet-fullsize > .nextend-bullet-bar {
+    flex: 1 1 auto;
+  }
+
+  .n2-ss-control-bullet-vertical.n2-ss-control-bullet-fullsize > .nextend-bullet-bar {
+    height: 100%;
+  }
+
+  .nextend-bullet-bar .n2-bullet {
+    cursor: pointer;
+    transition: background-color 0.4s;
+  }
+
+  .nextend-bullet-bar .n2-bullet.n2-active {
+    cursor: default;
+  }
+
+  div.n2-ss-bullet-thumbnail-container {
+    position: absolute;
+    z-index: 10000000;
+  }
+
+  .n2-ss-bullet-thumbnail-container .n2-ss-bullet-thumbnail {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+}

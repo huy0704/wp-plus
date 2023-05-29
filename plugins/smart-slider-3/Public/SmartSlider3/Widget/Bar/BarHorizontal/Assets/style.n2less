@@ -1,0 +1,9 @@
+(~'div#@{sliderid}') {
+  .nextend-bar-horizontal {
+    z-index: 12;
+  }
+
+  .nextend-bar-horizontal div * {
+    display: inline;
+  }
+}

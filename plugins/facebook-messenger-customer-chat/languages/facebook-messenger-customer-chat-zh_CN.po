@@ -1,0 +1,231 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Facebook Chat Plugin - Live Chat Plugin for WordPress\n"
+"POT-Creation-Date: 2020-11-13 16:39-0800\n"
+"PO-Revision-Date: 2022-06-29 17:00-0700\n"
+"Last-Translator: \n"
+"Language-Team: Facebook\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: facebook-messenger-customer-chat.php:106 facebook-messenger-customer-chat.php:136
+msgid "Settings"
+msgstr "设置"
+
+#: facebook-messenger-customer-chat.php:142
+msgid "https://wordpress.org/plugins/facebook-messenger-customer-chat/#faq"
+msgstr ""
+
+#: facebook-messenger-customer-chat.php:143
+msgid "FAQ"
+msgstr "常见问题解答"
+
+#: facebook-messenger-customer-chat.php:148
+msgid "Support"
+msgstr "支持"
+
+#: facebook-messenger-customer-chat.php:268
+msgid "Cancel"
+msgstr "取消"
+
+#: facebook-messenger-customer-chat.php:283
+msgid "We value your feedback."
+msgstr "我们很重视您的反馈。"
+
+#: facebook-messenger-customer-chat.php:287
+msgid "Please let us know why you’re deactivating Facebook Chat Plugin."
+msgstr "能否告诉我们您停用 Facebook 聊天插件的原因是什么？"
+
+#: facebook-messenger-customer-chat.php:295
+msgid "I’m unable to get the plugin to work"
+msgstr "插件无法正常工作"
+
+#: facebook-messenger-customer-chat.php:302
+msgid "I no longer need a live chat feature"
+msgstr "我不再需要实时聊天功能"
+
+#: facebook-messenger-customer-chat.php:309
+msgid "I’m using a different live chat plugin"
+msgstr "我在使用另外一款实时聊天插件"
+
+#: facebook-messenger-customer-chat.php:316
+msgid "This is a temporary deactivation. I’ll be back!"
+msgstr "只是暂时停用。我后面会重新启用！"
+
+#: facebook-messenger-customer-chat.php:323
+msgid "Other"
+msgstr "其他"
+
+#: facebook-messenger-customer-chat.php:330
+msgid "Comments:"
+msgstr "评论："
+
+#: facebook-messenger-customer-chat.php:338
+msgid "Submit"
+msgstr "提交"
+
+#: facebook-messenger-customer-chat.php:346
+msgid "Thank you."
+msgstr "谢谢！"
+
+#: facebook-messenger-customer-chat.php:347
+msgid "We appreciate your feedback."
+msgstr "非常感谢您提供反馈。"
+
+#: facebook-messenger-customer-chat.php:372
+#, php-format
+msgid "Facebook Chat Plugin is almost ready to use. Connect your Facebook page %1$shere%2$s to start receiving messages today."
+msgstr "您只差一步就可以使用 Facebook 聊天插件了。立即%1$s在此%2$s处关联您的 Facebook 公共主页，开始收发消息！"
+
+#: facebook-messenger-customer-chat.php:424
+msgid "How is the Facebook Chat plugin working out for you and your visitors?"
+msgstr "您和您的访客使用 Facebook 聊天插件的体验如何？"
+
+#: facebook-messenger-customer-chat.php:426
+msgid "We'd love to hear your feedback!"
+msgstr "期待您提供反馈！"
+
+#: facebook-messenger-customer-chat.php:428
+msgid "Please leave us a review."
+msgstr "请留下您的评论。"
+
+#: options.php:51
+msgid "Plugin settings"
+msgstr "插件设置"
+
+#: options.php:52
+msgid "Facebook Chat"
+msgstr "Facebook 聊天"
+
+#: options.php:196
+msgid "Facebook Chat Plugin Settings"
+msgstr "Facebook 聊天插件设置"
+
+#: options.php:203
+msgid "Getting Started?"
+msgstr "使用入门"
+
+#: options.php:209
+msgid ""
+"Let people start a conversation on\n"
+"\t\t\t\t\t\t\tyour website and continue in Messenger. It's easy to set up. Chats\n"
+"\t\t\t\t\t\t\tstarted on your website can be continued in the customers'\n"
+"\t\t\t\t\t\t\tMessenger app, so you never lose connections with your customers.\n"
+"\t\t\t\t\t\t\tEven those without a Facebook Messenger account can chat with you\n"
+"\t\t\t\t\t\t\tin guest mode, so you can reach more customers than ever."
+msgstr ""
+"让用户在您的网站上发起对话，并在 Messenger 中继续与您交流。设置过程非常简单。从网站上发起的聊天会保留在顾客的 Messenger 应用"
+"内，方便您继续与他们交流，不用担心会失去联系。即便顾客没有 Facebook Messenger 帐户，也可以通过游客模式与您交流，"
+
+#: options.php:225
+msgid "Setup Chat Plugin"
+msgstr "设置聊天插件"
+
+#: options.php:227
+msgid "Edit Chat Plugin Configuration"
+msgstr "编辑聊天插件配置"
+
+#: options.php:243
+msgid "Edit Availability and Automated Responses"
+msgstr ""
+
+#: options.php:254
+msgid "Setup status"
+msgstr "设置状态"
+
+#: options.php:260
+msgid ""
+"The plugin code has already been added.\n"
+"\t\t\t\t\t\tinto your website. You can always go back through the setup process\n"
+"\t\t\t\t\t\tto customize the plugin."
+msgstr "插件代码已添加到您的网站上。您随时可以返回设置流程来定制插件。"
+
+#: options.php:269
+msgid "Advanced Configuration"
+msgstr "高级配置"
+
+#: options.php:277
+msgid "Deploy Chat plugin on:"
+msgstr "配置聊天插件的位置："
+
+#: options.php:285
+msgid "All WordPress pages"
+msgstr "所有 WordPress 页面"
+
+#: options.php:291
+msgid "Custom WordPress pages"
+msgstr "自定义 WordPress 页面"
+
+#: options.php:310
+msgid "Homepage"
+msgstr "首页"
+
+#: options.php:316 options.php:328
+msgid "Posts"
+msgstr "帖子"
+
+#: options.php:326 options.php:389
+msgid "Click for granular options"
+msgstr "点击打开详细选项"
+
+#: options.php:341
+msgid "Single post view"
+msgstr "单帖子视图"
+
+#: options.php:353
+msgid "Category view"
+msgstr "类别视图"
+
+#: options.php:365
+msgid "Tags view"
+msgstr "标签视图"
+
+#: options.php:373 options.php:393
+msgid "Pages"
+msgstr "页面"
+
+#: options.php:438
+msgid "WooCommerce Product pages"
+msgstr "WooCommerce 商品页面"
+
+#: options.php:447
+msgid "Error saving settings."
+msgstr "保存设置时出错。"
+
+#: options.php:451
+msgid "Settings saved."
+msgstr "设置已保存。"
+
+#: options.php:455
+msgid "Saving settings..."
+msgstr "正在保存设置…"
+
+#: options.php:469
+msgid "https://developers.facebook.com/terms/"
+msgstr ""
+
+#: options.php:470
+msgid "Use of this plugin is subject to Facebook's Platform Terms"
+msgstr "使用此插件需遵守 Facebook 开放平台条款"
+
+#: options.php:475
+msgid "Having a problem setting up or using the Chat Plugin?"
+msgstr "在设置或使用聊天插件时遇到问题？"
+
+#: options.php:481
+msgid "Please consult our Troubleshooting Guide."
+msgstr "请参阅我们的疑难解答指南。"
+
+#: options.php:487
+msgid "If the troubleshooting steps in the guide do not solve your problem, please post in the plugin support forum."
+msgstr "如果采用指南中的所述步骤后仍无法解决问题，请前往插件支持论坛发帖寻求帮助。"

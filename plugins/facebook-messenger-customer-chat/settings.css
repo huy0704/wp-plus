@@ -1,0 +1,272 @@
+/*
+* Copyright 2017-present, Facebook, Inc.
+* All rights reserved.
+*
+* This source code is licensed under the license found in the
+* LICENSE file in the root directory of this source tree.
+*/
+
+.fbmcc-card {
+    background-color: #fff;
+    width: 600px;
+}
+
+.fbmcc-settings {
+    text-align: left;
+}
+
+.fbmcc-instructions,
+.fbmcc-buttonContainer {
+    color: #444444;
+    margin-bottom: 10px;
+}
+
+.fbmcc-code-area {
+    margin-top: 10px;
+    width: 100%;
+}
+
+.fbmcc-setupButton,
+.fbmcc-editButton {
+    background-color: #f7f7f7;
+    border-radius: 4px;
+    box-shadow: 0 1px 0 #aaa;
+    color: #555555;
+}
+
+.fbmcc-codeTitle{
+    float: left;
+}
+
+.fbmcc-setupButton {
+    height: 28px;
+    min-width: 148px;
+}
+
+.fbmcc-editButton {
+    float: right;
+    height: 28px;
+    position: absolute;
+    right: 5px;
+    top: 15px;
+    width: 88px;
+}
+
+.fbmcc-codeContainer {
+    position: relative;
+}
+
+.fbmcc-setupButton:hover {
+    background-color: #fbfbfb;
+    cursor:pointer;
+}
+
+.fbmcc-setupButton:active {
+    background-color: #eeeeee;
+    transform: translateY(1px);
+}
+
+.fbmcc-switch {
+    position: relative;
+    display: inline-block;
+    width: 30px;
+    height: 17px;
+}
+
+.fbmcc-switch input {display:none;}
+
+.fbmcc-slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+.fbmcc-slider:before {
+    position: absolute;
+    content: "";
+    height: 13px;
+    width: 13px;
+    left: 2px;
+    bottom: 2px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+input:checked + .fbmcc-slider {
+    background-color: #2196F3;
+}
+
+input:focus + .fbmcc-slider {
+    box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .fbmcc-slider:before {
+    -webkit-transform: translateX(13px);
+    -ms-transform: translateX(13px);
+    transform: translateX(13px);
+}
+
+.fbmcc-slider.round {
+    border-radius: 17px;
+}
+
+.fbmcc-slider.round:before {
+    border-radius: 50%;
+}
+
+.fbmcc-submenu {
+    background-color: #eee;
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    color: #777;
+    margin: 0;
+    padding: 2px 0;
+}
+
+#fbmcc-page-params input[type=checkbox] {
+    border-radius: 2px;
+    box-shadow: none;
+    margin-left: 20px;
+}
+
+#fbmcc-page-params input[type=checkbox]:indeterminate {
+    -webkit-appearance: auto;
+}
+
+a.fbmcc-menuParentLink {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.fbmcc-deploymentMenu {
+    border: 1px solid #ccc;
+    height: 300px;
+    overflow-y: scroll;
+    padding: 10px 0;
+    width: 260px;
+}
+
+.fbmcc-deploymentMenu li {
+    margin: 0;
+    padding: 4px 0;
+}
+
+#fbmcc-deactivationModal {
+    padding: 30px;
+}
+
+#fbmcc-deactivationModal h3 {
+    margin: 1em 0 0 0;
+}
+
+#fbmcc-deactivationModal p {
+    font-size: 12pt;
+    margin: 0.5em 0;
+}
+
+#fbmcc-deactivationModal form ul li {
+    font-size: 11pt;
+    padding-top: 5px;
+}
+
+#fbmcc-deactivationModalOverlay {
+    -webkit-box-align: center;
+    -webkit-box-pack: center;
+    align-items: center;
+    background-color: rgba(0,0,0,.5);
+    display: none;
+    height: 100%;
+    justify-content: center;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 2147483644;
+}
+
+#fbmcc-deactivationModalContainer {
+    position: relative;
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    margin: 10px;
+    max-width: 800px;
+    min-width: 400px;
+    border-radius: 4px;
+    box-shadow: 0 20px 60px 0 rgb(0 0 0 / 30%);
+    overflow: hidden;
+    background-color: #fff;
+    color: #424d57;
+}
+
+#fbmcc-deactivationModalOverlay.fbmcc-deactivationModalOverlay-display {
+    display: flex !important;
+    opacity: 1;
+    transition: opacity 1s;
+}
+
+.fbmcc-deactivationReason-commentContainer {
+    display: none;
+    margin: 4px 0 0 0;
+    font-size: 11pt;
+}
+
+.fbmcc-deactivationReason-commentContainer input {
+    width: 250px;
+}
+
+.fbmcc-display {
+    display: block !important;
+}
+
+#fbmcc-saveStatus {
+    height: 12px;
+}
+
+#fbmcc-saveStatus div {
+    padding: 2px 5px;
+}
+
+#fbmcc-saveStatus-error {
+    background-color: #fbb;
+    color: #700;
+}
+
+#fbmcc-saveStatus-saved {
+    background-color: #bfb;
+    color: #070;
+}
+
+#fbmcc-saveStatus-saving {
+    background-color: #ffb;
+    color: #770;
+}
+
+.fbmcc-deactivationModal-closeButton {
+    position: absolute;
+    z-index: 1;
+    right: 18px;
+    top: 18px;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    width: 24px;
+    height: 24px;
+    padding: 0;
+    border: none;
+    background-color: transparent;
+    box-shadow: none;
+    opacity: .5;
+    outline: none;
+    cursor: pointer;
+}

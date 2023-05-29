@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wds\n"
+"POT-Creation-Date: 2014-09-26 18:02+0400\n"
+"PO-Revision-Date: 2014-09-26 18:02+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress3.5\\wp-content\\plugins"
+"\\slider-plugin\n"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:30
+#, fuzzy
+msgid "There is no slider selected or the slider was deleted."
+msgstr "Nincs galéria kiválasztott, illetve a galériát törölték."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:42
+#, fuzzy
+msgid "There are no slides in this slider."
+msgstr "Nincsenek képek ebben a galériában."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:660
+msgid "Share on Facebook"
+msgstr "Ossza meg a Facebook-on"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:666
+msgid "Share on Twitter"
+msgstr "Ossza meg a Twitter"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:672
+msgid "Share on Google+"
+msgstr "Ossza Google+"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:678
+msgid "Share on Pinterest"
+msgstr "Megosztás on Pinterest"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:684
+msgid "Share on Tumblr"
+msgstr "Megosztás a Tumblr"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1875
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1894
+msgid "Pause"
+msgstr "Szünet"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1884
+msgid "Play"
+msgstr "Lejátszás"
+
+#~ msgid "field is required."
+#~ msgstr "mező kitöltése kötelező. "
+
+#~ msgid "This is not a valid email address."
+#~ msgstr "Ez nem egy érvényes e-mail címét. "
+
+#~ msgid "There are no images matching your search."
+#~ msgstr "Nincsenek képek felel meg a keresést."
+
+#~ msgid " item(s)"
+#~ msgstr "elemet"
+
+#~ msgid "First"
+#~ msgstr "Első"
+
+#~ msgid "Previous"
+#~ msgstr "Előző"
+
+#~ msgid "Next"
+#~ msgstr "Tovább"
+
+#~ msgid "Last"
+#~ msgstr "Az utolsó"
+
+#~ msgid "Go to the first page"
+#~ msgstr "Ugrás az első oldalra"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "Ugrás az előző oldalra"
+
+#~ msgid "of"
+#~ msgstr "A"
+
+#~ msgid "Go to the next page"
+#~ msgstr "Ugrás a következő oldalra"
+
+#~ msgid "Go to the last page"
+#~ msgstr "Menj az utolsó oldalra"
+
+#~ msgid "Reset"
+#~ msgstr "Visszaállítása"
+
+#~ msgid "Search"
+#~ msgstr "Keresés"
+
+#~ msgid "There is no theme selected or the theme was deleted."
+#~ msgstr "Nincs téma kiválasztva, vagy a téma törölve lett."
+
+#~ msgid "There is no album selected or the album was deleted."
+#~ msgstr "Nincs album kiválasztva, vagy az albumot törölték."
+
+#~ msgid "Back"
+#~ msgstr "Back"
+
+#~ msgid "Album is empty."
+#~ msgstr "Album üres"
+
+#~ msgid "Gallery is empty."
+#~ msgstr "Gallery üres"
+
+#~ msgid "More"
+#~ msgstr "Többet"
+
+#~ msgid "Hide"
+#~ msgstr "Elrejtése"
+
+#~ msgid "Show comments"
+#~ msgstr "Mutassa megjegyzéseket"
+
+#~ msgid "The image has been deleted."
+#~ msgstr "A kép törölve lett."
+
+#~ msgid "Maximize"
+#~ msgstr "Maximalizálása"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Teljes képernyő"
+
+#~ msgid "Show info"
+#~ msgstr "Mutassa info"
+
+#~ msgid "Show rating"
+#~ msgstr "Mutassa értékelése"
+
+#~ msgid "Open image in original size."
+#~ msgstr "Kép megnyitása eredeti méretben. "
+
+#~ msgid "Download original image"
+#~ msgstr "Töltsd le az eredeti képet"
+
+#~ msgid "Hits: "
+#~ msgstr "Találat: "
+
+#~ msgid "Rated."
+#~ msgstr "Névleges."
+
+#~ msgid "Not rated yet."
+#~ msgstr "Még nem értékelték. "
+
+#~ msgid "Votes: "
+#~ msgstr "Szavazatok száma: "
+
+#~ msgid "Cancel your rating."
+#~ msgstr "Megszüntetni az értékelésbe. "
+
+#~ msgid "You have already rated."
+#~ msgstr "Már értékelted. "
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "Hiba. Helytelen Ellenőrző kód. "
+
+#~ msgid "Hide Comments"
+#~ msgstr "Megjegyzések elrejtése"
+
+#~ msgid "Name"
+#~ msgstr "Név"
+
+#~ msgid "Email"
+#~ msgstr "E-mail "
+
+#~ msgid "Comment"
+#~ msgstr "Megjegyzés"
+
+#~ msgid "Verification Code"
+#~ msgstr "ellenőrző kód"
+
+#~ msgid "Submit"
+#~ msgstr "Submit"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "Megjegyzése vár moderálás "
+
+#~ msgid "Delete Comment"
+#~ msgstr "Megjegyzés törlése"
+
+#~ msgid "Show Comments"
+#~ msgstr "Hozzászólást mutat"
+
+#~ msgid "Hide info"
+#~ msgstr "Információ elrejtése"
+
+#~ msgid "Hide rating"
+#~ msgstr "Hide értékelése"
+
+#~ msgid "Restore"
+#~ msgstr "Visszaállítása"
+
+#~ msgid "Exit Fullscreen"
+#~ msgstr "Kilépés Teljes képernyő"

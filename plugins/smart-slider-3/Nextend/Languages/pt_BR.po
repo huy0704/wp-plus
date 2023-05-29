@@ -1,0 +1,7102 @@
+# NEXTEND, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-13 07:44+0200\n"
+"PO-Revision-Date: 2022-05-17 14:25+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: ;n2_;n2_e;n2_n:1,2;n2_en:1,2;n2_x:1,2c;n2_ex:1,2c\n"
+"X-Poedit-Flags-xgettext: --no-location\n"
+
+msgid "Debug error"
+msgstr ""
+
+msgid "CURL disabled in your php.ini configuration. Please enable it!"
+msgstr ""
+"CURL desabilitado nas configurações do seu arquivo php.ini. Por favor "
+"habilite ele!"
+
+msgid "Unable to contact with the licensing server, please try again later!"
+msgstr ""
+"Não foi possível contactar com o servidor de licença, por favor tente "
+"novamente mais tarde!"
+
+msgid "You are not allowed to upload!"
+msgstr "Você não tem autorização para enviar arquivo!"
+
+msgid "Folder is missing!"
+msgstr "Pasta está faltando!"
+
+msgid "Menu item"
+msgstr "Item de Menu"
+
+msgid "You are not authorised to view this resource."
+msgstr ""
+
+#, php-format
+msgid "Missing parameter: %s"
+msgstr "Faltando parâmetro: %s"
+
+msgid "Database error"
+msgstr "Erro no banco de dados"
+
+msgid "Security token mismatch"
+msgstr "Token de segurança não confere"
+
+msgid "Unexpected error"
+msgstr "Erro não esperado"
+
+msgid "Set is not editable"
+msgstr "Set não é editável"
+
+msgid "Visual do not exists"
+msgstr "Visual não existe"
+
+msgid "Not editable"
+msgstr "Não editável"
+
+msgid "Security token mismatch. Please refresh the page!"
+msgstr "Token de segurança não confere. Por favor atualize a página!"
+
+#, php-format
+msgid ""
+"If you see this message after the repair database process, please "
+"%1$scontact us%2$s with the log:"
+msgstr ""
+
+msgid "Contact your server host and ask them to fix this for you!"
+msgstr ""
+
+msgid "Unexpected database error."
+msgstr ""
+
+msgid "Try to repair database"
+msgstr ""
+
+msgid "Font manager"
+msgstr "Gerenciador de Fonte"
+
+msgid "Text"
+msgstr "Texto"
+
+#, fuzzy
+msgid "Hover"
+msgstr "Passar sobre"
+
+#, fuzzy
+msgid "Heading"
+msgstr "Cabeçalho"
+
+msgid "Link"
+msgstr "Link"
+
+msgid "Button"
+msgstr "Botão"
+
+msgid "Paragraph"
+msgstr "Parágrafo"
+
+msgid "Dot"
+msgstr "Ponto"
+
+msgid "Active"
+msgstr "Ativo"
+
+msgid "List"
+msgstr "Lista"
+
+msgid "Highlight"
+msgstr ""
+
+msgctxt "Default font"
+msgid "Roboto,Arial"
+msgstr "Roboto,Arial"
+
+msgid "Font settings"
+msgstr "Ajustes de Fonte"
+
+msgid "Clear tab"
+msgstr "Limpar aba"
+
+msgid "Family"
+msgstr "Família"
+
+msgid "Color"
+msgstr "Cor"
+
+msgid "Size"
+msgstr "Tamanho"
+
+#, fuzzy
+msgid "Font weight"
+msgstr "Intensidade da fonte"
+
+msgid "Decoration"
+msgstr "Decoração"
+
+#, fuzzy
+msgid "Line height"
+msgstr "Espaçamento de Linha"
+
+#, fuzzy
+msgid "Text align"
+msgstr "Alinhamento de Texto"
+
+msgid "Letter spacing"
+msgstr "Espaçamento de Letra"
+
+msgid "Word spacing"
+msgstr "Espaçamento de Palavra"
+
+msgid "Transform"
+msgstr "Transformar"
+
+msgid "None"
+msgstr "Nenhum"
+
+msgid "Capitalize"
+msgstr "Primeira letra maiúscula"
+
+msgid "Uppercase"
+msgstr "Maiúsculo"
+
+msgid "Lowercase"
+msgstr "Minúsculo"
+
+msgid "Text shadow"
+msgstr "Sombra do texto"
+
+#, fuzzy
+msgid "Preview"
+msgstr "Pré-Visualizar"
+
+msgid "Frontend"
+msgstr "Frontend"
+
+msgid "You can load Google Fonts on the frontend."
+msgstr ""
+
+msgid "Save fonts locally"
+msgstr ""
+
+msgid ""
+"You can store the used Google Fonts on your server. This way all Google "
+"Fonts will load from your own domain."
+msgstr ""
+
+msgid "Backend"
+msgstr "Backend"
+
+msgid "You can load Google Fonts in the backend."
+msgstr ""
+
+msgid "Style"
+msgstr "Estilo"
+
+msgctxt "Font style"
+msgid "Italic"
+msgstr "Itálico"
+
+msgid "Normal"
+msgstr "Normal"
+
+#, fuzzy
+msgid "Choose"
+msgstr "Escolha"
+
+msgid "Orientation"
+msgstr "Orientação"
+
+msgid "Portrait"
+msgstr "Portrait(Retrato)"
+
+msgid "Landscape"
+msgstr "Landscape(paisagem)"
+
+#, fuzzy
+msgid "Mobile"
+msgstr "Dispositivo Móvel"
+
+msgid "Large mobile"
+msgstr ""
+
+msgid "Tablet"
+msgstr "Tablet"
+
+msgid "Large tablet"
+msgstr ""
+
+#, fuzzy
+msgid "Desktop"
+msgstr "Desktop"
+
+msgid "Large desktop"
+msgstr ""
+
+msgid "More"
+msgstr "Mais"
+
+msgid "Less"
+msgstr ""
+
+msgid "View records"
+msgstr "Visualizar registros"
+
+msgid "Font"
+msgstr "Fonte"
+
+msgid "Warning"
+msgstr ""
+
+#, fuzzy
+msgid "Dotted"
+msgstr "Dotted (Pontilhado)"
+
+#, fuzzy
+msgid "Dashed"
+msgstr "Dashed (Tracejada)"
+
+msgid "Solid"
+msgstr "Sólido"
+
+msgid "Double"
+msgstr "Duplo"
+
+#, fuzzy
+msgid "Groove"
+msgstr "Groove"
+
+#, fuzzy
+msgid "Ridge"
+msgstr "Ridge"
+
+#, fuzzy
+msgid "Inset"
+msgstr "Inset (Dentro)"
+
+#, fuzzy
+msgid "Outset"
+msgstr "Outset (Fora)"
+
+msgid "Field"
+msgstr "Campo"
+
+msgid "Order"
+msgstr "Ordem"
+
+msgid "Ascending"
+msgstr "Ascendente"
+
+msgid "Descending"
+msgstr "descendente"
+
+msgid "Off"
+msgstr "Fora"
+
+msgid "On"
+msgstr "Em"
+
+msgid ""
+"Hold down the ctrl (Windows) or command (MAC) button to select multiple "
+"options."
+msgstr ""
+"Segure a tecla ctrl (no Windows) ou tecla command (no MAC) para selecionar "
+"múltipla opções."
+
+msgid "Fill"
+msgstr "Preencher"
+
+msgid "Blur fit"
+msgstr "Embaçar"
+
+msgid "Fit"
+msgstr "Encaixar"
+
+msgid "Stretch"
+msgstr "Esticar"
+
+msgid "Center"
+msgstr "Centralizar"
+
+msgid "Slider's default"
+msgstr "Padrão do slider´s"
+
+msgid "All"
+msgstr "Todos"
+
+#, php-format
+msgid "Not %s"
+msgstr "Não %s"
+
+msgid "Bold"
+msgstr "Negrito"
+
+msgid "Extra light"
+msgstr "Extra leve"
+
+#, fuzzy
+msgid "Light"
+msgstr "Leve"
+
+msgid "Semi bold"
+msgstr "Semi negrito"
+
+msgid "Extra bold"
+msgstr "Extra negrito"
+
+msgid "Self"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "Parent"
+msgstr "Parente"
+
+msgid "Top"
+msgstr "Topo"
+
+msgid "Select images for devices"
+msgstr ""
+
+msgid "Select a page or a blog post from your WordPress site."
+msgstr "Selecione uma página ou um post do seu site Wordpress."
+
+msgid "Select article or menu item from your site."
+msgstr "Selecione o artigo ou item de menu do seu site."
+
+#, fuzzy
+msgid "Reset to normal state"
+msgstr "Resetar ao estado normal"
+
+msgid "Default"
+msgstr "Padrão"
+
+msgid "The image is empty"
+msgstr ""
+
+msgid "Empty"
+msgstr "Vazio"
+
+msgid "Image manager"
+msgstr "Gerenciador de Imagem"
+
+#, fuzzy
+#| msgid "Desktop Retina"
+msgid "Desktop retina"
+msgstr "Desktop Retina"
+
+msgid "Image"
+msgstr "Imagem"
+
+#, php-format
+msgid ""
+"The %1$s is not turned on in your server, which is necessary to read rss "
+"feeds. You should contact your server host, and ask them to enable it!"
+msgstr ""
+
+#, php-format
+msgid "%s is not readable"
+msgstr ""
+
+msgid "Style manager"
+msgstr "Gerenciador de Estilo"
+
+msgid "Style settings"
+msgstr "Ajustes de Estilo"
+
+msgid "Background color"
+msgstr "Cor de fundo"
+
+msgid "Opacity"
+msgstr "Opacidade"
+
+#, fuzzy
+msgid "Padding"
+msgstr "Espaçamento"
+
+msgid "Border"
+msgstr "Borda"
+
+#, fuzzy
+msgid "Border radius"
+msgstr "Arredondamento da Borda"
+
+msgid "Box shadow"
+msgstr "Sombra da caixa"
+
+msgid "Single"
+msgstr "Único"
+
+msgid "Simple"
+msgstr "Simples"
+
+msgid "Box"
+msgstr "Caixa"
+
+msgid "Heading active"
+msgstr "Cabeçalho Ativo"
+
+#, fuzzy
+msgid "Dashboard"
+msgstr "Painel"
+
+#, fuzzy
+#| msgid "Desktop image is empty!"
+msgid "Drop files here"
+msgstr "Imagem para Desktop está vazia!"
+
+msgid "Parent directory"
+msgstr ""
+
+msgid "Current path"
+msgstr ""
+
+#, fuzzy
+msgid "Preset"
+msgstr "Pré-definição"
+
+msgid ""
+"You can use presets to save style settings for later use. Clicking on any "
+"preset will load its styling to your current layer, and the previous style "
+"settings will be lost."
+msgstr ""
+
+msgid ""
+"Layer design options affect every device. If you need to make responsive "
+"adjustments, look for the options with the device icon."
+msgstr ""
+
+msgid "Reset style to default"
+msgstr ""
+
+msgid "Save style as new preset"
+msgstr ""
+
+msgid "Load style"
+msgstr ""
+
+msgid "You have not created any presets for this layer yet."
+msgstr ""
+
+msgid "Save as"
+msgstr "Salvar como"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Please fill the name field!"
+msgstr "Preencha o campo nome!"
+
+msgid "Preset saved."
+msgstr ""
+
+msgid "Overwrite preset"
+msgstr ""
+
+msgid "Preset deleted."
+msgstr ""
+
+msgid "Choose folder"
+msgstr ""
+
+msgid "Select"
+msgstr "Selecione"
+
+msgid "Disabled"
+msgstr "Desativado"
+
+msgid "Image field can not be empty!"
+msgstr ""
+
+msgid "Done"
+msgstr "Pronto"
+
+msgid "No file selected."
+msgstr ""
+
+msgid "Open docs"
+msgstr ""
+
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr ""
+"As mudanças que você fez serão perdidas se você navegar para outra página."
+
+msgid "Icons"
+msgstr ""
+
+#, fuzzy
+msgid "Search"
+msgstr "Procurar"
+
+msgid "Are you sure?"
+msgstr ""
+
+#, javascript-format
+msgid "You're about to %s. "
+msgstr ""
+
+#, javascript-format
+msgid "The deletion is irreversible, and it's not possible to recover %s."
+msgstr ""
+
+#, fuzzy
+msgid "Cancel"
+msgstr "Cancelar"
+
+#, fuzzy
+msgid "Delete"
+msgstr "Deletar"
+
+msgid "Close"
+msgstr "Fechar"
+
+#, fuzzy
+#| msgid "Create"
+msgid "Create group"
+msgstr "Criar"
+
+#, fuzzy
+#| msgid "Product name"
+msgid "Group name"
+msgstr "Nome do Produto"
+
+msgid "Group created"
+msgstr ""
+
+msgid "Records"
+msgstr ""
+
+msgid "Keyboard shortcuts"
+msgstr ""
+
+msgid "Got it"
+msgstr ""
+
+msgid "General"
+msgstr "Geral"
+
+#, fuzzy
+#| msgid "Content"
+msgid "Content tab"
+msgstr "Conteúdo"
+
+#, fuzzy
+#| msgid "Style"
+msgid "Style tab"
+msgstr "Estilo"
+
+#, fuzzy
+#| msgid "Animation"
+msgid "Animation tab"
+msgstr "Animação"
+
+msgid "Add Layer"
+msgstr ""
+
+msgid "Layer List"
+msgstr "Lista de Camada"
+
+msgid "Timeline"
+msgstr ""
+
+msgid "View"
+msgstr "Visualizar"
+
+msgid "Adjust"
+msgstr ""
+
+msgid "Move (Absolute)"
+msgstr ""
+
+msgid "Arrows"
+msgstr "Setas"
+
+msgid "Align (Absolute)"
+msgstr ""
+
+msgid "Numeric keys"
+msgstr ""
+
+msgid "Action"
+msgstr "ação"
+
+msgid "Duplicate"
+msgstr "Duplicar"
+
+msgid "Copy"
+msgstr "Cópia"
+
+msgid "Paste"
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+msgid "Redo"
+msgstr ""
+
+msgid "Save"
+msgstr "Salvar"
+
+#, fuzzy
+#| msgid "Layer animations"
+msgid "Play animations"
+msgstr "Animações de camada"
+
+msgid "Clear device specific settings"
+msgstr ""
+
+msgid "Current layer, current device"
+msgstr ""
+
+msgid "Current layer, all devices"
+msgstr ""
+
+msgid "All layers, current device"
+msgstr ""
+
+msgid "All layers, all devices"
+msgstr ""
+
+msgid "Unexpected response"
+msgstr ""
+
+msgid "Scroll to"
+msgstr "Rolar para"
+
+msgid "Scroll to alias"
+msgstr ""
+
+msgid "Go to slide"
+msgstr "Ir para o slide"
+
+msgid "Go to slide ID"
+msgstr "Ir para o ID de slide"
+
+msgid "Previous slide"
+msgstr "Slide anterior"
+
+msgid "Next slide"
+msgstr "Próximo slide"
+
+msgid "Slide event"
+msgstr "Evento do slide"
+
+msgid "Examples"
+msgstr "Exemplos"
+
+msgid "Scrolls to the top of the page."
+msgstr ""
+
+msgid "Scrolls to the bottom of the page."
+msgstr ""
+
+msgid ""
+"You can use any jQuery selector to scroll to a specific element on the page. "
+"Example: \"#pricing\" scrolls to the element with the id of \"pricing\"."
+msgstr ""
+"Você pode usar qualquer seletor jQuery para rolar a um elemento específico "
+"na página. Exemplo: \"#pricing\" rola direto para o elemento com o id "
+"\"pricing\"."
+
+msgid "Slider alias"
+msgstr ""
+
+msgid "Slider alias set at Slider settings > General"
+msgstr ""
+
+msgid "Slide index"
+msgstr "Índice do Slide"
+
+msgid "Direction"
+msgstr "Direção"
+
+msgid "Auto"
+msgstr "Auto"
+
+#, fuzzy
+msgid "Backward"
+msgstr "Retroceder"
+
+#, fuzzy
+msgid "Forward"
+msgstr "Avante"
+
+#, javascript-format
+msgid "slide index: 2 %s direction: backward"
+msgstr ""
+
+msgid "Switches to the second slide as if the previous arrow was pressed"
+msgstr ""
+
+#, javascript-format
+msgid "slide index: 5 %s direction: forward"
+msgstr ""
+
+msgid "Switches to the fifth slide as if the next arrow was pressed"
+msgstr ""
+
+msgid "Slide ID"
+msgstr "ID do Slide"
+
+msgid ""
+"Switches to the slide with the #2 ID as if the previous arrow was pressed"
+msgstr ""
+
+msgid "Switches to the slide with the #5 ID as if the next arrow was pressed"
+msgstr ""
+
+msgid "Event name"
+msgstr "Nome do Evento"
+
+msgid "An event you use to trigger layer animation(s) with"
+msgstr ""
+
+msgid "Content List - One Per Line"
+msgstr ""
+
+msgid "Choose images"
+msgstr "Escolher imagens"
+
+msgid "Titles - One Per Line"
+msgstr ""
+
+msgid "Autoplay duration"
+msgstr "Duração do Play Automático"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Search keyword"
+msgstr ""
+
+msgid "Posts"
+msgstr "Postagens"
+
+msgid "Lightbox"
+msgstr "Lightbox"
+
+msgid "Insert"
+msgstr "Inserir"
+
+msgid "Oops, Something Went Wrong"
+msgstr ""
+
+msgid "Success"
+msgstr ""
+
+msgid "Notice"
+msgstr ""
+
+msgid "Select image"
+msgstr ""
+
+msgid "Use Joomla selector"
+msgstr ""
+
+msgid "Use default selector"
+msgstr ""
+
+msgid "Deleted."
+msgstr ""
+
+msgid "Static"
+msgstr "Estático"
+
+msgid "Save as New"
+msgstr ""
+
+msgid "Saved."
+msgstr ""
+
+#, fuzzy
+msgid "Enabled"
+msgstr "Habilitado"
+
+msgid "Column"
+msgstr "Coluna"
+
+msgid "There is no layer available to be parent of the current layer!"
+msgstr ""
+
+msgid "Pick the parent layer!"
+msgstr "Escolha a camada pai!"
+
+msgid "Pick the align point of the parent layer!"
+msgstr "Escolha o ponto de alinhamento da camada pai!"
+
+msgid "Pick the align point of the child layer!"
+msgstr "Escolha o ponto de alinhamento da camada filho!"
+
+msgid "Advanced"
+msgstr "Avançado"
+
+#, fuzzy, javascript-format
+#| msgid "Outer"
+msgid "Outer %s"
+msgstr "Exterior"
+
+msgid "Left"
+msgstr "Esquerda"
+
+msgid "Right"
+msgstr "Direita"
+
+msgid "Middle"
+msgstr ""
+
+msgid "Bottom"
+msgstr "Embaixo"
+
+msgid "Layer(s)"
+msgstr ""
+
+msgid "Hide on"
+msgstr ""
+
+msgid "Rename"
+msgstr "Renomear"
+
+msgid "Show/Hide in editor"
+msgstr ""
+
+msgid "Animation"
+msgstr "Animação"
+
+msgid "Add animation"
+msgstr "Adicionar animação"
+
+msgid "Remove animations"
+msgstr "Remover animações"
+
+msgid "Layer Animation - Basic"
+msgstr "Layer de Animação - Básico"
+
+#, fuzzy
+#| msgid "Add Keyframe"
+msgid "Add keyframe"
+msgstr "Adicionar Keyframe"
+
+msgid "Loop"
+msgstr "Loop"
+
+msgid "Special Zero"
+msgstr "Zero Especial"
+
+msgid "Keyframe"
+msgstr "Keyframe"
+
+msgid "Layer Animation - Reveal"
+msgstr "Layer de Animação - Revelar"
+
+msgid "Open/Close"
+msgstr ""
+
+msgid "Content"
+msgstr "Conteúdo"
+
+msgid "Child layers"
+msgstr ""
+
+msgid "Animated heading"
+msgstr ""
+
+msgid "Highlighted heading"
+msgstr ""
+
+#, fuzzy
+#| msgid "No animation"
+msgid "Text animation in"
+msgstr "Sem animação"
+
+#, fuzzy
+#| msgid "No animation"
+msgid "Text animation out"
+msgstr "Sem animação"
+
+msgid "Layer"
+msgstr "Camada"
+
+msgid "Row"
+msgstr "Linha"
+
+msgid "Slide"
+msgstr "Slide"
+
+msgid "Theme"
+msgstr ""
+
+#, javascript-format
+msgid "%s or newer required for this feature."
+msgstr ""
+
+msgid "This section requires activated Pro version."
+msgstr ""
+
+#, javascript-format
+msgid "This block is not available in the free version. %s"
+msgstr ""
+
+msgid "Go Pro"
+msgstr ""
+
+msgid "Editor settings"
+msgstr ""
+
+msgid "Upgrade to Pro"
+msgstr ""
+
+msgid "Guide settings"
+msgstr ""
+
+msgid "Smart snap"
+msgstr ""
+
+msgid "Round to 5px"
+msgstr "Arredondar para 5px"
+
+msgid "Ruler"
+msgstr "Régua"
+
+#, fuzzy
+#| msgid "Clear Guides"
+msgid "Clear guides"
+msgstr "Guias claros"
+
+msgid "Activate Smart Slider 3 Pro"
+msgstr ""
+
+msgid "Activation is required to unlock all features!"
+msgstr "Ativação é requerida para desbloquear todas as funcionalidades"
+
+msgid ""
+"Register Smart Slider 3 Pro on this domain to enable auto update, slider "
+"templates and slide library."
+msgstr ""
+
+msgid "Skip"
+msgstr "Pular"
+
+msgid "Activate"
+msgstr "Ativar"
+
+msgid "Smart Slider 3 activated!"
+msgstr "Smart Slider 3 ativado!"
+
+msgid "Laptop"
+msgstr ""
+
+msgid "Width"
+msgstr "Largura"
+
+msgid "Height"
+msgstr "Altura"
+
+#, javascript-format
+msgid "Below %s pixels."
+msgstr ""
+
+#, javascript-format
+msgid "Above %s pixels."
+msgstr ""
+
+#, javascript-format
+msgid "Between %s and %s pixels."
+msgstr ""
+
+#, javascript-format, php-format
+msgid "This slide is hidden on the following devices: %s"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "Filter"
+msgstr "Filtro"
+
+msgid "No"
+msgstr "Não"
+
+msgid "Clean HTML"
+msgstr "Limpar o HTML"
+
+msgid "Remove HTML"
+msgstr "Remover o HTML"
+
+msgid "Split by Chars"
+msgstr ""
+
+msgid "Strict"
+msgstr "Rigoroso"
+
+msgid "Respect words"
+msgstr "Respeitar palavras"
+
+msgid "Find image"
+msgstr "Encontrar imagem"
+
+msgid "Find link"
+msgstr "Encontrar link"
+
+msgid "Remove links"
+msgstr "Remover links"
+
+msgid "Remove line breaks"
+msgstr "Remover quebras de linha"
+
+msgid "Result"
+msgstr "Resultado"
+
+msgid "Change slider type"
+msgstr ""
+
+msgid ""
+"Changing your slider type is irreversible. After changing your slider type, "
+"<b>you will lose all slider type related settings</b>."
+msgstr ""
+
+msgid "Slider type"
+msgstr ""
+
+msgid "Convert"
+msgstr ""
+
+msgid "What do you want to create today?"
+msgstr ""
+
+msgid ""
+"Use our powerful visual editor, or simply import one of our existing "
+"template."
+msgstr ""
+
+msgid "Create a New Project"
+msgstr ""
+
+msgid ""
+"Start a new project from scratch and build exactly what you’ve imagined. You "
+"can easily customize every pixels and create anything with layers."
+msgstr ""
+
+msgid "Start with a Template"
+msgstr ""
+
+msgid ""
+"Start with a template and make it your own with the innovative drag and drop "
+"interface. You can choose from hundreds of premade templates."
+msgstr ""
+
+msgid "or import your own files"
+msgstr ""
+
+msgid "Create new project"
+msgstr ""
+
+#, fuzzy
+#| msgid "Post types"
+msgid "Project type"
+msgstr "Tipos de Postagem"
+
+msgid "Slider"
+msgstr "Slider"
+
+msgid "Block"
+msgstr "Bloco"
+
+msgid "Full page"
+msgstr "Página inteira"
+
+msgid "Carousel"
+msgstr "Carrossel"
+
+msgid "Showcase"
+msgstr "Mostruário"
+
+msgid "Pro"
+msgstr ""
+
+#, fuzzy
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "My project"
+msgstr ""
+
+msgid "Boxed"
+msgstr ""
+
+msgid "Full width"
+msgstr "Largura completa"
+
+msgid "Layout"
+msgstr "Layout"
+
+msgid "Slide width"
+msgstr ""
+
+msgid "Slide height"
+msgstr ""
+
+msgid "Create"
+msgstr "Criar"
+
+msgid "Join The Smart Slider 3 Community"
+msgstr ""
+
+msgid ""
+"Join more than 120,000 subscribers and get access to the latest slider "
+"templates, tips, tutorials and other exclusive contents directly to your "
+"inbox."
+msgstr ""
+
+msgid "Subscribe"
+msgstr ""
+
+#, fuzzy
+#| msgid "Whole group"
+msgid "Change group"
+msgstr "Todo grupo"
+
+msgid "Groups"
+msgstr "Grupos"
+
+msgid "Set"
+msgstr "Conjunto"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Group"
+msgstr "Grupo"
+
+#, fuzzy
+#| msgid "Slider"
+msgid "Edit Slider"
+msgstr "Slider"
+
+msgid "Up"
+msgstr ""
+
+msgid "Insert group"
+msgstr "Inserir grupo"
+
+msgid "Move to trash"
+msgstr ""
+
+msgid "empty the trash"
+msgstr ""
+
+msgid "Delete permanently"
+msgstr ""
+
+#, fuzzy
+#| msgid "Delete slider"
+msgid "delete this slider"
+msgstr "Excluir slider"
+
+msgid "Publish"
+msgstr "Publicar"
+
+msgid "Unpublish"
+msgstr "Cancelar publicação"
+
+msgid "Edit generator"
+msgstr "Editar gerador"
+
+msgid "Set as first"
+msgstr "Definir como primeiro"
+
+#, fuzzy
+#| msgid "Go to slide"
+msgid "Convert to slide"
+msgstr "Ir para o slide"
+
+msgid "Copy slide to"
+msgstr ""
+
+msgid "Add post"
+msgstr ""
+
+msgid "Please select a Post first!"
+msgstr ""
+
+#, fuzzy
+#| msgid "Delete slider"
+msgid "delete these slides"
+msgstr "Excluir slider"
+
+#, fuzzy
+#| msgid "Delete slider"
+msgid "delete this slide"
+msgstr "Excluir slider"
+
+msgid "Max width"
+msgstr "largura máxima"
+
+msgid "Margin"
+msgstr "Margem"
+
+#, fuzzy
+#| msgid "Top"
+msgid "top"
+msgstr "Topo"
+
+#, fuzzy
+msgid "right"
+msgstr "Leve"
+
+#, fuzzy
+#| msgid "Bottom"
+msgid "bottom"
+msgstr "Embaixo"
+
+#, fuzzy
+#| msgid "To left"
+msgid "left"
+msgstr "Para a esquerda"
+
+msgid "Animations"
+msgstr "Animações"
+
+msgid "Effects"
+msgstr ""
+
+msgid "Shape divider"
+msgstr "Divisor de forma"
+
+msgid "Particle effect"
+msgstr "Efeito de partícula"
+
+msgid "Layer animations"
+msgstr "Animações de camada"
+
+msgid "Play on load"
+msgstr ""
+
+msgid ""
+"Plays the layer animations on the first slide when it appears for the first "
+"time."
+msgstr ""
+
+msgid "Play once"
+msgstr "Iniciar uma vez"
+
+msgid "Plays the layer animations only during the first loop."
+msgstr ""
+
+msgid "Play on"
+msgstr "Iniciar em"
+
+msgid "Main animation start"
+msgstr "Início da animação"
+
+msgid "Main animation end"
+msgstr "Final da animação"
+
+msgid "Mode"
+msgstr "Modo"
+
+msgid "Skippable"
+msgstr "Ignorável"
+
+msgid "Forced"
+msgstr "Forçado"
+
+msgid ""
+"You can make the outgoing layer animations, which don't have events, to play "
+"on slide switching."
+msgstr ""
+
+msgid "Layer parallax"
+msgstr ""
+
+msgid "Enable"
+msgstr "Habilitar"
+
+msgid "Animate"
+msgstr "Animar"
+
+msgid "Horizontal"
+msgstr "Horizontal"
+
+msgid "Mouse"
+msgstr "Mouse"
+
+msgid "Invert"
+msgstr "Invertido"
+
+msgid "Vertical"
+msgstr "Vertical"
+
+msgid "Scroll"
+msgstr "Rolagem"
+
+msgid "Mouse origin"
+msgstr "Origem do Mouse"
+
+msgid "Slider center"
+msgstr "Centro slider"
+
+msgid "Mouse enter position"
+msgstr "Mouse entra em posição"
+
+msgid "Scroll move"
+msgstr "Movimento de rolagem"
+
+msgid "Both"
+msgstr "Ambos"
+
+msgid "To bottom"
+msgstr "Para abaixo"
+
+msgid "To top"
+msgstr "Para o topo"
+
+msgid "Autoplay"
+msgstr "Reprodução automática"
+
+msgid "Slide duration"
+msgstr "Duração do slide"
+
+msgid "Autostart"
+msgstr "Começo automático"
+
+msgid "Allow restart"
+msgstr ""
+
+msgid ""
+"Keeps the autoplay control visible after the autoplay has finished to allow "
+"starting it again."
+msgstr ""
+
+msgid "Infinite loop"
+msgstr ""
+
+msgid "Finish autoplay"
+msgstr ""
+
+msgid "Stop on click"
+msgstr ""
+
+msgid "Stop on mouse"
+msgstr ""
+
+msgid "Enter"
+msgstr "Entrar"
+
+msgid "Leave"
+msgstr "Sair"
+
+msgid "Stop on media"
+msgstr ""
+
+msgid "Resume on click"
+msgstr ""
+
+msgid "Resume on mouse"
+msgstr ""
+
+msgid "Resume on media"
+msgstr ""
+
+msgid "Controls"
+msgstr "Controles"
+
+msgid "Drag"
+msgstr ""
+
+msgid "Defines the drag (and touch) direction for your slider."
+msgstr ""
+
+msgid "Mouse wheel"
+msgstr ""
+
+msgid "Allows switching slides with the mouse wheel."
+msgstr ""
+
+msgid "Keyboard"
+msgstr "Teclado"
+
+msgid "Allows switching slides with the keyboard."
+msgstr ""
+
+msgid "Developer"
+msgstr "Desenvolvedor"
+
+msgid "Block right click"
+msgstr "Bloquear clique com o botão direito"
+
+msgid "Block carousel"
+msgstr ""
+
+msgid ""
+"Stops the carousel at the last slide when the source of interaction is "
+"vertical touch, vertical pointer, mouse wheel or vertical keyboard."
+msgstr ""
+
+msgid "Clear before"
+msgstr ""
+
+msgid "Closes the unclosed float CSS codes before the slider."
+msgstr ""
+
+msgid "Clear after"
+msgstr ""
+
+msgid "Allows you to put your slider next to your text."
+msgstr ""
+
+msgid "Hide scrollbar"
+msgstr ""
+
+msgid ""
+"Your website won't be scrollable anymore! All out of screen elements will be "
+"hidden."
+msgstr ""
+
+msgid "Scroll to slider"
+msgstr ""
+
+msgid "The page scrolls back to the slider when the user interacts with it."
+msgstr ""
+
+msgid "Edge"
+msgstr ""
+
+msgid "Top - when needed"
+msgstr ""
+
+msgid "Top - always"
+msgstr ""
+
+msgid "Bottom - when needed"
+msgstr ""
+
+msgid "Bottom - always"
+msgstr ""
+
+msgid "Delayed (for lightbox/tabs)"
+msgstr "Atrasado (para lightbox/abas)"
+
+msgid ""
+"Delays the loading of the slider until its container gets visible. Useful "
+"when you display the slider in a lightbox or tab."
+msgstr ""
+
+msgid "Legacy font scale"
+msgstr ""
+
+msgid ""
+"This feature brings back the non-adaptive font size for absolute layers "
+"which were made before version 3.5. Turning on can affect website "
+"performance, so we suggest to keep it disabled.\n"
+msgstr ""
+
+msgid "Slider CSS classes"
+msgstr "Classes CSS do Slider"
+
+msgid "You can put custom CSS classes to the slider's container."
+msgstr ""
+
+msgid "JavaScript callbacks"
+msgstr "Callbacks de JavaScript"
+
+#, fuzzy
+#| msgid "Loading animation"
+msgid "Loading animation waiting time"
+msgstr "Carregando animação"
+
+msgid "Post IDs"
+msgstr "IDs de postagem"
+
+msgid "one per line"
+msgstr "Um por linha"
+
+msgid "The cache of the posts with the given ID will be cleared upon save."
+msgstr "O cache dos posts com o ID fornecido será apagado ao salvar."
+
+#, fuzzy
+#| msgid "Callback url"
+msgid "Fallback slider"
+msgstr "URL de retorno de chamada"
+
+#, fuzzy
+#| msgid "Alias"
+msgid "ID or Alias"
+msgstr "Alias"
+
+msgid ""
+"Select another slider by its ID or Alias that displays if your current "
+"slider has no published slides."
+msgstr ""
+
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+msgid "Slider thumbnail which appears in the slider list."
+msgstr ""
+
+msgid "ARIA label"
+msgstr ""
+
+msgid "It allows you to label your slider for screen readers."
+msgstr ""
+
+msgid "Alias"
+msgstr "Alias"
+
+msgid "You can use this alias in the slider's shortcode."
+msgstr ""
+
+msgid "Use as anchor"
+msgstr ""
+
+msgid ""
+"Creates an empty div before the slider, using the alias as the ID of this "
+"div. As a result, you can use #your-alias in the URL to make the page jump "
+"to the slider."
+msgstr ""
+
+msgid "Smooth scroll"
+msgstr ""
+
+msgid ""
+"The #your-alias urls in links would be forced to smooth scroll to the slider."
+msgstr ""
+
+msgid "Switch slide"
+msgstr ""
+
+msgid ""
+"Use #your-alias-2 as an anchor to jump to the slider and switch to the 2nd "
+"slide immediately. Use #your-alias-3 for the 3rd slide and so on."
+msgstr ""
+
+msgid "Scroll to slide"
+msgstr ""
+
+msgid ""
+"The \"Switch slide\" option won't scroll you to the slider. Only the slides "
+"will switch."
+msgstr ""
+
+msgid "Slider design"
+msgstr ""
+
+#, fuzzy
+#| msgid "Slide background image fill"
+msgid "Slider background image"
+msgstr "Preenchimento da imagem de fundo do slider"
+
+msgid "Fixed"
+msgstr "Fixo"
+
+msgid "Background video"
+msgstr ""
+
+msgid "Muted"
+msgstr "Mudo"
+
+msgctxt "Video/Audio play"
+msgid "Loop"
+msgstr ""
+
+msgid "Fill mode"
+msgstr "Modo de preenchimento"
+
+msgid "Align"
+msgstr "Alinhar"
+
+msgid "Puts a fix margin around your slider."
+msgstr ""
+
+msgid "Perspective"
+msgstr "Perspectiva"
+
+msgid "Optimize"
+msgstr "Otimizar"
+
+msgid "Loading"
+msgstr "Carregando"
+
+#, fuzzy
+#| msgid "Loading"
+msgid "Loading type"
+msgstr "Carregando"
+
+msgid "Instant"
+msgstr ""
+
+msgid "After page loaded"
+msgstr ""
+
+msgid "After delay"
+msgstr ""
+
+msgid ""
+"If your slider is above the fold, you can load it immediately. Otherwise, "
+"you can load it only after the page has loaded."
+msgstr ""
+
+msgid "Load delay"
+msgstr ""
+
+msgid "Play when visible"
+msgstr "Iniciar quando visível"
+
+msgid ""
+"Makes sure that the autoplay and layer animations only start when your "
+"slider is visible."
+msgstr ""
+
+msgid "At"
+msgstr "Em"
+
+#, fuzzy
+#| msgid "Slide background image fill"
+msgid "Slide background images"
+msgstr "Preenchimento da imagem de fundo do slider"
+
+msgid "Loading mode"
+msgstr ""
+
+msgid "Delayed loading"
+msgstr "Atrasado"
+
+msgid "Lazy loading"
+msgstr "Lento"
+
+msgid ""
+"You can speed up your site's loading by delaying the slide background images."
+msgstr ""
+
+msgid "Load neighbor"
+msgstr "Carregar vizinho"
+
+msgctxt "Unit"
+msgid "slides"
+msgstr ""
+
+#, php-format
+msgid ""
+"Convert to WebP and image resizing require a lot of memory. Lift the memory "
+"limit%s if you get a blank page."
+msgstr ""
+
+#, fuzzy
+#| msgid "Go to slide"
+msgid "Convert to WebP"
+msgstr "Ir para o slide"
+
+msgid "Resize"
+msgstr ""
+
+msgid "Quality"
+msgstr "Qualidade"
+
+#, fuzzy
+#| msgid "Default"
+msgid "Default width"
+msgstr "Padrão"
+
+#, fuzzy
+#| msgid "Medium Light"
+msgid "Medium width"
+msgstr "Média e clara"
+
+#, fuzzy
+#| msgid "Medium Light"
+msgid "Medium height"
+msgstr "Média e clara"
+
+#, fuzzy
+#| msgid "Full width"
+msgid "Small width"
+msgstr "Largura completa"
+
+#, fuzzy
+#| msgid "Small Light"
+msgid "Small height"
+msgstr "Pequena e clara"
+
+msgid "Retina"
+msgstr ""
+
+msgid "Instruction"
+msgstr ""
+
+msgid ""
+"If your images look blurry on small screens, use the available height option "
+"to match the aspect ratio of the slider and image on that device."
+msgstr ""
+
+#, fuzzy
+#| msgid "Thumbnail"
+msgid "Resize Thumbnail"
+msgstr "Miniatura"
+
+#, fuzzy
+#| msgid "Thumbnail"
+msgid "Thumbnail Quality"
+msgstr "Miniatura"
+
+msgid "Thumbnail width"
+msgstr ""
+
+msgid "Thumbnail height"
+msgstr ""
+
+#, fuzzy
+#| msgid "Layer List"
+msgid "Layer images"
+msgstr "Lista de Camada"
+
+msgid "Base64 embed"
+msgstr ""
+
+msgid "Embeds the layer images to the page source, reducing the requests."
+msgstr ""
+
+msgid "Max file size"
+msgstr ""
+
+msgid "Other"
+msgstr "Outro"
+
+msgid "JetPack Photon image optimizer"
+msgstr "JetPack Photon otimizador de imagens"
+
+msgid "Background video on mobile"
+msgstr ""
+
+msgid "Slider size"
+msgstr "Tamanho do slider"
+
+msgid "Limit slide width"
+msgstr "Limite de largura do slide"
+
+msgid ""
+"Limits the width of the slide and prevents the slider from getting too tall."
+msgstr ""
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Breakpoints"
+msgstr ""
+
+msgid ""
+"Breakpoints define the browser width in pixel when the slider switches to a "
+"different device."
+msgstr ""
+
+msgid "Global breakpoints"
+msgstr ""
+
+#, php-format
+msgid ""
+"You can use the global breakpoints, or adjust them locally here. You can "
+"configure the Global breakpoints at <a href=\"%1$s\" target=\"_blank"
+"\">Global settings</a> > General > Breakpoints"
+msgstr ""
+
+msgid "Custom size"
+msgstr ""
+
+#, php-format
+msgid ""
+"Use this option to customize the aspect ratio for each device. %1$s Read "
+"more in the documentation%2$s. <b>Beware:</b> This option is rarely needed "
+"and might be hard to set properly!"
+msgstr ""
+
+msgid "Slides"
+msgstr "Slides"
+
+msgid "Slides design"
+msgstr ""
+
+msgid "Slide background image fill"
+msgstr "Preenchimento da imagem de fundo do slider"
+
+msgid ""
+"If the size of your image is not the same as your slider's, you can improve "
+"the result with the filling modes."
+msgstr ""
+
+#, fuzzy
+#| msgid "Background color"
+msgid "Background Blur"
+msgstr "Cor de fundo"
+
+msgid "Randomize"
+msgstr "Aleatório"
+
+#, fuzzy
+#| msgid "Randomize"
+msgid "Randomize slides"
+msgstr "Aleatório"
+
+msgid "Randomize first"
+msgstr ""
+
+msgid "Cache support"
+msgstr "Suporte de cache"
+
+msgid "Cache variations"
+msgstr "Variações de cache"
+
+msgid "Reverse"
+msgstr ""
+
+msgid "You can make your slides appear in the slider in a reversed order."
+msgstr ""
+
+msgid "Max count"
+msgstr ""
+
+msgid ""
+"You can limit how many slides you want to show from your slider. It's best "
+"used with the Randomize feature, to improve the experience."
+msgstr ""
+
+msgid "Maintain session"
+msgstr ""
+
+msgid ""
+"The slider continues from the last viewed slide when the visitor comes back "
+"to the page."
+msgstr ""
+
+msgid "Backgrounds in lightbox"
+msgstr ""
+
+msgid ""
+"Creates a lightbox from your slide background images. This feature only "
+"works if all slides have background images."
+msgstr ""
+
+msgid "Show label"
+msgstr "Mostrar rótulo"
+
+msgid "Only slide name"
+msgstr "Apenas nome do slide"
+
+msgid "Slide name and description"
+msgstr "Nome e descrição do slide"
+
+msgid "Background parallax"
+msgstr ""
+
+msgid "Strength"
+msgstr "Força"
+
+msgid "Super soft"
+msgstr "Super Suave"
+
+msgid "Soft"
+msgstr "Suave"
+
+msgid "Strong"
+msgstr "Forte"
+
+msgid "Super strong"
+msgstr "Super Forte"
+
+msgid "Generator created."
+msgstr "Gerador criado."
+
+msgid "Generator updated and cache cleared."
+msgstr "Gerador atualizado e cache limpo."
+
+msgid "Generator group not found"
+msgstr ""
+
+msgid "Generator source not found"
+msgstr ""
+
+msgid "No records found for the filter"
+msgstr "Nenhum registro encontrado para o filtro"
+
+msgid "Authentication successful."
+msgstr "Autenticação bem sucedida."
+
+msgid "Not installed"
+msgstr "Não instalado"
+
+msgid "Visit"
+msgstr ""
+
+msgid "Add dynamic slides"
+msgstr "Adicionar slides dinâmicos"
+
+msgid "Configure"
+msgstr "Configurar"
+
+msgid "Add"
+msgstr "Adicionar"
+
+msgid "Generator"
+msgstr "Gerador"
+
+msgid "How to upgrade to Smart Slider 3 Pro?"
+msgstr ""
+
+#, php-format
+msgid ""
+"After making your purchase, %1$slog in to your account%3$s and download the "
+"Pro installer. To get started with Smart Slider 3 Pro, simply %2$sinstall it "
+"on your website%3$s."
+msgstr ""
+
+msgid "Download Pro"
+msgstr ""
+
+msgid ""
+"Feel free to remove the Free version, as you no longer need it. Your sliders "
+"will stay!"
+msgstr ""
+
+msgid "Ready to go Pro?"
+msgstr ""
+
+msgid "Supercharge Smart Slider 3 with powerful functionality!"
+msgstr ""
+
+msgid "Already purchased?"
+msgstr ""
+
+msgid "Get started with the Pro version now!"
+msgstr ""
+
+#, php-format
+msgid "Unable to connect to the API (%s)."
+msgstr "Não foi possível conectar a API (%s)."
+
+msgid "See <b>Debug Information</b> for more details!"
+msgstr "Veja <b>Informação de Debug</b> para mais detalhes!"
+
+msgid "Successful connection with the API."
+msgstr "Conectado com sucesso a API."
+
+msgid "Welcome to Help Center"
+msgstr ""
+
+msgid ""
+"To help you get started, we've put together a super tutorial video that "
+"shows you the basic settings."
+msgstr ""
+
+#, fuzzy
+#| msgid "Possible Conflicts"
+msgid "Possible conflicts"
+msgstr "Conflitos possíveis"
+
+#, fuzzy
+#| msgid "Post option"
+msgid "Test connection"
+msgstr "Opção do Post"
+
+msgid "No conflicts detected."
+msgstr ""
+
+msgid "Hello! How can we help you today?"
+msgstr ""
+
+msgid "Search in the knowledge base"
+msgstr "Pesquisar na base de conhecimento"
+
+msgid "Documentation"
+msgstr "Documentação"
+
+msgid ""
+"To get started with Smart Slider 3, please refer to this guide for "
+"downloading, installing, and using."
+msgstr ""
+"Para começar a usar o Smart Slider 3, consulte este guia para baixar, "
+"instalar e usar."
+
+msgid "Email support"
+msgstr "Suporte por email"
+
+msgid ""
+"Need one-to-one assistance? Get in touch with our Support team! We'd love "
+"the opportunity to help you."
+msgstr ""
+"Precisa de assistência individual? Entre em contato com nossa equipe de "
+"suporte! Adoraríamos a oportunidade de ajudá-lo."
+
+#, fuzzy
+#| msgid "Tutorial Videos"
+msgid "Tutorial videos"
+msgstr "Vídeos tutoriais"
+
+msgid ""
+"Check our video tutorials which cover everything you need to know about "
+"Smart Slider 3."
+msgstr ""
+"Confira nossos tutoriais em vídeo que cobrem tudo o que você precisa saber "
+"sobre o Smart Slider 3."
+
+msgid "Selected articles"
+msgstr ""
+
+#, fuzzy
+#| msgid "Debug Information"
+msgid "Debug information"
+msgstr "Informação de depuração"
+
+#, php-format
+msgid "%s or later"
+msgstr ""
+
+msgid "You are using an unsupported browser!"
+msgstr ""
+
+#, php-format
+msgid ""
+"Smart Slider 3 does not support your current browser for editing. Supported "
+"browsers are the following: %s."
+msgstr ""
+
+#, fuzzy
+#| msgid "Slider center"
+msgid "Help center"
+msgstr "Centro slider"
+
+msgid "Help"
+msgstr "Ajuda"
+
+msgid "Read more"
+msgstr "Leia mais"
+
+msgid "Need more?"
+msgstr ""
+
+msgid "Unlock all the pro features by upgrading to Smart Slider 3 Pro."
+msgstr ""
+
+msgid "Changelog"
+msgstr "Changelog"
+
+msgid "Check for update"
+msgstr ""
+
+msgid "Check"
+msgstr ""
+
+msgid "Your license is active"
+msgstr ""
+
+msgid "Deactivate license"
+msgstr "Desativar licença"
+
+msgid "Activate your license"
+msgstr ""
+
+msgid "Don’t miss any update"
+msgstr ""
+
+msgid "Let us know how we're doing"
+msgstr ""
+
+msgid ""
+"If you are happy with Smart Slider 3 and can take a minute please leave a "
+"review. This will help to spread its popularity and to make this plugin a "
+"better one."
+msgstr ""
+
+msgid "Rate your experience"
+msgstr ""
+
+msgid "Hated it"
+msgstr "Eu detestei isso"
+
+msgid "Disliked it"
+msgstr "Não gostei"
+
+msgid "It was ok"
+msgstr "Foi ok"
+
+msgid "Liked it"
+msgstr "Gostei"
+
+msgid "Loved it"
+msgstr "Amei"
+
+msgid "Why upgrade to Smart Slider 3 Pro?"
+msgstr ""
+
+#, php-format
+msgid "%d+ slider templates"
+msgstr ""
+
+msgid "Full slide library access"
+msgstr ""
+
+#, fuzzy, php-format
+#| msgid "Heading layer"
+msgid "%d new layers"
+msgstr "Camada de cabeçalho"
+
+msgid "Extra advanced options"
+msgstr ""
+
+msgid "New animations & effects"
+msgstr ""
+
+msgid "Lifetime update & support"
+msgstr ""
+
+msgid "Apply"
+msgstr "Aplicar"
+
+msgid "Back"
+msgstr ""
+
+msgid "Import"
+msgstr "Importar"
+
+msgid "Layers"
+msgstr ""
+
+msgid "Library"
+msgstr "Biblioteca"
+
+msgid "Absolute"
+msgstr ""
+
+msgctxt "Layer group"
+msgid "Basic"
+msgstr ""
+
+msgid "Inner align"
+msgstr "Alinhamento interno"
+
+msgid "Positions the layers inside horizontally."
+msgstr ""
+
+msgid "Vertical align"
+msgstr "Alinhamento vertical"
+
+msgid "Positions the layers inside vertically."
+msgstr ""
+
+msgid "Target window"
+msgstr "Janela de destino"
+
+msgid "Background image"
+msgstr "Imagem de fundo"
+
+msgid "Focus"
+msgstr "Foco"
+
+msgid ""
+"You can set the starting position of a background image. This makes sure "
+"that the selected part will always remain visible, so you should pick the "
+"most important part."
+msgstr ""
+
+msgid "Background"
+msgstr "Fundo"
+
+msgid "Gradient"
+msgstr "Gradiente"
+
+msgid "Color end"
+msgstr "Final de cor"
+
+msgid "Position"
+msgstr "Posição"
+
+msgid "The editing mode the layer is positioned in."
+msgstr ""
+
+msgid "Positions the layer horizontally within its parent."
+msgstr ""
+
+msgid "You can set a fix height for your layer."
+msgstr ""
+
+msgid "With margins you can create distance between your layers."
+msgstr ""
+
+msgid "Responsive"
+msgstr "Responsivo"
+
+msgid "Linked to"
+msgstr ""
+
+msgid ""
+"You can link your layer to another layer on the same level. This way your "
+"layer won't be positioned to the slide, but the other layer."
+msgstr ""
+
+msgid "Hide when variable empty"
+msgstr ""
+
+msgid "Text scale"
+msgstr ""
+
+msgid "Device specific settings"
+msgstr ""
+
+msgid "Clear"
+msgstr ""
+
+msgid "Erases all device specific changes you made on the current device."
+msgstr ""
+
+msgid "Effect"
+msgstr "Efeito"
+
+msgid "Parallax"
+msgstr "Parallax"
+
+msgid "More parallax options in slider settings -> Layer animations tab."
+msgstr ""
+"Mais opções de parallax nas configurações do slider -> guia Animações de "
+"camada."
+
+msgid "Crop"
+msgstr "Cortar"
+
+msgid "Mask"
+msgstr "mascarar"
+
+msgid "If your content is larger than the layer, you can crop it to fit."
+msgstr ""
+
+msgid "Rotation"
+msgstr "Rotação"
+
+msgid "CSS Class"
+msgstr "Classe CSS"
+
+msgid "You can add a custom CSS class on the layer container."
+msgstr ""
+
+#, fuzzy
+#| msgid "Tab background"
+msgid "Content background"
+msgstr "Fundo de guia"
+
+msgid "Spacing"
+msgstr "Espaçamento"
+
+msgid "Typography"
+msgstr ""
+
+msgid ""
+"You can select a font family from the preset, or type your custom family."
+msgstr ""
+
+msgid ""
+"Need to change the font size device specifically? Use the Text scale option."
+msgstr ""
+
+msgid "Columns"
+msgstr "Colunas"
+
+msgid "Gutter"
+msgstr "Calha"
+
+msgid "Creates space between the columns"
+msgstr ""
+
+msgid "Wrap after"
+msgstr "Embrulhar depois"
+
+msgid "Breaks the columns to the given amount of rows."
+msgstr ""
+
+msgid "Makes the row fill the available vertical space"
+msgstr ""
+
+#, fuzzy
+msgid "Slide title"
+msgstr "Título do Slide"
+
+msgid "Description"
+msgstr "Descrição"
+
+#, fuzzy
+#| msgid "Thumbnail"
+msgid "Thumbnail alt"
+msgstr "Miniatura"
+
+msgid "Custom lightbox image"
+msgstr "Imagem de lightbox personalizada"
+
+msgid "Published"
+msgstr "Publicados"
+
+msgid "Publish on"
+msgstr ""
+
+msgid "Unpublish on"
+msgstr ""
+
+msgid "Thumbnail type"
+msgstr ""
+
+msgid "Video"
+msgstr "Vídeo"
+
+msgid ""
+"If you have a video on your slide, you can put a play icon on the thumbnail "
+"image to indicate that."
+msgstr ""
+
+#, php-format
+msgid ""
+"Video autoplaying has a lot of limitations made by browsers. %1$sLearn about "
+"them.%2$s"
+msgstr ""
+
+#, fuzzy
+#| msgid "Slide background image fill"
+msgid "Slide background video"
+msgstr "Preenchimento da imagem de fundo do slider"
+
+msgid "Restart on slide change"
+msgstr ""
+
+msgid "Starts the video from the beginning when the slide is viewed again."
+msgstr ""
+
+#, fuzzy
+#| msgid "Slide background image fill"
+msgid "Slide background"
+msgstr "Preenchimento da imagem de fundo do slider"
+
+msgid ""
+"Select a background image for the slide. By clicking the small screen icon, "
+"you can pick different images for different devices."
+msgstr ""
+
+#, php-format
+msgid ""
+"Please read %1$sour detailed guide%2$s about setting your own slide "
+"background correctly."
+msgstr ""
+
+#, fuzzy
+#| msgid "Background color"
+msgid "Background blur"
+msgstr "Cor de fundo"
+
+msgid "Blur"
+msgstr "Borrão"
+
+msgid "Overlay"
+msgstr "Sobreposição"
+
+msgid "Puts the color in front of the image."
+msgstr ""
+
+msgid "SEO"
+msgstr ""
+
+#, fuzzy
+#| msgid "Image"
+msgid "Image alt"
+msgstr "Imagem"
+
+#, fuzzy
+#| msgid "Image mode"
+msgid "Image title"
+msgstr "Modo de imagem"
+
+msgctxt "Layer animation"
+msgid "In"
+msgstr ""
+
+msgctxt "Layer animation"
+msgid "Out"
+msgstr ""
+
+msgctxt "Layer animation"
+msgid "Events"
+msgstr ""
+
+msgid "Plays in when"
+msgstr "Tocam quando"
+
+msgid "Plays out when"
+msgstr "Tocar fora quando"
+
+msgid "Plays loop when"
+msgstr "Reproduz o loop quando"
+
+msgid "Pauses loop when"
+msgstr "Pausa o loop quando"
+
+msgid "Stops loop when"
+msgstr "Parar o loop quando"
+
+msgid "Repeatable"
+msgstr "Repetível"
+
+msgid "Allows the layer animations to play more than once."
+msgstr ""
+
+msgid "Start delay"
+msgstr "Atraso de início"
+
+msgid "End delay"
+msgstr "Fim do delay"
+
+msgid "Repeat loop only"
+msgstr "Repetir loop somente"
+
+msgid "Allows the stopped loop to start again."
+msgstr ""
+
+msgid "Trigger custom event on"
+msgstr "Acionar evento personalizado em"
+
+msgid "Click"
+msgstr "Clique"
+
+msgid "Mouse enter"
+msgstr "Mouse entrar"
+
+msgid "Mouse leave"
+msgstr "Mouse sair"
+
+msgid "Media started"
+msgstr "Mídia iniciada"
+
+msgid "Media paused"
+msgstr "Mídia pausada"
+
+msgid "Media stopped"
+msgstr "Mídia parada"
+
+msgid "Duration"
+msgstr "Duração"
+
+msgid "Delay"
+msgstr "Atraso"
+
+msgid "Easing"
+msgstr "Easing(Facilitando)"
+
+msgid "Offset"
+msgstr "offset(compensar)"
+
+msgid "Rotate"
+msgstr "Rotate(Girar)"
+
+msgid "Scale"
+msgstr "Scale(Escala)"
+
+msgid "Skew"
+msgstr "Inclinado"
+
+msgid "Transform origin"
+msgstr "Transformar a origem"
+
+msgid ""
+"Makes the last keyframe to be the origin of the layer animation, instead of "
+"its canvas position."
+msgstr ""
+
+#, fuzzy
+#| msgid "Repeat Count"
+msgid "Repeat count"
+msgstr "Repetir contagem"
+
+msgid "loops"
+msgstr "loops"
+
+msgid ""
+"You can restrict the loop to play only a certain amount of loops, instead of "
+"infinite."
+msgstr ""
+
+msgctxt "Animation"
+msgid "Slide"
+msgstr ""
+
+msgid "Curtains"
+msgstr "Curtains"
+
+msgid "Diagonal"
+msgstr "Diagonal"
+
+msgid "Circle"
+msgstr "Círculo"
+
+msgid "From"
+msgstr "A partir de"
+
+msgid "To"
+msgstr "Para"
+
+msgid "Fade"
+msgstr "Fade (aparecer/desaparecer)"
+
+msgid "Scale up"
+msgstr "Scale up(Escala Acima)"
+
+msgid "Scale down"
+msgstr "Scale Down(Escala Abaixo)"
+
+msgid "Static overlay"
+msgstr "Sobreposição estática"
+
+msgid "First slide"
+msgstr "Primeiro slide"
+
+msgid "Unpublished"
+msgstr "Não publicado"
+
+msgid "Bulk actions"
+msgstr ""
+
+msgid "Select all"
+msgstr "Selecionar tudo"
+
+msgid "Select none"
+msgstr "Selecionar nenhum"
+
+msgid "Select published"
+msgstr "Selecionar publicado"
+
+msgid "Select unpublished"
+msgstr "Selecionar não publicado"
+
+msgid "Blank"
+msgstr ""
+
+msgid "Post"
+msgstr "Postagem"
+
+msgid "Dynamic slides"
+msgstr ""
+
+msgid "Add slide"
+msgstr "Adicionar Slide"
+
+msgid "Block must contain only one slide. Need more?"
+msgstr ""
+
+msgid "Convert to slider"
+msgstr ""
+
+#, fuzzy
+#| msgid "Slide down"
+msgid "Slide one"
+msgstr "Slide down"
+
+#, fuzzy
+#| msgid "Slide to top"
+msgid "Slide two"
+msgstr "Deslize para cima"
+
+#, fuzzy
+#| msgid "Desktop image is empty!"
+msgid "Drop images here"
+msgstr "Imagem para Desktop está vazia!"
+
+#, fuzzy
+#| msgid "Search results only"
+msgid "Search Project"
+msgstr "Apenas resultados da busca"
+
+#, fuzzy
+#| msgid "View records"
+msgid "View trash"
+msgstr "Visualizar registros"
+
+msgid "Order by"
+msgstr "Ordenar por"
+
+msgid "Manual order"
+msgstr "Ordem manual"
+
+msgid "A-Z"
+msgstr "A-Z"
+
+msgid "Z-A"
+msgstr "Z-A"
+
+#, fuzzy
+#| msgid "Newest First"
+msgid "Newest first"
+msgstr "Novos primeiro"
+
+#, fuzzy
+#| msgid "Oldest First"
+msgid "Oldest first"
+msgstr "Antigos primeiro"
+
+msgid "Export"
+msgstr "Exportar"
+
+#, fuzzy
+#| msgid "Showcase"
+msgid "Show"
+msgstr "Mostruário"
+
+#, php-format
+msgid "Showing %s to %s of %s projects"
+msgstr ""
+
+msgid "No projects to show"
+msgstr ""
+
+msgid "New project"
+msgstr ""
+
+msgid "Sorry we couldn’t find any matches"
+msgstr ""
+
+msgid "Please try searching with another term."
+msgstr ""
+
+#, php-format
+msgid "Showing %s results for %s."
+msgstr ""
+
+msgid "Module"
+msgstr "Módulo"
+
+msgid "Displays the slider in a template module position."
+msgstr ""
+
+msgid "Create module"
+msgstr ""
+
+msgid "Related modules"
+msgstr ""
+
+msgid "Articles"
+msgstr "Artigos"
+
+msgid "Paste the code into article:"
+msgstr "Cole o código no artigo:"
+
+msgid "PHP code"
+msgstr "Código PHP"
+
+msgid "Paste the PHP code into source code:"
+msgstr "Cole o código PHP no código fonte:"
+
+msgid "Shortcode"
+msgstr "Código de atalho"
+
+msgid "Copy and paste this shortcode into your posts or pages:"
+msgstr "Copie e cole este código de atalho em suas postagens ou páginas:"
+
+msgid "Pages and Posts"
+msgstr ""
+
+#, php-format
+msgid "Smart Slider 3 has integration with %s."
+msgstr ""
+
+msgid "Paste the PHP code into your theme's file:"
+msgstr "Cole o código PHP no arquivo do seu tema:"
+
+msgid "Trash is empty."
+msgstr ""
+
+msgid "Restore"
+msgstr ""
+
+msgid "Toggle orientation"
+msgstr ""
+
+msgid "Reload preview"
+msgstr ""
+
+msgid "Open preview in full"
+msgstr ""
+
+msgid "State"
+msgstr ""
+
+msgid "Reason"
+msgstr ""
+
+msgid "Framework"
+msgstr ""
+
+msgid "Fonts"
+msgstr "Fontes"
+
+msgid "Layer defaults"
+msgstr ""
+
+msgid "Generators"
+msgstr ""
+
+msgid "Saved and slider cache invalidated."
+msgstr "Cache salvo e slider invalidado."
+
+msgid "Cache cleared."
+msgstr "Cache limpo."
+
+msgid "Clear cache"
+msgstr "Limpar cache"
+
+#, fuzzy
+#| msgid "Clear cache"
+msgid "Clear cache options"
+msgstr "Limpar cache"
+
+msgid "Delete resized image cache"
+msgstr ""
+
+#, php-format
+msgid "If enabled the following folder will be <b>permanently deleted</b>: %s"
+msgstr ""
+
+msgid "Configuration"
+msgstr "Configuração"
+
+#, php-format
+msgid ""
+"Here you can configure the default font your layers have, and the dropdown "
+"list of the fonts. Google Fonts are recognized automatically, but you can "
+"use your own custom fonts, too. %1$sLearn how to do that.%2$s"
+msgstr ""
+
+msgid "Default family"
+msgstr "Família padrão"
+
+msgid "This font family is used for the newly added layers."
+msgstr ""
+
+msgid "Preset font families"
+msgstr "Famílias de fontes predefinidas"
+
+msgid "These font families appear in the dropdown list."
+msgstr ""
+
+msgid "Use protocol-relative URL"
+msgstr "Use a URL relativo ao protocolo"
+
+msgid "Loads the URLs without a http or https protocol."
+msgstr ""
+
+msgid "Header preload"
+msgstr ""
+
+msgid ""
+"If the slider is an important part of your site, tell the browser to preload "
+"its files."
+msgstr ""
+
+msgid "English UI"
+msgstr ""
+
+msgid ""
+"You can keep using Smart Slider 3 in English, even if your backend isn't in "
+"English."
+msgstr ""
+
+msgid "Improved frontend accessibility"
+msgstr "Acessibilidade de frontend aprimorada"
+
+msgid ""
+"Keeps the clicked element (like a button) in focus unless the focus is "
+"changed by clicking away."
+msgstr ""
+
+msgid "Script attributes"
+msgstr "Atributos do script"
+
+msgid "Slider's inline JavaScript"
+msgstr "JavaScript embutido no Slider"
+
+msgid "Head"
+msgstr "Cabeçalho"
+
+msgid "Into the slider"
+msgstr "No slider"
+
+msgid "Async non-primary CSS"
+msgstr ""
+
+msgid ""
+"Google Fonts, icon and lightbox CSS are loaded in a non-blocking way. "
+"Disable if you see missing icons, fonts or styles."
+msgstr ""
+
+msgid "Load Font Awesome 4"
+msgstr ""
+
+msgid "API requests"
+msgstr "Solicitações de API"
+
+#, php-format
+msgctxt "Curl"
+msgid "Use %s"
+msgstr ""
+
+#, fuzzy, php-format
+#| msgid "Clean HTML"
+msgctxt "curl proxy"
+msgid "Clean %s"
+msgstr "Limpar o HTML"
+
+msgid "General settings"
+msgstr "Configurações Gerais"
+
+msgid "Automatic update check"
+msgstr "Verificação de atualização automática"
+
+msgid "Alternative save slide"
+msgstr ""
+
+msgid ""
+"If you experience problems during the save this option might solve them."
+msgstr ""
+
+msgid "Preview in new window"
+msgstr ""
+
+msgid "Lightbox videos in new tab on Mobile"
+msgstr ""
+
+msgid ""
+"Opens the lightbox videos in the YouTube app to avoid the mobile disabling "
+"the video."
+msgstr ""
+
+msgid "YouTube and Vimeo privacy enhanced mode"
+msgstr ""
+
+msgid "Smooth scroll speed"
+msgstr "Velocidade de rolagem suave"
+
+msgid "Editor - additional CSS files"
+msgstr "Editor - arquivos adicionais CSS"
+
+msgid ""
+"You can call your own CSS files to our backend, for example, to be able to "
+"use custom fonts. Write each URL to a new line."
+msgstr ""
+
+#, fuzzy
+#| msgid "Font settings"
+msgid "WordPress settings"
+msgstr "Ajustes de Fonte"
+
+msgid "Show editor icon"
+msgstr "Mostrar ícone do editor"
+
+msgid "Show in admin bar"
+msgstr ""
+
+msgid "YOAST SEO sitemap - add images"
+msgstr "YOAST SEO sitemap - adicionar imagens"
+
+msgid "Create widget area"
+msgstr ""
+
+msgid "widget area(s)"
+msgstr ""
+
+msgid ""
+"Creates new widget areas which you can place to your theme for easy "
+"publishing."
+msgstr ""
+
+msgid "Use iframe in AJAX calls"
+msgstr ""
+
+msgid ""
+"Loads the slider using an iframe when the page is loaded via AJAX to avoid "
+"problems."
+msgstr ""
+
+msgid "Joomla settings"
+msgstr ""
+
+msgid "Force RTL backend"
+msgstr ""
+
+msgid "Run content plugins on sliders"
+msgstr "Executar plugins de conteúdo nos sliders"
+
+msgid "Exclude plugins"
+msgstr "Excluir plugins"
+
+msgid ""
+"At each slider you can override the global breakpoints with local values."
+msgstr ""
+
+msgid "Focus offset"
+msgstr ""
+
+msgid ""
+"This option is used at the full page layout to decrease the slider height. "
+"The \"Scroll to slider\" option also uses this option to determine where to "
+"scroll the slider."
+msgstr ""
+
+msgid "Translate url"
+msgstr "Traduzir url"
+
+msgid ""
+"You can change the frontend URL our assets are loading from. It can be "
+"useful after moving to a new domain."
+msgstr ""
+
+msgid "The old URL you want to replace. E.g. https://oldsite.com/"
+msgstr ""
+
+msgid "The new URL you want to use. E.g. https://newsite.com"
+msgstr ""
+
+#, fuzzy
+#| msgid "Slider created."
+msgid "Slider restored."
+msgstr "Slider criado."
+
+#, fuzzy
+#| msgid "Slider deleted."
+msgid "Slider permanently deleted."
+msgstr "Slider excluído."
+
+msgid "Slider created."
+msgstr "Slider criado."
+
+msgid "Slider renamed."
+msgstr ""
+
+msgid "Slider saved."
+msgstr "Slider salvo."
+
+#, php-format
+msgid "Import url is not valid: %s"
+msgstr "URL de importação não é válido: %s"
+
+msgid "License key required for premium features!"
+msgstr "Chave de licença necessária para recursos premium!"
+
+msgid "Slider imported."
+msgstr "Slider importado."
+
+msgid "Import error!"
+msgstr "Erro de importação!"
+
+msgid "Slide duplicated."
+msgstr "Slide duplicado."
+
+#, php-format
+msgid "%s slider type is not available."
+msgstr ""
+
+msgid "Groups are only available in the Pro version."
+msgstr ""
+
+msgid "Slider moved to the trash."
+msgstr ""
+
+msgid "Slider removed from the group."
+msgstr ""
+
+msgid "Slider duplicated."
+msgstr "Slider duplicado."
+
+msgid "Slider settings"
+msgstr ""
+
+msgid "Delete slider"
+msgstr ""
+
+msgid "Edit slide"
+msgstr ""
+
+msgid "Delete slide"
+msgstr ""
+
+msgid "Ordering"
+msgstr "Encomenda"
+
+msgid "Video url"
+msgstr ""
+
+msgid "Actions"
+msgstr "Ações"
+
+#, php-format
+msgid "Export %1$s as HTML"
+msgstr ""
+
+msgid "Duplicate slider"
+msgstr "Duplicar slider"
+
+msgid "Simple edit"
+msgstr ""
+
+msgid "Slider order saved."
+msgstr "Ordem do controle deslizante salva."
+
+msgid "Slider(s) moved to the trash."
+msgstr ""
+
+msgid "Slider(s) removed from the group."
+msgstr ""
+
+msgid "Slider(s) deleted permanently from the trash."
+msgstr ""
+
+#, php-format
+msgid ""
+"Your server has an upload file limit at %s, so if you have bigger export "
+"file, please use the local import file method."
+msgstr ""
+"Seu servidor tem um limite de arquivo de upload em %s, por isso, se você "
+"tiver um arquivo de exportação maior, use o método do arquivo de importação "
+"local."
+
+msgid "You have to unzip your "
+msgstr "Você precisa extrair (unzip) seu "
+
+msgid "Only *.ss3 files can be uploaded!"
+msgstr ""
+
+msgid "The imported file is not readable!"
+msgstr "O arquivo importado não é legível!"
+
+msgid "Go to dashboard"
+msgstr ""
+
+msgid "Welcome to Smart Slider 3"
+msgstr ""
+
+msgid "Don't show again"
+msgstr ""
+
+msgid "Import project"
+msgstr ""
+
+msgid "You can upload *.ss3 files which were exported by Smart Slider 3."
+msgstr ""
+
+msgid "Local import"
+msgstr "Importação local"
+
+msgid "Upload file"
+msgstr ""
+
+#, php-format
+msgid ""
+"Your server's upload filesize limitation is %s, so if your file is bigger, "
+"use the local import."
+msgstr ""
+
+msgid "File"
+msgstr "Arquivo"
+
+#, php-format
+msgid "Files with <i>.ss3</i> extension are listed from: %s"
+msgstr ""
+
+msgid "Delete file"
+msgstr ""
+
+msgid "Removes the selected .ss3 file from your sever after the import."
+msgstr ""
+
+msgid "Restore slider"
+msgstr "Restaurar slider"
+
+msgid ""
+"The imported slider will have the same ID as the original export has. If you "
+"have a slider with the same ID, it will be overwritten."
+msgstr ""
+
+msgid "Image mode"
+msgstr "Modo de imagem"
+
+msgid "Clone"
+msgstr "Clone"
+
+msgid "Old site url"
+msgstr "URL do site antigo"
+
+msgid "Original"
+msgstr "Original"
+
+msgid "You can choose how the slide images are loaded."
+msgstr ""
+
+#, fuzzy
+#| msgid "Trashed"
+msgid "Trash"
+msgstr "Lixeira"
+
+#, fuzzy
+#| msgid "Empty"
+msgid "Empty trash"
+msgstr "Vazio"
+
+msgid "Slide saved."
+msgstr "Slide salvo."
+
+#, php-format
+msgid "%d static slides generated."
+msgstr "%d slides estáticos gerados"
+
+msgid "Slide renamed."
+msgstr ""
+
+msgid "First slide changed."
+msgstr "Primeiro slide alterado."
+
+msgid "Static overlay converted to slide."
+msgstr ""
+
+msgid "Slide published."
+msgstr "Slide publicado."
+
+msgid "Slide unpublished."
+msgstr "Slide não publicado."
+
+msgid "Slide order saved."
+msgstr "Ordem de slides salvo."
+
+msgid "Slide(s) copied."
+msgstr "Slide(s) copiado."
+
+msgid "Slide deleted."
+msgstr "Slide excluído."
+
+msgid "Slides created."
+msgstr ""
+
+#, fuzzy
+#| msgid "Slide created."
+#| msgid_plural "Slides created."
+msgid "Slide created."
+msgstr "Slide criado."
+
+msgid "Failed to create slides."
+msgstr ""
+
+msgid "Static save"
+msgstr "Salvar estática"
+
+msgid "Generator settings"
+msgstr "Configurações do gerador"
+
+msgid "Cache expiration"
+msgstr "Expiração do cache"
+
+msgid "Hours"
+msgstr "Horas"
+
+msgid "Start index"
+msgstr "Índice inicial"
+
+msgid "Group result"
+msgstr "Resultado do grupo"
+
+msgid "Smart Slider 3 deactivated on this site!"
+msgstr ""
+
+msgid "New slider"
+msgstr "Novo slider"
+
+msgid "Alias removed"
+msgstr "Alias removido"
+
+msgid "Alias must contain one or more letters"
+msgstr "O alias deve conter uma ou mais letras"
+
+#, php-format
+msgid "Alias updated to: %s"
+msgstr "Alias atualizado para: %s"
+
+#, fuzzy
+#| msgid "Background image"
+msgid "Background animation"
+msgstr "Imagem de fundo"
+
+msgid "Animation type"
+msgstr ""
+
+msgid "The importing failed at the unzipping part."
+msgstr "A importação falhou na parte de descompactação."
+
+msgid "You can't import sliders from Smart Slider 2."
+msgstr "Você não pode importar slides do Smart Slider 2."
+
+msgid "Export file corrupted! Slider data is missing."
+msgstr ""
+
+msgid "Learn more"
+msgstr "Saber mais"
+
+#, php-format
+msgid "Increase %1$s in php.ini to 1000 or more. Current value: %2$s"
+msgstr ""
+
+#, php-format
+msgid ""
+"Decrease %1$s below 15 in php.ini to prevent fatal errors on plugin updates. "
+"Current value: %2$s"
+msgstr ""
+
+msgid "Unable to connect to the API"
+msgstr "Não foi possível conectar a API"
+
+msgid "MySQL table missing"
+msgstr "Tabela MySQL faltando"
+
+msgid "Your theme uses an outdated MooTools library which is not compatible."
+msgstr ""
+
+msgid ""
+"JCH Optimize could have a conflict with Smart Slider's Global settings -> "
+"Framework settings -> Async Non-Primary CSS. If your Google fonts are not "
+"loading, turn this option off."
+msgstr ""
+
+msgid ""
+"This plugin breaks JavaScript in the admin area, deactivate it and use "
+"alternative plugin."
+msgstr ""
+"Este plugin quebra o JavaScript na área de administração, desativa-o e usa "
+"um plugin alternativo."
+
+msgid ""
+"This plugin breaks Smart Slider 3 ajax calls if custom admin url enabled."
+msgstr ""
+"Esse plugin interrompe as chamadas do ajax do Smart Slider 3 se o URL de "
+"administrador personalizado estiver ativado."
+
+msgid "This plugin adds a background image to every SVG and breaks SSL."
+msgstr "Este plugin adiciona uma imagem de fundo a cada SVG e quebra o SSL."
+
+msgid "This plugin has a JavaScript error which might break Smart Slider."
+msgstr "Esse plugin tem um erro de JavaScript que deve travar o Smart Slider"
+
+#, php-format
+msgid ""
+"This plugin breaks the filtering options of the dynamic slide generators "
+"when %1$s is set to %2$s. Also it has not received any updates since "
+"WordPress 3.9."
+msgstr ""
+
+msgid "Add column"
+msgstr ""
+
+msgid "Year"
+msgstr "Ano"
+
+msgid "Month"
+msgstr "Mês"
+
+msgid "Day"
+msgstr "Dia"
+
+msgid "Hour"
+msgstr "Hora"
+
+msgid "Minute"
+msgstr "Ata"
+
+msgid "Stack"
+msgstr "Pilha"
+
+msgid "No description."
+msgstr ""
+
+#, fuzzy
+#| msgid "Folder not found."
+msgid "Generator not found"
+msgstr "Pasta não encontrada."
+
+msgid "Test generator."
+msgstr ""
+
+msgid "Generator type not found"
+msgstr ""
+
+#, php-format
+msgid "%1$s generator missing the following source: %2$s"
+msgstr "%1$s gerador faltando a seguinte fonte: %2$s"
+
+msgid "Joomla articles"
+msgstr "Artigos Joomla"
+
+msgid "Creates slides from your Joomla articles or categories."
+msgstr ""
+
+msgid "Article"
+msgstr "Artigo"
+
+msgid "Category"
+msgstr "Categoria"
+
+msgid "Creates slides from your Joomla articles in the selected categories."
+msgstr ""
+
+msgid "Tags"
+msgstr "Tags"
+
+msgid "Featured"
+msgstr "Destaque"
+
+msgid "User ID"
+msgstr "ID do usuário"
+
+msgid "Language"
+msgstr "Língua"
+
+msgid "Extra variables"
+msgstr "Variáveis extras"
+
+msgid "Turn on these options to generate more variables for the slides."
+msgstr ""
+
+msgid "Date format"
+msgstr "Formato de data"
+
+msgid "Time format"
+msgstr "Formato da hora"
+
+msgid "Translate date and time"
+msgstr "Traduzir data e hora"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "User name"
+msgstr "Nome de Usuário"
+
+msgid "Hits"
+msgstr "sucesso"
+
+msgid "Creation time"
+msgstr "Tempo de criação"
+
+msgid "Modification time"
+msgstr "Tempo de modificação"
+
+msgid "Publish time"
+msgstr ""
+
+msgid "Featured article ordering"
+msgstr "Encomenda de artigos em destaque"
+
+msgid "View article"
+msgstr ""
+
+msgid ""
+"Creates slides from your Joomla categories. (Not the articles inside them.)"
+msgstr ""
+
+msgid "Parent category"
+msgstr "Categoria Pai"
+
+msgid "View category"
+msgstr ""
+
+msgid "Nothing"
+msgstr "Nada"
+
+#, php-format
+msgid "Creates slides from %1$s."
+msgstr ""
+
+msgid "Posts by filter"
+msgstr "Postagens por filtro"
+
+msgid "Posts by IDs"
+msgstr "Postagens por IDs"
+
+msgid "Custom"
+msgstr "personalizada"
+
+msgid "All custom posts"
+msgstr "Todas as postagens personalizadas"
+
+msgid "Creates slides from the posts of all your post types."
+msgstr ""
+
+msgid "Post types"
+msgstr "Tipos de Postagem"
+
+msgid "Taxonomies"
+msgstr "Taxonomias"
+
+msgid "Post IDs to display"
+msgstr ""
+
+#, php-format
+msgid ""
+"You can make your generator display only the posts with the set ID. No other "
+"post will be fetched, even if they match the set filters. %1$s Write one ID "
+"per line."
+msgstr ""
+
+msgid "Sticky"
+msgstr "Sticky_(pegajoso)"
+
+msgid "Post status"
+msgstr "status da Postagem"
+
+msgid "Post meta comparison"
+msgstr ""
+
+msgid "Field name"
+msgstr "Nome do campo"
+
+msgid ""
+"Only show posts, where the given meta key is equal to the given meta value."
+msgstr ""
+"Mostrar apenas postagens, onde a meta-chave fornecida é igual ao valor meta "
+"fornecido."
+
+msgid "Compare method"
+msgstr "Compare o método"
+
+msgid "Field value"
+msgstr "Valor do campo"
+
+msgid "Meta comparison"
+msgstr ""
+
+msgid ""
+"Same as the previous option, just you can write down more comparisons. Read "
+"the \"Field name\" and \"Compare method\" out from the previous option. "
+"Example:"
+msgstr ""
+
+msgid "Post date"
+msgstr "Data de postagem"
+
+msgid "Modification date"
+msgstr "Modificação de data"
+
+msgid "Random"
+msgstr "Aleatório"
+
+msgid "Given IDs"
+msgstr "IDs fornecidos"
+
+msgid "Menu order"
+msgstr "Ordem do menu"
+
+#, php-format
+msgid "Creates slides from the following post type: %1$s."
+msgstr ""
+
+msgid "Relation"
+msgstr "Relação"
+
+msgid "Exclude posts"
+msgstr "Excluir postagens"
+
+#, php-format
+msgid ""
+"The selected post IDs won't appear in the generator, even if they they match "
+"the set filters. %1$s Write one ID per line."
+msgstr ""
+
+#, php-format
+msgid ""
+"You can create other comparison based on the previous \"Field name\" and "
+"\"Compare method\" options. %1$s Use the following format: published||=||yes "
+"%1$s Write one comparison per line."
+msgstr ""
+
+msgid "Post option"
+msgstr "Opção do Post"
+
+msgid ""
+"Posts can have options, like a post can be \"sticky\" or not. You can choose "
+"to only display posts, which are selected to be IN or NOT IN this option."
+msgstr ""
+
+msgid "Post relationship with selected option"
+msgstr "Relação do Post com a opção selecionada"
+
+msgid "Date configuration"
+msgstr ""
+
+msgid "Identify datetime"
+msgstr "Identifique a data e hora"
+
+msgid "Our system tries to identify the date and time in your variables."
+msgstr ""
+
+msgid "Datetime format"
+msgstr "Formato de data e hora"
+
+#, php-format
+msgid "You can use any %1$sPHP date format%2$s."
+msgstr ""
+
+msgid "Translate dates"
+msgstr "Traduzir datas"
+
+#, php-format
+msgid ""
+"Write one per line in the following format: from||to %1$s E.g.: Monday||"
+"Montag"
+msgstr ""
+
+msgid "Replace variables"
+msgstr ""
+
+msgid "Timestamp variables"
+msgstr ""
+
+msgid "Replace timestamp variables"
+msgstr ""
+
+#, php-format
+msgid ""
+"The \"Datetime format\" will be used to create dates from the given "
+"timestamp containing variables. %1$s Separate them with comma."
+msgstr ""
+
+msgid "File variables"
+msgstr ""
+
+msgid "Replace file variables"
+msgstr ""
+
+#, php-format
+msgid ""
+"If you have IDs of files, you can replace those variables with the urls of "
+"the files instead. %1$s Separate them with comma."
+msgstr ""
+
+msgid "Remove duplicate results"
+msgstr ""
+
+msgid ""
+"You can remove results based on one variable's uniqueness. For example if "
+"you want the images to be unique, you could write the \"image\" variable "
+"into this field (without quotemarks)."
+msgstr ""
+
+msgid "Custom field name"
+msgstr "Nome do campo personalizado"
+
+msgid "If it's set, this will be used instead of the 'Field' value."
+msgstr ""
+
+msgid "Numeric"
+msgstr "Numérico"
+
+msgid "Alphabetic"
+msgstr "Alfabético"
+
+msgid "Creates slides from your posts in the selected categories."
+msgstr ""
+
+msgid "Categories"
+msgstr "Categorias"
+
+msgid "Remove shortcodes"
+msgstr "Remover códigos de atalho (shortcodes)"
+
+msgid ""
+"You can remove shortcodes from variables to avoid 3rd party content "
+"rendering in your slider."
+msgstr ""
+
+msgid "Remove from variables"
+msgstr ""
+
+msgid ""
+"Write the name of the variables you want to remove the shortcodes from. "
+"Separate new variables with a comma and space. E.g. description, content"
+msgstr ""
+
+msgid "Custom date variables"
+msgstr ""
+
+#, php-format
+msgid ""
+"You can create custom date variables from your existing date variables. "
+"Write each variable to a new line and use the following format: variable||"
+"format. %3$s The \"variable\" should be an existing variable. Based on this "
+"existing variable, we create a new one with the \"_datetime\" suffix. (E.g. "
+"date_datetime.) %3$s The \"format\" can be any %1$sPHP date format%2$s."
+msgstr ""
+
+msgid "Translate custom dates"
+msgstr ""
+
+#, php-format
+msgid ""
+"You can translate the content of the newly created variables. %1$s Use the "
+"following format: from||to. Eg.: Monday||Montag"
+msgstr ""
+
+msgid "Date function"
+msgstr "Função de data"
+
+msgid ""
+"This function will be used to format these custom date variables. Usually "
+"the date_i18n works, but if your date will be off a little bit, then try out "
+"the other one."
+msgstr ""
+"Essa função será usada para formatar essas variáveis de data personalizadas. "
+"Normalmente o date_i18n funciona, mas se o seu encontro for um pouco "
+"diferente, experimente o outro."
+
+msgid "Comment count"
+msgstr "Contagem de comentários"
+
+msgid "Creates slides from the posts with the set IDs."
+msgstr ""
+
+msgid "Post or Page IDs"
+msgstr ""
+
+#, php-format
+msgid ""
+"You can write the ID of the page you want to show in your generator. %1$s "
+"Write one ID per line."
+msgstr ""
+
+msgid "Whole group"
+msgstr "Todo grupo"
+
+#, fuzzy
+#| msgid "Select slider"
+msgid "Select Slider"
+msgstr "Selecione o Slider"
+
+msgid "OR"
+msgstr "OU"
+
+msgid "Insert a slider into your content"
+msgstr ""
+
+msgid "Select the slider you want to insert."
+msgstr ""
+
+msgctxt "Button layer default text"
+msgid "MORE"
+msgstr ""
+
+msgid "Label"
+msgstr "Rótulo"
+
+msgid "No wrap"
+msgstr "No wrap"
+
+msgid "Prevents the text from breaking into more lines"
+msgstr ""
+
+msgid "Rel"
+msgstr "Rel"
+
+#, php-format
+msgid ""
+"Enter the %1$s rel attribute %2$s that represents the relationship between "
+"the current document and the linked document. Multiple rel attributes can be "
+"separated with space. E.g. nofollow noopener noreferrer"
+msgstr ""
+
+msgid "Icon"
+msgstr "Ícone"
+
+msgid "Placement"
+msgstr "Colocação"
+
+#, php-format
+msgid "Class on the %s element."
+msgstr ""
+
+msgid "Heading layer"
+msgstr "Camada de cabeçalho"
+
+msgid "Text animation"
+msgstr ""
+
+msgid "Incoming"
+msgstr ""
+
+msgid "Outgoing"
+msgstr ""
+
+msgid "Backface visibility"
+msgstr "Visibilidade Backface"
+
+#, php-format
+msgid "Fix width for the %1$s."
+msgstr ""
+
+#, php-format
+msgid "Fix height for the %1$s."
+msgstr ""
+
+msgid "Alt tag"
+msgstr "Alt tag"
+
+msgid "Optimize image"
+msgstr "Otimizar imagem"
+
+msgid ""
+"You can turn off the Layer image optimization for this image, to resize it "
+"for tablet and mobile."
+msgstr ""
+
+msgctxt "Layer group"
+msgid "Special"
+msgstr "Especial"
+
+msgctxt "Layer group"
+msgid "Media"
+msgstr "Mídia"
+
+msgctxt "Layer group"
+msgid "Advanced"
+msgstr "Avançado"
+
+msgctxt "Layer"
+msgid "Missing"
+msgstr ""
+
+#, php-format
+msgid "Missing layer type: %s"
+msgstr ""
+
+msgid "Custom text for tablet"
+msgstr ""
+
+msgid "Tablet text"
+msgstr "Texto comprimido"
+
+msgid "Custom text for mobile"
+msgstr ""
+
+msgid "Mobile text"
+msgstr "Texto móvel"
+
+msgid "Vimeo url or Video ID"
+msgstr "url Vimeo ou ID Vídeo"
+
+msgid "Cover image"
+msgstr "Imagem da capa"
+
+msgid "Aspect ratio"
+msgstr ""
+
+msgid "Fill layer height"
+msgstr ""
+
+msgid "Set on Style tab."
+msgstr ""
+
+msgid "Video settings"
+msgstr ""
+
+msgid "When ended"
+msgstr ""
+
+msgid "Do nothing"
+msgstr ""
+
+msgid "Go to next slide"
+msgstr ""
+
+msgid "Start time"
+msgstr "Hora de início"
+
+msgid "Volume"
+msgstr "Volume"
+
+msgid "Mute"
+msgstr "Mudo"
+
+msgid "Pause on scroll"
+msgstr "Pausar na rolagem"
+
+msgid "Never"
+msgstr "Nunca"
+
+msgid "When partly visible"
+msgstr "Quando parcialmente visível"
+
+msgid "When not visible"
+msgstr "Quando não visível"
+
+msgid "You can pause the video when the visitor scrolls away from the slider"
+msgstr ""
+
+msgid "Display"
+msgstr "Exibição"
+
+msgid "Only works on videos of Vimeo Pro users."
+msgstr ""
+
+msgid "Remove controls"
+msgstr "Remover controles"
+
+msgid ""
+"Removes the controls of the video, but it only works on videos of Vimeo Pro "
+"users."
+msgstr ""
+
+msgid "Hides the title of the video, but only if video owner allows it."
+msgstr ""
+
+msgid "Users byline"
+msgstr "Usuários por linha"
+
+msgid ""
+"Hides the user's byline of the video, but only if video owner allows it."
+msgstr ""
+
+msgid ""
+"Hides the profile image of the author, but only if video owner allows it. "
+msgstr ""
+
+msgid "Play button"
+msgstr "Botão Play"
+
+msgid "Play"
+msgstr "Reproduzir"
+
+msgid "YouTube URL or Video ID"
+msgstr "URL do YouTube ou ID do Vídeo"
+
+msgid "End time"
+msgstr "Fim do tempo"
+
+msgid "Hide YouTube logo"
+msgstr "Ocultar o logotipo do YouTube"
+
+msgid "Centered"
+msgstr "Centrado"
+
+msgid "Scales up and crops the video to cover the whole layer."
+msgstr ""
+
+msgid "Show related videos"
+msgstr ""
+
+msgid "Anywhere"
+msgstr ""
+
+msgid "Same channel"
+msgstr ""
+
+msgid ""
+"YouTube no longer allows hiding the related videos at the end of the video. "
+"This setting defines whether the videos should come from the same channel as "
+"the video that was just played or from any other channel."
+msgstr ""
+
+msgid "Slider error! Generator group not found: "
+msgstr ""
+
+msgid "Slider error! Generator source not found: "
+msgstr ""
+
+msgid "Downscale"
+msgstr "Downscaled(Baixo escalado)"
+
+msgid "Allows the slider to scale down for smaller screens."
+msgstr ""
+
+msgid "Upscale"
+msgstr "De luxo"
+
+msgid "Allows the slider to scale up for larger screens."
+msgstr ""
+
+msgid "Min height"
+msgstr ""
+
+msgid "Prevents the slider from getting smaller than the set value."
+msgstr ""
+
+msgid "Force full width"
+msgstr "Forçar largura total"
+
+msgid "The slider tries to fill the full width of the browser."
+msgstr "O slider  tenta preencher toda a largura do navegador."
+
+msgid "Overflow-X"
+msgstr ""
+
+msgid ""
+"Prevents the vertical scrollbar from appear during certain slide background "
+"animations."
+msgstr ""
+
+msgid "Adjust slider width to"
+msgstr ""
+
+msgid ""
+"You can make the slider fill up a selected parent element instead of the "
+"full browser width."
+msgstr ""
+
+msgid "Not found"
+msgstr ""
+
+msgid "Slider size is too small!"
+msgstr "O tamanho do slide é muito pequeno!"
+
+msgid "Ken Burns effect"
+msgstr "Efeito de Ken Burns"
+
+msgid "Speed"
+msgstr "Rapidez"
+
+msgid "Super slow"
+msgstr "Super lento"
+
+msgid "Slow"
+msgstr "Lento"
+
+msgid "Fast"
+msgstr "Rápido"
+
+msgid "Super fast"
+msgstr "Super Rápido"
+
+msgid "Border width"
+msgstr ""
+
+msgid "Border color"
+msgstr ""
+
+msgid "Super fast 4x"
+msgstr "Super rápido 4x"
+
+msgctxt "Slider type"
+msgid "Simple slider"
+msgstr ""
+
+#, fuzzy
+#| msgid "Main animation end"
+msgid "Main animation"
+msgstr "Final da animação"
+
+msgid "No animation"
+msgstr "Sem animação"
+
+msgid "Crossfade"
+msgstr "Crossfade (Enfraquecer)"
+
+msgid "Horizontal - reversed"
+msgstr "Horizontal - invertido"
+
+msgid "Vertical - reversed"
+msgstr "Vertical - invertido"
+
+msgctxt "Feature"
+msgid "Carousel"
+msgstr ""
+
+msgid ""
+"If you turn off this option, you can't switch to the first slide from the "
+"last one."
+msgstr ""
+"Se você desativar essa opção, não será possível mudar para o primeiro slide "
+"do último."
+
+msgid ""
+"Background animations only work on the slide background images, which have "
+"Fill selected at their Fill mode. They don't affect any images if the "
+"background parallax is enabled."
+msgstr ""
+
+msgid "Shifted"
+msgstr "Deslocado"
+
+msgid "The background and the main animation plays simultaneously or shifted."
+msgstr ""
+"O fundo e a animação principal são reproduzidos simultaneamente ou trocados."
+
+msgid "Slider CSS Preset"
+msgstr ""
+
+msgid "Light shadow"
+msgstr "Sombra clara"
+
+msgid "Dark shadow"
+msgstr "Sombra escura"
+
+msgid "Photo"
+msgstr "Foto"
+
+msgid "Photo rounded"
+msgstr "Foto arredondada"
+
+#, php-format
+msgid "Demo slider is not available with the following ID: %s"
+msgstr "O slider de demonstração não está disponível com o seguinte ID: %s"
+
+msgid "Blue"
+msgstr "Azul"
+
+msgid "White"
+msgstr "Branco"
+
+msgid "Green"
+msgstr "Verde"
+
+msgid "Purple"
+msgstr "Roxo"
+
+msgid "Grey"
+msgstr "Cinza"
+
+msgid "Black"
+msgstr "Preto"
+
+msgid "Rounded Blue"
+msgstr "Azul arredondado"
+
+msgid "Rounded Green"
+msgstr "Arredondado Verde"
+
+msgid "Rounded Purple"
+msgstr "Arredondado Roxo"
+
+msgid "Rounded Grey"
+msgstr "Arredondado Cinza"
+
+msgid "Rounded White"
+msgstr "Arredondado Branco"
+
+msgid "Rounded Black"
+msgstr "Arredondado Preto"
+
+msgid "Border White"
+msgstr "Borda Branca"
+
+msgid "Border Dark"
+msgstr "Borda Escura"
+
+msgid "Rectangle Green"
+msgstr "Retângulo Verde"
+
+msgid "Rectangle Blue"
+msgstr "Retângulo Azul"
+
+msgid "Rectangle Purple"
+msgstr "Retângulo Roxo"
+
+msgid "Rectangle Grey"
+msgstr "Retângulo Cinza"
+
+msgid "Rounded Rectangle Green"
+msgstr "Retângulo Arredondado Verde"
+
+msgid "Rounded Rectangle Blue"
+msgstr "Retângulo Arredondado Azul"
+
+msgid "Rounded Rectangle Purple"
+msgstr "Retângulo Arredondado Roxo"
+
+msgid "Border Light"
+msgstr "Borda Clara"
+
+msgid "My styles"
+msgstr "Meus estilos"
+
+msgid "X-small Light"
+msgstr "Muito pequena e clara"
+
+msgid "X-small Dark"
+msgstr "Muito pequena e Escura"
+
+msgid "Small Light"
+msgstr "Pequena e clara"
+
+msgid "Small Dark"
+msgstr "Pequena e escura"
+
+msgid "Medium Light"
+msgstr "Média e clara"
+
+msgid "Medium Dark"
+msgstr "Média e escura"
+
+msgid "Large Light"
+msgstr "Grande e clara"
+
+msgid "Large Dark"
+msgstr "Grande e escura"
+
+msgid "X-large Light"
+msgstr "Muito grande e clara"
+
+msgid "X-large Dark"
+msgstr "Muito grande e escura"
+
+msgid "My fonts"
+msgstr "Minhas fontes"
+
+msgid "Warp"
+msgstr "Deformar"
+
+msgid "Twirl"
+msgstr "Giro"
+
+msgid "Domino"
+msgstr "Dominó"
+
+msgid "Stand up"
+msgstr "ficar acima"
+
+msgid "Rotate down"
+msgstr "Rodar para baixo"
+
+msgid "Elastic"
+msgstr "Elástico"
+
+#, fuzzy
+#| msgid "Random Elastic"
+msgid "Random elastic"
+msgstr "Elástico Aleatório"
+
+msgid "My text animations"
+msgstr ""
+
+msgid "Morph - Wave"
+msgstr ""
+
+msgid "Morph - Brush"
+msgstr ""
+
+msgid "Morph - Flow"
+msgstr ""
+
+msgid "Morph - Noise"
+msgstr ""
+
+msgid "Distortion - Mosaic"
+msgstr ""
+
+#, fuzzy
+#| msgid "Slices - Triangle"
+msgid "Distortion - Triangle"
+msgstr "Fatias - Triangle(Triângulo)"
+
+msgid "Distortion - Flow"
+msgstr ""
+
+msgid "Distortion - Warp"
+msgstr ""
+
+msgid "Distortion - Storm"
+msgstr ""
+
+#, fuzzy
+#| msgid "Registration start date"
+msgid "Distortion - Wave"
+msgstr "Data de início do registro"
+
+msgid "Distortion - Shard"
+msgstr ""
+
+msgid "Distortion - Noise"
+msgstr ""
+
+msgid "Slices - Single"
+msgstr "Fatias - única"
+
+msgid "Slices - Simple rows and scale"
+msgstr "Fatias - linhas simples e Scale(escala)"
+
+msgid "Slices - Simple rows and rotate"
+msgstr "Fatias - linhas simples e Rotate(girar)"
+
+msgid "Slices - Simple rows reversed"
+msgstr "Fatias - linhas simples reversed(invertidas)"
+
+msgid "Slices - Simple rows and blur"
+msgstr "Fatias - linhas simples e Blur(desfoque)"
+
+msgid "Slices - Triangle"
+msgstr "Fatias - Triangle(Triângulo)"
+
+msgid "Slices - Reversed triangle"
+msgstr "Fatias - Reversed triangle(Triângulo Invertido)"
+
+msgid "Scale to left"
+msgstr "Escala para a esquerda"
+
+msgid "Rotate to left"
+msgstr "Rodar para a esquerda"
+
+msgid "Fixed to left"
+msgstr "Fixo para a esquerda"
+
+msgid "Parallax to left"
+msgstr "Parallax para a esquerda"
+
+msgid "Flow"
+msgstr "Fluxo"
+
+msgid "Flowing rows"
+msgstr "Linhas de fluxo"
+
+msgid "Flowing cols"
+msgstr "Cols fluindo"
+
+msgid "Flowing tiles"
+msgstr "Azulejos fluidos"
+
+msgid "Slide to left"
+msgstr "Deslize para a esquerda"
+
+msgid "Stage"
+msgstr "Etapa"
+
+msgid "Zoom"
+msgstr "Zoom"
+
+msgid "Zoom out"
+msgstr "Diminuir o zoom"
+
+msgid "Curtain to left"
+msgstr "Cortina para a esquerda"
+
+msgid "Blocks to left"
+msgstr "Blocos para a esquerda"
+
+msgid "Slices to left"
+msgstr "Fatias para a esquerda"
+
+msgid "Reversed slices to left"
+msgstr "Fatias invertidas para a esquerda"
+
+msgid "Puzzle"
+msgstr "quebra-cabeça"
+
+msgid "Switching to left"
+msgstr "Mudando para a esquerda"
+
+msgid "Explode"
+msgstr "Explodir"
+
+msgid "Rebuild"
+msgstr "refazer"
+
+msgid "Page turn to left"
+msgstr "Virar a página para a esquerda"
+
+msgid "3D bricks to left"
+msgstr "Tijolos 3D para a esquerda"
+
+msgid "Vertical spin to left"
+msgstr "Rotação vertical para a esquerda"
+
+msgid "3D rows to left"
+msgstr "Linhas 3D para a esquerda"
+
+msgid "3D columns to left"
+msgstr "Colunas 3D para a esquerda"
+
+msgid "Spinning cuboid to left"
+msgstr "Girando cuboide para a esquerda"
+
+msgid "Turning cuboid to left"
+msgstr "Girando cuboide para a esquerda"
+
+msgid "Scale to top"
+msgstr "Escala ao topo"
+
+msgid "Scale to bottom"
+msgstr "Escala para baixo"
+
+msgid "Rotate to top"
+msgstr "Rodar para cima"
+
+msgid "Rotate to bottom"
+msgstr "Rodar para baixo"
+
+msgid "Fixed to top"
+msgstr "Fixo para topo"
+
+msgid "Fixed to bottom"
+msgstr "Fixo para baixo"
+
+msgid "Parallax to top"
+msgstr "Parallax ao topo"
+
+msgid "Parallax to bottom"
+msgstr "Parallax para baixo"
+
+msgid "Flowing tiles vertical"
+msgstr "Azulejos fluidos na vertical"
+
+msgid "Slide to bottom"
+msgstr "Deslize para baixo"
+
+msgid "Slide to top"
+msgstr "Deslize para cima"
+
+msgid "Curtain to bottom"
+msgstr "Cortina para baixo"
+
+msgid "Curtain to top"
+msgstr "Cortina para o topo"
+
+msgid "Switching to bottom"
+msgstr "Alternando para baixo"
+
+msgid "Switching to top"
+msgstr "Alternando para cima"
+
+msgid "Horizontal spin to bottom"
+msgstr "Rotação horizontal para baixo"
+
+msgid "Horizontal spin to top"
+msgstr "Rotação horizontal para cima"
+
+msgid "3D bricks to bottom"
+msgstr "Tijolos 3D para baixo"
+
+msgid "3D bricks to top"
+msgstr "Tijolos 3D para cima"
+
+msgid "3D rows to bottom"
+msgstr "Linhas 3D para baixo"
+
+msgid "3D rows to top"
+msgstr "Linhas 3D para cima"
+
+msgid "3D columns to bottom"
+msgstr "Colunas 3D para baixo"
+
+msgid "3D columns to top"
+msgstr "Colunas 3D para cima"
+
+msgid "Spinning cuboid to bottom"
+msgstr "giro de Cuboide para baixo"
+
+msgid "Spinning cuboid to top"
+msgstr "giro de Cuboide para cima"
+
+msgid "Turning cuboid to bottom"
+msgstr "Girando Cuboide para baixo"
+
+msgid "Turning cuboid to top"
+msgstr "Girando Cuboide para cima"
+
+msgid "Scale to right"
+msgstr "Escala para a direita"
+
+msgid "Rotate to right"
+msgstr "Rodar para a direita"
+
+msgid "Fixed to right"
+msgstr "Fixo para a direita"
+
+msgid "Parallax to right"
+msgstr "Parallax para a direita"
+
+msgid "Flow - reversed"
+msgstr "Fluxo - invertido"
+
+msgid "Slide to right"
+msgstr "Deslize para a direita"
+
+msgid "Curtain to right"
+msgstr "Cortina para a direita"
+
+msgid "Blocks to right"
+msgstr "Blocos para a direita"
+
+msgid "Slices to right"
+msgstr "Fatias para a direita"
+
+msgid "Reversed slices to right"
+msgstr "Fatias invertidas para a direita"
+
+msgid "Switching to right"
+msgstr "alternando para a direita"
+
+msgid "Page turn to right"
+msgstr "Virada de página para a direita"
+
+msgid "Vertical spin to right"
+msgstr "Rotação vertical para a direita"
+
+msgid "3D bricks to right"
+msgstr "Tijolos 3D para a direita"
+
+msgid "3D rows to right"
+msgstr "Linhas 3D para a direita"
+
+msgid "3D columns to right"
+msgstr "Colunas 3D para a direita"
+
+msgid "Spinning cuboid to right"
+msgstr "Girando cuboide para a direita"
+
+msgid "Turning cuboid to right"
+msgstr "Girando cuboide para a direita"
+
+msgid "Downscale left"
+msgstr "Downscale esquerda"
+
+msgid "Downscale right"
+msgstr "Downscale direita"
+
+msgid "Downscale top"
+msgstr "Downscale topo"
+
+msgid "Downscale bottom"
+msgstr "Downscale baixo"
+
+msgid "Upscale left"
+msgstr "Upscale à esquerda"
+
+msgid "Upscale right"
+msgstr "Upscale à direira"
+
+msgid "Upscale top"
+msgstr "Upscale topo"
+
+msgid "Upscale bottom"
+msgstr "Upscale baixo"
+
+msgid "To left"
+msgstr "Para a esquerda"
+
+msgid "To right"
+msgstr "Para a direita"
+
+msgid "To top left"
+msgstr "Para o canto superior esquerdo"
+
+msgid "To top right"
+msgstr "Para o canto superior direito"
+
+msgid "To bottom left"
+msgstr "Para o canto inferior esquerdo"
+
+msgid "To bottom right"
+msgstr "Para o canto inferior direito"
+
+msgid "My layouts"
+msgstr "Meus layouts"
+
+msgctxt "Arrow direction"
+msgid "Previous"
+msgstr ""
+
+msgid "Previous image"
+msgstr "Imagem anterior"
+
+msgid "Hover color"
+msgstr "Cor ao passar o mouse"
+
+msgid "Mirror"
+msgstr "Espelho"
+
+msgctxt "Arrow direction"
+msgid "Next"
+msgstr ""
+
+msgid "Next image"
+msgstr "Próxima  imagem"
+
+msgid "Arrow"
+msgstr "Seta"
+
+msgid "Previous position"
+msgstr "Posição anterior"
+
+msgid "Next position"
+msgstr "Próxima Posição"
+
+msgid "Previous alt tag"
+msgstr ""
+
+msgid "Next alt tag"
+msgstr ""
+
+msgid "Base64"
+msgstr ""
+
+msgid ""
+"Base64 encoded arrow images are loading faster and they are colorable. But "
+"optimization plugins often have errors in their codes related to them, so if "
+"your arrow won't load, turn this option off."
+msgstr ""
+
+msgid "Image width - Desktop"
+msgstr ""
+
+#, fuzzy
+#| msgid "Image mode"
+msgid "Image width - Tablet"
+msgstr "Modo de imagem"
+
+#, fuzzy
+#| msgid "Image mode"
+msgid "Image width - Mobile"
+msgstr "Modo de imagem"
+
+msgid "Pause"
+msgstr "Pausar"
+
+#, fuzzy
+#| msgid "Autoplay"
+msgid "Play autoplay"
+msgstr "Reprodução automática"
+
+msgid "Pause autoplay"
+msgstr ""
+
+msgid "Bar"
+msgstr "Barra"
+
+msgid "Slide count"
+msgstr ""
+
+msgid ""
+"The \"Title\" will be the index of the slide and \"Description\" will be the "
+"total number of slides."
+msgstr ""
+
+msgid "Separator"
+msgstr "Separador"
+
+#, php-format
+msgid ""
+"You can set what separates the Tex bar Title and Description. This separator "
+"is used at the Slide count option, too, to separate the current and total "
+"slide number. %1$s To put the Description to a new line, use the &lt;br&gt; "
+"HTML tag."
+msgstr ""
+
+msgid "Bar full size"
+msgstr "Bar em tamanho completo"
+
+msgid "Shows on hover"
+msgstr "Exibir ao passar o mouse"
+
+msgid "Hide on slides"
+msgstr "Ocultar nos slides"
+
+msgid ""
+"List the slides separated by commas on which you want the controls to be "
+"hidden."
+msgstr ""
+"Liste os slides separados por vírgulas quais você deseja que os controles "
+"sejam ocultados."
+
+#, fuzzy
+#| msgid "Text Bar"
+msgid "Text bar"
+msgstr "Barra de texto"
+
+msgid "Bullets"
+msgstr "Navegação"
+
+msgid "Side"
+msgstr "Lado"
+
+msgid "Before"
+msgstr "Antes"
+
+msgid "After"
+msgstr "Depois"
+
+msgid "Shadow"
+msgstr "Sombra"
+
+msgid "Thumbnails"
+msgstr "Miniaturas"
+
+#, fuzzy
+msgid "Desktop width"
+msgstr "Desktop"
+
+#, fuzzy
+#| msgid "Tablet text"
+msgid "Tablet width"
+msgstr "Texto comprimido"
+
+#, fuzzy
+#| msgid "Mobile text"
+msgid "Mobile width"
+msgstr "Texto móvel"
+
+msgid "Align thumbnails"
+msgstr "Alinhe as miniaturas"
+
+msgid "Start"
+msgstr "Começar"
+
+msgid "End"
+msgstr "Fim"
+
+msgid "Space between"
+msgstr ""
+
+#, fuzzy
+#| msgid "Background"
+msgid "Space around"
+msgstr "Fundo"
+
+msgid "Caption"
+msgstr "Legenda"
+
+msgid ""
+"The height (horizontal orientation) or width (vertical orientation) of the "
+"caption container."
+msgstr ""
+
+msgid "Next arrow image"
+msgstr ""
+
+msgid "The previous arrow image will be mirrored."
+msgstr ""
+
+msgid "Group by"
+msgstr ""
+
+msgctxt "Unit"
+msgid "thumbnails"
+msgstr ""
+
+msgid "You can break your thumbnails into rows or columns."
+msgstr ""
+
+msgid ""
+"The height (horizontal orientation) or width (vertical orientation) of the "
+"thumbnail container in px or %."
+msgstr ""
+
+#, javascript-format
+msgid "Switches %s slide(s)."
+msgstr ""
+
+#, javascript-format
+msgid "Loops %s and stops before starting slide."
+msgstr ""
+
+#, javascript-format
+msgid "Loops %s and returns to starting slide."
+msgstr ""
+
+#, javascript-format
+msgid "Switches to the %s. slide."
+msgstr ""
+
+msgid "Top and bottom"
+msgstr "Topo e embaixo"
+
+msgid "License key cannot be empty!"
+msgstr "Chave de licença não pode estar vazia!"
+
+msgid "License key is active!"
+msgstr "Chave de licença está ativa!"
+
+msgid "Missing sliders!"
+msgstr "Sliders faltando!"
+
+msgid "Line color"
+msgstr "Cor da linha"
+
+msgid "Number of particles"
+msgstr "Número de partículas"
+
+msgid "Grab"
+msgstr "Agarrar"
+
+msgid "Bubble"
+msgstr "Bolha"
+
+msgid "Repulse"
+msgstr "Repulsa"
+
+msgid "Push"
+msgstr "Empurrar"
+
+msgid "Remove"
+msgstr "Remover"
+
+msgid "Hide on mobile"
+msgstr ""
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Secondary"
+msgstr "Secundário"
+
+msgid "Flip"
+msgstr "Giro"
+
+msgid "Grow"
+msgstr "Crescer"
+
+msgid "Shrink"
+msgstr "Encolher"
+
+msgid "Interval"
+msgstr "Intervalo"
+
+#, fuzzy
+#| msgid "Interval"
+msgid "Interval modifier"
+msgstr "Intervalo"
+
+msgctxt "Autoplay modifier"
+msgid "loops"
+msgstr ""
+
+msgctxt "Autoplay modifier"
+msgid "slide count"
+msgstr ""
+
+msgctxt "Autoplay modifier"
+msgid "slide index"
+msgstr ""
+
+msgid "Stops on"
+msgstr ""
+
+msgctxt "Autoplay modifier"
+msgid "last slide"
+msgstr ""
+
+msgctxt "Autoplay modifier"
+msgid "next slide"
+msgstr ""
+
+msgid "Polygons"
+msgstr "Polígonos"
+
+msgid "Bloom"
+msgstr "Flor"
+
+msgid "Web"
+msgstr "Web"
+
+msgid "Black widow"
+msgstr "Viúva Negra"
+
+msgid "Zodiac"
+msgstr "Zodíaco"
+
+msgid "Fading dots"
+msgstr "Pontos fade"
+
+msgid "Pirouette"
+msgstr ""
+
+msgid "Sparkling"
+msgstr "Espumante"
+
+#, fuzzy, php-format
+#| msgid "Curve 1"
+msgid "Curve %d"
+msgstr "Curva 1"
+
+msgid "Curves"
+msgstr "Curvas"
+
+#, fuzzy, php-format
+#| msgid "Fan 1"
+msgid "Fan %d"
+msgstr "Fã 1"
+
+msgid "Hills"
+msgstr "Colinas"
+
+#, fuzzy, php-format
+#| msgid "Incline 1"
+msgid "Incline %d"
+msgstr "Inclinar 1"
+
+msgid "Inverse arrow"
+msgstr "Seta inversa"
+
+msgid "Rectangle"
+msgstr "Retângulo"
+
+msgid "Slopes"
+msgstr "Encostas"
+
+#, fuzzy, php-format
+#| msgid "Tilt 1"
+msgid "Tilt %d"
+msgstr "Inclinação 1"
+
+#, fuzzy, php-format
+#| msgid "Triangle 1"
+msgid "Triangle %d"
+msgstr "Triângulo 1"
+
+#, fuzzy, php-format
+#| msgid "Wave 1"
+msgid "Wave %d"
+msgstr "Ondas 1"
+
+msgid "Waves"
+msgstr "Ondas"
+
+#, fuzzy, php-format
+#| msgid "Columns"
+msgid "Columns %d"
+msgstr "Colunas"
+
+#, php-format
+msgid "Paper %d"
+msgstr ""
+
+msgid "2 Colors"
+msgstr "2 cores"
+
+msgid "Fan"
+msgstr "Fã"
+
+msgid "Masked waves"
+msgstr "Ondas marked"
+
+msgid "Ribbon"
+msgstr "Ribbon"
+
+msgid "The secret is empty. Please insert that value too!"
+msgstr "O segredo está vazio. Por favor, insira esse valor também!"
+
+msgid "The App ID is empty. Please insert that value too!"
+msgstr "O ID do aplicativo está vazio. Por favor, insira esse valor também!"
+
+#, php-format
+msgid ""
+"%1$s allows HTTPS Redirect URIs only! You must move your site to HTTPS in "
+"order to use this generator!"
+msgstr ""
+
+msgid "How to get SSL for my website?"
+msgstr ""
+
+#, php-format
+msgid ""
+"%2$s Check the documentation %3$s to learn how to configure your %1$s app."
+msgstr ""
+
+msgctxt "Facebook app permission"
+msgid "pages read engagement"
+msgstr ""
+
+msgid "Pages read engagement permission"
+msgstr ""
+
+msgid ""
+"You need \"pages_read_engagement\" permission if you want to access datas of "
+"Facebook pages, where you are an administrator. For other pages you still "
+"need to turn this option on, but request access to \"Page Public Content "
+"Access\" within your App."
+msgstr ""
+
+msgctxt "Facebook app permission"
+msgid "user photos"
+msgstr ""
+
+msgid "User photos permission"
+msgstr ""
+
+msgid ""
+"You need \"user_photos\" permission to access photos of users, except your "
+"own user."
+msgstr ""
+
+msgid "Token"
+msgstr "Token"
+
+msgid "Callback url"
+msgstr "URL de retorno de chamada"
+
+msgid "The token expired. Please request new token! "
+msgstr "O token expirou. Por favor, solicite um novo token!"
+
+msgid "Request token"
+msgstr "Solicitar token"
+
+msgid "Facebook photos or posts on your page"
+msgstr ""
+
+msgid "Photos by album"
+msgstr "Fotos por álbum"
+
+msgid "Posts by page"
+msgstr "Postagem por página"
+
+msgid "User or page"
+msgstr "Usuário ou página"
+
+msgid "Album"
+msgstr "Álbum"
+
+msgctxt "Facebook generator type"
+msgid "Facebook posts"
+msgstr ""
+
+msgid "Page"
+msgstr "Página"
+
+msgid "Feed"
+msgstr "Feed"
+
+msgid "Remove special characters"
+msgstr "Remover caracteres especiais"
+
+#, fuzzy
+#| msgid "Exclude posts"
+msgid "Exclude Types"
+msgstr "Excluir postagens"
+
+msgid "Separate the types by a comma. E.g.: share,album"
+msgstr ""
+
+msgid "The key and secret is not valid!"
+msgstr "A chave e o segredo não são válidos!"
+
+msgid "There are no photos in this album!"
+msgstr "Não há fotografias neste álbum!"
+
+msgid "Please choose an album!"
+msgstr "Por favor escolha um álbum!"
+
+msgid "There are no photos in this gallery!"
+msgstr "Não há fotos nesta galeria!"
+
+msgid "Please chooose a gallery!"
+msgstr "Por favor escolha uma galeria!"
+
+msgid "Privacy"
+msgstr "Privacidade"
+
+msgid "There are no photos with this privacy filter!"
+msgstr "Não há fotos com este filtro de privacidade!"
+
+msgctxt "Flickr generator type"
+msgid "Flickr search"
+msgstr ""
+
+msgid "User name or ID"
+msgstr "Nome de usuário ou ID"
+
+msgid "Search in title, description or tags"
+msgstr "Pesquisar no título, descrição ou tags"
+
+msgid "Folder"
+msgstr "Pasta"
+
+msgid "Images in folder"
+msgstr "Imagens na pasta"
+
+msgid "Images in folder and subfolders"
+msgstr "Imagens na pasta e subpastas"
+
+msgid "Videos in folder"
+msgstr "Vídeos na pasta"
+
+msgid "Source folder"
+msgstr "Pasta de origem"
+
+#, fuzzy
+#| msgid "Slide name and description"
+msgid "Filename based exclusion"
+msgstr "Nome e descrição do slide"
+
+msgid "Remove resized images"
+msgstr ""
+
+msgid ""
+"This option removes files that match the \"-[number]x[number].[extension]\" "
+"pattern in the end of their file names. For example, \"myimage.jpg\" will "
+"stay in the generator result, but \"myimage-120x120.jpg\" will be removed, "
+"because it's the same image, just in a smaller size."
+msgstr ""
+
+msgid "Filename has to contain"
+msgstr ""
+
+msgid ""
+"Only those images will be asked down, which have the given texts within "
+"their filenames. You can write down multiple texts separated by comma."
+msgstr ""
+
+msgid "Filename cannot contain"
+msgstr ""
+
+msgid ""
+"Only those images will be asked down, which don't have the given texts "
+"within their filenames. You can write down multiple texts separated by comma."
+msgstr ""
+
+msgid "Filename"
+msgstr "Nome do arquivo"
+
+msgid "Creation date"
+msgstr "Data de criação"
+
+msgid ""
+"Wrong path. This is the default image folder path, so try to navigate from "
+"here:"
+msgstr ""
+"Caminho errado. Este é o caminho da pasta de imagens padrão, então tente "
+"navegar a partir daqui:"
+
+msgid "Folder not found."
+msgstr "Pasta não encontrada."
+
+msgid ""
+"Wrong path. This is the default upload/media folder path, so try to navigate "
+"from here:"
+msgstr ""
+"Caminho errado. Esse é o caminho da pasta padrão para upload/media, então "
+"tente navegar daqui:"
+
+msgid "The App ID and the Secret is empty!"
+msgstr ""
+
+msgid "The token will expire at:"
+msgstr ""
+
+msgid "Access token was not returned.Please check the credentials!"
+msgstr ""
+
+#, fuzzy
+#| msgid "The token expired. Please request new token! "
+msgid "The token expired. Please request new token!"
+msgstr "O token expirou. Por favor, solicite um novo token!"
+
+#, fuzzy
+#| msgid "The token expired. Please request new token! "
+msgid "The token will expire in two days! Please refresh the token!"
+msgstr "O token expirou. Por favor, solicite um novo token!"
+
+#, fuzzy
+#| msgid "Request token"
+msgid "Refresh Token"
+msgstr "Solicitar token"
+
+msgid "Refresh"
+msgstr ""
+
+msgid "Album loading method"
+msgstr ""
+
+msgid "Load first images only"
+msgstr ""
+
+msgid "Load album images separately"
+msgstr ""
+
+msgid "Load Album images as record data"
+msgstr ""
+
+msgid "JSON from url"
+msgstr ""
+
+msgid "JSON from input"
+msgstr ""
+
+msgid "Level separation"
+msgstr ""
+
+msgid ""
+"JSON codes can be customized to have many different levels. From a code it "
+"is impossible to know from which level do you want to use the given datas on "
+"the different slides, so you have to select that level from this list."
+msgstr ""
+
+#, php-format
+msgid ""
+"The given text is not valid XML! %1$sValidate your code%2$s to make sure it "
+"is correct."
+msgstr ""
+
+#, php-format
+msgid ""
+"The given text is not valid JSON! %1$sValidate your code%2$s to make sure it "
+"is correct."
+msgstr ""
+
+msgid ""
+"Try to change the \"Level separation\" or \"Remove levels from result\" "
+"setting."
+msgstr ""
+
+msgid "Images"
+msgstr "Imagens"
+
+#, fuzzy
+#| msgid "Offset"
+msgid "Offset hours"
+msgstr "offset(compensar)"
+
+msgid "Timezone offset in hours. For example: +2 or -7."
+msgstr ""
+
+msgid "The data in the given url is not valid XML."
+msgstr "Os dados da URL fornecido não são XML válidos."
+
+msgid "CSV from url"
+msgstr ""
+
+msgid "CSV from input"
+msgstr ""
+
+msgid "View tweet"
+msgstr "Ver tweet"
+
+msgid "Comments"
+msgstr "Comentários"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Likes"
+msgstr "Likes"
+
+msgid "Manual"
+msgstr "Manual"
+
+#, fuzzy
+#| msgid "Modified Time"
+msgid "Modified time"
+msgstr "Hora modificada"
+
+msgid "Plays"
+msgstr "Plays"
+
+msgid "Playlist"
+msgstr ""
+
+msgid "optional"
+msgstr "opcional"
+
+#, php-format
+msgid "Creates slides from %1$s content."
+msgstr ""
+
+msgid "Include subcategories"
+msgstr "Incluir subcategorias"
+
+msgid "Frontpage"
+msgstr "Primeira página"
+
+msgid "Exclude ID"
+msgstr "Excluir ID"
+
+msgid "Category title"
+msgstr "Título da categoria"
+
+msgid "Username"
+msgstr "Nome de usuário"
+
+msgid "View post"
+msgstr ""
+
+msgid "Resolved"
+msgstr "Resolvido"
+
+msgid "Only main discussions"
+msgstr "Apenas discussões principais"
+
+msgid "View discussion"
+msgstr ""
+
+msgid "Events"
+msgstr "Eventos"
+
+msgid "Albums"
+msgstr "Álbuns"
+
+msgid "Videos"
+msgstr "Videos"
+
+msgid "Pages"
+msgstr "Páginas"
+
+msgid "Users"
+msgstr "Usuários"
+
+msgid "Allowed user IDs"
+msgstr ""
+
+msgid "Separate them by comma."
+msgstr ""
+
+msgid "Banned user IDs"
+msgstr ""
+
+msgid "Started"
+msgstr "Começou"
+
+msgid "Ended"
+msgstr "Terminou"
+
+msgid "All day"
+msgstr "Dia todo"
+
+msgid "Recurring events"
+msgstr "Eventos recorrentes"
+
+msgid "Open"
+msgstr "Aberto"
+
+msgid "Closed"
+msgstr "Fechado"
+
+msgid "Invite only"
+msgstr "Convide apenas"
+
+msgid "Location"
+msgstr "Localização"
+
+msgid "Pull posts only from these users. Separate them by comma."
+msgstr ""
+
+msgid "Do not pull posts from these users. Separate them by comma."
+msgstr ""
+
+msgid "Public"
+msgstr "Público"
+
+msgid "Private"
+msgstr "Privado"
+
+msgid "Notification"
+msgstr "Notificação"
+
+#, fuzzy
+#| msgid "Email Only"
+msgid "Email only"
+msgstr "E-mail somente"
+
+#, fuzzy
+#| msgid "Internal Only"
+msgid "Internal only"
+msgstr "Internamente somente"
+
+msgid "Profiles"
+msgstr "Perfis"
+
+msgid "Badges"
+msgstr "Emblemas"
+
+msgid "Register date"
+msgstr "Data de registro"
+
+msgid "Last visit date"
+msgstr "Data de última visita"
+
+msgid "Points"
+msgstr "Pontos"
+
+msgid "Products"
+msgstr "Produtos"
+
+msgid "Manufacturer"
+msgstr "Fabricante"
+
+msgid "On discount"
+msgstr "No desconto"
+
+msgid "In stock"
+msgstr "Em estoque"
+
+msgid "Currency"
+msgstr "Moeda"
+
+msgid "Product language"
+msgstr ""
+
+msgid "Category language"
+msgstr ""
+
+msgid "Manufacturer language"
+msgstr ""
+
+msgid "Price"
+msgstr "Preço"
+
+msgid "Product name"
+msgstr "Nome do Produto"
+
+msgid "Product ID"
+msgstr "ID do produto"
+
+msgid "Locations"
+msgstr "Localizações"
+
+msgid "Recurring"
+msgstr "Recorrente"
+
+msgid "All, but from recurring ones only parent events"
+msgstr "Todos, mas dos recorrentes apenas eventos ascendente"
+
+msgid "Only recurring events"
+msgstr "Apenas eventos recorrentes"
+
+msgid "Only recurring event parents"
+msgstr "Apenas ascendente de eventos recorrentes"
+
+msgid "Only not recurring events"
+msgstr "Apenas eventos não recorrentes"
+
+msgid "Menu item (item ID)"
+msgstr "Item de menu (ID do item)"
+
+msgid "Start date"
+msgstr "Data de início"
+
+msgid "End date"
+msgstr "Data final"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Discount"
+msgstr "Desconto"
+
+msgid "Registration start date"
+msgstr "Data de início do registro"
+
+msgid "Cut off date"
+msgstr "Data limite"
+
+msgid "Cancel before date"
+msgstr "Cancelar antes da data"
+
+msgid "Publish up date"
+msgstr "Publicar data"
+
+msgid "Publish down date"
+msgstr "Publicar data"
+
+msgid "Early bird discount date"
+msgstr "Data de desconto para os madrugadores"
+
+msgid "Early bird discount amount"
+msgstr "Quantidade de desconto para madrugada"
+
+msgid "Late fee date"
+msgstr "Data da taxa atrasada"
+
+msgid "Recurring end date"
+msgstr "Data final recorrente"
+
+msgid "Max end date"
+msgstr "Data final máxima"
+
+msgid "Only display items with these IDs"
+msgstr "Somente exiba itens com esses ID's"
+
+msgid ""
+"Timezone offset in hours. For example: +2 or -7. If you leave it empty, "
+"Joomla's System -> Global Configuration -> Server -> Server Time Zone "
+"setting will be used."
+msgstr ""
+"Deslocamento do fuso horário em horas. Por exemplo: +2 ou -7. Se você deixá-"
+"lo vazio, a configuração Sistema -> Configuração Global -> Servidor -> Fuso "
+"Horário do Servidor do Joomla será usada."
+
+msgid "Brand"
+msgstr "Marca"
+
+msgid "Tag"
+msgstr "Tag"
+
+msgid "Warehouse"
+msgstr "Armazém"
+
+msgid "Include all images"
+msgstr "Incluir todas as imagens"
+
+msgid "Sales"
+msgstr "Vendas"
+
+msgid "Average score"
+msgstr "Pontuação média"
+
+msgid "Total vote"
+msgstr "Total de votos"
+
+msgid "Product IDs"
+msgstr ""
+
+msgid ""
+"Write the product IDs you want to display here, in the order you want them "
+"to appear in the generator. One product ID per line."
+msgstr ""
+
+msgid "One time events"
+msgstr ""
+
+msgid "Repeating events"
+msgstr ""
+
+msgid "Date language"
+msgstr ""
+
+#, fuzzy
+#| msgid "Extra variables"
+msgid "Date variable offset"
+msgstr "Variáveis extras"
+
+msgid "Date filter offset"
+msgstr ""
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Trashed"
+msgstr "Lixeira"
+
+msgid "Ask down all product images"
+msgstr ""
+
+msgid "Items"
+msgstr "Itens"
+
+msgid "View item"
+msgstr ""
+
+msgid "Viewed"
+msgstr "Visto"
+
+msgid "View image"
+msgstr "Ver imagem"
+
+msgid "All day event"
+msgstr "Evento todo o dia"
+
+msgid "Fallback language"
+msgstr ""
+
+msgid "Show parent products only"
+msgstr "Mostrar somente produtos pai"
+
+#, php-format
+msgid "Creates slides from %1$s galleries."
+msgstr ""
+
+msgid "Gallery"
+msgstr "Galeria"
+
+msgid "View gallery"
+msgstr ""
+
+msgid "Creates slides by your custom settings."
+msgstr ""
+
+#, php-format
+msgid ""
+"You don't have custom generators yet. %1$s Check the documentation %2$s to "
+"learn how to create your own generator."
+msgstr ""
+
+msgid "No options given"
+msgstr ""
+
+#, php-format
+msgid "Creates slides from %1$s events."
+msgstr ""
+
+msgid "Exclude event IDs (One ID per line)"
+msgstr "Excluir IDs de eventos (um ID por linha)"
+
+msgid "Location town"
+msgstr "Cidade localização"
+
+msgid "Location state"
+msgstr "Estado localização"
+
+msgid "Get all multisite events"
+msgstr "Obter todos os eventos multisite"
+
+msgid "Order result"
+msgstr "Resultado da ordem"
+
+msgid "Events per site"
+msgstr "Eventos por site"
+
+msgid "Format date variables"
+msgstr ""
+
+msgid ""
+"With the WordPress Settings -> General -> Timezone and Date format, new "
+"variables will be generated from the given variables. Separate them with "
+"comma."
+msgstr ""
+
+msgid "Start time text"
+msgstr "Texto da hora de início"
+
+msgid "End date text"
+msgstr "Texto da data de término"
+
+msgid "End time text"
+msgstr "Texto de término"
+
+msgid "Rsvp date"
+msgstr "Data de Rsvp"
+
+msgid "Multisite Posts"
+msgstr ""
+
+msgid "Source gallery"
+msgstr "Galeria de origem"
+
+msgid "Organizers"
+msgstr "Organizadores"
+
+msgid "Venues"
+msgstr "Venues"
+
+msgid "Hide From Event Listings"
+msgstr "Ocultar das listagens de eventos"
+
+msgid "Event start date"
+msgstr "Data de início do evento"
+
+msgid "Event end date"
+msgstr "Data de término do evento"
+
+msgid "Event cost"
+msgstr "Custo do evento"
+
+msgid "Event creation date"
+msgstr "Data de criação do evento"
+
+msgid "Event modification date"
+msgstr "Data de modificação do evento"
+
+msgid "Metakey name"
+msgstr "Nome da chave da meta"
+
+msgid "If its set, this will be used instead of the 'Field' value."
+msgstr "Se estiver definido, isso será usado no lugar do valor do campo."
+
+msgid "Sorting method"
+msgstr ""
+
+msgid "Galleries"
+msgstr "Galerias"
+
+msgid "Upload date"
+msgstr "Data de upload"
+
+msgid "Average rating"
+msgstr "Classificação média"
+
+msgid "Rate count"
+msgstr "Contagem de taxa"
+
+msgid "Hit count"
+msgstr "Contagem de ocorrências"
+
+msgid "Root"
+msgstr "Raiz"
+
+msgid "Products by filter"
+msgstr "Produtos por filtro"
+
+msgid "Products by IDs and/or SKUs"
+msgstr "Produtos por ID's e/ou SKU's"
+
+msgid ""
+"Creates slides from your WooCommece categories. (Not from the products "
+"inside them.)"
+msgstr ""
+
+msgid "Submenu limit"
+msgstr "Limite do submenu"
+
+msgid "No limit"
+msgstr "Sem limite"
+
+#, fuzzy
+#| msgid "Include subcategories"
+msgid "Hide empty categories"
+msgstr "Incluir subcategorias"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "Downloadable"
+msgstr "Downloadable(Baixarcapaz)"
+
+msgid "Virtual"
+msgstr "Virtual"
+
+msgid "Create text variables (one per line)"
+msgstr "Criar variáveis de texto (uma por linha)"
+
+msgid ""
+"if 'variable' equals to 'equalvalue', then you will get the text 'true', but "
+"if it's not equal, the text will be 'false'. The new variable's name will be "
+"textvariable (the 'variable' replaced by your variable's name)."
+msgstr ""
+"Se 'variável' for igual a 'igual valor', então você obterá o texto "
+"'verdadeiro', mas se não for igual, o texto será 'falso'. O nome da nova "
+"variável será textvariable (a 'variável' substituída pelo nome da sua "
+"variável)."
+
+msgid "Round rating"
+msgstr "Classificação de volta"
+
+msgid "Half"
+msgstr "Metade"
+
+msgid "Third"
+msgstr "Terceiro"
+
+msgid "Quarter"
+msgstr "Trimestre"
+
+msgid "Visibility"
+msgstr "Visibilidade"
+
+msgid "Shop and search results"
+msgstr "Loja e resultados da busca"
+
+msgid "Shop only"
+msgstr "Apenas loja"
+
+msgid "Search results only"
+msgstr "Apenas resultados da busca"
+
+msgid "Replace these timestamp variables"
+msgstr "Substitua essas variáveis de timestamp."
+
+#, php-format
+msgid "Any PHP date format can be used: %s"
+msgstr "Qualquer formato de data PHP pode ser usado: %s"
+
+msgid "Total sales"
+msgstr "Vendas totais"
+
+msgid "Regular price"
+msgstr "Preço regular"
+
+msgid "Sale price"
+msgstr "Preço de venda"
+
+msgid "IDs (one per line)"
+msgstr "IDs (um por linha)"
+
+msgid "SKUs (one per line)"
+msgstr "SKU's (um por linha)"
+
+msgid "Move"
+msgstr "Mover"
+
+msgid "Reveal"
+msgstr "Revelar"
+
+msgid "Bounce"
+msgstr "Pulo"
+
+msgid "Special"
+msgstr "Especial"
+
+msgid "Left fade"
+msgstr "Fade / esquerda"
+
+msgid "Right fade"
+msgstr "Fade / direita"
+
+msgid "Top fade"
+msgstr "Fade / topo"
+
+msgid "Bottom fade"
+msgstr "Fade / embaixo"
+
+msgid "Flash"
+msgstr "Flash"
+
+msgid "Left to Right"
+msgstr "Esquerda para Direita"
+
+msgid "Top to Bottom"
+msgstr "Topo para Baixo"
+
+msgid "Skew Left to Right"
+msgstr "Inclinar da esquerda para direita"
+
+msgid "Downscale back out"
+msgstr "Downscale back out"
+
+msgid "Upscale back out"
+msgstr "Upscale back out"
+
+msgid "Pulse"
+msgstr "Pulsar"
+
+msgid "Flip left"
+msgstr "Virar à esquerda"
+
+msgid "Flip right"
+msgstr "Virar à direita"
+
+msgid "Flip down"
+msgstr "Virar para baixo"
+
+msgid "Flip up"
+msgstr "Virar para cima"
+
+msgid "Flip in X"
+msgstr "Virar em X"
+
+msgid "Flip in Y"
+msgstr "Virar em Y"
+
+msgid "Flap"
+msgstr "Aba"
+
+msgid "Rotate top left"
+msgstr "Rodar o canto superior esquerdo"
+
+msgid "Rotate top right"
+msgstr "Rodar o canto superior direito"
+
+msgid "Roll in"
+msgstr "Rolar dentro"
+
+msgid "Rotate top left back out"
+msgstr "Rotacionar topo esquerda atrás fora"
+
+msgid "Rotate all axis"
+msgstr "Rotacionar todos os eixos"
+
+msgid "Bounce in"
+msgstr "Pular em"
+
+msgid "Bounce in left"
+msgstr "Pular à esquerda"
+
+msgid "Bounce in right"
+msgstr "Pular à direita"
+
+msgid "Bounce in down"
+msgstr "Pular para baixo"
+
+msgid "Bounce in up"
+msgstr "Pular para cima"
+
+msgid "Rubber band"
+msgstr "Elástico de borracha"
+
+msgid "Shake"
+msgstr "Mexer"
+
+msgid "Swing"
+msgstr "Balanço"
+
+msgid "Wooble"
+msgstr "Wooble"
+
+msgid "Roll"
+msgstr "Rolo"
+
+msgid "Grow rotate"
+msgstr "Crescer rodar"
+
+msgid "Pendulum"
+msgstr "Pêndulo"
+
+msgid "Pendulum 3D"
+msgstr "Pêndulo 3D"
+
+msgid "Vertical pendulum 3D"
+msgstr "Pêndulo vertical 3D"
+
+msgid "We are Passionate About"
+msgstr ""
+
+msgid ""
+"Amazing Food\n"
+"Great Hospitality"
+msgstr ""
+
+msgid "Before text"
+msgstr "Antes do texto"
+
+msgid "Animated text"
+msgstr "Texto animado"
+
+msgid "After text"
+msgstr "Depois do texto"
+
+msgid "Rotating"
+msgstr "Rotacionando"
+
+msgid "Drop-in"
+msgstr "Drop-in"
+
+msgid "Slide down"
+msgstr "Slide down"
+
+#, fuzzy
+#| msgid "Typewriter 1"
+msgid "Typewriter"
+msgstr "Typewriter 1"
+
+msgid "Chars"
+msgstr "Chars"
+
+msgid "Chars 2"
+msgstr "Chars 2"
+
+msgid "Auto width"
+msgstr "Largura Automática"
+
+#, fuzzy
+#| msgid "Cursor Color"
+msgid "Cursor color"
+msgstr "Cor do Cursor"
+
+msgctxt "Effect"
+msgid "Loop"
+msgstr ""
+
+msgid "Show duration"
+msgstr "Exibir duração"
+
+msgid "Class on the selected tag element."
+msgstr ""
+
+msgid "Area"
+msgstr ""
+
+msgid "Write custom CSS codes here without selectors."
+msgstr ""
+
+msgid "Audio"
+msgstr ""
+
+msgid "MP3 audio"
+msgstr "Áudio MP3"
+
+msgid "Main color"
+msgstr "Cor Principal"
+
+msgid "Secondary color"
+msgstr "Cor secundária"
+
+msgid "Audio settings"
+msgstr ""
+
+#, php-format
+msgid ""
+"Audio autoplaying has a lot of limitations made by browsers. You can read "
+"about them %1$shere%2$s."
+msgstr ""
+
+msgid "Starts the audio from the beginning when the slide is viewed again."
+msgstr ""
+
+msgid "Progress"
+msgstr "Progresso"
+
+msgid "Time"
+msgstr "Tempo"
+
+#, fuzzy
+#| msgid "Size"
+msgid "Icon Size"
+msgstr "Tamanho"
+
+#, fuzzy
+#| msgid "Before text"
+msgid "Before After"
+msgstr "Antes do texto"
+
+#, fuzzy
+#| msgid "Left to Right"
+msgid "Left top"
+msgstr "Esquerda para Direita"
+
+#, fuzzy
+#| msgid "Center"
+msgid "Center top"
+msgstr "Centralizar"
+
+#, fuzzy
+#| msgid "Right"
+msgid "Right top"
+msgstr "Direita"
+
+#, fuzzy
+#| msgid "Slider center"
+msgid "Left center"
+msgstr "Centro slider"
+
+#, fuzzy
+#| msgid "Center"
+msgid "Right Center"
+msgstr "Centralizar"
+
+#, fuzzy
+#| msgid "To bottom"
+msgid "Left bottom"
+msgstr "Para abaixo"
+
+#, fuzzy
+#| msgid "Curtain to bottom"
+msgid "Center bottom"
+msgstr "Cortina para baixo"
+
+#, fuzzy
+#| msgid "To bottom"
+msgid "Right bottom"
+msgstr "Para abaixo"
+
+#, fuzzy
+#| msgid "Before text"
+msgid "Before Image"
+msgstr "Antes do texto"
+
+#, fuzzy
+#| msgid "After text"
+msgid "After Image"
+msgstr "Depois do texto"
+
+msgid "Labels"
+msgstr ""
+
+#, fuzzy
+#| msgid "Show label"
+msgid "Show Label"
+msgstr "Mostrar rótulo"
+
+msgid "Always"
+msgstr ""
+
+#, fuzzy
+#| msgid "Before text"
+msgid "Before label"
+msgstr "Antes do texto"
+
+#, fuzzy
+#| msgid "Previous label"
+msgid "After label"
+msgstr "Rótulo anterior"
+
+msgid "Behavior"
+msgstr ""
+
+#, fuzzy
+#| msgid "Internal Only"
+msgid "Interaction"
+msgstr "Internamente somente"
+
+#, fuzzy
+#| msgid "Slider"
+msgid "Divider"
+msgstr "Slider"
+
+msgid "Line"
+msgstr ""
+
+#, fuzzy
+#| msgid "Show duration"
+msgid "Show Caption"
+msgstr "Exibir duração"
+
+#, fuzzy
+#| msgid "Caption"
+msgid "Caption text"
+msgstr "Legenda"
+
+msgid "Before image alt tag"
+msgstr ""
+
+#, fuzzy
+#| msgid "Average rating"
+msgid "After image alt tag"
+msgstr "Classificação média"
+
+#, fuzzy
+#| msgid "Optimize image"
+msgid "Optimize images"
+msgstr "Otimizar imagem"
+
+msgid "Full"
+msgstr "Completo"
+
+msgid "Scales up the image on hover"
+msgstr ""
+
+msgid "Overlay background"
+msgstr "Fundo de sobreposição"
+
+msgid "Positions the text inside the overlay."
+msgstr ""
+
+msgid "Circle counter"
+msgstr "Contador de Círculo"
+
+msgid "Counter"
+msgstr "Contador"
+
+msgid "Value"
+msgstr "Valor"
+
+msgid "Start from"
+msgstr "Começar de"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Active color"
+msgstr "Cor ativa"
+
+msgid "Stroke width"
+msgstr "Largura do traçado"
+
+msgid "Inner before"
+msgstr "antes do Interior"
+
+msgid "Inner after"
+msgstr "Depois do Interior"
+
+msgid "Pre"
+msgstr "Pré"
+
+msgid "Animation duration"
+msgstr "Duração da animação"
+
+#, fuzzy
+#| msgid "Counter"
+msgid "Countdown"
+msgstr "Contador"
+
+msgid "Days"
+msgstr "Dias"
+
+msgid "Minutes"
+msgstr "Acta"
+
+msgid "Seconds"
+msgstr "Segundos"
+
+#, fuzzy
+#| msgid "First slide changed."
+msgid "Use slide schedule"
+msgstr "Primeiro slide alterado."
+
+msgid "You can use the \"Unpublished on\" date of the slide itself."
+msgstr ""
+
+msgid "Use Slide Schedule"
+msgstr ""
+
+msgid "Go to Slide → Content tab and set the Unpublish on date for the slide."
+msgstr ""
+
+msgid ""
+"Displays the days, hours, minutes and seconds texts under the counter "
+"numbers. To display the labels in your own language, translate the texts in "
+"the language files."
+msgstr ""
+
+msgid "Gap"
+msgstr ""
+
+msgid "Creates vertical and horizontal distance between the counter elements."
+msgstr ""
+
+#, fuzzy
+#| msgid "Tablet scale"
+msgid "Tablet style"
+msgstr "tamanho tablet"
+
+msgid "Set custom Gap and Column for tablet."
+msgstr ""
+
+#, fuzzy
+#| msgid "Mobile scale"
+msgid "Mobile style"
+msgstr "tamanho móvel"
+
+msgid "Set custom Gap and Column for mobile."
+msgstr ""
+
+#, fuzzy
+#| msgid "Actions"
+msgid "Action when ends"
+msgstr "Ações"
+
+#, fuzzy
+#| msgid "Form action"
+msgid "No action"
+msgstr "Ação de formulário"
+
+#, fuzzy
+#| msgid "Heading layer"
+msgid "Hide layer"
+msgstr "Camada de cabeçalho"
+
+msgid "Redirect to URL"
+msgstr ""
+
+msgid "Choose what happens after the counter reached zero."
+msgstr ""
+
+msgid "This page is"
+msgstr ""
+
+msgid "Amazing"
+msgstr ""
+
+#, fuzzy, php-format
+#| msgid "Circle 1"
+msgid "Circle %d"
+msgstr "Círculo 1"
+
+#, fuzzy, php-format
+#| msgid "Curly 1"
+msgid "Curly %d"
+msgstr "Curly 1"
+
+#, fuzzy, php-format
+#| msgid "Highlight 1"
+msgid "Highlight %d"
+msgstr "Destaque 1"
+
+#, fuzzy, php-format
+#| msgid "Line Through 1"
+msgid "Line Through %d"
+msgstr "Linha no meio 1"
+
+#, fuzzy, php-format
+#| msgid "Rectangle 1"
+msgid "Rectangle %d"
+msgstr "Retângulo 1"
+
+#, fuzzy, php-format
+#| msgid "Underline 1"
+msgid "Underline %d"
+msgstr "Sublinhado 1"
+
+#, fuzzy, php-format
+#| msgid "Underline double 1"
+msgid "Underline double %d"
+msgstr "Sublinhado duplo 1"
+
+#, fuzzy, php-format
+#| msgid "ZigZag 1"
+msgid "ZigZag %d"
+msgstr "ZigZag 1"
+
+msgid "Highlighted text"
+msgstr "Texto destacado"
+
+msgid "Bring front"
+msgstr "Trazer frente"
+
+msgid "Puts the shape on top of the text."
+msgstr ""
+
+msgid "Loop delay"
+msgstr "Atraso de loop"
+
+msgid "HTML"
+msgstr ""
+
+msgid "Empty element"
+msgstr ""
+
+msgid ""
+"Please note that <b>we do not support</b> the HTML layer and the 3rd party "
+"codes loaded by it. We only suggest using this layer if you are a developer. "
+"<br>Also, make sure your HTML code is valid! Invalid HTML codes can mess up "
+"the entire slide and the only way resolving this problem is deleting the "
+"slide."
+msgstr ""
+
+msgid "Item"
+msgstr "Item"
+
+msgid ""
+"Item 1\n"
+"Item 2\n"
+"Item 3"
+msgstr ""
+"Item 1\n"
+"Item 2\n"
+"Item 3"
+
+msgid "List type"
+msgstr "Tipo de lista"
+
+msgctxt "List layer type"
+msgid "None"
+msgstr "Nenhum"
+
+msgctxt "List layer type"
+msgid "Disc"
+msgstr "Disco"
+
+msgctxt "List layer type"
+msgid "Square"
+msgstr "Quadrado"
+
+msgctxt "List layer type"
+msgid "Circle"
+msgstr "Círculo"
+
+msgctxt "List layer type"
+msgid "Decimal"
+msgstr "Decimal"
+
+msgctxt "List layer type"
+msgid "Armenian"
+msgstr "Armênio"
+
+msgctxt "List layer type"
+msgid "Cjk-ideographic"
+msgstr "Cjk-ideographic"
+
+msgctxt "List layer type"
+msgid "Decimal-leading-zero"
+msgstr "Decimal-leading-zero"
+
+msgctxt "List layer type"
+msgid "Georgian"
+msgstr "Georgiano"
+
+msgctxt "List layer type"
+msgid "Hebrew"
+msgstr "Hebraico"
+
+msgctxt "List layer type"
+msgid "Hiragana"
+msgstr "Hiragana"
+
+msgctxt "List layer type"
+msgid "Hiragana-iroha"
+msgstr "Hiragana-iroha"
+
+msgctxt "List layer type"
+msgid "Katakana"
+msgstr "Katakana"
+
+msgctxt "List layer type"
+msgid "Katakana-iroha"
+msgstr "Katakana-iroha"
+
+msgctxt "List layer type"
+msgid "Lower-alpha"
+msgstr "Lower-alpha"
+
+msgctxt "List layer type"
+msgid "Lower-greek"
+msgstr "Lower-greek"
+
+msgctxt "List layer type"
+msgid "Lower-latin"
+msgstr "Lower-latin"
+
+msgctxt "List layer type"
+msgid "Lower-roman"
+msgstr "Lower-roman"
+
+msgctxt "List layer type"
+msgid "Upper-alpha"
+msgstr "Upper-alpha"
+
+msgctxt "List layer type"
+msgid "Upper-latin"
+msgstr "Upper-latin"
+
+msgctxt "List layer type"
+msgid "Upper-roman"
+msgstr "Upper-roman"
+
+msgid "Icon not found"
+msgstr "Ícone não encontrado"
+
+#, php-format
+msgid "Enter an %1$s aria-label attribute %2$s that describes the link."
+msgstr ""
+
+msgid "Iframe"
+msgstr ""
+
+msgid ""
+"Please note, that <b>we do not support</b> customized coding! The iframe "
+"layer often needs code customizations what you have to do yourself, so we "
+"only suggest using this layer if you are a developer!"
+msgstr ""
+
+#, fuzzy
+#| msgid "iframe url"
+msgid "Iframe url"
+msgstr "iframe url"
+
+msgid "You can disable the scroll on the iframe content."
+msgstr ""
+
+#, fuzzy
+#| msgid "iframe url"
+msgid "Iframe title"
+msgstr "iframe url"
+
+msgid "Image area"
+msgstr ""
+
+#, fuzzy
+#| msgid "Image mode"
+msgid "Image box"
+msgstr "Modo de imagem"
+
+msgid ""
+"Positions the text inside the layer. Only works with left and right layout."
+msgstr ""
+
+msgid "Input"
+msgstr "Entrada"
+
+msgid "Container"
+msgstr "Recipiente"
+
+msgid "What are you looking for?"
+msgstr "O que você está procurando?"
+
+msgid ""
+"We only suggest using this layer if you are a developer, since the Input "
+"layer requires deep understanding how HTML form works."
+msgstr ""
+
+msgid "Placeholder text"
+msgstr "Texto de espaço reservado"
+
+msgid "Form"
+msgstr ""
+
+msgid "Input name"
+msgstr "Nome da entrada"
+
+msgid "Method"
+msgstr "Método"
+
+msgid "Form action"
+msgstr "Ação de formulário"
+
+msgid "Parameters"
+msgstr "Parâmetros"
+
+msgid "Slide action to submit"
+msgstr "Slide ação para enviar"
+
+msgid "JavaScript"
+msgstr "JavaScript"
+
+msgid "Progress bar"
+msgstr "Barra de progresso"
+
+msgid "Over"
+msgstr "Sobre"
+
+msgid "Transition"
+msgstr ""
+
+msgid "Front image"
+msgstr ""
+
+msgid "Back image"
+msgstr ""
+
+msgid "Vertical flip"
+msgstr "Giro vertical"
+
+msgid "Horizontal flip"
+msgstr "Giro Horizontal"
+
+msgid "Front image alt tag"
+msgstr ""
+
+msgid "Back image alt tag"
+msgstr ""
+
+msgid "MP4 video"
+msgstr "Vídeo MP4"
+
+msgid "Preload"
+msgstr "Pré-carga"
+
+msgid "Joomla module"
+msgstr ""
+
+msgid ""
+"Please note, that <b>we do not support</b> the Joomla module layer!<br>The "
+"loaded module often needs code customizations what you have to do yourself, "
+"so we only suggest using this layer if you are a developer!"
+msgstr ""
+"Tenha em mente que <b>não damos suporte</b> ao módulo Joomla! <br> O módulo "
+"carregado precisa de códigos customizados que você deve fazer por si só, e "
+"recomendamos que seja feito por um desenvolvedor."
+
+msgid "Position name or module ID"
+msgstr "Nome da posição ou ID do módulo"
+
+msgid ""
+"The position name of your module (for Loadposition and Modulepos) or the "
+"module's ID (Module)."
+msgstr ""
+
+msgid "Constrain ratio"
+msgstr "Restringir relação"
+
+msgid "The slide scales horizontally and vertically with the same amount."
+msgstr ""
+
+msgid "Height based on"
+msgstr ""
+
+msgid ""
+"The real height makes your slider have the height of the browser without the "
+"URL bar, while the CSS 100vh makes it exactly as big as the browser height."
+msgstr ""
+
+msgid "Decrease height"
+msgstr ""
+
+msgid ""
+"You can make your slider smaller than the full height of the browser by a "
+"given pixel, for example, to fit below your menu without causing scrollbar."
+msgstr ""
+
+msgid "Decrease height by selectors"
+msgstr ""
+
+msgid "Use global focus selectors"
+msgstr ""
+
+msgid "Use local selectors"
+msgstr ""
+
+msgid ""
+"You can make your slider smaller than the full height of the browser, for "
+"example, to fit below your menu without causing scrollbar."
+msgstr ""
+
+msgid "CSS selector (sum of heights)"
+msgstr ""
+
+msgctxt "Slider type"
+msgid "Carousel slider"
+msgstr ""
+
+#, fuzzy
+#| msgid "Slider size"
+msgid "Slide size"
+msgstr "Tamanho do slider"
+
+msgid "Max pane width"
+msgstr ""
+
+msgid ""
+"You can use this option to limit how many slides can show up next to each "
+"other."
+msgstr ""
+
+msgid "Minimum slide distance"
+msgstr "Distância mínima do slide"
+
+msgid "The minimum space between two slides."
+msgstr ""
+
+msgid "Side spacing"
+msgstr ""
+
+msgid "Desktop side spacing"
+msgstr ""
+
+msgid ""
+"You can create a fix distance between the slider and the slides where your "
+"controls are which appear on this device. This way your controls won't cover "
+"the slide content."
+msgstr ""
+
+msgid "Tablet side spacing"
+msgstr ""
+
+msgid "Mobile side spacing"
+msgstr ""
+
+#, fuzzy
+#| msgid "Background color"
+msgid "Slide background color"
+msgstr "Cor de fundo"
+
+#, fuzzy
+#| msgid "Slide order saved."
+msgid "Slide border width"
+msgstr "Ordem de slides salvo."
+
+#, fuzzy
+#| msgid "Slide order saved."
+msgid "Slide border color"
+msgstr "Ordem de slides salvo."
+
+#, fuzzy
+#| msgid "Slide order saved."
+msgid "Slide border radius"
+msgstr "Ordem de slides salvo."
+
+#, fuzzy
+#| msgid "Slider order saved."
+msgid "Slider border width"
+msgstr "Ordem do controle deslizante salva."
+
+#, fuzzy
+#| msgid "Slider order saved."
+msgid "Slider border color"
+msgstr "Ordem do controle deslizante salva."
+
+#, fuzzy
+#| msgid "Slider order saved."
+msgid "Slider border radius"
+msgstr "Ordem do controle deslizante salva."
+
+msgid "The Single Switch setting can only move the slides horizontally!"
+msgstr ""
+
+msgid ""
+"This option will create a complete round from your slides if you have enough "
+"slides. If you don't have enough slides, you could consider duplicating all "
+"the slides or just add more slides until you will get a carousel round."
+msgstr ""
+"Essa opção irá criar um carrousel para seus slides, se você possuir slides "
+"suficientes. Caso não possua tantos slides, você deve considerar duplicar "
+"todos slides ou apenas adicionar novos slides até que você tenha um "
+"carrousel funcionando."
+
+msgid "Single switch"
+msgstr "Interruptor único"
+
+msgid "It switches one slide instead of moving all the visible slides."
+msgstr "Ele alterna um slide em vez de mover todos os slides visíveis."
+
+msgid "Justify slides"
+msgstr ""
+
+msgctxt "Slider type"
+msgid "Showcase slider"
+msgstr ""
+
+msgid "Slide distance"
+msgstr "Distância do slide"
+
+msgid "Fix space between the slides."
+msgstr ""
+
+msgid "Slide CSS Preset"
+msgstr ""
+
+#, fuzzy
+#| msgid "No animation"
+msgid "Showcase animation"
+msgstr "Sem animação"
+
+msgid "Horizontal showcase"
+msgstr "Mostruário Horizontal"
+
+msgid "Vertical showcase"
+msgstr "Mostruário Vertical"
+
+msgid "Horizontal cover flow"
+msgstr "Fluxo de cobertura horizontal"
+
+msgid "Vertical cover flow"
+msgstr "Fluxo de cobertura vertical"
+
+msgid "Switch with next/previous slides"
+msgstr "Trocar com slides próximo/anterior"
+
+msgid ""
+"Clicking on any slide that's not in the middle will make the slider switch "
+"to that slide. With this option you can disable this behavior, for example, "
+"to allow clicking on buttons on the visible slides."
+msgstr ""
+
+msgid "Save as new animation"
+msgstr "Salvar como nova animação"
+
+msgid "Sets"
+msgstr "Conjuntos"
+
+msgid "Text animation settings"
+msgstr ""
+
+msgid "Words"
+msgstr "Palavras"
+
+msgid "Sort"
+msgstr "Ordenar"
+
+msgid "Reversed"
+msgstr "Invertida"
+
+msgid "Side shifted"
+msgstr "Lado deslocado"
+
+msgid "Center shifted"
+msgstr "Centro deslocado"
+
+msgid "Stagger"
+msgstr "Escalonar"
+
+msgid "Turn"
+msgstr "Virar"
+
+msgid "Prev"
+msgstr ""
+
+msgid "Next"
+msgstr "Próximo"
+
+msgid "Previous label"
+msgstr "Rótulo anterior"
+
+msgid "Next label"
+msgstr "Próximo rótulo"
+
+msgid "To normal"
+msgstr ""
+
+msgid "To fullscreen"
+msgstr "Para tela cheia"
+
+msgid "Fullscreen"
+msgstr ""
+
+#, fuzzy
+#| msgid "To fullscreen"
+msgid "Exit full screen"
+msgstr "Para tela cheia"
+
+#, fuzzy
+#| msgid "To fullscreen"
+msgid "Enter Full screen"
+msgstr "Para tela cheia"
+
+#, php-format
+msgid ""
+"%1$s does not support the full screen API. For this reason the full screen "
+"button will not appear on %1$s devices."
+msgstr ""
+
+msgid "Indicator"
+msgstr "Indicador"
+
+msgid "Line thickness"
+msgstr "Espessura da linha"
+
+msgid "Track color"
+msgstr ""
+
+msgid "Bar color"
+msgstr ""
+
+#~ msgctxt "Default Google font family for admin"
+#~ msgid "Montserrat"
+#~ msgstr "Montserrat"
+
+#~ msgctxt "Default Google font charset for admin"
+#~ msgid "latin"
+#~ msgstr "latin"
+
+#~ msgid "Character set"
+#~ msgstr "Conjunto de caracteres"
+
+#~ msgctxt "Character set"
+#~ msgid "Latin"
+#~ msgstr "Latin"
+
+#~ msgctxt "Character set"
+#~ msgid "Latin Extended"
+#~ msgstr "Latin Extended"
+
+#~ msgctxt "Character set"
+#~ msgid "Greek"
+#~ msgstr "Greek"
+
+#~ msgctxt "Character set"
+#~ msgid "Greek Extended"
+#~ msgstr "Greek Extended"
+
+#~ msgctxt "Character set"
+#~ msgid "Cyrillic"
+#~ msgstr "Cyrillic"
+
+#~ msgctxt "Character set"
+#~ msgid "Devanagari"
+#~ msgstr "Devanagari"
+
+#~ msgctxt "Character set"
+#~ msgid "Arabic"
+#~ msgstr "Arabic"
+
+#~ msgctxt "Character set"
+#~ msgid "Khmer"
+#~ msgstr "Khmer"
+
+#~ msgctxt "Character set"
+#~ msgid "Telugu"
+#~ msgstr "Telugu"
+
+#~ msgctxt "Character set"
+#~ msgid "Vietnamese"
+#~ msgstr "Vietnamese"
+
+#~ msgctxt "Default font sets"
+#~ msgid "latin"
+#~ msgstr "latin"
+
+#~ msgid "Private video"
+#~ msgstr "Vídeo privado"
+
+#~ msgid "Loop single slide"
+#~ msgstr "loop de Slide único"
+
+#~ msgid "In case of one slide, it repeats the animation of the slide."
+#~ msgstr "No caso de um slide, ele repete a animação do slide."
+
+#~ msgid "Curve 2"
+#~ msgstr "Curva 2"
+
+#~ msgid "Curve 3"
+#~ msgstr "Curva 3"
+
+#~ msgid "Curve 4"
+#~ msgstr "Curva 4"
+
+#~ msgid "Fan 2"
+#~ msgstr "Fã 2"
+
+#~ msgid "Fan 3"
+#~ msgstr "Fã 3"
+
+#~ msgid "Incline 2"
+#~ msgstr "Inclinar 2"
+
+#~ msgid "Incline 3"
+#~ msgstr "Inclinar 3"
+
+#~ msgid "Tilt 2"
+#~ msgstr "Inclinação 2"
+
+#~ msgid "Triangle 2"
+#~ msgstr "Triângulo 2"
+
+#~ msgid "Wave 2"
+#~ msgstr "Ondas 2"
+
+#~ msgid "Types"
+#~ msgstr "Tipos"
+
+#~ msgid "Expired"
+#~ msgstr "Expirado"
+
+#~ msgid "Auction"
+#~ msgstr "Leilão"
+
+#~ msgid "Negotiable price"
+#~ msgstr "Preço negociável"
+
+#~ msgid "Blocked by User"
+#~ msgstr "Bloqueado pelo usuário"
+
+#~ msgid "Paid"
+#~ msgstr "Pago"
+
+#~ msgid "Buynow"
+#~ msgstr "Compre"
+
+#~ msgid "Expiration date"
+#~ msgstr "Data de validade"
+
+#~ msgid "Supplier"
+#~ msgstr "Fornecedor"
+
+#~ msgid "On sale"
+#~ msgstr "À venda"
+
+#~ msgid "Discount price"
+#~ msgstr "Preço com desconto"
+
+#~ msgid "Create custom date variables"
+#~ msgstr "Crie variáveis de data personalizadas"
+
+#~ msgid ""
+#~ "You can write any date format (http://php.net/manual/en/function.date."
+#~ "php) in separate lines, and new variables will be created for them."
+#~ msgstr ""
+#~ "Você pode escrever qualquer formato de data (http://php.net/manual/en/"
+#~ "function.date.php) em linhas separadas e novas variáveis serão criadas "
+#~ "para elas."
+
+#~ msgid ""
+#~ "Write the original text, like 'Monday' then two | signs, and the text you "
+#~ "want it to be translated to, for example 'Montag'. Together: Monday||"
+#~ "Montag"
+#~ msgstr ""
+#~ "Escreva o texto original, como 'segunda-feira', depois dois | sinais, e o "
+#~ "texto que você quer que seja traduzido, por exemplo, 'Montag'. Juntos: "
+#~ "segunda-feira || Montag"
+
+#~ msgid "Circle 2"
+#~ msgstr "Círculo 2"
+
+#~ msgid "Circle 3"
+#~ msgstr "Círculo 3"
+
+#~ msgid "Curly 2"
+#~ msgstr "Curly 2"
+
+#~ msgid "Highlight 2"
+#~ msgstr "Destaque 2"
+
+#~ msgid "Highlight 3"
+#~ msgstr "Destaque 3"
+
+#~ msgid "Line Through 2"
+#~ msgstr "Linha no meio 2"
+
+#~ msgid "Line Through 3"
+#~ msgstr "Linha no meio 3"
+
+#~ msgid "Rectangle 2"
+#~ msgstr "Retângulo 2"
+
+#~ msgid "Underline 2"
+#~ msgstr "Sublinhado 2"
+
+#~ msgid "Underline 3"
+#~ msgstr "Sublinhado 3"
+
+#~ msgid "Underline double 2"
+#~ msgstr "Sublinhado duplo 2"
+
+#~ msgid "ZigZag 2"
+#~ msgstr "ZigZag 2"
+
+#~ msgid "ZigZag 3"
+#~ msgstr "ZigZag 3"
+
+#~ msgid "m-d-Y"
+#~ msgstr "m-d-Y"
+
+#~ msgid "Async"
+#~ msgstr "Async"
+
+#~ msgid "Combine"
+#~ msgstr "Combinar"
+
+#~ msgid "Available by date"
+#~ msgstr "Disponível por data"
+
+#~ msgid "Requires shipping"
+#~ msgstr "Requer envio"
+
+#~ msgid "Approved"
+#~ msgstr "Aprovado"
+
+#~ msgid "Show hidden"
+#~ msgstr "Mostrar escondido"
+
+#~ msgid "Priority"
+#~ msgstr "Prioridade"
+
+#~ msgid "Tile"
+#~ msgstr "Repetir"
+
+#~ msgid "Generate"
+#~ msgstr "fontes"
+
+#~ msgid "Desktop image is empty!"
+#~ msgstr "Imagem para Desktop está vazia!"
+
+#, fuzzy
+#~| msgid "Tablet Retina"
+#~ msgid "Tablet retina"
+#~ msgstr "Tablet Retina"
+
+#, fuzzy
+#~| msgid "Mobile Retina"
+#~ msgid "Mobile retina"
+#~ msgstr "Dispositivo Móvel Retina"
+
+#~ msgid ""
+#~ "Activation process is not supported in this browser. Please use Google "
+#~ "Chrome."
+#~ msgstr ""
+#~ "Processo de ativação não é suportado pelo seu navegador. Por favor use o "
+#~ "Google Chrome."
+
+#, fuzzy
+#~| msgid "Private video"
+#~ msgid "Watch video"
+#~ msgstr "Vídeo privado"
+
+#, fuzzy
+#~| msgid "Mouse enter position"
+#~ msgid "Absolute position"
+#~ msgstr "Mouse entra em posição"
+
+#, fuzzy
+#~| msgid "Read more"
+#~ msgid "Read docs"
+#~ msgstr "Leia mais"
+
+#~ msgid "Hide until complete load"
+#~ msgstr "Esconder até a carga completa"
+
+#~ msgid "Load jQuery on frontend"
+#~ msgstr "Carregar o jQuery no frontend"
+
+#~ msgid "Load GSAP on frontend"
+#~ msgstr "Carregar o GSAP no frontend"
+
+#~ msgid "CSS mode"
+#~ msgstr "Modo CSS"
+
+#~ msgid "Inline"
+#~ msgstr "Em linha"
+
+#~ msgid "Inline at head"
+#~ msgstr "Em linha no cabeçalho"
+
+#~ msgid "Parallax overlap"
+#~ msgstr "Sobreposição de parallax"
+
+#~ msgid "Background image dynamic height"
+#~ msgstr "Altura dinâmica da imagem de fundo"
+
+#~ msgid ""
+#~ "The height of your slides changes according to the height of the "
+#~ "background image."
+#~ msgstr ""
+#~ "A altura dos seus slides muda de acordo com a altura da imagem de fundo."
+
+#, fuzzy
+#~| msgid "Tablet scale"
+#~ msgid "Tablet size"
+#~ msgstr "tamanho tablet"
+
+#, fuzzy
+#~| msgid "Mobile scale"
+#~ msgid "Mobile size"
+#~ msgstr "tamanho móvel"
+
+#~ msgid "Minimum thumbnail count"
+#~ msgstr "Contagem mínima de miniaturas"
+
+#~ msgid "Invert group direction"
+#~ msgstr "Inverter direção do grupo"
+
+#~ msgid "Typewriter 2"
+#~ msgstr "Typewriter 2"
+
+#, fuzzy
+#~| msgid "Text Color"
+#~ msgid "Text color"
+#~ msgstr "Cor do Texto"
+
+#~ msgctxt "Slider type"
+#~ msgid "Accordion"
+#~ msgstr "Acordeão"
+
+#~ msgid "Dark"
+#~ msgstr "Escuro"
+
+#~ msgid "Outer color"
+#~ msgstr "Cor exterior"
+
+#~ msgid "Inner color"
+#~ msgstr "Cor interna"
+
+#~ msgid "Tab background"
+#~ msgstr "Fundo de guia"
+
+#~ msgid "Slide margin"
+#~ msgstr "Margem do slide"
+
+#~ msgid "Outer"
+#~ msgstr "Exterior"
+
+#~ msgid "Inner"
+#~ msgstr "Interior"
+
+#, fuzzy
+#~| msgid "Background color"
+#~ msgid "Slider background color"
+#~ msgstr "Cor de fundo"
+
+#~ msgid "Show Joomla admin footer"
+#~ msgstr "Mostrar o rodapé do admin do Joomla"
+
+#~ msgid "Smooth scroll to this element"
+#~ msgstr "Rolagem suave para este elemento"
+
+#~ msgid "Allow slide switching for anchor"
+#~ msgstr "Permitir troca de slider para ancora"
+
+#~ msgid "After slider"
+#~ msgstr "Depois do slider"
+
+#~ msgid ""
+#~ "The current slider will not start loading until the set slider is loaded "
+#~ "completely."
+#~ msgstr ""
+#~ "O slider atual não começará a ser carregado até que o conjunto de slider "
+#~ "seja carregado completamente."
+
+#~ msgid "Slider ID"
+#~ msgstr "ID do Slider."
+
+#, fuzzy
+#~| msgid "Image manager"
+#~ msgid "manage pages"
+#~ msgstr "Gerenciador de Imagem"
+
+#~ msgid "Server side mobile detect"
+#~ msgstr "Detecção móvel do lado do servidor"
+
+#~ msgid "Top Left"
+#~ msgstr "Topo Esquerda"
+
+#~ msgid "Top Right"
+#~ msgstr "Topo Direita"
+
+#~ msgid "Bottom Left"
+#~ msgstr "Baixo Esquerda"
+
+#~ msgid "Bottom Right"
+#~ msgstr "Baixo Direita"
+
+#~ msgid "Ticket price"
+#~ msgstr "Preço do bilhete"

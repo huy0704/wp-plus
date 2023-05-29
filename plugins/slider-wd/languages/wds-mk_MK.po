@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wds\n"
+"POT-Creation-Date: 2014-09-26 17:59+0400\n"
+"PO-Revision-Date: 2014-09-26 17:59+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: mk_MK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : 1;\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress3.5\\wp-content\\plugins"
+"\\slider-plugin\n"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:30
+#, fuzzy
+msgid "There is no slider selected or the slider was deleted."
+msgstr "Нема избрани галерија или галеријата е избришана."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:42
+#, fuzzy
+msgid "There are no slides in this slider."
+msgstr "Нема слики во оваа галерија."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:660
+msgid "Share on Facebook"
+msgstr "Сподели на Facebook"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:666
+msgid "Share on Twitter"
+msgstr "Сподели на Twitter"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:672
+msgid "Share on Google+"
+msgstr "Сподели на  Google+"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:678
+msgid "Share on Pinterest"
+msgstr "Сподели във Pinterest"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:684
+msgid "Share on Tumblr"
+msgstr "Сподели на Tumblr"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1875
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1894
+msgid "Pause"
+msgstr "Пауза"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1884
+msgid "Play"
+msgstr "Играат"
+
+#~ msgid "field is required."
+#~ msgstr "поле е задолжително."
+
+#~ msgid "This is not a valid email address."
+#~ msgstr "Ова не е валидна емаил адреса."
+
+#~ msgid "There are no images matching your search."
+#~ msgstr "Не са открити снимки, отговарящи на вашето търсене."
+
+#~ msgid " item(s)"
+#~ msgstr "ставка"
+
+#~ msgid "First"
+#~ msgstr "Во прв план"
+
+#~ msgid "Previous"
+#~ msgstr "Претходниот"
+
+#~ msgid "Next"
+#~ msgstr "Следната"
+
+#~ msgid "Last"
+#~ msgstr "Трае"
+
+#~ msgid "Go to the first page"
+#~ msgstr "Оди на првата страница"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "Оди на претходната страница"
+
+#~ msgid "of"
+#~ msgstr "на"
+
+#~ msgid "Go to the next page"
+#~ msgstr "Оди на следната страница"
+
+#~ msgid "Go to the last page"
+#~ msgstr "Оди до последната страница"
+
+#~ msgid "Reset"
+#~ msgstr "Ресетирање"
+
+#~ msgid "Search"
+#~ msgstr "Пребарување"
+
+#~ msgid "There is no theme selected or the theme was deleted."
+#~ msgstr "Нема избрани тема или тема е избришана."
+
+#~ msgid "There is no album selected or the album was deleted."
+#~ msgstr "Нема Одбраниот албум или албум е избришана."
+
+#~ msgid "Back"
+#~ msgstr "Назад"
+
+#~ msgid "Album is empty."
+#~ msgstr "Албумот е празна"
+
+#~ msgid "Gallery is empty."
+#~ msgstr "Галеријата е празна"
+
+#~ msgid "More"
+#~ msgstr "Повеќе"
+
+#~ msgid "Hide"
+#~ msgstr "Скрие"
+
+#~ msgid "Show comments"
+#~ msgstr "Покаже коментари"
+
+#~ msgid "The image has been deleted."
+#~ msgstr "Сликата е избришан."
+
+#~ msgid "Maximize"
+#~ msgstr "Рашири"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Цел екран"
+
+#~ msgid "Show info"
+#~ msgstr "Show info"
+
+#~ msgid "Show rating"
+#~ msgstr "Покаже рејтинг"
+
+#~ msgid "Open image in original size."
+#~ msgstr "Отворен сликата во оригинална големина."
+
+#~ msgid "Download original image"
+#~ msgstr "Преземете оригиналната слика"
+
+#~ msgid "Hits: "
+#~ msgstr "Преземања: "
+
+#~ msgid "Rated."
+#~ msgstr "Номинално."
+
+#~ msgid "Not rated yet."
+#~ msgstr "Сè уште нема оценка. "
+
+#~ msgid "Votes: "
+#~ msgstr "гласови: "
+
+#~ msgid "Cancel your rating."
+#~ msgstr "Откажи вашиот рејтинг. "
+
+#~ msgid "You have already rated."
+#~ msgstr "Веќе сте оценет. "
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "Грешка. Неточни Код за верификација. "
+
+#~ msgid "Hide Comments"
+#~ msgstr "Скрие коментари"
+
+#~ msgid "Name"
+#~ msgstr "Име"
+
+#~ msgid "Email"
+#~ msgstr "e-mail "
+
+#~ msgid "Comment"
+#~ msgstr "Коментираат"
+
+#~ msgid "Verification Code"
+#~ msgstr "код за верификација"
+
+#~ msgid "Submit"
+#~ msgstr "Прати"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "Вашиот коментар чека модерирање "
+
+#~ msgid "Delete Comment"
+#~ msgstr "Избришете коментар"
+
+#~ msgid "Show Comments"
+#~ msgstr "Покажи ги коментарите"
+
+#~ msgid "Hide info"
+#~ msgstr "Скриване на информация"
+
+#~ msgid "Hide rating"
+#~ msgstr "Сокриј рејтинг."
+
+#~ msgid "Restore"
+#~ msgstr "Врати"
+
+#~ msgid "Exit Fullscreen"
+#~ msgstr "Излезете на цел екран"

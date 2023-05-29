@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wds\n"
+"POT-Creation-Date: 2014-09-26 17:58+0400\n"
+"PO-Revision-Date: 2014-09-26 17:58+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nn_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress3.5\\wp-content\\plugins"
+"\\slider-plugin\n"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:30
+#, fuzzy
+msgid "There is no slider selected or the slider was deleted."
+msgstr "Det er ingen galleri valgt eller galleriet ble slettet."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:42
+#, fuzzy
+msgid "There are no slides in this slider."
+msgstr "Det er ingen bilder i dette galleriet."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:660
+msgid "Share on Facebook"
+msgstr "Del på Facebook"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:666
+msgid "Share on Twitter"
+msgstr "Del på Twitter"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:672
+msgid "Share on Google+"
+msgstr "Del på Google+"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:678
+msgid "Share on Pinterest"
+msgstr "Del på Pinterest"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:684
+msgid "Share on Tumblr"
+msgstr "Del på Tumblr"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1875
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1894
+msgid "Pause"
+msgstr "Pause"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1884
+msgid "Play"
+msgstr "Play"
+
+#~ msgid "field is required."
+#~ msgstr "Feltet er nødvendig."
+
+#~ msgid "This is not a valid email address."
+#~ msgstr "Dette er ikke en gyldig e-postadresse."
+
+#~ msgid "There are no images matching your search."
+#~ msgstr "Det er ingen bilder som matcher ditt søk."
+
+#~ msgid " item(s)"
+#~ msgstr "elementet(r)"
+
+#~ msgid "First"
+#~ msgstr "Først"
+
+#~ msgid "Previous"
+#~ msgstr "Forrige"
+
+#~ msgid "Next"
+#~ msgstr "Neste"
+
+#~ msgid "Last"
+#~ msgstr "Vare"
+
+#~ msgid "Go to the first page"
+#~ msgstr "Gå til den første siden"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "Gå til forrige side"
+
+#~ msgid "of"
+#~ msgstr "av"
+
+#~ msgid "Go to the next page"
+#~ msgstr "Gå til neste side"
+
+#~ msgid "Go to the last page"
+#~ msgstr "Gå til siste side"
+
+#~ msgid "Reset"
+#~ msgstr "Reset"
+
+#~ msgid "Search"
+#~ msgstr "Søk"
+
+#~ msgid "There is no theme selected or the theme was deleted."
+#~ msgstr "Det er ingen tema valgt eller temaet ble slettet"
+
+#~ msgid "There is no album selected or the album was deleted."
+#~ msgstr "Det er ingen album valgt eller albumet ble slettet"
+
+#~ msgid "Back"
+#~ msgstr "Tilbake"
+
+#~ msgid "Album is empty."
+#~ msgstr "Albumet er tom"
+
+#~ msgid "Gallery is empty."
+#~ msgstr "Gallery er tom"
+
+#~ msgid "More"
+#~ msgstr "Mer"
+
+#~ msgid "Hide"
+#~ msgstr "Skjul"
+
+#~ msgid "Show comments"
+#~ msgstr "Vis kommentarer"
+
+#~ msgid "The image has been deleted."
+#~ msgstr "Bildet er slettet."
+
+#~ msgid "Maximize"
+#~ msgstr "Maksimere"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Fullscreen"
+
+#~ msgid "Show info"
+#~ msgstr "Vis info"
+
+#~ msgid "Show rating"
+#~ msgstr "Vis vurdering"
+
+#~ msgid "Open image in original size."
+#~ msgstr "Åpne bildet i original størrelse."
+
+#~ msgid "Download original image"
+#~ msgstr "Last ned originalbildet"
+
+#~ msgid "Hits: "
+#~ msgstr "Treff: "
+
+#~ msgid "Rated."
+#~ msgstr "Karakter."
+
+#~ msgid "Not rated yet."
+#~ msgstr "Ikke vurdert ennå. "
+
+#~ msgid "Votes: "
+#~ msgstr "Stemmer: "
+
+#~ msgid "Cancel your rating."
+#~ msgstr "Avbryt din vurdering. "
+
+#~ msgid "You have already rated."
+#~ msgstr "Du har allerede vurdert. "
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "Feil. Feil bekreftelseskode. "
+
+#~ msgid "Hide Comments"
+#~ msgstr "Skjul kommentarer"
+
+#~ msgid "Name"
+#~ msgstr "Navn"
+
+#~ msgid "Email"
+#~ msgstr "E-post "
+
+#~ msgid "Comment"
+#~ msgstr "Kommentar"
+
+#~ msgid "Verification Code"
+#~ msgstr "Kontrollkode"
+
+#~ msgid "Submit"
+#~ msgstr "Send"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "Din kommentar avventer moderasjon "
+
+#~ msgid "Delete Comment"
+#~ msgstr "Slett kommentar"
+
+#~ msgid "Show Comments"
+#~ msgstr "Vis kommentarer"
+
+#, fuzzy
+#~ msgid "Hide info"
+#~ msgstr "Skjul"
+
+#~ msgid "Hide rating"
+#~ msgstr "Skjul vurdering"
+
+#~ msgid "Restore"
+#~ msgstr "Gjenopprett"
+
+#~ msgid "Exit Fullscreen"
+#~ msgstr "Avslutt fullskjerm"

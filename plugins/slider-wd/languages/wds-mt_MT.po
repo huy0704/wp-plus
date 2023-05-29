@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wds\n"
+"POT-Creation-Date: 2014-09-26 17:58+0400\n"
+"PO-Revision-Date: 2014-09-26 17:58+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: mt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n==0 || ( n%100>1 && n"
+"%100<11) ? 1 : (n%100>10 && n%100<20 ) ? 2 : 3);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress3.5\\wp-content\\plugins"
+"\\slider-plugin\n"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:30
+#, fuzzy
+msgid "There is no slider selected or the slider was deleted."
+msgstr "M'hemm l-ebda gallerija magħżula jew il-gallerija kienet imħassra."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:42
+#, fuzzy
+msgid "There are no slides in this slider."
+msgstr "M'hemm l-ebda immaġini fil din il-gallarija."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:660
+msgid "Share on Facebook"
+msgstr "Share fuq Facebook"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:666
+msgid "Share on Twitter"
+msgstr "Share fuq Twitter"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:672
+msgid "Share on Google+"
+msgstr "Share fuq Google +"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:678
+msgid "Share on Pinterest"
+msgstr "Share fuq Pinterest"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:684
+msgid "Share on Tumblr"
+msgstr "Share fuq Tumblr"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1875
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1894
+msgid "Pause"
+msgstr "Pause"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1884
+msgid "Play"
+msgstr "Play"
+
+#~ msgid "field is required."
+#~ msgstr "qasam hija meħtieġa. "
+
+#~ msgid "This is not a valid email address."
+#~ msgstr "Din mhix l-indirizz email validu. "
+
+#~ msgid "There are no images matching your search."
+#~ msgstr "M'hemm l-ebda immaġini tqabbil tfittxija tiegħek."
+
+#~ msgid " item(s)"
+#~ msgstr "partita"
+
+#~ msgid "First"
+#~ msgstr "Ewwel"
+
+#~ msgid "Previous"
+#~ msgstr "Preċedenti"
+
+#~ msgid "Next"
+#~ msgstr "Next"
+
+#~ msgid "Last"
+#~ msgstr "Aħħar"
+
+#~ msgid "Go to the first page"
+#~ msgstr "Mur għall-ewwel paġna"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "Mur fil-paġna preċedenti"
+
+#~ msgid "of"
+#~ msgstr "tal"
+
+#~ msgid "Go to the next page"
+#~ msgstr "Mur fil-paġna li jmiss"
+
+#~ msgid "Go to the last page"
+#~ msgstr "Mur għall-aħħar paġna"
+
+#~ msgid "Reset"
+#~ msgstr "Irrisettja"
+
+#~ msgid "Search"
+#~ msgstr "Search"
+
+#~ msgid "There is no theme selected or the theme was deleted."
+#~ msgstr "M'hemm l-ebda tema magħżula jew it-tema ġiet imħassra"
+
+#~ msgid "There is no album selected or the album was deleted."
+#~ msgstr "M'hemm l-ebda album magħżula jew l-album ġie mħassar"
+
+#~ msgid "Back"
+#~ msgstr "Back"
+
+#~ msgid "Album is empty."
+#~ msgstr "Album ikun vojt"
+
+#~ msgid "Gallery is empty."
+#~ msgstr "Gallerija ikun vojt"
+
+#~ msgid "More"
+#~ msgstr "Aktar"
+
+#~ msgid "Hide"
+#~ msgstr "Aħbi"
+
+#~ msgid "Show comments"
+#~ msgstr "Uri kummenti"
+
+#~ msgid "The image has been deleted."
+#~ msgstr "L-immaġni tħassret."
+
+#~ msgid "Maximize"
+#~ msgstr "Timmassimizza"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Fullscreen"
+
+#~ msgid "Show info"
+#~ msgstr "Uri info"
+
+#~ msgid "Show rating"
+#~ msgstr "Uri rating"
+
+#~ msgid "Open image in original size."
+#~ msgstr "Image miftuħa fid-daqs oriġinali. "
+
+#~ msgid "Download original image"
+#~ msgstr "Tniżżel immaġini oriġinali"
+
+#~ msgid "Hits: "
+#~ msgstr "Viżti: "
+
+#~ msgid "Rated."
+#~ msgstr "Rated."
+
+#~ msgid "Not rated yet."
+#~ msgstr "Mhux nominali għadha. "
+
+#~ msgid "Votes: "
+#~ msgstr "Voti: "
+
+#~ msgid "Cancel your rating."
+#~ msgstr "Ikkanċella gradazzjoni tiegħek. "
+
+#~ msgid "You have already rated."
+#~ msgstr "Inti diġà ratata. "
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "Error. Kodiċi Verifika żbaljata. "
+
+#~ msgid "Hide Comments"
+#~ msgstr "Aħbi Kummenti"
+
+#~ msgid "Name"
+#~ msgstr "Isem"
+
+#~ msgid "Email"
+#~ msgstr "email"
+
+#~ msgid "Comment"
+#~ msgstr "Jikkummentaw"
+
+#~ msgid "Verification Code"
+#~ msgstr "Kodiċi verifika"
+
+#~ msgid "Submit"
+#~ msgstr "Issottometti"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "Kumment tiegħek qed tistenna moderazzjoni "
+
+#~ msgid "Delete Comment"
+#~ msgstr "Ħassar Kumment"
+
+#~ msgid "Show Comments"
+#~ msgstr "Uri Kummenti"
+
+#~ msgid "Hide info"
+#~ msgstr "Aħbi"
+
+#~ msgid "Hide rating"
+#~ msgstr "Klassifikazzjoni jinħbew"
+
+#~ msgid "Restore"
+#~ msgstr "Restore"
+
+#~ msgid "Exit Fullscreen"
+#~ msgstr "Ħruġ Fullscreen"

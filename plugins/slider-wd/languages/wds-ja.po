@@ -1,0 +1,208 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wds\n"
+"POT-Creation-Date: 2014-09-26 18:00+0400\n"
+"PO-Revision-Date: 2014-09-26 18:00+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress3.5\\wp-content\\plugins"
+"\\slider-plugin\n"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:30
+#, fuzzy
+msgid "There is no slider selected or the slider was deleted."
+msgstr ""
+"そこに選択されていませんギャラリーはありませんかギャラリーが削除されました"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:42
+#, fuzzy
+msgid "There are no slides in this slider."
+msgstr "このギャラリーには画像がありません"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:660
+msgid "Share on Facebook"
+msgstr "Facebook上で共有しています"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:666
+msgid "Share on Twitter"
+msgstr "Twitterで共有しています"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:672
+msgid "Share on Google+"
+msgstr "Google+で共有しています"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:678
+msgid "Share on Pinterest"
+msgstr "Pinterestの上の共有"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:684
+msgid "Share on Tumblr"
+msgstr "スキの共有"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1875
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1894
+msgid "Pause"
+msgstr "一時停止します"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1884
+msgid "Play"
+msgstr "再生"
+
+#~ msgid "field is required."
+#~ msgstr "フィールドは必須です。"
+
+#~ msgid "This is not a valid email address."
+#~ msgstr "これは有効なメールアドレスではありません。"
+
+#~ msgid "There are no images matching your search."
+#~ msgstr "検索に一致する画像がありません。"
+
+#~ msgid " item(s)"
+#~ msgstr "アイテム"
+
+#~ msgid "First"
+#~ msgstr "最初"
+
+#~ msgid "Previous"
+#~ msgstr "前"
+
+#~ msgid "Next"
+#~ msgstr " 次へ"
+
+#~ msgid "Last"
+#~ msgstr "最後"
+
+#~ msgid "Go to the first page"
+#~ msgstr "最初のページに移動します"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "前のページに移動します"
+
+#~ msgid "of"
+#~ msgstr "の"
+
+#~ msgid "Go to the next page"
+#~ msgstr "次のページに移動します"
+
+#~ msgid "Go to the last page"
+#~ msgstr "最後のページに移動します"
+
+#~ msgid "Reset"
+#~ msgstr "リセットします"
+
+#~ msgid "Search"
+#~ msgstr "検索"
+
+#~ msgid "There is no theme selected or the theme was deleted."
+#~ msgstr "そこに選択されていませんテーマはありませんかテーマが削除されました"
+
+#~ msgid "There is no album selected or the album was deleted."
+#~ msgstr ""
+#~ "そこに選択されていませんアルバムはありませんか、アルバムが削除されました"
+
+#~ msgid "Back"
+#~ msgstr " バック"
+
+#~ msgid "Album is empty."
+#~ msgstr "アルバムは空です"
+
+#~ msgid "Gallery is empty."
+#~ msgstr "ギャラリーは空です"
+
+#~ msgid "More"
+#~ msgstr "もっと"
+
+#~ msgid "Hide"
+#~ msgstr "非表示にします"
+
+#~ msgid "Show comments"
+#~ msgstr "コメントを見る"
+
+#~ msgid "The image has been deleted."
+#~ msgstr "画像は削除されました"
+
+#~ msgid "Maximize"
+#~ msgstr "最大化します"
+
+#~ msgid "Fullscreen"
+#~ msgstr "フルスクリーン"
+
+#~ msgid "Show info"
+#~ msgstr "情報を表示します"
+
+#~ msgid "Show rating"
+#~ msgstr "評価を表示します"
+
+#~ msgid "Open image in original size."
+#~ msgstr "元のサイズで画像を開く"
+
+#~ msgid "Download original image"
+#~ msgstr "元の画像をダウンロードしてください"
+
+#~ msgid "Hits: "
+#~ msgstr "ヒット数："
+
+#~ msgid "Rated."
+#~ msgstr "評価した。"
+
+#~ msgid "Not rated yet."
+#~ msgstr "まだ評価されていません。 "
+
+#~ msgid "Votes: "
+#~ msgstr "投票： "
+
+#~ msgid "Cancel your rating."
+#~ msgstr "あなたの評価をキャンセル。 "
+
+#~ msgid "You have already rated."
+#~ msgstr "あなたは既に評価されています"
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "エラーが発生しました。誤った認証コード。 "
+
+#~ msgid "Hide Comments"
+#~ msgstr "コメントを非表示にします"
+
+#~ msgid "Name"
+#~ msgstr "名前を付けます"
+
+#~ msgid "Email"
+#~ msgstr "Eメール"
+
+#~ msgid "Comment"
+#~ msgstr "コメント"
+
+#~ msgid "Verification Code"
+#~ msgstr "認証コード"
+
+#~ msgid "Submit"
+#~ msgstr "提出してください"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "あなたのコメント承認待ちです "
+
+#~ msgid "Delete Comment"
+#~ msgstr "コメントを削除します"
+
+#~ msgid "Show Comments"
+#~ msgstr "コメントを表示します"
+
+#~ msgid "Hide info"
+#~ msgstr "情報を隠す"
+
+#~ msgid "Hide rating"
+#~ msgstr "隠す評価"
+
+#~ msgid "Restore"
+#~ msgstr "復元します"
+
+#~ msgid "Exit Fullscreen"
+#~ msgstr "フルスクリーンを終了します"

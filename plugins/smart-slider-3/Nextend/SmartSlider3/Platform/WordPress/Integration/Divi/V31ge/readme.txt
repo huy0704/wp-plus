@@ -1,0 +1,2 @@
+Compile:
+divi-scripts build

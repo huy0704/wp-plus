@@ -1,0 +1,208 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wds\n"
+"POT-Creation-Date: 2014-09-26 18:06+0400\n"
+"PO-Revision-Date: 2014-09-26 18:06+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: be_BY\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress3.5\\wp-content\\plugins"
+"\\slider-plugin\n"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:30
+#, fuzzy
+msgid "There is no slider selected or the slider was deleted."
+msgstr "Там няма галерэя абраны або галерэі быў выдалены "
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:42
+#, fuzzy
+msgid "There are no slides in this slider."
+msgstr "Там няма малюнкаў у гэтай галерэі "
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:660
+msgid "Share on Facebook"
+msgstr "Адправіць на Facebook "
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:666
+msgid "Share on Twitter"
+msgstr "Адправіць на Twitter "
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:672
+msgid "Share on Google+"
+msgstr "Адправіць у Google+ "
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:678
+msgid "Share on Pinterest"
+msgstr "Выкласці на Pinterest"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:684
+msgid "Share on Tumblr"
+msgstr "Выкласці на Tumblr"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1875
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1894
+msgid "Pause"
+msgstr "Паўза "
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\slider-plugin/frontend/views/WDSViewSlider.php:1884
+msgid "Play"
+msgstr "Гуляць"
+
+#~ msgid "field is required."
+#~ msgstr "поле з'яўляецца абавязковым. "
+
+#~ msgid "This is not a valid email address."
+#~ msgstr "Гэта не правільны адрас электроннай пошты."
+
+#~ msgid "There are no images matching your search."
+#~ msgstr "Там няма малюнкаў Вашаму пошуку."
+
+#~ msgid " item(s)"
+#~ msgstr "элемент(ы)"
+
+#~ msgid "First"
+#~ msgstr "Першая"
+
+#~ msgid "Previous"
+#~ msgstr "Папярэдні"
+
+#~ msgid "Next"
+#~ msgstr "Наступная"
+
+#~ msgid "Last"
+#~ msgstr "Апошні"
+
+#~ msgid "Go to the first page"
+#~ msgstr "Да першай старонцы "
+
+#~ msgid "Go to the previous page"
+#~ msgstr "Перайсці на папярэднюю старонку"
+
+#~ msgid "of"
+#~ msgstr "з "
+
+#~ msgid "Go to the next page"
+#~ msgstr "Перайсці да наступнай старонцы "
+
+#~ msgid "Go to the last page"
+#~ msgstr "Перайсці да апошняй старонцы "
+
+#~ msgid "Reset"
+#~ msgstr "Скід"
+
+#~ msgid "Search"
+#~ msgstr "Пошук"
+
+#~ msgid "There is no theme selected or the theme was deleted."
+#~ msgstr "Там няма тэмы абраны або тэма была выдаленая"
+
+#~ msgid "There is no album selected or the album was deleted."
+#~ msgstr "Там няма абранага альбома ці альбом быў выдалены "
+
+#~ msgid "Back"
+#~ msgstr "Вярнуцца "
+
+#~ msgid "Album is empty."
+#~ msgstr "Альбом пусты "
+
+#~ msgid "Gallery is empty."
+#~ msgstr "Галерэя пусты "
+
+#~ msgid "More"
+#~ msgstr "Больш"
+
+#~ msgid "Hide"
+#~ msgstr "Схаваць"
+
+#~ msgid "Show comments"
+#~ msgstr "Паказаць каментары "
+
+#~ msgid "The image has been deleted."
+#~ msgstr "Вобраз быў выдалены"
+
+#~ msgid "Maximize"
+#~ msgstr "Максімізацыя "
+
+#~ msgid "Fullscreen"
+#~ msgstr "Поўнаэкранны "
+
+#~ msgid "Show info"
+#~ msgstr "Паказаць інфармацыю"
+
+#~ msgid "Show rating"
+#~ msgstr "Паказаць рэйтынг"
+
+#~ msgid "Open image in original size."
+#~ msgstr "Адкрыць малюнак у арыгінальным памеры."
+
+#~ msgid "Download original image"
+#~ msgstr "Спампаваць арыгінальнае малюнак"
+
+#~ msgid "Hits: "
+#~ msgstr "праглядаў:"
+
+#~ msgid "Rated."
+#~ msgstr "Намінальная."
+
+#~ msgid "Not rated yet."
+#~ msgstr "Пакуль не ацэнена"
+
+#~ msgid "Votes: "
+#~ msgstr "галасоў: "
+
+#~ msgid "Cancel your rating."
+#~ msgstr "Адмяніць свой ​​рэйтынг"
+
+#~ msgid "You have already rated."
+#~ msgstr "Вы ўжо ацанілі"
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "Памылка. Няправільны код верыфікацыі. "
+
+#~ msgid "Hide Comments"
+#~ msgstr "Схаваць Каментарыі "
+
+#~ msgid "Name"
+#~ msgstr " Імя "
+
+#~ msgid "Email"
+#~ msgstr "E-mail "
+
+#~ msgid "Comment"
+#~ msgstr "Каментар"
+
+#~ msgid "Verification Code"
+#~ msgstr "код пацверджання"
+
+#~ msgid "Submit"
+#~ msgstr "Уявіце "
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "Ваш каментар чакае мадэрацыі "
+
+#~ msgid "Delete Comment"
+#~ msgstr "Выдаліць каментар"
+
+#~ msgid "Show Comments"
+#~ msgstr "Паказаць каментары"
+
+#, fuzzy
+#~ msgid "Hide info"
+#~ msgstr "Схаваць"
+
+#~ msgid "Hide rating"
+#~ msgstr "Схаваць рэйтынг"
+
+#~ msgid "Restore"
+#~ msgstr "Аднаўленне "
+
+#~ msgid "Exit Fullscreen"
+#~ msgstr "Выйдзіце на ўвесь экран "

@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Facebook Chat Plugin - Live Chat Plugin for WordPress\n"
+"POT-Creation-Date: 2020-11-13 16:39-0800\n"
+"PO-Revision-Date: 2022-06-29 17:00-0700\n"
+"Last-Translator: \n"
+"Language-Team: Facebook\n"
+"Language: tf_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: facebook-messenger-customer-chat.php:106 facebook-messenger-customer-chat.php:136
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: facebook-messenger-customer-chat.php:142
+msgid "https://wordpress.org/plugins/facebook-messenger-customer-chat/#faq"
+msgstr ""
+
+#: facebook-messenger-customer-chat.php:143
+msgid "FAQ"
+msgstr "SSS"
+
+#: facebook-messenger-customer-chat.php:148
+msgid "Support"
+msgstr "Destek"
+
+#: facebook-messenger-customer-chat.php:268
+msgid "Cancel"
+msgstr "İptal Et"
+
+#: facebook-messenger-customer-chat.php:283
+msgid "We value your feedback."
+msgstr "Görüşleriniz bizim için değerlidir."
+
+#: facebook-messenger-customer-chat.php:287
+msgid "Please let us know why you’re deactivating Facebook Chat Plugin."
+msgstr "Facebook Sohbet Eklentisini neden devre dışı bıraktığınızı lütfen bize bildirin."
+
+#: facebook-messenger-customer-chat.php:295
+msgid "I’m unable to get the plugin to work"
+msgstr "Eklentiyi çalıştıramıyorum"
+
+#: facebook-messenger-customer-chat.php:302
+msgid "I no longer need a live chat feature"
+msgstr "Artık canlı sohbet özelliğine ihtiyaç duymuyorum"
+
+#: facebook-messenger-customer-chat.php:309
+msgid "I’m using a different live chat plugin"
+msgstr "Farklı bir canlı sohbet eklentisi kullanıyorum"
+
+#: facebook-messenger-customer-chat.php:316
+msgid "This is a temporary deactivation. I’ll be back!"
+msgstr "Geçici olarak devre dışı bırakıyorum. Geri döneceğim!"
+
+#: facebook-messenger-customer-chat.php:323
+msgid "Other"
+msgstr "Diğer"
+
+#: facebook-messenger-customer-chat.php:330
+msgid "Comments:"
+msgstr "Yorumlar:"
+
+#: facebook-messenger-customer-chat.php:338
+msgid "Submit"
+msgstr "Gönder"
+
+#: facebook-messenger-customer-chat.php:346
+msgid "Thank you."
+msgstr "Teşekkürler."
+
+#: facebook-messenger-customer-chat.php:347
+msgid "We appreciate your feedback."
+msgstr "Görüşleriniz için teşekkür ederiz."
+
+#: facebook-messenger-customer-chat.php:372
+#, php-format
+msgid "Facebook Chat Plugin is almost ready to use. Connect your Facebook page %1$shere%2$s to start receiving messages today."
+msgstr "Facebook Sohbet Eklentisi neredeyse kullanıma hazır. Hemen mesaj almaya başlamak için Facebook Sayfanızı %1$sn%2$s bağlayın."
+
+#: facebook-messenger-customer-chat.php:424
+msgid "How is the Facebook Chat plugin working out for you and your visitors?"
+msgstr "Siz ve ziyaretçileriniz Facebook Sohbet eklentisinden nasıl yararlanıyorsunuz?"
+
+#: facebook-messenger-customer-chat.php:426
+msgid "We'd love to hear your feedback!"
+msgstr "Görüşlerinizi öğrenmek istiyoruz!"
+
+#: facebook-messenger-customer-chat.php:428
+msgid "Please leave us a review."
+msgstr "Lütfen görüşlerinizi bildirin"
+
+#: options.php:51
+msgid "Plugin settings"
+msgstr "Eklenti ayarları"
+
+#: options.php:52
+msgid "Facebook Chat"
+msgstr "Facebook Sohbet"
+
+#: options.php:196
+msgid "Facebook Chat Plugin Settings"
+msgstr "Facebook Sohbet Eklentisi Ayarları"
+
+#: options.php:203
+msgid "Getting Started?"
+msgstr "Kullanmaya Yeni Mi Başlıyorsunuz?"
+
+#: options.php:209
+msgid ""
+"Let people start a conversation on\n"
+"\t\t\t\t\t\t\tyour website and continue in Messenger. It's easy to set up. Chats\n"
+"\t\t\t\t\t\t\tstarted on your website can be continued in the customers'\n"
+"\t\t\t\t\t\t\tMessenger app, so you never lose connections with your customers.\n"
+"\t\t\t\t\t\t\tEven those without a Facebook Messenger account can chat with you\n"
+"\t\t\t\t\t\t\tin guest mode, so you can reach more customers than ever."
+msgstr "İnsanların internet sitenizde bir konuşma başlatmasına ve bu konuşmayı Messenger'da sürdürmesine imkan sunun. Kurulumu kolaydır. İnternet sitenizde başlatılan sohbetlere müşterilerin Messenger uygulamasında devam edebilirsiniz. Böylece müşterilerinizle bağlantınızı asla kaybetmezsiniz. Facebook Messenger hesabı olmayan kişiler bile, sizinle konuk modunda sohbet edebilir"
+
+#: options.php:225
+msgid "Setup Chat Plugin"
+msgstr "Sohbet Eklentisini Kur"
+
+#: options.php:227
+msgid "Edit Chat Plugin Configuration"
+msgstr "Sohbet Eklentisi Yapılandırmasını Düzenle"
+
+#: options.php:243
+msgid "Edit Availability and Automated Responses"
+msgstr ""
+
+#: options.php:254
+msgid "Setup status"
+msgstr "Kurulum durumu"
+
+#: options.php:260
+msgid ""
+"The plugin code has already been added.\n"
+"\t\t\t\t\t\tinto your website. You can always go back through the setup process\n"
+"\t\t\t\t\t\tto customize the plugin."
+msgstr "Eklenti kodu zaten internet sitenize eklenmiş. İstediğiniz zaman kurulum sürecine dönerek eklentiyi özelleştirebilirsiniz."
+
+#: options.php:269
+msgid "Advanced Configuration"
+msgstr "Gelişmiş Yapılandırma"
+
+#: options.php:277
+msgid "Deploy Chat plugin on:"
+msgstr "Sohbet eklentisini şurada kullanıma al:"
+
+#: options.php:285
+msgid "All WordPress pages"
+msgstr "Tüm WordPress sayfaları"
+
+#: options.php:291
+msgid "Custom WordPress pages"
+msgstr "Özel WordPress sayfaları"
+
+#: options.php:310
+msgid "Homepage"
+msgstr "Ana sayfa"
+
+#: options.php:316 options.php:328
+msgid "Posts"
+msgstr "Gönderiler"
+
+#: options.php:326 options.php:389
+msgid "Click for granular options"
+msgstr "Detaylı seçenekler için tıklayın"
+
+#: options.php:341
+msgid "Single post view"
+msgstr "Tek gönderi görünümü"
+
+#: options.php:353
+msgid "Category view"
+msgstr "Kategori görünümü"
+
+#: options.php:365
+msgid "Tags view"
+msgstr "Etiket görünümü"
+
+#: options.php:373 options.php:393
+msgid "Pages"
+msgstr "Sayfalar"
+
+#: options.php:438
+msgid "WooCommerce Product pages"
+msgstr "WooCommerce Ürün sayfaları"
+
+#: options.php:447
+msgid "Error saving settings."
+msgstr "Ayarlar kaydedilirken hata."
+
+#: options.php:451
+msgid "Settings saved."
+msgstr "Ayarlar kaydedildi."
+
+#: options.php:455
+msgid "Saving settings..."
+msgstr "Ayarlar kaydediliyor..."
+
+#: options.php:469
+msgid "https://developers.facebook.com/terms/"
+msgstr ""
+
+#: options.php:470
+msgid "Use of this plugin is subject to Facebook's Platform Terms"
+msgstr "Bu eklentinin kullanımı Facebook'un Platform Koşulları'na tabidir"
+
+#: options.php:475
+msgid "Having a problem setting up or using the Chat Plugin?"
+msgstr "Sohbet Eklentisini kurma veya kullanma konusunda sorun mu yaşıyorsunuz?"
+
+#: options.php:481
+msgid "Please consult our Troubleshooting Guide."
+msgstr "Lütfen Sorun Giderme Kılavuzumuza başvurun."
+
+#: options.php:487
+msgid "If the troubleshooting steps in the guide do not solve your problem, please post in the plugin support forum."
+msgstr "Kılavuzdaki bu sorun giderme adımları sorununuzu çözmüyorsa, lütfen eklenti destek forumunda paylaşım yapın."
